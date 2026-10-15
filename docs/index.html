@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Spatial GM — Adventures & Campaigns</title>
+  <style>
+    :root {
+      --bg: #0d0f12;
+      --card-bg: #161a20;
+      --text: #e6edf3;
+      --text-muted: #8b949e;
+      --accent: #3373f2;
+      --border: #30363d;
+    }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, sans-serif;
+      background-color: var(--bg);
+      color: var(--text);
+      margin: 0;
+      padding: 0;
+      line-height: 1.5;
+    }
+    header {
+      padding: 48px 24px 32px;
+      text-align: center;
+      border-bottom: 1px solid var(--border);
+      background: radial-gradient(circle at 50% 0%, #1c2638, transparent 70%);
+    }
+    h1 {
+      font-size: 32px;
+      font-weight: 700;
+      margin: 0 0 12px;
+      letter-spacing: -0.5px;
+    }
+    p.lead {
+      font-size: 16px;
+      color: var(--text-muted);
+      max-width: 600px;
+      margin: 0 auto;
+    }
+    .manifest-badge {
+      display: inline-block;
+      margin-top: 16px;
+      padding: 6px 14px;
+      background: rgba(51, 115, 242, 0.15);
+      border: 1px solid rgba(51, 115, 242, 0.4);
+      color: #58a6ff;
+      border-radius: 20px;
+      font-size: 13px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .manifest-badge:hover {
+      background: rgba(51, 115, 242, 0.25);
+    }
+    main {
+      max-width: 1080px;
+      margin: 40px auto;
+      padding: 0 24px;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 24px;
+    }
+    .card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      transition: transform 0.15s ease, border-color 0.15s ease;
+    }
+    .card:hover {
+      transform: translateY(-2px);
+      border-color: #58a6ff;
+    }
+    .card-cover {
+      width: 100%;
+      height: 160px;
+      background: #1f242c;
+      object-fit: cover;
+    }
+    .cover-placeholder {
+      width: 100%;
+      height: 160px;
+      background: linear-gradient(135deg, #1f293d, #141822);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--text-muted);
+      font-size: 40px;
+    }
+    .card-body {
+      padding: 18px;
+      display: flex;
+      flex-direction: column;
+      flex-grow: 1;
+    }
+    .card-title {
+      font-size: 18px;
+      font-weight: 600;
+      margin: 0 0 6px;
+    }
+    .card-meta {
+      font-size: 12px;
+      color: var(--text-muted);
+      margin-bottom: 12px;
+      display: flex;
+      gap: 8px;
+      align-items: center;
+    }
+    .pill {
+      background: #21262d;
+      padding: 2px 8px;
+      border-radius: 6px;
+    }
+    .card-desc {
+      font-size: 13px;
+      color: var(--text-muted);
+      margin-bottom: 18px;
+      flex-grow: 1;
+    }
+    .btn {
+      display: inline-block;
+      text-align: center;
+      padding: 8px 14px;
+      background: var(--accent);
+      color: #fff;
+      border-radius: 8px;
+      text-decoration: none;
+      font-size: 13px;
+      font-weight: 500;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: #285ec4;
+    }
+    footer {
+      text-align: center;
+      padding: 40px 24px;
+      font-size: 13px;
+      color: var(--text-muted);
+      border-top: 1px solid var(--border);
+      margin-top: 60px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Spatial GM Adventures & Campaigns</h1>
+    <p class="lead">Official and community campaign packages for Spatial GM on Apple Vision Pro and Mac.</p>
+    <a class="manifest-badge" href="manifest.json">View manifest.json</a>
+  </header>
+  <main>
+    <div class="grid">
+      <div class="card">
+        <img class="card-cover" src="https://dylanbeadle.github.io/adventures/covers/Demo-cover.png" alt="Demo Campaign">
+        <div class="card-body">
+          <div class="card-title">Demo Campaign</div>
+          <div class="card-meta">
+            <span class="pill">v1.0.0</span>
+            <span class="pill">8.4 MB</span>
+          </div>
+          <div class="card-desc">A goblin warren ambush and the haunted ruins of Vell's Strongbox.</div>
+          <a class="btn" href="https://github.com/dylanbeadle/adventures/releases/download/v1.0.1/Demo.spatialgm.aar">Download Package</a>
+        </div>
+      </div>
+      <div class="card">
+        <div class="cover-placeholder">🎲</div>
+        <div class="card-body">
+          <div class="card-title">Empty Campaign</div>
+          <div class="card-meta">
+            <span class="pill">v1.0.0</span>
+            <span class="pill">2 KB</span>
+          </div>
+          <div class="card-desc">A clean, empty campaign with no encounters, monsters or scenery, ready to build from scratch.</div>
+          <a class="btn" href="https://github.com/dylanbeadle/adventures/releases/download/v1.0.1/Empty.spatialgm.aar">Download Package</a>
+        </div>
+      </div>
+      <div class="card">
+        <div class="cover-placeholder">🎲</div>
+        <div class="card-body">
+          <div class="card-title">My Library</div>
+          <div class="card-meta">
+            <span class="pill">v1.0.0</span>
+            <span class="pill">2 KB</span>
+          </div>
+          <div class="card-desc">Creatures and scenery to use in any campaign: My Library is on every campaign's Bookshelf.</div>
+          <a class="btn" href="https://github.com/dylanbeadle/adventures/releases/download/v1.0.1/My Library.spatialgm.aar">Download Package</a>
+        </div>
+      </div>
+      <div class="card">
+        <div class="cover-placeholder">🎲</div>
+        <div class="card-body">
+          <div class="card-title">Starter Campaign</div>
+          <div class="card-meta">
+            <span class="pill">v1.0.0</span>
+            <span class="pill">7.1 MB</span>
+          </div>
+          <div class="card-desc">A blank campaign with heroes, monsters, props, soundscapes and four rule sets, ready for your first encounter. Start with encounters/01-first-encounter.md.</div>
+          <a class="btn" href="https://github.com/dylanbeadle/adventures/releases/download/v1.0.1/Starter.spatialgm.aar">Download Package</a>
+        </div>
+      </div>
+    </div>
+  </main>
+  <footer>
+    <p>Published with GitHub Pages &bull; Formatted for Spatial GM</p>
+  </footer>
+</body>
+</html>
