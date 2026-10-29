@@ -1,12 +1,12 @@
-name: Package Campaigns & Publish Release
+name: Build Catalogue & Publish Release
 
 on:
   push:
     branches: [ main ]
     paths:
       - 'adventures/**'
-      - 'library/**'
       - 'kits/**'
+      - 'catalogue/**'
       - 'heroes/**'
       - 'scripts/**'
       - '.github/workflows/**'
@@ -45,7 +45,8 @@ jobs:
       - name: Pull LFS objects
         run: git lfs pull
 
-      - name: Build campaign archives and documentation
+      # Packs, content-named archives (only new ones are built) and the catalogue for Pages (D147).
+      - name: Build catalogue
         run: |
           python3 scripts/build-distribution.py
         env:
@@ -66,14 +67,13 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           tag_name: v1.0.${{ github.run_number }}
-          name: "Spatial GM Campaigns v1.0.${{ github.run_number }}"
+          name: "Spatial GM Catalogue v1.0.${{ github.run_number }}"
           body: |
-            Automated campaign package release for Spatial GM.
-            
-            Downloadable `.spatialgm.aar` packages compiled with Apple Archive (LZFSE).
-          # Only the archives that changed (unchanged ones stay in the release they were first published in).
+            Archives new in this catalogue (LZFSE Apple Archives of files named by their SHA-256).
+            The app reads https://dylanbeadle.github.io/adventures/manifest.json and downloads only
+            the archives holding files it doesn't have; archives from earlier releases keep their URLs.
           files: |
-            dist/*.aar
+            dist/release/*.aar
             docs/manifest.json
           fail_on_unmatched_files: false
         env:

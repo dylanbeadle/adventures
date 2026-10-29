@@ -1,0 +1,122 @@
+#usda 1.0
+(
+    defaultPrim = "Looks"
+    metersPerUnit = 1.524
+    upAxis = "Z"
+)
+
+def Xform "Looks"
+{
+    def Material "Timber"
+    {
+        token outputs:surface.connect = </Looks/Timber/Surface.outputs:surface>
+
+        def Shader "Surface"
+        {
+            uniform token info:id = "UsdPreviewSurface"
+            color3f inputs:diffuseColor = (0.25, 0.105, 0.037)
+            float inputs:metallic = 0
+            float inputs:roughness = 0.76
+            token outputs:surface
+        }
+    }
+
+    def Material "Board"
+    {
+        token outputs:surface.connect = </Looks/Board/Surface.outputs:surface>
+
+        def Shader "Surface"
+        {
+            uniform token info:id = "UsdPreviewSurface"
+            color3f inputs:diffuseColor = (0.43, 0.23, 0.085)
+            float inputs:metallic = 0
+            float inputs:roughness = 0.78
+            token outputs:surface
+        }
+    }
+
+    def Material "Clay"
+    {
+        token outputs:surface.connect = </Looks/Clay/Surface.outputs:surface>
+
+        def Shader "Surface"
+        {
+            uniform token info:id = "UsdPreviewSurface"
+            color3f inputs:diffuseColor = (0.48, 0.115, 0.047)
+            float inputs:metallic = 0
+            float inputs:roughness = 0.75
+            token outputs:surface
+        }
+    }
+
+    def Material "ClayLight"
+    {
+        token outputs:surface.connect = </Looks/ClayLight/Surface.outputs:surface>
+
+        def Shader "Surface"
+        {
+            uniform token info:id = "UsdPreviewSurface"
+            color3f inputs:diffuseColor = (0.61, 0.19, 0.08)
+            float inputs:metallic = 0
+            float inputs:roughness = 0.72
+            token outputs:surface
+        }
+    }
+
+    def Material "ClayDark"
+    {
+        token outputs:surface.connect = </Looks/ClayDark/Surface.outputs:surface>
+
+        def Shader "Surface"
+        {
+            uniform token info:id = "UsdPreviewSurface"
+            color3f inputs:diffuseColor = (0.35, 0.07, 0.026)
+            float inputs:metallic = 0
+            float inputs:roughness = 0.82
+            token outputs:surface
+        }
+    }
+
+    def Material "Iron"
+    {
+        token outputs:surface.connect = </Looks/Iron/Surface.outputs:surface>
+
+        def Shader "Surface"
+        {
+            uniform token info:id = "UsdPreviewSurface"
+            color3f inputs:diffuseColor = (0.055, 0.065, 0.07)
+            float inputs:metallic = 0.75
+            float inputs:roughness = 0.4
+            token outputs:surface
+        }
+    }
+
+    def Material "Plaster"
+    {
+        token outputs:surface.connect = </Looks/Plaster/Surface.outputs:surface>
+
+        def Shader "Surface"
+        {
+            uniform token info:id = "UsdPreviewSurface"
+            color3f inputs:diffuseColor = (0.69, 0.6, 0.43)
+            float inputs:metallic = 0
+            float inputs:roughness = 0.92
+            token outputs:surface
+        }
+    }
+
+    def Material "Floor"
+    {
+        token outputs:surface.connect = </Looks/Floor/Surface.outputs:surface>
+
+        def Shader "Surface"
+        {
+            uniform token info:id = "UsdPreviewSurface"
+            color3f inputs:diffuseColor = (0.28, 0.29, 0.25)
+            float inputs:metallic = 0
+            float inputs:roughness = 0.9
+            token outputs:surface
+        }
+    }
+}
+
