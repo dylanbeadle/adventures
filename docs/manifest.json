@@ -5,46 +5,39 @@
       "id": "5a1e7ab1-0000-4000-8000-000000000001",
       "name": "Demo Campaign",
       "version": "2.4.0",
-      "url": "https://github.com/dylanbeadle/adventures/releases/download/v1.0.4/Demo.spatialgm.aar",
-      "sha256": "57d3ce9525c706f8523f45396915cdd6f3646995c0559a16fc4158f3c90a6ab5",
-      "byteSize": 8793519,
+      "url": "https://github.com/dylanbeadle/adventures/releases/download/v1.0.5/Demo.spatialgm.aar",
+      "sha256": "88c96a10615284b18b21df648a863d83b9ac9ea433b1d1140fa74563a9973fb6",
+      "byteSize": 8793480,
       "isTemplate": true,
       "opensFirst": true,
       "summary": "A goblin warren ambush and the haunted ruins of Vell's Strongbox.",
+      "sourceHash": "bfb51e3421a6d016201f0c052005d251c3485bfbaaea51574d1656d273ee7a20",
       "coverURL": "https://dylanbeadle.github.io/adventures/covers/demo-cover.png"
-    },
-    {
-      "id": "5a1e7ab1-0000-4000-8000-000000000000",
-      "name": "Empty Campaign",
-      "version": "2.4.0",
-      "url": "https://github.com/dylanbeadle/adventures/releases/download/v1.0.4/Empty.spatialgm.aar",
-      "sha256": "f9fe84595fcb6dec4ef50a834160c078aa26dfc7f2296ca5052731703c0a510f",
-      "byteSize": 2452,
-      "isTemplate": true,
-      "opensFirst": false,
-      "summary": "A clean, empty campaign with no encounters, monsters or scenery, ready to build from scratch."
-    },
-    {
-      "id": "",
-      "name": "My Library",
-      "version": "2.4.0",
-      "url": "https://github.com/dylanbeadle/adventures/releases/download/v1.0.4/MyLibrary.spatialgm.aar",
-      "sha256": "077e3e0ef18984094653fc1c5a9573307b7d7f43a68f89d8698bad952dfb0e84",
-      "byteSize": 2584,
-      "isTemplate": true,
-      "opensFirst": false,
-      "summary": "Creatures and scenery to use in any campaign: My Library is on every campaign's Bookshelf."
     },
     {
       "id": "5a1e7ab1-0000-4000-8000-000000000002",
       "name": "Starter Campaign",
       "version": "2.4.0",
-      "url": "https://github.com/dylanbeadle/adventures/releases/download/v1.0.4/Starter.spatialgm.aar",
-      "sha256": "3242a3f204dfbe9b1f19ccae8ebb6bf803c3704122eb782d6eac99d05f397439",
-      "byteSize": 7490011,
+      "url": "https://github.com/dylanbeadle/adventures/releases/download/v1.0.5/Starter.spatialgm.aar",
+      "sha256": "8e6534f2c32a6fd816bd67ca4fd71fa6f6efba6ae230cc83465faee1a0236a6d",
+      "byteSize": 7490026,
       "isTemplate": true,
       "opensFirst": false,
-      "summary": "A blank campaign with heroes, monsters, props, soundscapes and four rule sets, ready for your first encounter. Start with encounters/01-first-encounter.md."
+      "summary": "A blank campaign with heroes, monsters, props, soundscapes and four rule sets, ready for your first encounter. Start with encounters/01-first-encounter.md.",
+      "sourceHash": "3d905152886af65ceae99e2370bfa4bf2f64c9d4462f08f46e13916e33de55e6"
+    },
+    {
+      "id": "",
+      "name": "My Library",
+      "version": "2.4.0",
+      "url": "https://github.com/dylanbeadle/adventures/releases/download/v1.0.5/MyLibrary.spatialgm.aar",
+      "sha256": "61b7510917add7889993c6664ba868cfb2bff3580ebb0835960b8233d146bc46",
+      "byteSize": 2580,
+      "isTemplate": true,
+      "opensFirst": false,
+      "summary": "Creatures and scenery to use in any campaign: My Library is on every campaign's Bookshelf.",
+      "sourceHash": "e820c07f4e3f31d76b08a5655e307e62928c854867e9ef79319ba100906d37b2"
     }
-  ]
+  ],
+  "heroes": []
 }
