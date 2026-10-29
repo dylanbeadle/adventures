@@ -5,6 +5,7 @@ import json
 import hashlib
 import subprocess
 import shutil
+import tempfile
 from pathlib import Path
 
 def parse_frontmatter(file_path):
@@ -51,9 +52,27 @@ def sha256_of_file(path):
             hasher.update(chunk)
     return hasher.hexdigest()
 
+IGNORED = (".DS_Store", ".cache", "*.icloud")
+
+
+def source_hash(folder):
+    """One hash for a folder's files (names and contents, without Finder and app caches): an unchanged
+    folder keeps its last archive and URL, so a release only archives and uploads what changed."""
+    hasher = hashlib.sha256()
+    for path in sorted(p for p in folder.rglob("*") if p.is_file()):
+        rel = path.relative_to(folder)
+        if any(part in (".DS_Store", ".cache") or part.endswith(".icloud") for part in rel.parts):
+            continue
+        hasher.update(str(rel).encode())
+        hasher.update(sha256_of_file(path).encode())
+    return hasher.hexdigest()
+
+
 def main():
     root = Path(__file__).resolve().parent.parent
-    campaigns_dir = root / "campaigns"
+    # Where each kind of content lives: campaigns (adventures, the library, kits) and players' heroes.
+    sources = [("adventures", ".spatialgm", "campaigns"), ("library", ".spatialgm", "campaigns"),
+               ("kits", ".spatialgm", "campaigns"), ("heroes", ".spatialhero", "heroes")]
     dist_dir = root / "dist"
     docs_dir = root / "docs"
     covers_dir = docs_dir / "covers"
@@ -69,13 +88,24 @@ def main():
     version_file = root / "VERSION"
     release_version = version_file.read_text().strip() if version_file.exists() else "1.0.0"
 
-    manifest_campaigns = []
-    
-    campaign_dirs = sorted([d for d in campaigns_dir.glob("*.spatialgm") if d.is_dir()])
-    print(f"Found {len(campaign_dirs)} campaigns in {campaigns_dir}.")
-    
-    for c_dir in campaign_dirs:
-        campaign_md = c_dir / "campaign.md"
+    # The last published manifest: entries whose folders haven't changed are kept as they are.
+    previous = {}
+    if (docs_dir / "manifest.json").exists():
+        old = json.loads((docs_dir / "manifest.json").read_text())
+        for entry in old.get("campaigns", []) + old.get("heroes", []):
+            previous[entry.get("id") or entry.get("name")] = entry
+
+    lists = {"campaigns": [], "heroes": []}
+    manifest_campaigns = lists["campaigns"]
+
+    found = []
+    for folder, extension, kind in sources:
+        dirs = sorted(d for d in (root / folder).glob(f"*{extension}") if d.is_dir())
+        print(f"Found {len(dirs)} in {folder}/.")
+        found += [(d, kind) for d in dirs]
+
+    for c_dir, kind in found:
+        campaign_md = c_dir / ("hero.md" if kind == "heroes" else "campaign.md")
         meta, body_text = parse_frontmatter(campaign_md)
         
         name = meta.get("name", c_dir.stem)
@@ -85,12 +115,23 @@ def main():
         is_template = meta.get("template", "true").lower() == "true"
         opens_first = meta.get("opens-first", "false").lower() == "true"
         
+        folder_hash = source_hash(c_dir)
+        kept = previous.get(cid or name)
+        if kept and kept.get("sourceHash") == folder_hash and kept.get("url"):
+            lists[kind].append(kept)
+            print(f"  = {name}: unchanged, kept {kept['url'].rsplit('/', 1)[-1]} from its release")
+            continue
+
         # No spaces: GitHub renames "My Library…" to "My.Library…" on upload, which breaks the manifest's URL.
         aar_name = f"{c_dir.name.replace(' ', '')}.aar"
         aar_path = dist_dir / aar_name
         
         print(f"Archiving {c_dir.name} -> {aar_name}...")
-        subprocess.run(["/usr/bin/aa", "archive", "-d", str(c_dir), "-o", str(aar_path)], check=True)
+        # A copy without Finder and app caches (.DS_Store, .cache/), so the archive holds only the content.
+        with tempfile.TemporaryDirectory() as tmp:
+            staged = Path(tmp) / c_dir.name
+            shutil.copytree(c_dir, staged, ignore=shutil.ignore_patterns(*IGNORED))
+            subprocess.run(["/usr/bin/aa", "archive", "-d", str(staged), "-o", str(aar_path)], check=True)
         
         byte_size = aar_path.stat().st_size
         sha256 = sha256_of_file(aar_path)
@@ -100,7 +141,9 @@ def main():
         cover_rel = meta.get("cover")
         if cover_rel and (c_dir / cover_rel).exists():
             cover_src = c_dir / cover_rel
-            dest_cover = covers_dir / f"{c_dir.stem}-cover{cover_src.suffix}"
+            # Lowercase, no spaces: Pages URLs are case-sensitive, and the runner's disk isn't (a copy onto
+            # demo-cover.png kept its old name while the manifest said Demo-cover.png).
+            dest_cover = covers_dir / f"{c_dir.stem.replace(' ', '').lower()}-cover{cover_src.suffix.lower()}"
             shutil.copy2(cover_src, dest_cover)
             cover_url = f"https://dylanbeadle.github.io/adventures/covers/{dest_cover.name}"
         elif (covers_dir / "demo-cover.png").exists() and "demo" in c_dir.name.lower():
@@ -117,17 +160,19 @@ def main():
             "byteSize": byte_size,
             "isTemplate": is_template,
             "opensFirst": opens_first,
-            "summary": summary
+            "summary": summary,
+            "sourceHash": folder_hash
         }
         if cover_url:
             entry["coverURL"] = cover_url
             
-        manifest_campaigns.append(entry)
+        lists[kind].append(entry)
         print(f"  ✓ {name}: {byte_size} bytes, sha256={sha256[:12]}...")
 
     manifest = {
         "version": 1,
-        "campaigns": manifest_campaigns
+        "campaigns": manifest_campaigns,
+        "heroes": lists["heroes"]
     }
     
     manifest_path = docs_dir / "manifest.json"

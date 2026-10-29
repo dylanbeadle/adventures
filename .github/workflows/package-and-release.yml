@@ -4,7 +4,10 @@ on:
   push:
     branches: [ main ]
     paths:
-      - 'campaigns/**'
+      - 'adventures/**'
+      - 'library/**'
+      - 'kits/**'
+      - 'heroes/**'
       - 'scripts/**'
       - '.github/workflows/**'
   workflow_dispatch:
@@ -26,6 +29,21 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          lfs: false
+
+      # Binaries are in Git LFS: fetch them through a cache, so a run downloads only objects it hasn't seen.
+      - name: List LFS objects
+        run: git lfs ls-files --long | cut -d ' ' -f1 | sort > .lfs-objects
+
+      - name: Restore LFS cache
+        uses: actions/cache@v4
+        with:
+          path: .git/lfs
+          key: lfs-${{ hashFiles('.lfs-objects') }}
+          restore-keys: lfs-
+
+      - name: Pull LFS objects
+        run: git lfs pull
 
       - name: Build campaign archives and documentation
         run: |
@@ -53,8 +71,10 @@ jobs:
             Automated campaign package release for Spatial GM.
             
             Downloadable `.spatialgm.aar` packages compiled with Apple Archive (LZFSE).
+          # Only the archives that changed (unchanged ones stay in the release they were first published in).
           files: |
             dist/*.aar
             docs/manifest.json
+          fail_on_unmatched_files: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
