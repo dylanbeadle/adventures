@@ -1,5 +1,5 @@
 ---
-title: A Letter from Merchant Vell
+name: A Letter from Merchant Vell
 style: letter              # letter, picture or note
 ---
 Friends —

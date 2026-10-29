@@ -1,6 +1,6 @@
 ---
 name: Door
-symbol: door.left.hand.open
+icon: door.left.hand.open
 sounds: [media/sounds/door-creak-1.m4a]
 pitch: 1.5          # it may sound up to this many semitones higher or lower
 gain: 2           # and this many decibels louder or softer

@@ -7,7 +7,7 @@ lines; your notes and read-aloud text go below them.
 - `campaign.md` — the campaign's name, colours, rule set and first encounter.
 - `creatures/`, `scenery/` — one file per hero, monster or prop.
 - `encounters/` — boards, rooms, who stands where, and the text you read aloud.
-- `systems/`, `soundscapes/`, `handouts/`, `cutscenes/` — rule sets, sounds, handouts and scenes.
+- `rule-sets/`, `soundscapes/`, `handouts/`, `cutscenes/` — rule sets, sounds, handouts and scenes.
 
 The complete guide is in Spatial GM's Help: **Writing campaign files** (Help › Spatial GM Help).
 If you make a mistake, the campaign still opens and its **Problems** list says which file and

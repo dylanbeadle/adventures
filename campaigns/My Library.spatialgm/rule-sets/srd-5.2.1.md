@@ -1,6 +1,7 @@
 ---
 name: SRD 5.2.1
 health: HP
+experience: XP              # what experience is called (the GM's XP control shows with it)
 conditions:
   - Prone: arrow.down.to.line
   - Poisoned: drop.fill

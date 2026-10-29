@@ -1,6 +1,7 @@
 ---
 name: Sci-fi
 health: Integrity
+experience: XP              # what experience is called (the GM's XP control shows with it)
 conditions:
   - Down: arrow.down.to.line
   - Burning: flame.fill

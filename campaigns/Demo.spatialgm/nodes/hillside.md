@@ -4,11 +4,11 @@ encounter: goblin-warren   # set this encounter up on entering, if it isn't alre
 room: Entrance             # and reveal this room
 choices:
   - walk straight in: { adjust: alarm, by: 1, goto: guard-post }
-checks:                    # rolled by the player (or the engine): rows say where each result leads
+tasks:                     # rolled by the player (or the engine): rows say where each result leads
   - sneak up to the north door:
-      roll: test, stat: dex, target: 12
+      roll: test, attribute: dex, difficulty: 12
       rows:
-        target+: guard-post
+        difficulty+: guard-post
         else: { text: A loose stone clatters down the slope., adjust: alarm, by: 1, goto: guard-post }
 ---
 Rain drips through a crack in the hillside. Muddy boot prints, small and many, lead north to a

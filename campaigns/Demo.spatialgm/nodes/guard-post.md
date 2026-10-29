@@ -7,11 +7,11 @@ choices:
   - go west, to the barracks: barracks
   - go east, to the storeroom: storeroom
   - go north, to the big door: boss-door
-checks:
+tasks:
   - slip past the guard:
-      roll: test, stat: dex, target: 13
+      roll: test, attribute: dex, difficulty: 13
       rows:
-        target+: { text: The goblin snores on. }
+        difficulty+: { text: The goblin snores on. }
         else: { text: The goblin opens one eye., adjust: alarm, by: 1 }
 ---
 A guttering brazier lights an overturned table and a half-eaten rat on a stick. A goblin dozes

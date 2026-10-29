@@ -65,6 +65,10 @@ def main():
     tag = os.environ.get("RELEASE_TAG", f"v1.0.{run_num}")
     repo = os.environ.get("GITHUB_REPOSITORY", "dylanbeadle/adventures")
     
+    # The release's version for every campaign (the app shows it): VERSION at the repo root.
+    version_file = root / "VERSION"
+    release_version = version_file.read_text().strip() if version_file.exists() else "1.0.0"
+
     manifest_campaigns = []
     
     campaign_dirs = sorted([d for d in campaigns_dir.glob("*.spatialgm") if d.is_dir()])
@@ -77,11 +81,12 @@ def main():
         name = meta.get("name", c_dir.stem)
         cid = meta.get("id", "")
         summary = meta.get("summary") or body_text or f"{name} adventure."
-        version = meta.get("version", "1.0.0")
+        version = meta.get("version", release_version)
         is_template = meta.get("template", "true").lower() == "true"
         opens_first = meta.get("opens-first", "false").lower() == "true"
         
-        aar_name = f"{c_dir.name}.aar"
+        # No spaces: GitHub renames "My Library…" to "My.Library…" on upload, which breaks the manifest's URL.
+        aar_name = f"{c_dir.name.replace(' ', '')}.aar"
         aar_path = dist_dir / aar_name
         
         print(f"Archiving {c_dir.name} -> {aar_name}...")

@@ -1,11 +1,11 @@
 ---
 name: The barracks
 room: Barracks
-checks:
+tasks:
   - search the pallets:
-      roll: test, stat: wits, target: 10
+      roll: test, attribute: wits, difficulty: 10
       rows:
-        target+: { text: Under the warm pallet, a small iron key., add: { list: clues, entry: the chest key } }
+        difficulty+: { text: Under the warm pallet, a small iron key., add: { list: clues, entry: the chest key } }
         else: { text: Straw, bones and fleas. Something stirs in the dark., roll: wandering-goblins }
 choices:
   - back to the guard post: guard-post

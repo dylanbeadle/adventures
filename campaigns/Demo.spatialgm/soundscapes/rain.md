@@ -1,6 +1,6 @@
 ---
 name: Rain
-symbol: cloud.rain
+icon: cloud.rain
 voice: rain
 ---
 Steady rain on leaves and stone.

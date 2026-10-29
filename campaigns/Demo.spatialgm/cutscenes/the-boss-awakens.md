@@ -1,5 +1,5 @@
 ---
-title: The Boss Awakens
+name: The Boss Awakens
 mood: candlelight          # on Vision Pro: table, darkened, candlelight or storm
 beats:                     # cards shown one after another
   - style: title

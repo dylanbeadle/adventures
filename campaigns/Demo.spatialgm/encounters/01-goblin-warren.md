@@ -10,7 +10,7 @@ rooms:                     # area: two corner squares; doors: squares on the roo
   Storeroom: { area: V13-AD21, doors: [V17 closed] }
   Boss Lair: { area: G1-X12, doors: [Q12 closed] }
 cast:                      # creature at square, then options: hidden, reserve (off the board), as Name
-  - goblin at N17, hidden, stats {str: 1}   # this goblin is a little stronger than its file says
+  - goblin at N17, hidden, attributes {str: 1}   # this goblin is a little stronger than its file says
   - goblin-boss at Q5, hidden
   - goblin-archer, hidden, reserve
   - wolf, hidden, reserve

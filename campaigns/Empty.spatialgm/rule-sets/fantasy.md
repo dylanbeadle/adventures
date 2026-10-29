@@ -2,18 +2,19 @@
 # A rule set renames things at the table. It never changes how the table works.
 name: Fantasy (generic)
 health: HP                 # what health is called
-conditions:                # the order matters: up to 32, each "Name: symbol" (an SF Symbol)
+experience: XP              # what experience is called (the GM's XP control shows with it)
+conditions:                # the order matters: up to 32, each "Name: icon" (an SF Symbol)
   - Down: arrow.down.to.line
-  - Poisoned: { symbol: drop.fill, attacks: worse }
-  - Stunned: { symbol: sparkles, skips-turn: yes, attacked: better }
-  - Blessed: { symbol: sun.max.fill, checks: +1, attacks: +1 }
+  - Poisoned: { icon: drop.fill, attacks: worse }
+  - Stunned: { icon: sparkles, skips-turn: yes, attacked: better }
+  - Blessed: { icon: sun.max.fill, tasks: +1, attacks: +1 }
   - Concentrating: brain.head.profile
 movement: { speed: 40 }   # feet in a turn for a creature whose file says nothing (5 ft to a square)
-hero-facts: [Ancestry, Class, Level]   # what a hero's name plate says, in order
-resources:                 # what heroes spend (each "Name: symbol"); their maxima are in the hero's file
-  - Spell slots: sparkles
-  - Second wind: bolt.heart
-  - Daggers: arrow.up.right
+plate: [ancestry, class, level]   # the attributes a hero's name plate shows, in order
+trackers:                  # what heroes spend, by id (each "id: Name" or "id: { name, icon }"); their maxima are in the hero's file
+  spell_slots: { name: Spell slots, icon: sparkles }
+  second_wind: { name: Second wind, icon: bolt.heart }
+  daggers: { name: Daggers, icon: arrow.up.right }
 at-zero-health: Down       # the condition that means "out of the fight"
 rolls:                     # saved rolls in the dice bag: name: dice
   Advantage: 2d20
@@ -23,26 +24,29 @@ rolls:                     # saved rolls in the dice bag: name: dice
   Percentile: d100
 license: CC0-1.0            # free to use, change and share
 author: Spatial GM
-stats:                     # what creatures may set (stats: { str: 2 } in a creature file)
+attributes:                     # what creatures may set (attributes: { str: 2 } in a creature file)
   str: { name: Strength }
   dex: { name: Dexterity }
   wits: { name: Wits }
   armour: { name: Armour, default: 10 }
-checks:                    # rolls that add a creature's stats; the GM gives the target number
+  ancestry: Ancestry
+  class: Class
+  level: Level
+tasks:                     # rolls that add a creature's attributes; the GM gives the difficulty
   test:
-    roll: d20 + @stat      # @stat: the stat the GM names ("a Dexterity test")
-    vs: target
+    roll: d20 + @attribute # @attribute: the attribute the GM names ("a Dexterity test")
+    vs: difficulty
     rows:
       natural 20: A triumph — it works, and something more.
       natural 1: A disaster — it fails, and something goes wrong.
-      target+: Success.
+      difficulty+: Success.
       else: Failure.
   attack:
     roll: d20 + str
     vs: armour
     rows:
       natural 20: { text: Critical hit — double the damage dice., hit: double }
-      target+: { text: Hit., hit: yes }
+      difficulty+: { text: Hit., hit: yes }
       else: Miss.
   death-save:
     roll: d20

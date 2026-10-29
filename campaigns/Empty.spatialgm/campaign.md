@@ -1,8 +1,8 @@
 ---
-format: 1
+format: 2
 name: Empty Campaign
 id: 5a1e7ab1-0000-4000-8000-000000000000
-system: fantasy
+uses-rule-set: fantasy
 template: true
 colors:
   blue: "#3373F2"

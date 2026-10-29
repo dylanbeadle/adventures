@@ -1,6 +1,7 @@
 ---
 name: Horror
 health: Health
+experience: XP              # what experience is called (the GM's XP control shows with it)
 conditions:
   - Unconscious: arrow.down.to.line
   - Bleeding: drop.fill

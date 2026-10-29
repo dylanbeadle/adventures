@@ -1,6 +1,6 @@
 ---
 name: Shade
-symbol: smoke
+icon: smoke
 sounds: [media/sounds/shade-1.m4a, media/sounds/shade-2.m4a]
 pitch: 2          # it may sound up to this many semitones higher or lower
 gain: 2           # and this many decibels louder or softer

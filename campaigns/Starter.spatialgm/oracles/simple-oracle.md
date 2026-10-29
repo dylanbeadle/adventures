@@ -4,8 +4,8 @@
 name: Simple Oracle
 license: CC0-1.0           # free to use, change and share
 author: Spatial GM
-counters:
-  chaos: { name: Chaos, start: 5, min: 1, max: 9, shown: everyone }
+global-trackers:
+  chaos: { name: Chaos, start: 5, min-value: 1, max-value: 9, shown: everyone }
 lists:
   threads: { name: Threads, max: 25 }
   characters: { name: Characters, max: 25 }

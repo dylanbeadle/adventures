@@ -1,6 +1,6 @@
 ---
 name: Campfire
-symbol: flame
+icon: flame
 voice: fire
 ---
 A crackling fire.

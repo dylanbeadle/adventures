@@ -1,9 +1,9 @@
 ---
 # The campaign's settings. Every other file lives in a folder next to this one.
-format: 1
+format: 2
 name: Starter Campaign
 id: 5a1e7ab1-0000-4000-8000-000000000002   # written by the app; leave it alone
-system: fantasy            # which file in systems/ the table starts with
+uses-rule-set: fantasy            # which file in rule-sets/ the table starts with
 oracle: none               # or simple-oracle: answers what the adventure doesn't say (oracles/)
 first-encounter: first-encounter
 template: true             # offered under New from Template

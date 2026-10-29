@@ -1,6 +1,6 @@
 ---
 name: Night forest
-symbol: moon.stars
+icon: moon.stars
 voice: night
 ---
 Crickets and a soft breeze.

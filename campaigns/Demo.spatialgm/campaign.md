@@ -1,9 +1,9 @@
 ---
 # The campaign's settings. Every other file lives in a folder next to this one.
-format: 1
+format: 2
 name: Demo Campaign
 id: 5a1e7ab1-0000-4000-8000-000000000001   # written by the app; leave it alone
-system: fantasy            # which file in systems/ the table starts with
+uses-rule-set: fantasy            # which file in rule-sets/ the table starts with
 first-encounter: goblin-warren
 template: true             # offered under New from Template
 cover: cover.png
@@ -16,15 +16,15 @@ oracle: simple-oracle      # answers what the adventure doesn't say (oracles/); 
 first-node: the-letter     # the story starts here (nodes/)
 gm: person                 # who runs the table: person, assist (the AI suggests) or ai
 monsters: auto             # C3: auto, ai or gm (D136)
-counters:                  # numbers the story keeps (start, min, max); everyone sees them
-  alarm: { name: Alarm, start: 0, min: 0, max: 4 }
-  torches: { name: Torches, start: 6, min: 0, max: 6 }
-  strongbox: { name: Strongbox found, max: 1 }
+global-trackers:           # numbers the story keeps (start, min-value, max-value); everyone sees them
+  alarm: { name: Alarm, start: 0, min-value: 0, max-value: 4 }
+  torches: { name: Torches, start: 6, min-value: 0, max-value: 6 }
+  strongbox: { name: Strongbox found, max-value: 1 }
 lists:
   clues: { name: Clues }
 on:                        # when this happens: a ## section below to follow, or effects to run
   round-start: [{ adjust: torches, by: -1, every: 10 }]
-  counter-empty torches: Darkness
+  global-tracker-empty torches: Darkness
   party-down: [{ goto: captured }]
   foes-down: [{ if: "visited showdown", goto: victory }]
   creature-half Goblin Boss: [{ adjust: alarm, by: 2 }]

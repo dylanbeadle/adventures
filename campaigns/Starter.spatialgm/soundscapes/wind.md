@@ -1,6 +1,6 @@
 ---
 name: Wind
-symbol: wind
+icon: wind
 voice: wind
 ---
 Gusts over open ground.

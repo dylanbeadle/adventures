@@ -1,7 +1,7 @@
 ---
 # A keyed scene: it happens by itself when its event fires.
 name: The warren wakes
-when: counter-full alarm   # when the Alarm counter reaches its most
+when: global-tracker-full alarm   # when the Alarm counter reaches its most
 interrupt: yes             # at once, not "at the next good moment"
 enter:
   - { place: [2 goblin], near: party }
