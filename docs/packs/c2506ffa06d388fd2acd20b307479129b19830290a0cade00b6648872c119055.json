@@ -1,0 +1,1086 @@
+{
+ "id": "46547693-d55c-55de-838d-b7f563643093",
+ "folder": "Cavern Lava Tiles.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 913,
+   "sha256": "179cf07be3b1d72b3377348e4346a1da65bbc53f7d563acdc00cd2da9a9e703e"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 33855,
+   "sha256": "eb222c5a8a5759239d9d6293ad5d1d8e611fb1e55105f8778de7ac2916983d43"
+  },
+  {
+   "path": "media/materials/Library.usdc",
+   "size": 19724,
+   "sha256": "c24d21cc536ed131cf8633109bc9ffdf7e045cd0c2da1da90544a18c4fa9d5ba"
+  },
+  {
+   "path": "media/materials/textures/basalt.png",
+   "size": 25957,
+   "sha256": "e7295df0b2356c29812c23d4ee8cfcbbab04ee3eb5f20f52d281a6846c8f2e96"
+  },
+  {
+   "path": "media/materials/textures/basalt_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/blue.png",
+   "size": 29622,
+   "sha256": "bb2482f15178dd7ed1883b5558bae3c5db1e6f63dfb0a562b16da3cffcd80add"
+  },
+  {
+   "path": "media/materials/textures/blue_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bluefire.png",
+   "size": 40884,
+   "sha256": "95947aba8ef1863b10a5ceb035363c014f49bb066a629334e6b9fb0c0b2a2a57"
+  },
+  {
+   "path": "media/materials/textures/bluefire_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bone.png",
+   "size": 52095,
+   "sha256": "60127b0b9d500672ffa4413c2e0331968daf672f9edbbc58e031bd20a24410ce"
+  },
+  {
+   "path": "media/materials/textures/bone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/brass.png",
+   "size": 45700,
+   "sha256": "7653b7e6c813911303d183fd977ca9007540d1f30b8a647ce49a9b4b25479a7e"
+  },
+  {
+   "path": "media/materials/textures/brass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/fur.png",
+   "size": 32075,
+   "sha256": "e6ebdc6bf38121ac2caa3f246dbf760ceb5f618f67a707849f43ac55ee75e56d"
+  },
+  {
+   "path": "media/materials/textures/fur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ghost.png",
+   "size": 46813,
+   "sha256": "6b86f729a542c078e35015b96d3bdf6bb6fd252e59dc931fbd818c4ac61d0809"
+  },
+  {
+   "path": "media/materials/textures/ghost_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/goblinskin.png",
+   "size": 40654,
+   "sha256": "bc088b6cce6935a3e38a4e34d3f8e553b7269a409f04d5892d4bb7bcbb804e7a"
+  },
+  {
+   "path": "media/materials/textures/goblinskin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/grass.png",
+   "size": 37697,
+   "sha256": "f6440b6a238240b171a02d0a9abfa1db6e3b23470ea136796156c95dc85ecb1a"
+  },
+  {
+   "path": "media/materials/textures/grass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ice.png",
+   "size": 54673,
+   "sha256": "1776de4df5a1aa0fd4c24462a5bf2188a02dd0f291b002f76689f64c7401183f"
+  },
+  {
+   "path": "media/materials/textures/ice_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/iron.png",
+   "size": 33226,
+   "sha256": "b819ee206156042e76233baf2e2abdb7f0a4a0ae5bc64a26cfaaec7a6fae6a3b"
+  },
+  {
+   "path": "media/materials/textures/iron_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/jade.png",
+   "size": 33655,
+   "sha256": "449a6862f41cf33514e10aa482f65a2dd957d8accc0e776a061972b2b5323771"
+  },
+  {
+   "path": "media/materials/textures/jade_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/lava.png",
+   "size": 36124,
+   "sha256": "f4f7e6f7c9f527d2c962cacf29c83a795a16ecc66640854685970879a3f94e4c"
+  },
+  {
+   "path": "media/materials/textures/lava_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/leather.png",
+   "size": 22325,
+   "sha256": "5466b2bd41efecafe9089281e6fca4ca93def727a9c16cafc86dadf55d211774"
+  },
+  {
+   "path": "media/materials/textures/leather_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/limestone.png",
+   "size": 49995,
+   "sha256": "bf8ce44b291f665ea0c34f28befb206e92da7202b60d7b8ebdfc5fe801118ee9"
+  },
+  {
+   "path": "media/materials/textures/limestone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/marble.png",
+   "size": 31933,
+   "sha256": "d8c25c02c17e9076c1bb4fb692d360f9fb31c298ca833d8c244e306ff3604ae7"
+  },
+  {
+   "path": "media/materials/textures/marble_normal.png",
+   "size": 29285,
+   "sha256": "d4e5ab67529195c5a5be286a022e1e9c8058b9b614eadb7612942462d083a0ef"
+  },
+  {
+   "path": "media/materials/textures/mortar.png",
+   "size": 30700,
+   "sha256": "0749995c21d077be43c42b8de716a7992549eb89f73ba68253792accc4dc03e9"
+  },
+  {
+   "path": "media/materials/textures/mortar_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/oak.png",
+   "size": 44710,
+   "sha256": "cdf8ce500e0145dddaba5408a7bb6b6013c72e37ae225e23903efb16b6eaebd5"
+  },
+  {
+   "path": "media/materials/textures/oak_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  },
+  {
+   "path": "media/materials/textures/paper.png",
+   "size": 52363,
+   "sha256": "e8344646e132da563f18a9157fbf98bd778a6070ac4443ad6e3f209bb2b04fa6"
+  },
+  {
+   "path": "media/materials/textures/paper_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/plaster.png",
+   "size": 51787,
+   "sha256": "7a4c5f149f38204773143f16e06851f33496c436db368fe8a964a390873bfc2e"
+  },
+  {
+   "path": "media/materials/textures/plaster_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/red.png",
+   "size": 30685,
+   "sha256": "efbdd3cc8b5c72553f9db3b9c26860b5c364c1f321b3aa6012ecb45130633ed4"
+  },
+  {
+   "path": "media/materials/textures/red_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rope.png",
+   "size": 44507,
+   "sha256": "24b4fed56ade7e162aa38fcd54886e3c2730f38af4befb25c843422a278e5bbb"
+  },
+  {
+   "path": "media/materials/textures/rope_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rose.png",
+   "size": 51725,
+   "sha256": "e0e37ae18b6906a144680a1155de6ffad7e2bb083d9999fff0363e5112aee4d2"
+  },
+  {
+   "path": "media/materials/textures/rose_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/sand.png",
+   "size": 36961,
+   "sha256": "85886e8f7b3434815829178445b87ff6158c13e8164a8ffda3993c2f221a24cc"
+  },
+  {
+   "path": "media/materials/textures/sand_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/sandstone.png",
+   "size": 47840,
+   "sha256": "ef16b0605a795be8f93f5af413856bbace96ad202e7236059578339d185c3007"
+  },
+  {
+   "path": "media/materials/textures/sandstone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/scales.png",
+   "size": 35840,
+   "sha256": "b1bed18fc93d1ce569ba48331159220c33f9c0feacf02155e12816a7bcaf1e2d"
+  },
+  {
+   "path": "media/materials/textures/scales_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/skin.png",
+   "size": 46985,
+   "sha256": "5ca6e03744c454380928115d5223e4630134a27767a7b26dcfba204d1c4fcf47"
+  },
+  {
+   "path": "media/materials/textures/skin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/snow.png",
+   "size": 42837,
+   "sha256": "0d8d0cd049935a17e0b71ebea93ac5e8f823a998dd72ba10e283741ead9d4260"
+  },
+  {
+   "path": "media/materials/textures/snow_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/soil.png",
+   "size": 32264,
+   "sha256": "4c90d4c1a131223b16a1e4b20de7aa877cded6e90e932f4df75e0e9ec652f615"
+  },
+  {
+   "path": "media/materials/textures/soil_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/steel.png",
+   "size": 49671,
+   "sha256": "eea5cdd9f65ec98b43afd1f7e80a070c60c40fcb61812c4f3c3d6d16c9d95e38"
+  },
+  {
+   "path": "media/materials/textures/steel_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/stone.png",
+   "size": 42272,
+   "sha256": "e4f23d37e5e6d3a83d836d06089b88547117cb6b8978b3b448796eaa655d2ec9"
+  },
+  {
+   "path": "media/materials/textures/stone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/tanfur.png",
+   "size": 44965,
+   "sha256": "5c21a980f0db8b2fcc14c81ba8f6b487e73dd27d2a4bfe3e5000650534d675a7"
+  },
+  {
+   "path": "media/materials/textures/tanfur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/water.png",
+   "size": 29402,
+   "sha256": "a7861a6a33fa96041dd14a7c2ea61c48bfc767b4fbb3e2a2add4fcc74a347850"
+  },
+  {
+   "path": "media/materials/textures/water_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/wood.png",
+   "size": 36098,
+   "sha256": "93be5dba40fb0504f65177b720e06059d439aaf10c0c215617ba6fe9e55769f9"
+  },
+  {
+   "path": "media/materials/textures/wood_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava floor 1x1 ashes.usd",
+   "size": 35105,
+   "sha256": "f707b1bacadf9a87b71e98732ef1f928d826d069c0ef99e6d74cc9093805ecf2"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava floor 1x1 hot.usd",
+   "size": 41463,
+   "sha256": "e96f19eb929dc5fae22cec52624719e4776209655369d53dbc6f6bdb9d996295"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava floor 2x1 hot.usd",
+   "size": 75564,
+   "sha256": "e38addb124f7d1ce46fda1ed6721e8fed91844066f794d55cf246518fb1ff9f9"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava floor 2x2 ashes.usd",
+   "size": 127575,
+   "sha256": "cf711c9035e4ee8e25a3118168aed4fcedbfa632f4d2e9977937eee99094fa1d"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava floor 2x2 hot.usd",
+   "size": 143548,
+   "sha256": "47a5aa4a5cb4e3db8212fc43ad0ac692267dc10ffbc4599faab2e37d1d3eee3b"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava stair corner__30ce49c1.usd",
+   "size": 33505,
+   "sha256": "018f0df7679fea0ff6f1745cf4e3c329a4e275153907ef2fdd984559cfc62b8a"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava stair corner__3fa410f6.usd",
+   "size": 33512,
+   "sha256": "baee062c2f8042c22894f471e40e39cf68c1e2b6da293791964306e9815c5fdd"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava stair floor__cc3a3b6b.usd",
+   "size": 14543,
+   "sha256": "d5e51b186c842bfd277249eefea0d6310c5ba073d72f89326c4f011a944bfd5b"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava stair floor__e23456fe.usd",
+   "size": 14210,
+   "sha256": "b3cc2d69bfc33dc34e6725bcb8251a6bdd7cead881413249460222c41bc4f06e"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava stair top__0e15769e.usd",
+   "size": 8605,
+   "sha256": "07390b51a2ac4610376f650407cc7fa1523a0c15aab77c3865208c1daaa00295"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava stair top__da91b462.usd",
+   "size": 8607,
+   "sha256": "82d1e1ef9d292bff5d13803f6f478329e163a9f9bd99bcaeb44c08c01cf81ef8"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava stair__2e1f5de4.usd",
+   "size": 14531,
+   "sha256": "e8e6dfd8abc95294d9e1470543e1833755313e82e143d54537ebc1954d3ef9c6"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava stair__ab4a7dbb.usd",
+   "size": 14379,
+   "sha256": "5c490be156b4d7a8bde26df4abfd7d9cba0d737125a9daa7a4a2d104a621371e"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall 1x1 cold v1.usd",
+   "size": 22445,
+   "sha256": "77bb0d7c76c436e007c1e2c1e34eec437d664b901c6fd3c59bd41252cdee8de7"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall 1x1 hot v1.usd",
+   "size": 42670,
+   "sha256": "99617b86f9d135a926a55b97a5561969ca97d8a4f22b3ae9ffbf8912fa73174d"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall 1x1 hot v2.usd",
+   "size": 42777,
+   "sha256": "95b55f134505349ce88d777a24e95e38c17e021d6121573c1c34f4a79b48953e"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall 1x1 hot v3.usd",
+   "size": 42818,
+   "sha256": "75fce8afcaac3fe4cec3491764fa45f286fb64354f377c539a9250ffe3a2db6e"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall 2x2 cold v1.usd",
+   "size": 38594,
+   "sha256": "437daf32ab07535aac00740dcdd715ddee4d15bf2e9168a049fcc017951d27f4"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall cold corner.usd",
+   "size": 73654,
+   "sha256": "dc1c0cc4ebd35df98f57597b20c53b457390d53f6a48b45dd73358d360e7787b"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall corner hot__17c8b681.usd",
+   "size": 191785,
+   "sha256": "60967160eed4e7c9328843ac87601259429a4d354fba76179dbf76eec3265206"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall corner hot__48619487.usd",
+   "size": 191781,
+   "sha256": "5d6fafd5c372e552b9d3cb864d817cbfe08fba7b33c679db9b77917ccb94b0f2"
+  },
+  {
+   "path": "scenery/lava-floor-1x1-ashes.md",
+   "size": 307,
+   "sha256": "6ce19e21d13aa0607ebff254e34a299e18b9cf6eaf3e0d1fa33d4a58508b0215"
+  },
+  {
+   "path": "scenery/lava-floor-1x1-hot.md",
+   "size": 318,
+   "sha256": "a85490c2af12fa25a7d2e2ff7c455863e9f6e8d2793831625f5557d98999f3bd"
+  },
+  {
+   "path": "scenery/lava-floor-2x1-hot.md",
+   "size": 318,
+   "sha256": "17cc4a27eac54b56ce658b1d1dd665f735b89ec7190c9c86deae047a534d81d7"
+  },
+  {
+   "path": "scenery/lava-floor-2x2-ashes.md",
+   "size": 307,
+   "sha256": "fa7935c63bf712bddc8303a9e42d6d5b9291d5d45c69e704716b624a685f7171"
+  },
+  {
+   "path": "scenery/lava-floor-2x2-hot.md",
+   "size": 318,
+   "sha256": "6d0832dd7e8b7dc6c9ea7f428c0e73e1b3807f2b3227b3f2bc301ddb069650c3"
+  },
+  {
+   "path": "scenery/lava-stair-2.md",
+   "size": 315,
+   "sha256": "c5948c6a3567c6dc44bc8cc5132a3e2ec8072af84f8eb2951cbc6b8ae57817bf"
+  },
+  {
+   "path": "scenery/lava-stair-corner-2.md",
+   "size": 323,
+   "sha256": "c2c348582104356921b48cc3d079d43d415c99956371b1f8bab526e4b928f676"
+  },
+  {
+   "path": "scenery/lava-stair-corner.md",
+   "size": 321,
+   "sha256": "2dc30e7026dae505d9580e541576fa35e84eb59e0d63c98839127acb720cdb45"
+  },
+  {
+   "path": "scenery/lava-stair-floor-2.md",
+   "size": 326,
+   "sha256": "a2f63574f16185bfa3850a60c65149fcfd0b6ee4b10353ca88946b4a7fdb6276"
+  },
+  {
+   "path": "scenery/lava-stair-floor.md",
+   "size": 324,
+   "sha256": "dccdd41c3370fe2df441f8deafed9827cc5881219f75d682f05b5c75c35b447c"
+  },
+  {
+   "path": "scenery/lava-stair-top-2.md",
+   "size": 323,
+   "sha256": "6d5904751d48d3092f47f8765d8bbaa1931d7219a7fedf3b219c1cd17da93e7c"
+  },
+  {
+   "path": "scenery/lava-stair-top.md",
+   "size": 321,
+   "sha256": "22a358754c29fd46cda773519966272f0a9d156e82d45a64e7c4bdb23878ef15"
+  },
+  {
+   "path": "scenery/lava-stair.md",
+   "size": 313,
+   "sha256": "68aa504649b357504c08d23e9f047c1e1d33236c99a37286bb71c7d104194844"
+  },
+  {
+   "path": "scenery/lava-wall-1x1-cold-v1.md",
+   "size": 308,
+   "sha256": "d922282765d8f6938d5780b8b118c6d374adad9140433fb581e838706cdb8e0f"
+  },
+  {
+   "path": "scenery/lava-wall-1x1-hot-v1.md",
+   "size": 321,
+   "sha256": "588574220bca733deda0c73ab2b5c5b0a3f35704db13612179fca762f4c1493e"
+  },
+  {
+   "path": "scenery/lava-wall-1x1-hot-v2.md",
+   "size": 321,
+   "sha256": "5b5c20d0db9c48325d85f3ff8dd3470da32d77c636a7eb8e8bbd188200ca2941"
+  },
+  {
+   "path": "scenery/lava-wall-1x1-hot-v3.md",
+   "size": 321,
+   "sha256": "92326bdaf9403b0f1fdde7380109e9f43199dfcb3392ee032b75614cecb9bcd7"
+  },
+  {
+   "path": "scenery/lava-wall-2x2-cold-v1.md",
+   "size": 308,
+   "sha256": "52b845f20b8be53616eaf3556873469216d3a9cf8c99c9befc2267cec6e68782"
+  },
+  {
+   "path": "scenery/lava-wall-cold-corner.md",
+   "size": 308,
+   "sha256": "376b20551f181d7ecc81ef3d72716840bb99f45ad499e6e767f59eb41b362532"
+  },
+  {
+   "path": "scenery/lava-wall-corner-hot-2.md",
+   "size": 333,
+   "sha256": "372d9faa35b1bf066e9fb4e153f779e3e516b436309af7af3faa8953daced578"
+  },
+  {
+   "path": "scenery/lava-wall-corner-hot.md",
+   "size": 331,
+   "sha256": "08a175a79782d191429c03b30c87f95931306992673a3821a1bd0154bafac795"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Lava floor 1x1 ashes",
+   "kind": "scenery",
+   "thumb": "thumbs/1cf3a724-a8d5-4581-98b2-ec590cf72f39.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "cold",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "rock",
+    "floor"
+   ]
+  },
+  {
+   "name": "Lava floor 1x1 hot",
+   "kind": "scenery",
+   "thumb": "thumbs/030145b1-a5c3-45a5-b658-cd627bd43d5c.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "red",
+    "yellow",
+    "orange",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "rock",
+    "floor"
+   ]
+  },
+  {
+   "name": "Lava floor 2x1 hot",
+   "kind": "scenery",
+   "thumb": "thumbs/48be0a2f-722b-4caa-a866-cabcc985be8f.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "red",
+    "yellow",
+    "orange",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "rock",
+    "floor"
+   ]
+  },
+  {
+   "name": "Lava floor 2x2 ashes",
+   "kind": "scenery",
+   "thumb": "thumbs/2543019f-5c19-48d4-8c09-add6703e801e.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "cold",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "rock",
+    "floor"
+   ]
+  },
+  {
+   "name": "Lava floor 2x2 hot",
+   "kind": "scenery",
+   "thumb": "thumbs/2714a101-a137-4b40-b897-7ecd7878725d.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "red",
+    "yellow",
+    "orange",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "rock",
+    "floor"
+   ]
+  },
+  {
+   "name": "Lava stair 2",
+   "kind": "scenery",
+   "thumb": "thumbs/ab4a7dbb-f597-456e-9381-4d84f4c29e6d.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "red",
+    "yellow",
+    "orange",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "rock",
+    "stairs"
+   ]
+  },
+  {
+   "name": "Lava stair corner 2",
+   "kind": "scenery",
+   "thumb": "thumbs/3fa410f6-e949-4fda-a3e8-db9f3d266ea8.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "red",
+    "yellow",
+    "orange",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "stairs"
+   ]
+  },
+  {
+   "name": "Lava stair corner",
+   "kind": "scenery",
+   "thumb": "thumbs/30ce49c1-d3c4-4a83-84d8-6a1764030baa.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "red",
+    "yellow",
+    "orange",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "stairs"
+   ]
+  },
+  {
+   "name": "Lava stair floor 2",
+   "kind": "scenery",
+   "thumb": "thumbs/e23456fe-bb09-4b7b-a4a9-ed72a0ebb3ed.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "red",
+    "yellow",
+    "orange",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "rock",
+    "floor"
+   ]
+  },
+  {
+   "name": "Lava stair floor",
+   "kind": "scenery",
+   "thumb": "thumbs/cc3a3b6b-f537-4482-b2f4-a82a8e682d7a.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "red",
+    "yellow",
+    "orange",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "rock",
+    "floor"
+   ]
+  },
+  {
+   "name": "Lava stair top 2",
+   "kind": "scenery",
+   "thumb": "thumbs/da91b462-0219-49ba-8e00-232ac481b94d.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "red",
+    "yellow",
+    "orange",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "rock",
+    "stairs"
+   ]
+  },
+  {
+   "name": "Lava stair top",
+   "kind": "scenery",
+   "thumb": "thumbs/0e15769e-9370-4752-a505-913b023e6bca.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "red",
+    "yellow",
+    "orange",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "rock",
+    "stairs"
+   ]
+  },
+  {
+   "name": "Lava stair",
+   "kind": "scenery",
+   "thumb": "thumbs/2e1f5de4-ce36-47a1-8cef-ce2f2ba3d320.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "red",
+    "yellow",
+    "orange",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "rock",
+    "stairs"
+   ]
+  },
+  {
+   "name": "Lava wall 1x1 cold v1",
+   "kind": "scenery",
+   "thumb": "thumbs/f9751248-343d-4e4a-8d2a-f46421579a21.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "cold",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "rock",
+    "wall"
+   ]
+  },
+  {
+   "name": "Lava wall 1x1 hot v1",
+   "kind": "scenery",
+   "thumb": "thumbs/06b1dd45-b628-4dc3-bfd1-3e86d51fb4de.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "red",
+    "yellow",
+    "orange",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "rock",
+    "wall"
+   ]
+  },
+  {
+   "name": "Lava wall 1x1 hot v2",
+   "kind": "scenery",
+   "thumb": "thumbs/8de6620c-d4a6-451c-bd61-59948ae02f96.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "red",
+    "yellow",
+    "orange",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "rock",
+    "wall"
+   ]
+  },
+  {
+   "name": "Lava wall 1x1 hot v3",
+   "kind": "scenery",
+   "thumb": "thumbs/0f6212ea-5e47-4adc-9f1e-960733d593aa.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "red",
+    "yellow",
+    "orange",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "rock",
+    "wall"
+   ]
+  },
+  {
+   "name": "Lava wall 2x2 cold v1",
+   "kind": "scenery",
+   "thumb": "thumbs/bca4c8c1-b644-4721-a32e-9c2ef4f5f163.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "cold",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "rock",
+    "wall"
+   ]
+  },
+  {
+   "name": "Lava wall cold corner",
+   "kind": "scenery",
+   "thumb": "thumbs/006ed915-eb46-4d9f-80c0-204cf2263974.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "cold",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "rock",
+    "wall"
+   ]
+  },
+  {
+   "name": "Lava wall corner hot 2",
+   "kind": "scenery",
+   "thumb": "thumbs/48619487-fb34-4ef0-80e2-befe4cc12719.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "red",
+    "yellow",
+    "orange",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "rock",
+    "wall"
+   ]
+  },
+  {
+   "name": "Lava wall corner hot",
+   "kind": "scenery",
+   "thumb": "thumbs/17c8b681-1e18-4407-8a5b-2ee1f3d5d432.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "red",
+    "yellow",
+    "orange",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "rock",
+    "wall"
+   ]
+  }
+ ]
+}

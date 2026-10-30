@@ -1,0 +1,1467 @@
+{
+ "id": "b002866f-3dd7-5653-9ac3-cc01e5ea0e38",
+ "folder": "Monstrous Creatures.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 1020,
+   "sha256": "36c944b1382f4d97c96df1120b63852bd5ba7265741d73f33495ddd9bdf8deee"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 27890,
+   "sha256": "a799f9d83c2fbaa24ead948e41d27b78ada4c41375a9ca243154c95ec9902291"
+  },
+  {
+   "path": "creatures/black-pudding.md",
+   "size": 301,
+   "sha256": "b0d9f25a45ef948d31d5581bc30a7fa34aa69a842dd99f96552aa1485a53cee0"
+  },
+  {
+   "path": "creatures/burrow-beast.md",
+   "size": 317,
+   "sha256": "8bd63d380538e86bf540bca66d519f072578f225e2dfe04ac2e8f76c3df07267"
+  },
+  {
+   "path": "creatures/carnivorous-plant.md",
+   "size": 364,
+   "sha256": "f589e737d3781ecbe614d9a31b822465542a99a24f56b0303e188cb4a60860f5"
+  },
+  {
+   "path": "creatures/cave-horror.md",
+   "size": 315,
+   "sha256": "d152d69e08d039c1f6f586bd7948f76dd2a774302ab3ab69d1814e79c44942be"
+  },
+  {
+   "path": "creatures/centaur-2.md",
+   "size": 341,
+   "sha256": "750d93c8dbbe03e8a3e9d6c0f92422f452a8a509682fca9dad96c1c5df0de983"
+  },
+  {
+   "path": "creatures/centaur.md",
+   "size": 301,
+   "sha256": "ef706f838fa3efdb501902f4ef88897810b6be5c4eec5957125768c41ef67b64"
+  },
+  {
+   "path": "creatures/chimera.md",
+   "size": 303,
+   "sha256": "3dcb2ebb563103a406cbee016a94fc396c4fe37213a2ea10f069af4318f4d313"
+  },
+  {
+   "path": "creatures/cloaked-nightmare.md",
+   "size": 362,
+   "sha256": "7de2642cd1461f34050c178cdfcea87fa29cc3c3b09773f8d98ce4d195ee768c"
+  },
+  {
+   "path": "creatures/dracolich.md",
+   "size": 302,
+   "sha256": "2b11ba652d44670a5323a421c180be00429d292cdd99b4634de2981203fbc096"
+  },
+  {
+   "path": "creatures/dragon-2.md",
+   "size": 305,
+   "sha256": "a7086ee95d3f6662a0cc78ad2e88c1146f72472b030e95dd9beab25c2d48654d"
+  },
+  {
+   "path": "creatures/dragon-black.md",
+   "size": 307,
+   "sha256": "6bfdd92ec583d364bfb84a5e2179b2c8e7d5259adf7aae662b926191580f25a2"
+  },
+  {
+   "path": "creatures/dragon-gold.md",
+   "size": 284,
+   "sha256": "2e578c818abc1fb07febe908b652a2c3174b2f3566987cb4ef2be9f05713bf59"
+  },
+  {
+   "path": "creatures/dragon.md",
+   "size": 319,
+   "sha256": "1276a8b297307c68dc537f93e9771d79e167a85cf2d2bc4b53c02a135ef19b05"
+  },
+  {
+   "path": "creatures/drider.md",
+   "size": 297,
+   "sha256": "7991f2c9b0d57a87dcb30a6b85bd1df43a99e6d7b51baa85a6c488c655fdfff4"
+  },
+  {
+   "path": "creatures/gargoyle.md",
+   "size": 305,
+   "sha256": "47927d30db438c1377cf937b432bd90d8ee34e6af373c75f168ed101c79cfd78"
+  },
+  {
+   "path": "creatures/giant-worm.md",
+   "size": 294,
+   "sha256": "f7894347a5457383a8041003846dd2fb348ba4955dbc8d75ea63a7d95f198938"
+  },
+  {
+   "path": "creatures/gorgon.md",
+   "size": 288,
+   "sha256": "1496b9f33a0c8fa721d80dd07d21eea769cd9d055db13cbbcf4fc93f2e9c623c"
+  },
+  {
+   "path": "creatures/grick.md",
+   "size": 282,
+   "sha256": "4f44f661ece73d5e2438123327f8c4f0a4f3994deba5e2d8251cf5a0591ac21e"
+  },
+  {
+   "path": "creatures/griffon.md",
+   "size": 317,
+   "sha256": "0d51c77c4876338c11b66e3a9f37e128e782f5378c2fbb714d3e14f4cf74dbd4"
+  },
+  {
+   "path": "creatures/harpy.md",
+   "size": 295,
+   "sha256": "d51c1cf079aa8bd8ba4a06b65aba25b6ffdb614184fd1cfef2e85170d4460098"
+  },
+  {
+   "path": "creatures/hydra.md",
+   "size": 294,
+   "sha256": "f7940be7690307e0434319afb66c29aff754368c06ec80f4a0c4df6c8c748afa"
+  },
+  {
+   "path": "creatures/insectoid-2.md",
+   "size": 298,
+   "sha256": "b191ba8497dcce002bae514fb6ab1d69ae9e438cde12a6200e2206dd3c491407"
+  },
+  {
+   "path": "creatures/insectoid-3.md",
+   "size": 301,
+   "sha256": "882a7933e10a3e91769c91a153d783e42464be8c09eb821ca91d18c8f000e666"
+  },
+  {
+   "path": "creatures/insectoid.md",
+   "size": 299,
+   "sha256": "791cbc31f9ec0abdd52b81054081b112dfbeee0d1436c4d3f483cdfc1012db87"
+  },
+  {
+   "path": "creatures/manticore.md",
+   "size": 304,
+   "sha256": "038cdaefcb6c9d110237e0a363923c0fcce54e471d4f59c53e727c442eaa1d14"
+  },
+  {
+   "path": "creatures/merfolk-2.md",
+   "size": 344,
+   "sha256": "98d78dd71775a9c903716b7aba7815bc7ff74eaf040342db3a6364472c643124"
+  },
+  {
+   "path": "creatures/merfolk.md",
+   "size": 292,
+   "sha256": "20400df8c09fab476dc8e512f0bf7c588085b5644cad5f2fe8a9cf5bbdc05a64"
+  },
+  {
+   "path": "creatures/mimic-2.md",
+   "size": 295,
+   "sha256": "b50607f6e71dc926a658dd412af8b8327824d40005de06c97bb8be16b1665017"
+  },
+  {
+   "path": "creatures/mimic-3.md",
+   "size": 352,
+   "sha256": "81a7207a392b7d43d1724a6788d1715dd7f3f3db8c48844f15e742abdc5b692f"
+  },
+  {
+   "path": "creatures/mimic.md",
+   "size": 297,
+   "sha256": "26ebf772adec05088632d86bfd6f732cc360c0726a1dfc22da9926e026780dad"
+  },
+  {
+   "path": "creatures/reverse-centaur.md",
+   "size": 303,
+   "sha256": "664e1fd987966eba435df3e96717990a481bb0e3138b1172558cdfdee1c376d7"
+  },
+  {
+   "path": "creatures/rust-eater.md",
+   "size": 323,
+   "sha256": "6564f6dd68ad1b769d67f73c796db682ea4a95100abca9c1f6d03a8b79b2f649"
+  },
+  {
+   "path": "creatures/sea-monster.md",
+   "size": 316,
+   "sha256": "509d88f0c860e859a06e48505b242c17c25215fe7eafb2dc0d87cc470f9286a0"
+  },
+  {
+   "path": "creatures/serpentfolk-archer.md",
+   "size": 314,
+   "sha256": "e6f4386f38ec9c1689b84242d510f5d46585b12a7135f1f53e08344220741dea"
+  },
+  {
+   "path": "creatures/serpentfolk-caster.md",
+   "size": 320,
+   "sha256": "cdd4824be24699b5a7a0c58c3a98e06f36b62df554174db14dc725dcbec56857"
+  },
+  {
+   "path": "creatures/serpentfolk-warrior.md",
+   "size": 322,
+   "sha256": "d3b34e61c57b907e7f88e8e9b1975f47e66b7e1029c561da88928e1dec4bceb9"
+  },
+  {
+   "path": "creatures/shambler.md",
+   "size": 302,
+   "sha256": "681fb26f7511d2174f8f74f2c145d392d0554cb125629ad89f99aeb850ea6ce1"
+  },
+  {
+   "path": "creatures/slime.md",
+   "size": 303,
+   "sha256": "2e19958b7ff58c5e922ba629b1e34fdbca7dbda9933b6639d03a40a4bbf1040d"
+  },
+  {
+   "path": "creatures/sphinx-2.md",
+   "size": 326,
+   "sha256": "dace234f8b85eb26b46443ae43ef2abb04c2ee307f7b29da52a723581be7e07b"
+  },
+  {
+   "path": "creatures/sphinx.md",
+   "size": 324,
+   "sha256": "d603129fc2940ea13bf1da24e8628d40b936b3e063ebcbb5dd5d39b1189229da"
+  },
+  {
+   "path": "creatures/stirge.md",
+   "size": 296,
+   "sha256": "c423cf13a974ee23e5a3e70e4679668066b8bc1f9cb89e1b6e235959a75e16d4"
+  },
+  {
+   "path": "creatures/tentacle-large.md",
+   "size": 326,
+   "sha256": "4adeb32e5b251b5eb1895db103878e98485e5ae9b807c08fb32b0b63d2985248"
+  },
+  {
+   "path": "creatures/troll.md",
+   "size": 297,
+   "sha256": "ddc234d9125819d172a943d3cef82085531c7f971fc10323bdc2168d9701bdec"
+  },
+  {
+   "path": "creatures/werewolf.md",
+   "size": 294,
+   "sha256": "b187c2ef7ae7b4bae70d9b4c86d94a965b6942956b947d77dd6a2090b27d4ad5"
+  },
+  {
+   "path": "creatures/yeti.md",
+   "size": 287,
+   "sha256": "a3d1804279bd8ebf2e48f1a0bc0593f2df525c5abf7e0d28a09412dc795a84c0"
+  },
+  {
+   "path": "media/creatures/Monstrous/Black Pudding.usd",
+   "size": 252860,
+   "sha256": "768e073ecf5307d0e6432189dc438655abef9025a38b10ca9f11a4ed821ed1a5"
+  },
+  {
+   "path": "media/creatures/Monstrous/Burrow Beast.usd",
+   "size": 245664,
+   "sha256": "21eacae4a2784aef8a20aa9f8d40a4c9efd5aa8a6af301daf11136d9dd60ba44"
+  },
+  {
+   "path": "media/creatures/Monstrous/Carnivorous Plant.usd",
+   "size": 109175,
+   "sha256": "f054052ebbab493036451296b9ed9ee5568432d157809f4ba4d1c283653ec8b7"
+  },
+  {
+   "path": "media/creatures/Monstrous/Cave Horror.usd",
+   "size": 124874,
+   "sha256": "8c106098bc80c15bd52070f287ddb1714c73b7528d15d4ad3a95cafba2a289c0"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__7be32951.usd",
+   "size": 1241711,
+   "sha256": "e31b678ccee2260ea26a5d410a9b02db86b19fcdaf82fcb86bb249f685895e4d"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__884c74a1.usd",
+   "size": 1146310,
+   "sha256": "3e118522115d16242179a55d76b4e74225b95fde156356e3297ab3135229acfe"
+  },
+  {
+   "path": "media/creatures/Monstrous/Chimera.usd",
+   "size": 1145316,
+   "sha256": "1902c976e8992a27263376463aefd1fc2ed12cb29166d42d970ab717d197541a"
+  },
+  {
+   "path": "media/creatures/Monstrous/Cloaked Nightmare.usd",
+   "size": 300829,
+   "sha256": "ebc73c6a39d78e2f9250ad503718bbcb96a493316212e6070e773038a6ab96b1"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dracolich.usd",
+   "size": 836202,
+   "sha256": "83a93f8be238ada4af69c414a7efab5bf83bedbfc946be949ade8c29d14cd67a"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon, Black.usd",
+   "size": 1659573,
+   "sha256": "652df916c7003508f71082d14f5b65cfa57c86bec4b17cae97daea77976afcca"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon, Gold.usd",
+   "size": 1650227,
+   "sha256": "b7b495683855dcf8a914295ffda727c14d2f5b2dbdbecc90243d37822d01a02d"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon__dc39fae5.usd",
+   "size": 1650947,
+   "sha256": "fd53c135cdb78d42eaa0165bf25336d925a9b4450c39a2665ecf94f90c90779d"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon__e3c8c0d3.usd",
+   "size": 1662264,
+   "sha256": "90e5714678c86b28ccd089bed8eb2b39d7f8d335d92453cda66fa75dacbb0f62"
+  },
+  {
+   "path": "media/creatures/Monstrous/Drider.usd",
+   "size": 1081022,
+   "sha256": "3e1db949a04e02bf8dfea30153cf982fd308a6eac7ed93a02ab8b5b40fad7fc5"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gargoyle.usd",
+   "size": 688954,
+   "sha256": "79c15709b9f085d389246537b8ba6cbdca591907acc59c4a7a2023b3b88526c8"
+  },
+  {
+   "path": "media/creatures/Monstrous/Giant Worm.usd",
+   "size": 139215,
+   "sha256": "049977e50cdc997791833625dbd45255639298c2cbf04cc25565cc5a91657da7"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gorgon.usd",
+   "size": 1132531,
+   "sha256": "6bd1438d98184cd861b6d7ca3b70520dc335feb14332a5c4a4270f5d89bcb485"
+  },
+  {
+   "path": "media/creatures/Monstrous/Grick.usd",
+   "size": 150759,
+   "sha256": "0830a154b139e2f743d9d5c3ace7c6bf8d06979c633f173cf74a78a297ef1d55"
+  },
+  {
+   "path": "media/creatures/Monstrous/Griffon.usd",
+   "size": 1624969,
+   "sha256": "d0391e8ccd553dcfd566cf9b739d69f6ed1e0038b338a6c0d57347347505b87f"
+  },
+  {
+   "path": "media/creatures/Monstrous/Harpy.usd",
+   "size": 1958753,
+   "sha256": "ccf394f15a5d201bd8a5fff9e9f7535da6d7fb998705d802517464d8ebda340c"
+  },
+  {
+   "path": "media/creatures/Monstrous/Hydra.usd",
+   "size": 2581615,
+   "sha256": "618ad8bf20915d35f1cc6100fd54b02565c14ccf27918b7ad6ad60be270e3fe9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__36d67639.usd",
+   "size": 1148239,
+   "sha256": "e350d6064c98d1fd5db39c55ff3ae327bb9740fd6a88223512e1308005797a9e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__75df188c.usd",
+   "size": 1144808,
+   "sha256": "ff2b2a22c40d51c37e6764071ddcef02c77466b5c60a07bd5f955ff55d1c156c"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__a775d8b0.usd",
+   "size": 1148881,
+   "sha256": "93d55bbffd5ea9c1d99eea8fb4635ea6efafbc22ba083092a0d60d0bd8ceb643"
+  },
+  {
+   "path": "media/creatures/Monstrous/Manticore.usd",
+   "size": 918565,
+   "sha256": "5ea4f2cce0e35f4e1b9e1a517ed8d87f22630f235831b1a3c3c0b051f71d2e0e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__2ca6fd1c.usd",
+   "size": 947271,
+   "sha256": "aa43bb4b7b55e6aeed202b54d20667d9b72e8ef76afc1deed71fb3e6fb81c771"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__5c4cc17d.usd",
+   "size": 940263,
+   "sha256": "e2285ccbe1d70605f94eefbf20b2d5229164cb9637918a6d68bbaae681ca7a96"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__1901d976.usd",
+   "size": 201101,
+   "sha256": "009a5036be42ebbc7dee1557d651d434eca50fd8b5b3f8807b6aded5eee1aef7"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__2e039487.usd",
+   "size": 186027,
+   "sha256": "0ce323c3a1bf38758f70c9003308fcc49b5ab4e71b129d77d095a1f8a03947ab"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__a332a9be.usd",
+   "size": 107951,
+   "sha256": "651eb21a9fdb1e2cca1658151ad00162dfe6be57d0b7c1bab2e867b09234c8bb"
+  },
+  {
+   "path": "media/creatures/Monstrous/Reverse Centaur.usd",
+   "size": 889653,
+   "sha256": "73f7205235b9af4c3dafe3e7d6e9f757f04c5b5dbce51a557e2b71e1d0bd3b4e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Rust Eater.usd",
+   "size": 338297,
+   "sha256": "f3b763307cd2d19dd1d55518265efc8fbf77580975e1166b8a8d4a7032300b7d"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sea Monster.usd",
+   "size": 138912,
+   "sha256": "4aec4127695fe5be6745bdeafe2a58da1a3e444f56c97d4b364630c5a63c2133"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Archer.usd",
+   "size": 871351,
+   "sha256": "1ebd92e825ad77beb3828f905ae260c51b0534f979ae0acc8137e39b78d4ba16"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Caster.usd",
+   "size": 905058,
+   "sha256": "652b3061b2329afa879d5fe4208c18a14f26cc520802c41008b786a619972733"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Warrior.usd",
+   "size": 982626,
+   "sha256": "c2856ca36707bf40558fefab386f8a4debd12451135717c20ba9172d0411abdc"
+  },
+  {
+   "path": "media/creatures/Monstrous/Shambler.usd",
+   "size": 1281500,
+   "sha256": "341ddf7dab6e4ee5df4546d964e63e7b1a8ecd52f5aadd652d7a0d6d486aa54a"
+  },
+  {
+   "path": "media/creatures/Monstrous/Slime.usd",
+   "size": 254057,
+   "sha256": "869680b9fd43e487345d29a7dfe22e310664791ce7536cf84bd7c76dcfa67da2"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sphinx__a91b0cce.usd",
+   "size": 1832525,
+   "sha256": "f23a897643bd7e688dae210b0d07c9dd983af172f7cbdc70055bd767342372ba"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sphinx__e2f37589.usd",
+   "size": 1834096,
+   "sha256": "276ebb3c93bb8d9ef210c688ead089b39bc98e9453164e4eb1a0dd6101388291"
+  },
+  {
+   "path": "media/creatures/Monstrous/Stirge.usd",
+   "size": 255760,
+   "sha256": "f587e8896943f116d5a32ce44d73e5a14d39fe3016ac40dc1fb9437ed8511460"
+  },
+  {
+   "path": "media/creatures/Monstrous/Tentacle, Large.usd",
+   "size": 642952,
+   "sha256": "8100a643ec2d600ac7ed4dbd56f5f4f05d4ceca79ed7576575ad3ec2e8df54c5"
+  },
+  {
+   "path": "media/creatures/Monstrous/Troll.usd",
+   "size": 778179,
+   "sha256": "c347bdcbde7cfd90338cb23c502458342de068d99b869e724dcb51a86d0a14ba"
+  },
+  {
+   "path": "media/creatures/Monstrous/Werewolf.usd",
+   "size": 766918,
+   "sha256": "609ee5dc69f5fbac08095e2e95326fd607f120b3cd12c8759ab0b1617fb39c21"
+  },
+  {
+   "path": "media/creatures/Monstrous/Yeti.usd",
+   "size": 882617,
+   "sha256": "4fd78e5afd9294d327f0826e18619d8e4957ac22e44d262b6d7658cc22f6c843"
+  },
+  {
+   "path": "media/materials/Library.usdc",
+   "size": 19724,
+   "sha256": "c24d21cc536ed131cf8633109bc9ffdf7e045cd0c2da1da90544a18c4fa9d5ba"
+  },
+  {
+   "path": "media/materials/textures/basalt.png",
+   "size": 25957,
+   "sha256": "e7295df0b2356c29812c23d4ee8cfcbbab04ee3eb5f20f52d281a6846c8f2e96"
+  },
+  {
+   "path": "media/materials/textures/basalt_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/blue.png",
+   "size": 29622,
+   "sha256": "bb2482f15178dd7ed1883b5558bae3c5db1e6f63dfb0a562b16da3cffcd80add"
+  },
+  {
+   "path": "media/materials/textures/blue_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bluefire.png",
+   "size": 40884,
+   "sha256": "95947aba8ef1863b10a5ceb035363c014f49bb066a629334e6b9fb0c0b2a2a57"
+  },
+  {
+   "path": "media/materials/textures/bluefire_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bone.png",
+   "size": 52095,
+   "sha256": "60127b0b9d500672ffa4413c2e0331968daf672f9edbbc58e031bd20a24410ce"
+  },
+  {
+   "path": "media/materials/textures/bone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/brass.png",
+   "size": 45700,
+   "sha256": "7653b7e6c813911303d183fd977ca9007540d1f30b8a647ce49a9b4b25479a7e"
+  },
+  {
+   "path": "media/materials/textures/brass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/fur.png",
+   "size": 32075,
+   "sha256": "e6ebdc6bf38121ac2caa3f246dbf760ceb5f618f67a707849f43ac55ee75e56d"
+  },
+  {
+   "path": "media/materials/textures/fur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ghost.png",
+   "size": 46813,
+   "sha256": "6b86f729a542c078e35015b96d3bdf6bb6fd252e59dc931fbd818c4ac61d0809"
+  },
+  {
+   "path": "media/materials/textures/ghost_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/goblinskin.png",
+   "size": 40654,
+   "sha256": "bc088b6cce6935a3e38a4e34d3f8e553b7269a409f04d5892d4bb7bcbb804e7a"
+  },
+  {
+   "path": "media/materials/textures/goblinskin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/grass.png",
+   "size": 37697,
+   "sha256": "f6440b6a238240b171a02d0a9abfa1db6e3b23470ea136796156c95dc85ecb1a"
+  },
+  {
+   "path": "media/materials/textures/grass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ice.png",
+   "size": 54673,
+   "sha256": "1776de4df5a1aa0fd4c24462a5bf2188a02dd0f291b002f76689f64c7401183f"
+  },
+  {
+   "path": "media/materials/textures/ice_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/iron.png",
+   "size": 33226,
+   "sha256": "b819ee206156042e76233baf2e2abdb7f0a4a0ae5bc64a26cfaaec7a6fae6a3b"
+  },
+  {
+   "path": "media/materials/textures/iron_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/jade.png",
+   "size": 33655,
+   "sha256": "449a6862f41cf33514e10aa482f65a2dd957d8accc0e776a061972b2b5323771"
+  },
+  {
+   "path": "media/materials/textures/jade_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/lava.png",
+   "size": 36124,
+   "sha256": "f4f7e6f7c9f527d2c962cacf29c83a795a16ecc66640854685970879a3f94e4c"
+  },
+  {
+   "path": "media/materials/textures/lava_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/leather.png",
+   "size": 22325,
+   "sha256": "5466b2bd41efecafe9089281e6fca4ca93def727a9c16cafc86dadf55d211774"
+  },
+  {
+   "path": "media/materials/textures/leather_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/limestone.png",
+   "size": 49995,
+   "sha256": "bf8ce44b291f665ea0c34f28befb206e92da7202b60d7b8ebdfc5fe801118ee9"
+  },
+  {
+   "path": "media/materials/textures/limestone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/marble.png",
+   "size": 31933,
+   "sha256": "d8c25c02c17e9076c1bb4fb692d360f9fb31c298ca833d8c244e306ff3604ae7"
+  },
+  {
+   "path": "media/materials/textures/marble_normal.png",
+   "size": 29285,
+   "sha256": "d4e5ab67529195c5a5be286a022e1e9c8058b9b614eadb7612942462d083a0ef"
+  },
+  {
+   "path": "media/materials/textures/mortar.png",
+   "size": 30700,
+   "sha256": "0749995c21d077be43c42b8de716a7992549eb89f73ba68253792accc4dc03e9"
+  },
+  {
+   "path": "media/materials/textures/mortar_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/oak.png",
+   "size": 44710,
+   "sha256": "cdf8ce500e0145dddaba5408a7bb6b6013c72e37ae225e23903efb16b6eaebd5"
+  },
+  {
+   "path": "media/materials/textures/oak_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  },
+  {
+   "path": "media/materials/textures/paper.png",
+   "size": 52363,
+   "sha256": "e8344646e132da563f18a9157fbf98bd778a6070ac4443ad6e3f209bb2b04fa6"
+  },
+  {
+   "path": "media/materials/textures/paper_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/plaster.png",
+   "size": 51787,
+   "sha256": "7a4c5f149f38204773143f16e06851f33496c436db368fe8a964a390873bfc2e"
+  },
+  {
+   "path": "media/materials/textures/plaster_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/red.png",
+   "size": 30685,
+   "sha256": "efbdd3cc8b5c72553f9db3b9c26860b5c364c1f321b3aa6012ecb45130633ed4"
+  },
+  {
+   "path": "media/materials/textures/red_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rope.png",
+   "size": 44507,
+   "sha256": "24b4fed56ade7e162aa38fcd54886e3c2730f38af4befb25c843422a278e5bbb"
+  },
+  {
+   "path": "media/materials/textures/rope_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rose.png",
+   "size": 51725,
+   "sha256": "e0e37ae18b6906a144680a1155de6ffad7e2bb083d9999fff0363e5112aee4d2"
+  },
+  {
+   "path": "media/materials/textures/rose_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/sand.png",
+   "size": 36961,
+   "sha256": "85886e8f7b3434815829178445b87ff6158c13e8164a8ffda3993c2f221a24cc"
+  },
+  {
+   "path": "media/materials/textures/sand_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/sandstone.png",
+   "size": 47840,
+   "sha256": "ef16b0605a795be8f93f5af413856bbace96ad202e7236059578339d185c3007"
+  },
+  {
+   "path": "media/materials/textures/sandstone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/scales.png",
+   "size": 35840,
+   "sha256": "b1bed18fc93d1ce569ba48331159220c33f9c0feacf02155e12816a7bcaf1e2d"
+  },
+  {
+   "path": "media/materials/textures/scales_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/skin.png",
+   "size": 46985,
+   "sha256": "5ca6e03744c454380928115d5223e4630134a27767a7b26dcfba204d1c4fcf47"
+  },
+  {
+   "path": "media/materials/textures/skin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/snow.png",
+   "size": 42837,
+   "sha256": "0d8d0cd049935a17e0b71ebea93ac5e8f823a998dd72ba10e283741ead9d4260"
+  },
+  {
+   "path": "media/materials/textures/snow_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/soil.png",
+   "size": 32264,
+   "sha256": "4c90d4c1a131223b16a1e4b20de7aa877cded6e90e932f4df75e0e9ec652f615"
+  },
+  {
+   "path": "media/materials/textures/soil_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/steel.png",
+   "size": 49671,
+   "sha256": "eea5cdd9f65ec98b43afd1f7e80a070c60c40fcb61812c4f3c3d6d16c9d95e38"
+  },
+  {
+   "path": "media/materials/textures/steel_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/stone.png",
+   "size": 42272,
+   "sha256": "e4f23d37e5e6d3a83d836d06089b88547117cb6b8978b3b448796eaa655d2ec9"
+  },
+  {
+   "path": "media/materials/textures/stone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/tanfur.png",
+   "size": 44965,
+   "sha256": "5c21a980f0db8b2fcc14c81ba8f6b487e73dd27d2a4bfe3e5000650534d675a7"
+  },
+  {
+   "path": "media/materials/textures/tanfur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/water.png",
+   "size": 29402,
+   "sha256": "a7861a6a33fa96041dd14a7c2ea61c48bfc767b4fbb3e2a2add4fcc74a347850"
+  },
+  {
+   "path": "media/materials/textures/water_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/wood.png",
+   "size": 36098,
+   "sha256": "93be5dba40fb0504f65177b720e06059d439aaf10c0c215617ba6fe9e55769f9"
+  },
+  {
+   "path": "media/materials/textures/wood_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Black Pudding",
+   "kind": "creature",
+   "thumb": "thumbs/e0451b02-361c-4875-b8a8-b041df49d97e.jpg",
+   "tags": [
+    "monstrous",
+    "black",
+    "pudding",
+    "slime",
+    "monster",
+    "mud",
+    "ooze"
+   ]
+  },
+  {
+   "name": "Burrow Beast",
+   "kind": "creature",
+   "thumb": "thumbs/9be7e43f-f2ba-4307-85e8-632613c9ab21.jpg",
+   "tags": [
+    "monstrous",
+    "burrow",
+    "beast",
+    "burrowbeast",
+    "rock",
+    "stone",
+    "quadruped",
+    "monster"
+   ]
+  },
+  {
+   "name": "Carnivorous Plant",
+   "kind": "creature",
+   "thumb": "thumbs/d799e66c-3897-4eda-b58c-080eca395c64.jpg",
+   "tags": [
+    "monstrous",
+    "plant",
+    "jungle",
+    "nature",
+    "monster",
+    "chaotic",
+    "evil",
+    "monstrosity"
+   ]
+  },
+  {
+   "name": "Cave Horror",
+   "kind": "creature",
+   "thumb": "thumbs/ce5c71fc-6643-47f0-9dee-f796ed9c1ce8.jpg",
+   "tags": [
+    "monstrous",
+    "large",
+    "cave",
+    "cavern",
+    "horror",
+    "tentacle",
+    "monster",
+    "monstrosity"
+   ]
+  },
+  {
+   "name": "Centaur 2",
+   "kind": "creature",
+   "thumb": "thumbs/884c74a1-ad27-4731-b4bf-032c5d2ae883.jpg",
+   "tags": [
+    "monstrous",
+    "centaur",
+    "horse",
+    "human",
+    "warrior",
+    "bow",
+    "archer"
+   ]
+  },
+  {
+   "name": "Centaur",
+   "kind": "creature",
+   "thumb": "thumbs/7be32951-0a2a-44ce-8166-c2c00ec4387f.jpg",
+   "tags": [
+    "monstrous",
+    "centaur",
+    "horse",
+    "human",
+    "warrior",
+    "axe",
+    "shield"
+   ]
+  },
+  {
+   "name": "Chimera",
+   "kind": "creature",
+   "thumb": "thumbs/87b717f0-395b-4de8-9bf0-101a46536d33.jpg",
+   "tags": [
+    "monstrous",
+    "chimera",
+    "goat",
+    "lion",
+    "dragon",
+    "animal",
+    "beast",
+    "monstrosity"
+   ]
+  },
+  {
+   "name": "Cloaked Nightmare",
+   "kind": "creature",
+   "thumb": "thumbs/9a5c4a06-e2c8-45d0-84d7-bac74b2ed6a5.jpg",
+   "tags": [
+    "monstrous",
+    "cloaked",
+    "nightmare",
+    "cloaker",
+    "black",
+    "flying",
+    "wings",
+    "teeth"
+   ]
+  },
+  {
+   "name": "Dracolich",
+   "kind": "creature",
+   "thumb": "thumbs/77f29b74-4eb2-46cf-9cb2-5f6b74d482ad.jpg",
+   "tags": [
+    "monstrous",
+    "dragon",
+    "flying",
+    "horns",
+    "tail",
+    "wings",
+    "huge",
+    "quadruped"
+   ]
+  },
+  {
+   "name": "Dragon 2",
+   "kind": "creature",
+   "thumb": "thumbs/e3c8c0d3-c1bd-4dcf-a892-b88881712950.jpg",
+   "tags": [
+    "monstrous",
+    "dragon",
+    "animal",
+    "flying",
+    "red",
+    "horns",
+    "tail",
+    "scales"
+   ]
+  },
+  {
+   "name": "Dragon, Black",
+   "kind": "creature",
+   "thumb": "thumbs/4d0a542a-62a3-4c6a-8795-115c4fdfddbe.jpg",
+   "tags": [
+    "monstrous",
+    "black",
+    "dragon",
+    "swamp",
+    "wings",
+    "scale",
+    "scales",
+    "acid"
+   ]
+  },
+  {
+   "name": "Dragon, Gold",
+   "kind": "creature",
+   "thumb": "thumbs/48bd3eaa-dd0c-4a67-bb5e-0c22b32cac5c.jpg",
+   "tags": [
+    "monstrous",
+    "gold",
+    "dragon",
+    "wyrm",
+    "monster"
+   ]
+  },
+  {
+   "name": "Dragon",
+   "kind": "creature",
+   "thumb": "thumbs/dc39fae5-7747-47d8-85e9-bb8abab8c2f4.jpg",
+   "tags": [
+    "monstrous",
+    "dragon",
+    "tail",
+    "wings",
+    "tooth",
+    "spine",
+    "wyvern",
+    "scale"
+   ]
+  },
+  {
+   "name": "Drider",
+   "kind": "creature",
+   "thumb": "thumbs/5232cd1a-396f-44cd-8f12-5f0ada3f7aa3.jpg",
+   "tags": [
+    "monstrous",
+    "spider",
+    "drow",
+    "drider",
+    "brown",
+    "dark",
+    "underdark",
+    "spear"
+   ]
+  },
+  {
+   "name": "Gargoyle",
+   "kind": "creature",
+   "thumb": "thumbs/8fe1fe94-0614-421c-b0f5-53ff4ea606ce.jpg",
+   "tags": [
+    "monstrous",
+    "medium",
+    "gargoyle",
+    "flying",
+    "stone",
+    "horns",
+    "statue",
+    "tail"
+   ]
+  },
+  {
+   "name": "Giant Worm",
+   "kind": "creature",
+   "thumb": "thumbs/ca67e7bb-1d98-4ee2-949a-6451ab137e96.jpg",
+   "tags": [
+    "monstrous",
+    "worm",
+    "purple",
+    "giant",
+    "large",
+    "huge",
+    "monster"
+   ]
+  },
+  {
+   "name": "Gorgon",
+   "kind": "creature",
+   "thumb": "thumbs/aeda4891-1dfe-49db-8435-7c256dd909f6.jpg",
+   "tags": [
+    "monstrous",
+    "gorgon",
+    "medusa",
+    "tail",
+    "green",
+    "scale",
+    "scales"
+   ]
+  },
+  {
+   "name": "Grick",
+   "kind": "creature",
+   "thumb": "thumbs/12a3f482-6a86-4552-8660-dcce246bcf61.jpg",
+   "tags": [
+    "monstrous",
+    "grick",
+    "tentacle",
+    "beak",
+    "snake",
+    "monster",
+    "monstrosity"
+   ]
+  },
+  {
+   "name": "Griffon",
+   "kind": "creature",
+   "thumb": "thumbs/c85a3738-ea36-4637-be13-67f5fc31a863.jpg",
+   "tags": [
+    "monstrous",
+    "griffon",
+    "gryphon",
+    "hippogriff",
+    "bird",
+    "eagle",
+    "lion",
+    "beast"
+   ]
+  },
+  {
+   "name": "Harpy",
+   "kind": "creature",
+   "thumb": "thumbs/f98c186f-696d-4334-9dff-25ec03676cb8.jpg",
+   "tags": [
+    "monstrous",
+    "harpy",
+    "flying",
+    "wings",
+    "bird",
+    "brown",
+    "purple",
+    "green"
+   ]
+  },
+  {
+   "name": "Hydra",
+   "kind": "creature",
+   "thumb": "thumbs/174b783b-c07d-4996-bf6f-52aafa2d7d73.jpg",
+   "tags": [
+    "monstrous",
+    "dragon",
+    "hydra",
+    "serpent",
+    "green",
+    "scales",
+    "scale",
+    "large"
+   ]
+  },
+  {
+   "name": "Insectoid 2",
+   "kind": "creature",
+   "thumb": "thumbs/75df188c-67ad-4f9c-813c-766a48ca8a15.jpg",
+   "tags": [
+    "monstrous",
+    "insectoid",
+    "insect",
+    "humanoid",
+    "red",
+    "warrior",
+    "bug"
+   ]
+  },
+  {
+   "name": "Insectoid 3",
+   "kind": "creature",
+   "thumb": "thumbs/a775d8b0-432c-41f1-82fd-e79df6bd7525.jpg",
+   "tags": [
+    "monstrous",
+    "insectoid",
+    "insect",
+    "humanoid",
+    "yellow",
+    "warrior",
+    "bug"
+   ]
+  },
+  {
+   "name": "Insectoid",
+   "kind": "creature",
+   "thumb": "thumbs/36d67639-10b5-44a0-8f4d-34aa1ff810d4.jpg",
+   "tags": [
+    "monstrous",
+    "insectoid",
+    "insect",
+    "humanoid",
+    "purple",
+    "warrior",
+    "bug"
+   ]
+  },
+  {
+   "name": "Manticore",
+   "kind": "creature",
+   "thumb": "thumbs/3a6bfe25-fcb0-4682-81a5-047fc122b1f9.jpg",
+   "tags": [
+    "monstrous",
+    "large",
+    "flying",
+    "monster",
+    "chaotic",
+    "evil",
+    "thick",
+    "strong"
+   ]
+  },
+  {
+   "name": "Merfolk 2",
+   "kind": "creature",
+   "thumb": "thumbs/5c4cc17d-a847-4bfc-81ff-0d0ba87e81d9.jpg",
+   "tags": [
+    "monstrous",
+    "merfolk",
+    "mermaid",
+    "merrow",
+    "ocean"
+   ]
+  },
+  {
+   "name": "Merfolk",
+   "kind": "creature",
+   "thumb": "thumbs/2ca6fd1c-ed4b-41ca-ac00-b67c63ec2015.jpg",
+   "tags": [
+    "monstrous",
+    "merfolk",
+    "mermaid",
+    "merrow",
+    "ocean"
+   ]
+  },
+  {
+   "name": "Mimic 2",
+   "kind": "creature",
+   "thumb": "thumbs/2e039487-d62e-44bf-a9cd-e314b7287725.jpg",
+   "tags": [
+    "monstrous",
+    "medium",
+    "chest",
+    "mimic",
+    "monster",
+    "chaotic",
+    "evil",
+    "teeth"
+   ]
+  },
+  {
+   "name": "Mimic 3",
+   "kind": "creature",
+   "thumb": "thumbs/a332a9be-7181-4573-8d2a-1a4f66d264f1.jpg",
+   "tags": [
+    "monstrous",
+    "monstrosity",
+    "mimic",
+    "apple",
+    "red",
+    "teeth",
+    "food"
+   ]
+  },
+  {
+   "name": "Mimic",
+   "kind": "creature",
+   "thumb": "thumbs/1901d976-f7b9-4514-8500-f21b6c3756cd.jpg",
+   "tags": [
+    "monstrous",
+    "mimic",
+    "gift",
+    "present",
+    "monster",
+    "chaotic",
+    "evil",
+    "container"
+   ]
+  },
+  {
+   "name": "Reverse Centaur",
+   "kind": "creature",
+   "thumb": "thumbs/6ce5f1d5-f37f-4320-b5dc-5988f106d89d.jpg",
+   "tags": [
+    "monstrous",
+    "centaur",
+    "horse",
+    "human",
+    "warrior",
+    "sneaker"
+   ]
+  },
+  {
+   "name": "Rust Eater",
+   "kind": "creature",
+   "thumb": "thumbs/c2790cbf-dfa4-4a25-91c8-4ac4c2e823a9.jpg",
+   "tags": [
+    "monstrous",
+    "scales",
+    "rust",
+    "rustmonster",
+    "animal",
+    "centipede",
+    "rusteater",
+    "quadruped"
+   ]
+  },
+  {
+   "name": "Sea Monster",
+   "kind": "creature",
+   "thumb": "thumbs/43aa6c4a-1327-486d-8883-36564bb75ce6.jpg",
+   "tags": [
+    "monstrous",
+    "sea",
+    "giant",
+    "monster",
+    "unaligned",
+    "neutral",
+    "monstrosity",
+    "kraken"
+   ]
+  },
+  {
+   "name": "Serpentfolk Archer",
+   "kind": "creature",
+   "thumb": "thumbs/86e47097-c86c-45f6-ad77-e9064191792b.jpg",
+   "tags": [
+    "monstrous",
+    "cloth",
+    "bow",
+    "monstrosity",
+    "amphibian",
+    "green",
+    "white",
+    "bracer"
+   ]
+  },
+  {
+   "name": "Serpentfolk Caster",
+   "kind": "creature",
+   "thumb": "thumbs/f7fd7d1c-f98b-4535-8d2d-0773ff7ed77f.jpg",
+   "tags": [
+    "monstrous",
+    "monster",
+    "monstrosity",
+    "reptile",
+    "amphibian",
+    "animal",
+    "green",
+    "snake"
+   ]
+  },
+  {
+   "name": "Serpentfolk Warrior",
+   "kind": "creature",
+   "thumb": "thumbs/88872f42-0a97-487b-a89f-393ee4fe0ef0.jpg",
+   "tags": [
+    "monstrous",
+    "monster",
+    "monstrosity",
+    "reptile",
+    "amphibian",
+    "animal",
+    "green",
+    "snake"
+   ]
+  },
+  {
+   "name": "Shambler",
+   "kind": "creature",
+   "thumb": "thumbs/6d9f4acf-dcca-4f33-9c05-106f77670380.jpg",
+   "tags": [
+    "monstrous",
+    "shambler",
+    "swamp",
+    "moss",
+    "monster",
+    "neutral",
+    "evil",
+    "plant"
+   ]
+  },
+  {
+   "name": "Slime",
+   "kind": "creature",
+   "thumb": "thumbs/62a6d6c0-deab-44b7-a9a4-322b115374a2.jpg",
+   "tags": [
+    "monstrous",
+    "small",
+    "slime",
+    "monster",
+    "slimy",
+    "chaotic",
+    "neutral",
+    "monstrosity"
+   ]
+  },
+  {
+   "name": "Sphinx 2",
+   "kind": "creature",
+   "thumb": "thumbs/e2f37589-b242-47b6-aad2-0e6a941aa128.jpg",
+   "tags": [
+    "monstrous",
+    "wings",
+    "brown",
+    "sphinx",
+    "feather",
+    "flying",
+    "large",
+    "monster"
+   ]
+  },
+  {
+   "name": "Sphinx",
+   "kind": "creature",
+   "thumb": "thumbs/a91b0cce-49f9-4c03-a60e-14ed2cd16d1d.jpg",
+   "tags": [
+    "monstrous",
+    "wings",
+    "brown",
+    "sphinx",
+    "feather",
+    "flying",
+    "large",
+    "monster"
+   ]
+  },
+  {
+   "name": "Stirge",
+   "kind": "creature",
+   "thumb": "thumbs/68afb2eb-4809-4bd1-afd2-fc7c18b033b4.jpg",
+   "tags": [
+    "monstrous",
+    "styrge",
+    "swamp",
+    "flying",
+    "bat",
+    "insect",
+    "stirge",
+    "monster"
+   ]
+  },
+  {
+   "name": "Tentacle, Large",
+   "kind": "creature",
+   "thumb": "thumbs/9dfd67c9-3e74-4079-9c8e-b81d680acc5a.jpg",
+   "tags": [
+    "monstrous",
+    "tentacle",
+    "large",
+    "sea",
+    "monster",
+    "unaligned",
+    "neutral",
+    "monstrosity"
+   ]
+  },
+  {
+   "name": "Troll",
+   "kind": "creature",
+   "thumb": "thumbs/e90923c3-441a-4811-93d0-946f267281f1.jpg",
+   "tags": [
+    "monstrous",
+    "large",
+    "troll",
+    "humanoid",
+    "club",
+    "monster",
+    "slimy",
+    "chaotic"
+   ]
+  },
+  {
+   "name": "Werewolf",
+   "kind": "creature",
+   "thumb": "thumbs/2f07389d-9c10-417f-8e32-88d1551327f1.jpg",
+   "tags": [
+    "monstrous",
+    "werewolf",
+    "wolf",
+    "monster",
+    "fur",
+    "chaotic",
+    "evil",
+    "monstrosity"
+   ]
+  },
+  {
+   "name": "Yeti",
+   "kind": "creature",
+   "thumb": "thumbs/dd10619f-2111-40f2-8d86-4e9407a3003f.jpg",
+   "tags": [
+    "monstrous",
+    "yeti",
+    "snow",
+    "monster",
+    "horns",
+    "fur",
+    "chaotic",
+    "evil"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,851 @@
+{
+ "id": "ee605e32-2ba4-586d-937c-70babe6204de",
+ "folder": "Undead Creatures.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 730,
+   "sha256": "bc698a72e5525d3991f2e8424cdac18c75200f35fc2ab306b8067c1d24a084fe"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 24196,
+   "sha256": "a5ef26500decc29a7bd63e54bfbc8cc4462bd5c67f4f4df83d62aed711770181"
+  },
+  {
+   "path": "creatures/banshee.md",
+   "size": 272,
+   "sha256": "bed17d1abe5d8ed1f6eb8f05741c990ffe0e49e27d5543a63d512831e6a8d798"
+  },
+  {
+   "path": "creatures/blood-queen.md",
+   "size": 288,
+   "sha256": "ec3ed6da74638de1e23749bba3b19c3638849200ceb8358a250e2aa339c7805b"
+  },
+  {
+   "path": "creatures/death-knight.md",
+   "size": 293,
+   "sha256": "b59d1c6f4e90b25e1c34881d743187affdb8bc14d6d426cbff14e47d8fcf5568"
+  },
+  {
+   "path": "creatures/evil-spirit.md",
+   "size": 289,
+   "sha256": "3883764d43480906c41e8159c2dc3d5a44da0ebdac7b82cd0b20b89fece98c65"
+  },
+  {
+   "path": "creatures/ghost.md",
+   "size": 278,
+   "sha256": "ab795413d73580e9a3795852ea249f0c2eebc36033d1d2a3c42a5f1180f5664a"
+  },
+  {
+   "path": "creatures/ghoul.md",
+   "size": 274,
+   "sha256": "0bcc712f77b4beb88130f5c24ab1d6a67695548b8a3224c9299f0be92305eaee"
+  },
+  {
+   "path": "creatures/haunted-armor.md",
+   "size": 299,
+   "sha256": "84dfa5aa7b46633b7fa6f6971ea9818154686923a878945440f9be782cbf9193"
+  },
+  {
+   "path": "creatures/lich.md",
+   "size": 273,
+   "sha256": "82ff8cfb5c1578cce1a8240aa69dce60f2f2ca3047152d4a590565b85170100a"
+  },
+  {
+   "path": "creatures/mummy.md",
+   "size": 260,
+   "sha256": "037a5c13efc1085395ec928ca9f06e80c549c58a78abcd6f346769bd496d08fa"
+  },
+  {
+   "path": "creatures/skeleton-archer.md",
+   "size": 292,
+   "sha256": "faebbffae7fb1388f7bb3c81d2d34888bf02493e20ac2d7810922bb3e7a1a889"
+  },
+  {
+   "path": "creatures/skeleton-lord.md",
+   "size": 292,
+   "sha256": "e939a6e6e22e43afe765c6b2d2af2c3121e62812954941486ff32f76b171e1e8"
+  },
+  {
+   "path": "creatures/skeleton-warrior-2.md",
+   "size": 312,
+   "sha256": "571239d45d2c52c7c2f4e7e01c55b231efc7f75f7bc14b5ba12fb744170b9daa"
+  },
+  {
+   "path": "creatures/skeleton-warrior.md",
+   "size": 312,
+   "sha256": "a5bcf5627b57188e9624df1f268912de6604259258cad1dc11e6d7a923d116ee"
+  },
+  {
+   "path": "creatures/vampire.md",
+   "size": 287,
+   "sha256": "9100da1d97bda2a7969913c436acbdc52929ad9c49bb58c81fe9666237aad822"
+  },
+  {
+   "path": "creatures/zombie-2.md",
+   "size": 270,
+   "sha256": "d52fb708ad8c3ea88ced1b83aec3da19d8d24c9ade643a7a5439860f569f12b7"
+  },
+  {
+   "path": "creatures/zombie-3.md",
+   "size": 270,
+   "sha256": "9ef713c405d918a607998e5714d4a2990dda996d7d4609a39f91d2625bc0fb71"
+  },
+  {
+   "path": "creatures/zombie-4.md",
+   "size": 292,
+   "sha256": "8ff9098f0b1b74a26f5c346574bbcc64161ca6881d86f827c08755656239f7e9"
+  },
+  {
+   "path": "creatures/zombie-dwarf.md",
+   "size": 285,
+   "sha256": "dafe115b5ac6c072a4697d70936a39644d6e89f4a1fdec794b0fcb44a4dd247c"
+  },
+  {
+   "path": "creatures/zombie-elf.md",
+   "size": 302,
+   "sha256": "49518f76c6f100557d32d77b21689b203185f278d2fb36899e161a1c2cdb73e0"
+  },
+  {
+   "path": "creatures/zombie.md",
+   "size": 268,
+   "sha256": "acc424d9e307de5611d439bfa87f7bc0c79ed9d59394e21d56d44438bb5f8983"
+  },
+  {
+   "path": "media/creatures/Undead/Banshee.usd",
+   "size": 794607,
+   "sha256": "648b2966e7f546dd1a85bd9ecffa3ac6981ee08b29fea642cc39c5219252e96b"
+  },
+  {
+   "path": "media/creatures/Undead/Blood Queen.usd",
+   "size": 967119,
+   "sha256": "1904f8570627c177bed4f5db847237a57f3d30aa8cd346a999881ced6272bc85"
+  },
+  {
+   "path": "media/creatures/Undead/Death Knight.usd",
+   "size": 1067352,
+   "sha256": "3902e6fa9102797cb9ae059bba4fbf6a178769c4f9fead5971303d9f8adbd07c"
+  },
+  {
+   "path": "media/creatures/Undead/Evil Spirit.usd",
+   "size": 787977,
+   "sha256": "b8b7a0a8950d6a9747f49e2860ca4ca227a0e9addfb320bac387888262bb599a"
+  },
+  {
+   "path": "media/creatures/Undead/Ghost.usd",
+   "size": 804377,
+   "sha256": "bc19fda8e41550bffa7de3080c53f530df19a6cf72713ebe779d7a9b834b61fa"
+  },
+  {
+   "path": "media/creatures/Undead/Ghoul.usd",
+   "size": 967776,
+   "sha256": "70fe484c8857b70fc2bc301c8433041328bc2955e559accf8b9fc0de5dd537ec"
+  },
+  {
+   "path": "media/creatures/Undead/Haunted Armor.usd",
+   "size": 1351286,
+   "sha256": "a18ee3d2accc4096e70b4017a70bfd56e9ea4380d5a843c11e1845b11d7c32a0"
+  },
+  {
+   "path": "media/creatures/Undead/Lich.usd",
+   "size": 641720,
+   "sha256": "10816a2cef5c86e9f7b1b51b2cd90c5b4b5d72b75730ba2b67980df124d9dacb"
+  },
+  {
+   "path": "media/creatures/Undead/Mummy.usd",
+   "size": 1188809,
+   "sha256": "c90d8c705dc9aa015ce79f46c868caf41e22f91eae4ab27b2d1e046220f62384"
+  },
+  {
+   "path": "media/creatures/Undead/Skeleton Archer.usd",
+   "size": 577458,
+   "sha256": "2c1084c1dd32abdbab4207b12dd364a0ac5b835e0cf8d601ae0f1a149e251070"
+  },
+  {
+   "path": "media/creatures/Undead/Skeleton Lord.usd",
+   "size": 641382,
+   "sha256": "ff4253e7f30c97a144942a5b5691456a528cd45f326f67e930424545332425a6"
+  },
+  {
+   "path": "media/creatures/Undead/Skeleton Warrior__d20324fd.usd",
+   "size": 660581,
+   "sha256": "ccdfee554d2a205fe4d0865376dbe3e033088d03423abd139cf96c95eb4a76d5"
+  },
+  {
+   "path": "media/creatures/Undead/Skeleton Warrior__e7c4802c.usd",
+   "size": 649731,
+   "sha256": "ed4238271a922803d6895628109669a577834b138c000ece75b8352a857e615c"
+  },
+  {
+   "path": "media/creatures/Undead/Vampire.usd",
+   "size": 1072924,
+   "sha256": "8baf9683ceb77c3396bd8697132b73dff1914d84e50e040037f45db36cf2ccb9"
+  },
+  {
+   "path": "media/creatures/Undead/Zombie, Dwarf.usd",
+   "size": 1134446,
+   "sha256": "46e05d7c67406694442e141402eab9a9748dcb20dbbd039f9af19407df1dab17"
+  },
+  {
+   "path": "media/creatures/Undead/Zombie, Elf.usd",
+   "size": 1033275,
+   "sha256": "dddb7200cb00f01a76e602a40de768145e6c8005e651230f4b6b43f46a231e38"
+  },
+  {
+   "path": "media/creatures/Undead/Zombie__6457b863.usd",
+   "size": 1065668,
+   "sha256": "24e871cac6fbfe503b73c615bc5fff6f4c7688a69692beae0db651e378829b39"
+  },
+  {
+   "path": "media/creatures/Undead/Zombie__729c5a08.usd",
+   "size": 1073314,
+   "sha256": "4a1ca252ce92f14f8987e36943be59b87aa2a4afa1c110c363a4761efd51db89"
+  },
+  {
+   "path": "media/creatures/Undead/Zombie__b7b0795e.usd",
+   "size": 1074747,
+   "sha256": "a113b09f62e7e5db462d2c3deb5233d4e3c36504c425dc9a10454a59e3ad4332"
+  },
+  {
+   "path": "media/creatures/Undead/Zombie__c4109b05.usd",
+   "size": 975902,
+   "sha256": "3baefcf3d4e686caac729dd9a6a8fec6ec402a4c97743db0b065b74835247f0d"
+  },
+  {
+   "path": "media/materials/Library.usdc",
+   "size": 19724,
+   "sha256": "c24d21cc536ed131cf8633109bc9ffdf7e045cd0c2da1da90544a18c4fa9d5ba"
+  },
+  {
+   "path": "media/materials/textures/basalt.png",
+   "size": 25957,
+   "sha256": "e7295df0b2356c29812c23d4ee8cfcbbab04ee3eb5f20f52d281a6846c8f2e96"
+  },
+  {
+   "path": "media/materials/textures/basalt_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/blue.png",
+   "size": 29622,
+   "sha256": "bb2482f15178dd7ed1883b5558bae3c5db1e6f63dfb0a562b16da3cffcd80add"
+  },
+  {
+   "path": "media/materials/textures/blue_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bluefire.png",
+   "size": 40884,
+   "sha256": "95947aba8ef1863b10a5ceb035363c014f49bb066a629334e6b9fb0c0b2a2a57"
+  },
+  {
+   "path": "media/materials/textures/bluefire_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bone.png",
+   "size": 52095,
+   "sha256": "60127b0b9d500672ffa4413c2e0331968daf672f9edbbc58e031bd20a24410ce"
+  },
+  {
+   "path": "media/materials/textures/bone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/brass.png",
+   "size": 45700,
+   "sha256": "7653b7e6c813911303d183fd977ca9007540d1f30b8a647ce49a9b4b25479a7e"
+  },
+  {
+   "path": "media/materials/textures/brass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/fur.png",
+   "size": 32075,
+   "sha256": "e6ebdc6bf38121ac2caa3f246dbf760ceb5f618f67a707849f43ac55ee75e56d"
+  },
+  {
+   "path": "media/materials/textures/fur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ghost.png",
+   "size": 46813,
+   "sha256": "6b86f729a542c078e35015b96d3bdf6bb6fd252e59dc931fbd818c4ac61d0809"
+  },
+  {
+   "path": "media/materials/textures/ghost_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/goblinskin.png",
+   "size": 40654,
+   "sha256": "bc088b6cce6935a3e38a4e34d3f8e553b7269a409f04d5892d4bb7bcbb804e7a"
+  },
+  {
+   "path": "media/materials/textures/goblinskin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/grass.png",
+   "size": 37697,
+   "sha256": "f6440b6a238240b171a02d0a9abfa1db6e3b23470ea136796156c95dc85ecb1a"
+  },
+  {
+   "path": "media/materials/textures/grass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ice.png",
+   "size": 54673,
+   "sha256": "1776de4df5a1aa0fd4c24462a5bf2188a02dd0f291b002f76689f64c7401183f"
+  },
+  {
+   "path": "media/materials/textures/ice_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/iron.png",
+   "size": 33226,
+   "sha256": "b819ee206156042e76233baf2e2abdb7f0a4a0ae5bc64a26cfaaec7a6fae6a3b"
+  },
+  {
+   "path": "media/materials/textures/iron_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/jade.png",
+   "size": 33655,
+   "sha256": "449a6862f41cf33514e10aa482f65a2dd957d8accc0e776a061972b2b5323771"
+  },
+  {
+   "path": "media/materials/textures/jade_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/lava.png",
+   "size": 36124,
+   "sha256": "f4f7e6f7c9f527d2c962cacf29c83a795a16ecc66640854685970879a3f94e4c"
+  },
+  {
+   "path": "media/materials/textures/lava_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/leather.png",
+   "size": 22325,
+   "sha256": "5466b2bd41efecafe9089281e6fca4ca93def727a9c16cafc86dadf55d211774"
+  },
+  {
+   "path": "media/materials/textures/leather_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/limestone.png",
+   "size": 49995,
+   "sha256": "bf8ce44b291f665ea0c34f28befb206e92da7202b60d7b8ebdfc5fe801118ee9"
+  },
+  {
+   "path": "media/materials/textures/limestone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/marble.png",
+   "size": 31933,
+   "sha256": "d8c25c02c17e9076c1bb4fb692d360f9fb31c298ca833d8c244e306ff3604ae7"
+  },
+  {
+   "path": "media/materials/textures/marble_normal.png",
+   "size": 29285,
+   "sha256": "d4e5ab67529195c5a5be286a022e1e9c8058b9b614eadb7612942462d083a0ef"
+  },
+  {
+   "path": "media/materials/textures/mortar.png",
+   "size": 30700,
+   "sha256": "0749995c21d077be43c42b8de716a7992549eb89f73ba68253792accc4dc03e9"
+  },
+  {
+   "path": "media/materials/textures/mortar_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/oak.png",
+   "size": 44710,
+   "sha256": "cdf8ce500e0145dddaba5408a7bb6b6013c72e37ae225e23903efb16b6eaebd5"
+  },
+  {
+   "path": "media/materials/textures/oak_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  },
+  {
+   "path": "media/materials/textures/paper.png",
+   "size": 52363,
+   "sha256": "e8344646e132da563f18a9157fbf98bd778a6070ac4443ad6e3f209bb2b04fa6"
+  },
+  {
+   "path": "media/materials/textures/paper_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/plaster.png",
+   "size": 51787,
+   "sha256": "7a4c5f149f38204773143f16e06851f33496c436db368fe8a964a390873bfc2e"
+  },
+  {
+   "path": "media/materials/textures/plaster_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/red.png",
+   "size": 30685,
+   "sha256": "efbdd3cc8b5c72553f9db3b9c26860b5c364c1f321b3aa6012ecb45130633ed4"
+  },
+  {
+   "path": "media/materials/textures/red_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rope.png",
+   "size": 44507,
+   "sha256": "24b4fed56ade7e162aa38fcd54886e3c2730f38af4befb25c843422a278e5bbb"
+  },
+  {
+   "path": "media/materials/textures/rope_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rose.png",
+   "size": 51725,
+   "sha256": "e0e37ae18b6906a144680a1155de6ffad7e2bb083d9999fff0363e5112aee4d2"
+  },
+  {
+   "path": "media/materials/textures/rose_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/sand.png",
+   "size": 36961,
+   "sha256": "85886e8f7b3434815829178445b87ff6158c13e8164a8ffda3993c2f221a24cc"
+  },
+  {
+   "path": "media/materials/textures/sand_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/sandstone.png",
+   "size": 47840,
+   "sha256": "ef16b0605a795be8f93f5af413856bbace96ad202e7236059578339d185c3007"
+  },
+  {
+   "path": "media/materials/textures/sandstone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/scales.png",
+   "size": 35840,
+   "sha256": "b1bed18fc93d1ce569ba48331159220c33f9c0feacf02155e12816a7bcaf1e2d"
+  },
+  {
+   "path": "media/materials/textures/scales_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/skin.png",
+   "size": 46985,
+   "sha256": "5ca6e03744c454380928115d5223e4630134a27767a7b26dcfba204d1c4fcf47"
+  },
+  {
+   "path": "media/materials/textures/skin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/snow.png",
+   "size": 42837,
+   "sha256": "0d8d0cd049935a17e0b71ebea93ac5e8f823a998dd72ba10e283741ead9d4260"
+  },
+  {
+   "path": "media/materials/textures/snow_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/soil.png",
+   "size": 32264,
+   "sha256": "4c90d4c1a131223b16a1e4b20de7aa877cded6e90e932f4df75e0e9ec652f615"
+  },
+  {
+   "path": "media/materials/textures/soil_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/steel.png",
+   "size": 49671,
+   "sha256": "eea5cdd9f65ec98b43afd1f7e80a070c60c40fcb61812c4f3c3d6d16c9d95e38"
+  },
+  {
+   "path": "media/materials/textures/steel_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/stone.png",
+   "size": 42272,
+   "sha256": "e4f23d37e5e6d3a83d836d06089b88547117cb6b8978b3b448796eaa655d2ec9"
+  },
+  {
+   "path": "media/materials/textures/stone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/tanfur.png",
+   "size": 44965,
+   "sha256": "5c21a980f0db8b2fcc14c81ba8f6b487e73dd27d2a4bfe3e5000650534d675a7"
+  },
+  {
+   "path": "media/materials/textures/tanfur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/water.png",
+   "size": 29402,
+   "sha256": "a7861a6a33fa96041dd14a7c2ea61c48bfc767b4fbb3e2a2add4fcc74a347850"
+  },
+  {
+   "path": "media/materials/textures/water_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/wood.png",
+   "size": 36098,
+   "sha256": "93be5dba40fb0504f65177b720e06059d439aaf10c0c215617ba6fe9e55769f9"
+  },
+  {
+   "path": "media/materials/textures/wood_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Banshee",
+   "kind": "creature",
+   "thumb": "thumbs/05dcdb30-af33-416b-ae01-9ad64619b540.jpg",
+   "tags": [
+    "undead",
+    "banshee",
+    "ghost",
+    "flying",
+    "haunted",
+    "mouth",
+    "ghoul"
+   ]
+  },
+  {
+   "name": "Blood Queen",
+   "kind": "creature",
+   "thumb": "thumbs/841a61fe-4603-4c27-bc4e-424f30dc4fb8.jpg",
+   "tags": [
+    "undead",
+    "vampire",
+    "medium",
+    "moorgoth",
+    "claws",
+    "teeth",
+    "blood",
+    "queen"
+   ]
+  },
+  {
+   "name": "Death Knight",
+   "kind": "creature",
+   "thumb": "thumbs/95c2a590-af1e-48fc-b7e7-73b28558845b.jpg",
+   "tags": [
+    "undead",
+    "death",
+    "knight",
+    "deathknight",
+    "skeleton",
+    "plate",
+    "full",
+    "armor"
+   ]
+  },
+  {
+   "name": "Evil Spirit",
+   "kind": "creature",
+   "thumb": "thumbs/be83b2f6-810b-4980-9bc6-44fcd588dbfc.jpg",
+   "tags": [
+    "undead",
+    "medium",
+    "dead",
+    "graveyard",
+    "lantern",
+    "chains",
+    "chain",
+    "ghast"
+   ]
+  },
+  {
+   "name": "Ghost",
+   "kind": "creature",
+   "thumb": "thumbs/32202aca-89a9-47e1-aeba-89884457b7ec.jpg",
+   "tags": [
+    "undead",
+    "medium",
+    "village",
+    "peasant",
+    "graveyard",
+    "ghost",
+    "dead",
+    "grave"
+   ]
+  },
+  {
+   "name": "Ghoul",
+   "kind": "creature",
+   "thumb": "thumbs/6ea9f17b-5399-4535-8ebf-2da33b1ea517.jpg",
+   "tags": [
+    "undead",
+    "medium",
+    "ghoul",
+    "turquoise",
+    "blue",
+    "ghast",
+    "zombie",
+    "bone"
+   ]
+  },
+  {
+   "name": "Haunted Armor",
+   "kind": "creature",
+   "thumb": "thumbs/e56ebe2a-5400-4a09-8e80-d1506d5532d9.jpg",
+   "tags": [
+    "undead",
+    "armor",
+    "flying",
+    "graveyard",
+    "haunted",
+    "moorgoth",
+    "evil",
+    "fullplate"
+   ]
+  },
+  {
+   "name": "Lich",
+   "kind": "creature",
+   "thumb": "thumbs/7ff2a6e1-2c02-45f5-a30b-4c8f67239661.jpg",
+   "tags": [
+    "undead",
+    "medium",
+    "lich",
+    "summoner",
+    "staff",
+    "sorcerer",
+    "magic",
+    "wand"
+   ]
+  },
+  {
+   "name": "Mummy",
+   "kind": "creature",
+   "thumb": "thumbs/065eb04a-0c5c-4086-abb1-6ef11bf9ab0d.jpg",
+   "tags": [
+    "undead",
+    "medium",
+    "crypt",
+    "graveyard",
+    "dead",
+    "grave"
+   ]
+  },
+  {
+   "name": "Skeleton Archer",
+   "kind": "creature",
+   "thumb": "thumbs/6bc7f4dd-e5ca-4e99-ba6e-d39804fb3663.jpg",
+   "tags": [
+    "undead",
+    "medium",
+    "archer",
+    "bow",
+    "crypt",
+    "graveyard",
+    "bone",
+    "dead"
+   ]
+  },
+  {
+   "name": "Skeleton Lord",
+   "kind": "creature",
+   "thumb": "thumbs/0e96e650-18e2-4007-8277-943e4c16b826.jpg",
+   "tags": [
+    "undead",
+    "medium",
+    "fancy",
+    "noble",
+    "book",
+    "crypt",
+    "graveyard",
+    "library"
+   ]
+  },
+  {
+   "name": "Skeleton Warrior 2",
+   "kind": "creature",
+   "thumb": "thumbs/e7c4802c-8430-4690-b71e-d88627249ee2.jpg",
+   "tags": [
+    "undead",
+    "medium",
+    "warrior",
+    "spear",
+    "graveyard",
+    "crypt",
+    "fighter",
+    "bone"
+   ]
+  },
+  {
+   "name": "Skeleton Warrior",
+   "kind": "creature",
+   "thumb": "thumbs/d20324fd-8951-4f76-bf03-249c19662f80.jpg",
+   "tags": [
+    "undead",
+    "medium",
+    "sword",
+    "warrior",
+    "fighter",
+    "shield",
+    "graveyard",
+    "crypt"
+   ]
+  },
+  {
+   "name": "Vampire",
+   "kind": "creature",
+   "thumb": "thumbs/435c323d-7ab9-47bd-a5a3-d9344c59af5b.jpg",
+   "tags": [
+    "undead",
+    "medium",
+    "vampire",
+    "noble",
+    "walkingstick",
+    "staff",
+    "sorcerer",
+    "crypt"
+   ]
+  },
+  {
+   "name": "Zombie 2",
+   "kind": "creature",
+   "thumb": "thumbs/729c5a08-73fe-4022-aae1-8e89dd784c14.jpg",
+   "tags": [
+    "undead",
+    "monster",
+    "zombie",
+    "biped",
+    "shambling"
+   ]
+  },
+  {
+   "name": "Zombie 3",
+   "kind": "creature",
+   "thumb": "thumbs/b7b0795e-29f1-471a-8dcc-695eaa8cd288.jpg",
+   "tags": [
+    "undead",
+    "monster",
+    "zombie",
+    "biped",
+    "shambling"
+   ]
+  },
+  {
+   "name": "Zombie 4",
+   "kind": "creature",
+   "thumb": "thumbs/c4109b05-0e1c-4b71-b1c3-2c4153b13133.jpg",
+   "tags": [
+    "undead",
+    "medium",
+    "unarmed",
+    "graveyard",
+    "crypt",
+    "zombie",
+    "ghoul",
+    "ghast"
+   ]
+  },
+  {
+   "name": "Zombie, Dwarf",
+   "kind": "creature",
+   "thumb": "thumbs/c2064207-1984-460a-a1b8-5c0f34e590e9.jpg",
+   "tags": [
+    "undead",
+    "monster",
+    "dwarf",
+    "zombie",
+    "red",
+    "green",
+    "tan",
+    "biped"
+   ]
+  },
+  {
+   "name": "Zombie, Elf",
+   "kind": "creature",
+   "thumb": "thumbs/4f123d56-a712-496b-b436-f5f99f2fcde9.jpg",
+   "tags": [
+    "undead",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "monster",
+    "monstrosity",
+    "monstrous",
+    "skeleton"
+   ]
+  },
+  {
+   "name": "Zombie",
+   "kind": "creature",
+   "thumb": "thumbs/6457b863-0258-4149-b552-32d405f366b6.jpg",
+   "tags": [
+    "undead",
+    "monster",
+    "zombie",
+    "biped",
+    "shambling"
+   ]
+  }
+ ]
+}

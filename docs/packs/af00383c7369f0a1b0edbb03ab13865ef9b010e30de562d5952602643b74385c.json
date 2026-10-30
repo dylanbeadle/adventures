@@ -1,0 +1,31 @@
+{
+ "id": "5a1e7ab1-0000-4000-8000-000000000101",
+ "folder": "Maren Holt.spatialhero",
+ "files": [
+  {
+   "path": "cover.jpg",
+   "size": 31709,
+   "sha256": "f3397274847127660882f7a74b02688d447afbebfe739dd84bb84cbbfb55fdd0"
+  },
+  {
+   "path": "creatures/maren.md",
+   "size": 325,
+   "sha256": "f76ac5c51cebd2383f38434608f69ecd74d806310d980147f5457a04b2d36529"
+  },
+  {
+   "path": "hero.md",
+   "size": 456,
+   "sha256": "f4a944020c8e8d04977261903c23dfaf22efa65bad60bb04858c84c7260be2e4"
+  },
+  {
+   "path": "items/border-shield.md",
+   "size": 122,
+   "sha256": "a859158e6658598a67f52301838b75bc18476e1cd2b822369d83f58004502928"
+  },
+  {
+   "path": "media/maren.usdz",
+   "size": 3277815,
+   "sha256": "9141a9cdb5af39d29072d44d384619605a27812302a2477947832359dca6cb76"
+  }
+ ]
+}

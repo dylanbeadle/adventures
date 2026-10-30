@@ -1,0 +1,513 @@
+{
+ "id": "e46335f3-b54d-589d-beae-f493331ee649",
+ "folder": "Gnome Creatures.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 594,
+   "sha256": "ecbdc36888394a873151746cd71fc4d324506f4624d80ed12e046a357d780c69"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 18780,
+   "sha256": "a23ea2f9b054692a388b6bc811d1fc622a7eb0da9db474aaa90db591802cb23c"
+  },
+  {
+   "path": "creatures/dark-gnome-cleric.md",
+   "size": 311,
+   "sha256": "1d12e8797ab0b255347719c4489bf97bf96bbbc9116168c286d77bfb8ddc46fe"
+  },
+  {
+   "path": "creatures/dark-gnome-warrior.md",
+   "size": 314,
+   "sha256": "8017806f124dc80916bf4024361bcb7383c191ce92788a20c650f013b77a2eaf"
+  },
+  {
+   "path": "creatures/gnome-alchemist.md",
+   "size": 320,
+   "sha256": "8e00d37b598526defeb4d7455b6554db70e93d4dd926ceeb9f75a7cd8a17ab22"
+  },
+  {
+   "path": "creatures/gnome-spellcaster.md",
+   "size": 315,
+   "sha256": "fc118f153839a59542f0aaf3f224500399fbda20b0fc3c54d8b5cdd33acd5ba4"
+  },
+  {
+   "path": "creatures/gnome-tinkerer.md",
+   "size": 309,
+   "sha256": "18708153bb60e10a620cce1fbfe49cde70b4640d9a26db0c7fe245675fa319e0"
+  },
+  {
+   "path": "creatures/yigmond-marbu.md",
+   "size": 293,
+   "sha256": "e9c9e594a8a47c565fe1cd94d4c5eeb960d0a81ca66dfff8409f90fa7631f760"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Cleric.usd",
+   "size": 1233520,
+   "sha256": "4f968c4da1cc27796985eed2957266c68364f6626349b25469078a3d0a2ce16e"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Warrior.usd",
+   "size": 1280757,
+   "sha256": "2905b407e523faa94ab596d0e19d1d3f12a1ea55877f61c8388d5d689c3974f6"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Alchemist.usd",
+   "size": 1018539,
+   "sha256": "9a867d8e75182e10c48afa873901bf89543f80dead1474377886646acf323683"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Spellcaster.usd",
+   "size": 1066504,
+   "sha256": "2fb41934ab8f4d158c941b5da5e09355fde7ce180920e77543ac1044a3720bf6"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Tinkerer.usd",
+   "size": 1072149,
+   "sha256": "4a022e280e3ccbd2ac79f6decf485f7877e97c65e746b17aab33e62c7a16f3f2"
+  },
+  {
+   "path": "media/creatures/Gnome/Yigmond Marbu.usd",
+   "size": 1097195,
+   "sha256": "b85d3d4540778ea41c8d49cfc35d3c4b4d191aa03ab5aaa5a36b694f1cc62101"
+  },
+  {
+   "path": "media/materials/Library.usdc",
+   "size": 19724,
+   "sha256": "c24d21cc536ed131cf8633109bc9ffdf7e045cd0c2da1da90544a18c4fa9d5ba"
+  },
+  {
+   "path": "media/materials/textures/basalt.png",
+   "size": 25957,
+   "sha256": "e7295df0b2356c29812c23d4ee8cfcbbab04ee3eb5f20f52d281a6846c8f2e96"
+  },
+  {
+   "path": "media/materials/textures/basalt_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/blue.png",
+   "size": 29622,
+   "sha256": "bb2482f15178dd7ed1883b5558bae3c5db1e6f63dfb0a562b16da3cffcd80add"
+  },
+  {
+   "path": "media/materials/textures/blue_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bluefire.png",
+   "size": 40884,
+   "sha256": "95947aba8ef1863b10a5ceb035363c014f49bb066a629334e6b9fb0c0b2a2a57"
+  },
+  {
+   "path": "media/materials/textures/bluefire_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bone.png",
+   "size": 52095,
+   "sha256": "60127b0b9d500672ffa4413c2e0331968daf672f9edbbc58e031bd20a24410ce"
+  },
+  {
+   "path": "media/materials/textures/bone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/brass.png",
+   "size": 45700,
+   "sha256": "7653b7e6c813911303d183fd977ca9007540d1f30b8a647ce49a9b4b25479a7e"
+  },
+  {
+   "path": "media/materials/textures/brass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/fur.png",
+   "size": 32075,
+   "sha256": "e6ebdc6bf38121ac2caa3f246dbf760ceb5f618f67a707849f43ac55ee75e56d"
+  },
+  {
+   "path": "media/materials/textures/fur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ghost.png",
+   "size": 46813,
+   "sha256": "6b86f729a542c078e35015b96d3bdf6bb6fd252e59dc931fbd818c4ac61d0809"
+  },
+  {
+   "path": "media/materials/textures/ghost_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/goblinskin.png",
+   "size": 40654,
+   "sha256": "bc088b6cce6935a3e38a4e34d3f8e553b7269a409f04d5892d4bb7bcbb804e7a"
+  },
+  {
+   "path": "media/materials/textures/goblinskin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/grass.png",
+   "size": 37697,
+   "sha256": "f6440b6a238240b171a02d0a9abfa1db6e3b23470ea136796156c95dc85ecb1a"
+  },
+  {
+   "path": "media/materials/textures/grass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ice.png",
+   "size": 54673,
+   "sha256": "1776de4df5a1aa0fd4c24462a5bf2188a02dd0f291b002f76689f64c7401183f"
+  },
+  {
+   "path": "media/materials/textures/ice_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/iron.png",
+   "size": 33226,
+   "sha256": "b819ee206156042e76233baf2e2abdb7f0a4a0ae5bc64a26cfaaec7a6fae6a3b"
+  },
+  {
+   "path": "media/materials/textures/iron_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/jade.png",
+   "size": 33655,
+   "sha256": "449a6862f41cf33514e10aa482f65a2dd957d8accc0e776a061972b2b5323771"
+  },
+  {
+   "path": "media/materials/textures/jade_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/lava.png",
+   "size": 36124,
+   "sha256": "f4f7e6f7c9f527d2c962cacf29c83a795a16ecc66640854685970879a3f94e4c"
+  },
+  {
+   "path": "media/materials/textures/lava_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/leather.png",
+   "size": 22325,
+   "sha256": "5466b2bd41efecafe9089281e6fca4ca93def727a9c16cafc86dadf55d211774"
+  },
+  {
+   "path": "media/materials/textures/leather_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/limestone.png",
+   "size": 49995,
+   "sha256": "bf8ce44b291f665ea0c34f28befb206e92da7202b60d7b8ebdfc5fe801118ee9"
+  },
+  {
+   "path": "media/materials/textures/limestone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/marble.png",
+   "size": 31933,
+   "sha256": "d8c25c02c17e9076c1bb4fb692d360f9fb31c298ca833d8c244e306ff3604ae7"
+  },
+  {
+   "path": "media/materials/textures/marble_normal.png",
+   "size": 29285,
+   "sha256": "d4e5ab67529195c5a5be286a022e1e9c8058b9b614eadb7612942462d083a0ef"
+  },
+  {
+   "path": "media/materials/textures/mortar.png",
+   "size": 30700,
+   "sha256": "0749995c21d077be43c42b8de716a7992549eb89f73ba68253792accc4dc03e9"
+  },
+  {
+   "path": "media/materials/textures/mortar_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/oak.png",
+   "size": 44710,
+   "sha256": "cdf8ce500e0145dddaba5408a7bb6b6013c72e37ae225e23903efb16b6eaebd5"
+  },
+  {
+   "path": "media/materials/textures/oak_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  },
+  {
+   "path": "media/materials/textures/paper.png",
+   "size": 52363,
+   "sha256": "e8344646e132da563f18a9157fbf98bd778a6070ac4443ad6e3f209bb2b04fa6"
+  },
+  {
+   "path": "media/materials/textures/paper_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/plaster.png",
+   "size": 51787,
+   "sha256": "7a4c5f149f38204773143f16e06851f33496c436db368fe8a964a390873bfc2e"
+  },
+  {
+   "path": "media/materials/textures/plaster_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/red.png",
+   "size": 30685,
+   "sha256": "efbdd3cc8b5c72553f9db3b9c26860b5c364c1f321b3aa6012ecb45130633ed4"
+  },
+  {
+   "path": "media/materials/textures/red_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rope.png",
+   "size": 44507,
+   "sha256": "24b4fed56ade7e162aa38fcd54886e3c2730f38af4befb25c843422a278e5bbb"
+  },
+  {
+   "path": "media/materials/textures/rope_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rose.png",
+   "size": 51725,
+   "sha256": "e0e37ae18b6906a144680a1155de6ffad7e2bb083d9999fff0363e5112aee4d2"
+  },
+  {
+   "path": "media/materials/textures/rose_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/sand.png",
+   "size": 36961,
+   "sha256": "85886e8f7b3434815829178445b87ff6158c13e8164a8ffda3993c2f221a24cc"
+  },
+  {
+   "path": "media/materials/textures/sand_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/sandstone.png",
+   "size": 47840,
+   "sha256": "ef16b0605a795be8f93f5af413856bbace96ad202e7236059578339d185c3007"
+  },
+  {
+   "path": "media/materials/textures/sandstone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/scales.png",
+   "size": 35840,
+   "sha256": "b1bed18fc93d1ce569ba48331159220c33f9c0feacf02155e12816a7bcaf1e2d"
+  },
+  {
+   "path": "media/materials/textures/scales_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/skin.png",
+   "size": 46985,
+   "sha256": "5ca6e03744c454380928115d5223e4630134a27767a7b26dcfba204d1c4fcf47"
+  },
+  {
+   "path": "media/materials/textures/skin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/snow.png",
+   "size": 42837,
+   "sha256": "0d8d0cd049935a17e0b71ebea93ac5e8f823a998dd72ba10e283741ead9d4260"
+  },
+  {
+   "path": "media/materials/textures/snow_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/soil.png",
+   "size": 32264,
+   "sha256": "4c90d4c1a131223b16a1e4b20de7aa877cded6e90e932f4df75e0e9ec652f615"
+  },
+  {
+   "path": "media/materials/textures/soil_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/steel.png",
+   "size": 49671,
+   "sha256": "eea5cdd9f65ec98b43afd1f7e80a070c60c40fcb61812c4f3c3d6d16c9d95e38"
+  },
+  {
+   "path": "media/materials/textures/steel_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/stone.png",
+   "size": 42272,
+   "sha256": "e4f23d37e5e6d3a83d836d06089b88547117cb6b8978b3b448796eaa655d2ec9"
+  },
+  {
+   "path": "media/materials/textures/stone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/tanfur.png",
+   "size": 44965,
+   "sha256": "5c21a980f0db8b2fcc14c81ba8f6b487e73dd27d2a4bfe3e5000650534d675a7"
+  },
+  {
+   "path": "media/materials/textures/tanfur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/water.png",
+   "size": 29402,
+   "sha256": "a7861a6a33fa96041dd14a7c2ea61c48bfc767b4fbb3e2a2add4fcc74a347850"
+  },
+  {
+   "path": "media/materials/textures/water_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/wood.png",
+   "size": 36098,
+   "sha256": "93be5dba40fb0504f65177b720e06059d439aaf10c0c215617ba6fe9e55769f9"
+  },
+  {
+   "path": "media/materials/textures/wood_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Dark Gnome Cleric",
+   "kind": "creature",
+   "thumb": "thumbs/95d17db2-80ca-46a8-b1c8-82964c10137d.jpg",
+   "tags": [
+    "gnome",
+    "grey",
+    "bandit",
+    "fighter",
+    "thief",
+    "chainmail",
+    "leather",
+    "small"
+   ]
+  },
+  {
+   "name": "Dark Gnome Warrior",
+   "kind": "creature",
+   "thumb": "thumbs/1769ead7-1eef-44d9-b0d3-33e135a7172f.jpg",
+   "tags": [
+    "gnome",
+    "grey",
+    "assassin",
+    "bandit",
+    "fighter",
+    "rogue",
+    "thief",
+    "chainmail"
+   ]
+  },
+  {
+   "name": "Gnome Alchemist",
+   "kind": "creature",
+   "thumb": "thumbs/9c812c10-db53-4275-bfa3-5a20ea244798.jpg",
+   "tags": [
+    "gnome",
+    "alchemist",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "electromagnetic",
+    "cloth",
+    "leather"
+   ]
+  },
+  {
+   "name": "Gnome Spellcaster",
+   "kind": "creature",
+   "thumb": "thumbs/1287d5dc-5fbd-4587-be8d-bbf2e59ad9b9.jpg",
+   "tags": [
+    "gnome",
+    "wizard",
+    "alchemist",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "cloth",
+    "leather"
+   ]
+  },
+  {
+   "name": "Gnome Tinkerer",
+   "kind": "creature",
+   "thumb": "thumbs/f3a9fb99-2ce4-4f69-96a9-3461cf180cbd.jpg",
+   "tags": [
+    "gnome",
+    "alchemist",
+    "wizard",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "cloth",
+    "leather"
+   ]
+  },
+  {
+   "name": "Yigmond Marbu",
+   "kind": "creature",
+   "thumb": "thumbs/f34e650a-5560-49ed-8bcd-8f3dabb7581e.jpg",
+   "tags": [
+    "gnome",
+    "small",
+    "wizard",
+    "cloth",
+    "rod",
+    "cat",
+    "purple",
+    "white"
+   ]
+  }
+ ]
+}

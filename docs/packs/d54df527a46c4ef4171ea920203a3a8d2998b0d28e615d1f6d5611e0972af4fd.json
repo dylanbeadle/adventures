@@ -1,0 +1,976 @@
+{
+ "id": "e6ca312b-6f45-587d-b6b9-56d1a7dda115",
+ "folder": "Humanoid Creatures.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 876,
+   "sha256": "9df31e318b336c4896843f99bae440a5bfbeef98966135252a83e1f571bc07ef"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 25853,
+   "sha256": "dc68283512db9ad6d2fa8f2d680ccca722be57e2e0958bd1455e7f950012d1f5"
+  },
+  {
+   "path": "creatures/birdfolk-2.md",
+   "size": 299,
+   "sha256": "9f0e5fa35545c0241a371e065af2917ab202cd422812ee37cc9a1aeffdbfc9a7"
+  },
+  {
+   "path": "creatures/birdfolk.md",
+   "size": 292,
+   "sha256": "da9b9c4698e32212a82ae36d6033f050044203361989b5c4694b03af97ae12a9"
+  },
+  {
+   "path": "creatures/bugbear-2.md",
+   "size": 331,
+   "sha256": "9d5c3725a1af3e2d4867688962afc58cf079b8c92614e41f3e9ee9fa4d3b7456"
+  },
+  {
+   "path": "creatures/bugbear-3.md",
+   "size": 326,
+   "sha256": "bda24743feb8d102674dfb145d74e422a000d1dc353880c43ce5f8bdd282fbc8"
+  },
+  {
+   "path": "creatures/bugbear.md",
+   "size": 270,
+   "sha256": "7eab35ec38cba4dbfe4ac046b51b2302c5d66889618160f8dfaa05942098c96c"
+  },
+  {
+   "path": "creatures/catfolk-rogue.md",
+   "size": 300,
+   "sha256": "e45c61c279133d4ca28c6ae06a15a3534157f8268649c30a055e02eb0dddbee9"
+  },
+  {
+   "path": "creatures/catfolk-warrior.md",
+   "size": 313,
+   "sha256": "63e96d8831efd21fe66acc8928cb0c25a72eca0102d46ddb9ee5c6ee1cab725e"
+  },
+  {
+   "path": "creatures/clockwork-warrior-2.md",
+   "size": 322,
+   "sha256": "65f5471d998a9b4b8596924551cef0c8b64fe63ed30315bd906a13ec5e3f323a"
+  },
+  {
+   "path": "creatures/clockwork-warrior.md",
+   "size": 323,
+   "sha256": "33023f98ec344aadfb8e0b927b1b2161d9842bfc6b451f4a41daab616ab81dbf"
+  },
+  {
+   "path": "creatures/croaker-warrior.md",
+   "size": 302,
+   "sha256": "dec076021d480883414fcbb7343af5f16f2b9a197809591148e48baef8f426a7"
+  },
+  {
+   "path": "creatures/fenfolk-shaman.md",
+   "size": 304,
+   "sha256": "73afc0782bf15a3eb284c3dd7c4c8f1a8ac8e73546a566cc296fe3a27fd71c3b"
+  },
+  {
+   "path": "creatures/fenfolk-spellcaster.md",
+   "size": 320,
+   "sha256": "c8bac72d4c2346fb9c5b10a59afebc0ddb5a41567c94f456d125efeea8614245"
+  },
+  {
+   "path": "creatures/giller-warrior.md",
+   "size": 317,
+   "sha256": "a7c332892633347666dbf2d9ffcc1971aea212419d270084c90e54efe965b252"
+  },
+  {
+   "path": "creatures/gnoll-alchemist.md",
+   "size": 295,
+   "sha256": "15ac1db3a8e7e3ae8e7ce8a7d921e7e9e522b9a8cde4acf58bc361337ade9e3f"
+  },
+  {
+   "path": "creatures/gnoll-archer.md",
+   "size": 289,
+   "sha256": "bd45938eb3ea2a4552c449ff4e3c759f1be1477dd679fca9658f4b1edd46ad06"
+  },
+  {
+   "path": "creatures/gnoll-fighter.md",
+   "size": 291,
+   "sha256": "a65542daf1a0d4dc2cf4b4ff10038d12248e53e41811caffc4711feddb352556"
+  },
+  {
+   "path": "creatures/hag.md",
+   "size": 278,
+   "sha256": "cae8dfe8f0fe27ca4f81ceb11fcad3df36a95ddc5ca54b0ddc62b61b8d55383e"
+  },
+  {
+   "path": "creatures/kobold-tinkerer.md",
+   "size": 320,
+   "sha256": "9ca02aa9e4e4a934b27d73eed00c24ee3422f0179a6b979e3c70dd80a267391a"
+  },
+  {
+   "path": "creatures/kobold-warrior.md",
+   "size": 319,
+   "sha256": "607bb782777a9b59b5d41fe8797e48ecfe8c5f982824a13a36416269c1ec30e6"
+  },
+  {
+   "path": "creatures/lizardfolk-warrior.md",
+   "size": 313,
+   "sha256": "031ae294ce478c7abbfee0c1d50913ee741cd96957e9e6b6261aef77b2bb1188"
+  },
+  {
+   "path": "creatures/minotaur.md",
+   "size": 307,
+   "sha256": "f7bea0f95b93a6076484259b043290dc2551552508b139803f3c0ba629caf01b"
+  },
+  {
+   "path": "creatures/ratfolk-warrior.md",
+   "size": 317,
+   "sha256": "71c71faa95040f395eabdc999c0d2bdd5b2d912df84764aa3518343fd53e4b8b"
+  },
+  {
+   "path": "creatures/ravenfolk-rogue.md",
+   "size": 302,
+   "sha256": "31d6a6b332d81e53e949d1fc698a3d198ac5f4a9357565137e45c22126c514d8"
+  },
+  {
+   "path": "creatures/troglodyte-shaman.md",
+   "size": 303,
+   "sha256": "f0c43ef0217e4603a13ee704527b4c1d4bb2c8de6c273240eeaaa6719d866dc2"
+  },
+  {
+   "path": "creatures/troglodyte.md",
+   "size": 281,
+   "sha256": "51bac3522fdefd384aea02a05710618070f909b09b60dd10748a86b7db379a77"
+  },
+  {
+   "path": "media/creatures/Humanoid/Birdfolk__4c2592b2.usd",
+   "size": 771516,
+   "sha256": "262b091b6d6cb5e4a1e9953b75fc6c71270be23d7545b947ebc2e9cb58f43020"
+  },
+  {
+   "path": "media/creatures/Humanoid/Birdfolk__a3234779.usd",
+   "size": 805062,
+   "sha256": "e70c1c9769241fa3f449c82b474c7fda9ae9012c52a3e3c192164182b0606a64"
+  },
+  {
+   "path": "media/creatures/Humanoid/Bugbear__38ce4811.usd",
+   "size": 964891,
+   "sha256": "c7a297b490be0112d6dad2ddf5120162327b1b6c72706cc96cea988b525d2c5a"
+  },
+  {
+   "path": "media/creatures/Humanoid/Bugbear__71cdee5c.usd",
+   "size": 973054,
+   "sha256": "702b196a3b4f148be6129ba42afc9fdda43eebe3bbf9e08fd673083f22a3232d"
+  },
+  {
+   "path": "media/creatures/Humanoid/Bugbear__dfe0eb06.usd",
+   "size": 891342,
+   "sha256": "9d4352cb162db3c22b420d77b39095b930067f45925d7012dd7e1c0e5ae0547e"
+  },
+  {
+   "path": "media/creatures/Humanoid/Catfolk Rogue.usd",
+   "size": 911701,
+   "sha256": "3667fe207c971c8baa18869920faf8df5f58a4f7fd5c63e91169ffc00cda743b"
+  },
+  {
+   "path": "media/creatures/Humanoid/Catfolk Warrior.usd",
+   "size": 981131,
+   "sha256": "5d2249dfe65023b1e7ce711f69933ed4f4411391428e4a587c15b1c29cd9662f"
+  },
+  {
+   "path": "media/creatures/Humanoid/Clockwork Warrior__6ba05c81.usd",
+   "size": 1077221,
+   "sha256": "96edefa347802a258aee110c5b95e58da7ec1fcb6a94da2b4207ace7fa9c0f50"
+  },
+  {
+   "path": "media/creatures/Humanoid/Clockwork Warrior__d2b8b571.usd",
+   "size": 1038008,
+   "sha256": "35b52379b85fa0b737248f85acd42c504d1e9480436c296c6fb8ff920036cf09"
+  },
+  {
+   "path": "media/creatures/Humanoid/Croaker Warrior.usd",
+   "size": 909768,
+   "sha256": "d051bac5d1d05dd253d1147c42b080cc87cc7f800c366b1dc2057122758da76f"
+  },
+  {
+   "path": "media/creatures/Humanoid/Fenfolk Shaman.usd",
+   "size": 932662,
+   "sha256": "4d8b0546ce6d1b77ce7fb0ca4dd4ede4185846985d13cc790d3a78ea08c409ab"
+  },
+  {
+   "path": "media/creatures/Humanoid/Fenfolk Spellcaster.usd",
+   "size": 918598,
+   "sha256": "6ea93acaf8ceb3901e0bc191de14fa5a10d23c7f9d036bc3aa2f1b503b17f74a"
+  },
+  {
+   "path": "media/creatures/Humanoid/Giller Warrior.usd",
+   "size": 769735,
+   "sha256": "04304f5ac45abf2acfc1a3421599448b1a0f5be5961943ffeeb8649e1d4d5ed2"
+  },
+  {
+   "path": "media/creatures/Humanoid/Gnoll Alchemist.usd",
+   "size": 936398,
+   "sha256": "b8d226a897a172e3eafb4b7d7dc59fe861cd63db690c30c6f0d63524fc6c2a83"
+  },
+  {
+   "path": "media/creatures/Humanoid/Gnoll Archer.usd",
+   "size": 938045,
+   "sha256": "341954db77e26c77c1d2a96432d42b7007fb72d33ce96339ba250f3d91b3b7e2"
+  },
+  {
+   "path": "media/creatures/Humanoid/Gnoll Fighter.usd",
+   "size": 1156710,
+   "sha256": "8117d7ce20e411babaa64949b39141c751eef8708c6d115e062114df719bf307"
+  },
+  {
+   "path": "media/creatures/Humanoid/Hag.usd",
+   "size": 1065934,
+   "sha256": "34f161fd9483215fb11da8652b96d8f9db529ee57bb821f4c39ca99667f22965"
+  },
+  {
+   "path": "media/creatures/Humanoid/Kobold Tinkerer.usd",
+   "size": 909749,
+   "sha256": "5f7e12f555b3ecba4c58303964a951e6abedc9b12180e759618da01e9bf1042c"
+  },
+  {
+   "path": "media/creatures/Humanoid/Kobold Warrior.usd",
+   "size": 921565,
+   "sha256": "c7adbc7a007f195a61a3e63d8b9d4a441be01eb5dcb017388a4f4d47bb544e13"
+  },
+  {
+   "path": "media/creatures/Humanoid/Lizardfolk Warrior.usd",
+   "size": 765421,
+   "sha256": "9e6fd15eb8a55fa91a2d089e8093695cfab94d133796df164e36873fbefbc745"
+  },
+  {
+   "path": "media/creatures/Humanoid/Minotaur.usd",
+   "size": 933759,
+   "sha256": "24e03033a3b326864bbdea1b513e6f197f788910914f7a90399fbafe873a032a"
+  },
+  {
+   "path": "media/creatures/Humanoid/Ratfolk Warrior.usd",
+   "size": 1079289,
+   "sha256": "32a14b9531d37938ee6ecffe2698e51383421f7a455f129bdef1b720e6912610"
+  },
+  {
+   "path": "media/creatures/Humanoid/Ravenfolk Rogue.usd",
+   "size": 951243,
+   "sha256": "f08418c088f82b39bcce4cb177d48e1a35536c24e72b6a41171df9dd974a2362"
+  },
+  {
+   "path": "media/creatures/Humanoid/Troglodyte Shaman.usd",
+   "size": 840020,
+   "sha256": "dec55661d2aef31a3b51387a030df50bb1392bd3ff91856a5cfdffc88ab7d474"
+  },
+  {
+   "path": "media/creatures/Humanoid/Troglodyte.usd",
+   "size": 747418,
+   "sha256": "d9fb48379673dabbcc65adc8079efe75bcc78ad986966ce12aa74472adc71105"
+  },
+  {
+   "path": "media/materials/Library.usdc",
+   "size": 19724,
+   "sha256": "c24d21cc536ed131cf8633109bc9ffdf7e045cd0c2da1da90544a18c4fa9d5ba"
+  },
+  {
+   "path": "media/materials/textures/basalt.png",
+   "size": 25957,
+   "sha256": "e7295df0b2356c29812c23d4ee8cfcbbab04ee3eb5f20f52d281a6846c8f2e96"
+  },
+  {
+   "path": "media/materials/textures/basalt_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/blue.png",
+   "size": 29622,
+   "sha256": "bb2482f15178dd7ed1883b5558bae3c5db1e6f63dfb0a562b16da3cffcd80add"
+  },
+  {
+   "path": "media/materials/textures/blue_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bluefire.png",
+   "size": 40884,
+   "sha256": "95947aba8ef1863b10a5ceb035363c014f49bb066a629334e6b9fb0c0b2a2a57"
+  },
+  {
+   "path": "media/materials/textures/bluefire_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bone.png",
+   "size": 52095,
+   "sha256": "60127b0b9d500672ffa4413c2e0331968daf672f9edbbc58e031bd20a24410ce"
+  },
+  {
+   "path": "media/materials/textures/bone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/brass.png",
+   "size": 45700,
+   "sha256": "7653b7e6c813911303d183fd977ca9007540d1f30b8a647ce49a9b4b25479a7e"
+  },
+  {
+   "path": "media/materials/textures/brass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/fur.png",
+   "size": 32075,
+   "sha256": "e6ebdc6bf38121ac2caa3f246dbf760ceb5f618f67a707849f43ac55ee75e56d"
+  },
+  {
+   "path": "media/materials/textures/fur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ghost.png",
+   "size": 46813,
+   "sha256": "6b86f729a542c078e35015b96d3bdf6bb6fd252e59dc931fbd818c4ac61d0809"
+  },
+  {
+   "path": "media/materials/textures/ghost_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/goblinskin.png",
+   "size": 40654,
+   "sha256": "bc088b6cce6935a3e38a4e34d3f8e553b7269a409f04d5892d4bb7bcbb804e7a"
+  },
+  {
+   "path": "media/materials/textures/goblinskin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/grass.png",
+   "size": 37697,
+   "sha256": "f6440b6a238240b171a02d0a9abfa1db6e3b23470ea136796156c95dc85ecb1a"
+  },
+  {
+   "path": "media/materials/textures/grass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ice.png",
+   "size": 54673,
+   "sha256": "1776de4df5a1aa0fd4c24462a5bf2188a02dd0f291b002f76689f64c7401183f"
+  },
+  {
+   "path": "media/materials/textures/ice_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/iron.png",
+   "size": 33226,
+   "sha256": "b819ee206156042e76233baf2e2abdb7f0a4a0ae5bc64a26cfaaec7a6fae6a3b"
+  },
+  {
+   "path": "media/materials/textures/iron_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/jade.png",
+   "size": 33655,
+   "sha256": "449a6862f41cf33514e10aa482f65a2dd957d8accc0e776a061972b2b5323771"
+  },
+  {
+   "path": "media/materials/textures/jade_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/lava.png",
+   "size": 36124,
+   "sha256": "f4f7e6f7c9f527d2c962cacf29c83a795a16ecc66640854685970879a3f94e4c"
+  },
+  {
+   "path": "media/materials/textures/lava_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/leather.png",
+   "size": 22325,
+   "sha256": "5466b2bd41efecafe9089281e6fca4ca93def727a9c16cafc86dadf55d211774"
+  },
+  {
+   "path": "media/materials/textures/leather_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/limestone.png",
+   "size": 49995,
+   "sha256": "bf8ce44b291f665ea0c34f28befb206e92da7202b60d7b8ebdfc5fe801118ee9"
+  },
+  {
+   "path": "media/materials/textures/limestone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/marble.png",
+   "size": 31933,
+   "sha256": "d8c25c02c17e9076c1bb4fb692d360f9fb31c298ca833d8c244e306ff3604ae7"
+  },
+  {
+   "path": "media/materials/textures/marble_normal.png",
+   "size": 29285,
+   "sha256": "d4e5ab67529195c5a5be286a022e1e9c8058b9b614eadb7612942462d083a0ef"
+  },
+  {
+   "path": "media/materials/textures/mortar.png",
+   "size": 30700,
+   "sha256": "0749995c21d077be43c42b8de716a7992549eb89f73ba68253792accc4dc03e9"
+  },
+  {
+   "path": "media/materials/textures/mortar_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/oak.png",
+   "size": 44710,
+   "sha256": "cdf8ce500e0145dddaba5408a7bb6b6013c72e37ae225e23903efb16b6eaebd5"
+  },
+  {
+   "path": "media/materials/textures/oak_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  },
+  {
+   "path": "media/materials/textures/paper.png",
+   "size": 52363,
+   "sha256": "e8344646e132da563f18a9157fbf98bd778a6070ac4443ad6e3f209bb2b04fa6"
+  },
+  {
+   "path": "media/materials/textures/paper_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/plaster.png",
+   "size": 51787,
+   "sha256": "7a4c5f149f38204773143f16e06851f33496c436db368fe8a964a390873bfc2e"
+  },
+  {
+   "path": "media/materials/textures/plaster_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/red.png",
+   "size": 30685,
+   "sha256": "efbdd3cc8b5c72553f9db3b9c26860b5c364c1f321b3aa6012ecb45130633ed4"
+  },
+  {
+   "path": "media/materials/textures/red_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rope.png",
+   "size": 44507,
+   "sha256": "24b4fed56ade7e162aa38fcd54886e3c2730f38af4befb25c843422a278e5bbb"
+  },
+  {
+   "path": "media/materials/textures/rope_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rose.png",
+   "size": 51725,
+   "sha256": "e0e37ae18b6906a144680a1155de6ffad7e2bb083d9999fff0363e5112aee4d2"
+  },
+  {
+   "path": "media/materials/textures/rose_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/sand.png",
+   "size": 36961,
+   "sha256": "85886e8f7b3434815829178445b87ff6158c13e8164a8ffda3993c2f221a24cc"
+  },
+  {
+   "path": "media/materials/textures/sand_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/sandstone.png",
+   "size": 47840,
+   "sha256": "ef16b0605a795be8f93f5af413856bbace96ad202e7236059578339d185c3007"
+  },
+  {
+   "path": "media/materials/textures/sandstone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/scales.png",
+   "size": 35840,
+   "sha256": "b1bed18fc93d1ce569ba48331159220c33f9c0feacf02155e12816a7bcaf1e2d"
+  },
+  {
+   "path": "media/materials/textures/scales_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/skin.png",
+   "size": 46985,
+   "sha256": "5ca6e03744c454380928115d5223e4630134a27767a7b26dcfba204d1c4fcf47"
+  },
+  {
+   "path": "media/materials/textures/skin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/snow.png",
+   "size": 42837,
+   "sha256": "0d8d0cd049935a17e0b71ebea93ac5e8f823a998dd72ba10e283741ead9d4260"
+  },
+  {
+   "path": "media/materials/textures/snow_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/soil.png",
+   "size": 32264,
+   "sha256": "4c90d4c1a131223b16a1e4b20de7aa877cded6e90e932f4df75e0e9ec652f615"
+  },
+  {
+   "path": "media/materials/textures/soil_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/steel.png",
+   "size": 49671,
+   "sha256": "eea5cdd9f65ec98b43afd1f7e80a070c60c40fcb61812c4f3c3d6d16c9d95e38"
+  },
+  {
+   "path": "media/materials/textures/steel_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/stone.png",
+   "size": 42272,
+   "sha256": "e4f23d37e5e6d3a83d836d06089b88547117cb6b8978b3b448796eaa655d2ec9"
+  },
+  {
+   "path": "media/materials/textures/stone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/tanfur.png",
+   "size": 44965,
+   "sha256": "5c21a980f0db8b2fcc14c81ba8f6b487e73dd27d2a4bfe3e5000650534d675a7"
+  },
+  {
+   "path": "media/materials/textures/tanfur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/water.png",
+   "size": 29402,
+   "sha256": "a7861a6a33fa96041dd14a7c2ea61c48bfc767b4fbb3e2a2add4fcc74a347850"
+  },
+  {
+   "path": "media/materials/textures/water_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/wood.png",
+   "size": 36098,
+   "sha256": "93be5dba40fb0504f65177b720e06059d439aaf10c0c215617ba6fe9e55769f9"
+  },
+  {
+   "path": "media/materials/textures/wood_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Birdfolk 2",
+   "kind": "creature",
+   "thumb": "thumbs/a3234779-04d3-49cc-aa0b-4c15301daf85.jpg",
+   "tags": [
+    "humanoid",
+    "birdfolk",
+    "bird",
+    "flying",
+    "warrior",
+    "feather",
+    "bow",
+    "arrow"
+   ]
+  },
+  {
+   "name": "Birdfolk",
+   "kind": "creature",
+   "thumb": "thumbs/4c2592b2-0b86-4ed3-ad0e-b37ea9cb9dbd.jpg",
+   "tags": [
+    "humanoid",
+    "birdfolk",
+    "bird",
+    "flying",
+    "warrior",
+    "feather",
+    "spear"
+   ]
+  },
+  {
+   "name": "Bugbear 2",
+   "kind": "creature",
+   "thumb": "thumbs/71cdee5c-de52-4091-b81c-f356eefc553e.jpg",
+   "tags": [
+    "humanoid",
+    "bugbear",
+    "warrior",
+    "fur",
+    "sword",
+    "shield"
+   ]
+  },
+  {
+   "name": "Bugbear 3",
+   "kind": "creature",
+   "thumb": "thumbs/dfe0eb06-3316-4c3e-83fa-7248cdcdbbd8.jpg",
+   "tags": [
+    "humanoid",
+    "bugbear",
+    "warrior",
+    "fur",
+    "crossbow"
+   ]
+  },
+  {
+   "name": "Bugbear",
+   "kind": "creature",
+   "thumb": "thumbs/38ce4811-7d66-4f7f-85a4-c639b061b78f.jpg",
+   "tags": [
+    "humanoid",
+    "bugbear",
+    "warrior",
+    "fur",
+    "mace"
+   ]
+  },
+  {
+   "name": "Catfolk Rogue",
+   "kind": "creature",
+   "thumb": "thumbs/d620be7a-5b3b-4f2a-aa3c-2c3565baf91c.jpg",
+   "tags": [
+    "humanoid",
+    "catfolk",
+    "rogue",
+    "thief",
+    "medium",
+    "dagger",
+    "leather",
+    "studded"
+   ]
+  },
+  {
+   "name": "Catfolk Warrior",
+   "kind": "creature",
+   "thumb": "thumbs/e322b9ee-d0ac-4495-8490-1dded73a2e05.jpg",
+   "tags": [
+    "humanoid",
+    "catfolk",
+    "fighter",
+    "medium",
+    "longsword",
+    "scimitar",
+    "sword",
+    "greatsword"
+   ]
+  },
+  {
+   "name": "Clockwork Warrior 2",
+   "kind": "creature",
+   "thumb": "thumbs/d2b8b571-f40b-4461-b817-e711daf2d9cc.jpg",
+   "tags": [
+    "humanoid",
+    "clockwork",
+    "fighter",
+    "medium",
+    "biped",
+    "bipedal",
+    "copper",
+    "metal"
+   ]
+  },
+  {
+   "name": "Clockwork Warrior",
+   "kind": "creature",
+   "thumb": "thumbs/6ba05c81-c310-4125-a696-d93cc0aab1c7.jpg",
+   "tags": [
+    "humanoid",
+    "clockwork",
+    "fighter",
+    "medium",
+    "biped",
+    "bipedal",
+    "fullplate",
+    "metal"
+   ]
+  },
+  {
+   "name": "Croaker Warrior",
+   "kind": "creature",
+   "thumb": "thumbs/be6240de-72e0-4a57-bcaa-f02beb315db5.jpg",
+   "tags": [
+    "humanoid",
+    "croaker",
+    "frog",
+    "toad",
+    "fighter",
+    "swamp",
+    "warrior",
+    "chaotic"
+   ]
+  },
+  {
+   "name": "Fenfolk Shaman",
+   "kind": "creature",
+   "thumb": "thumbs/a3bacecb-0129-4651-b224-d709f86ffc68.jpg",
+   "tags": [
+    "humanoid",
+    "unarmed",
+    "shaman",
+    "wildman",
+    "summoner",
+    "healer",
+    "medium",
+    "biped"
+   ]
+  },
+  {
+   "name": "Fenfolk Spellcaster",
+   "kind": "creature",
+   "thumb": "thumbs/5b33d121-f768-4beb-a73f-8eb530ff8b0f.jpg",
+   "tags": [
+    "humanoid",
+    "fenfolk",
+    "druid",
+    "biped",
+    "bipedal",
+    "shaman",
+    "cape",
+    "cloak"
+   ]
+  },
+  {
+   "name": "Giller Warrior",
+   "kind": "creature",
+   "thumb": "thumbs/0023fc8e-7a8c-42e4-9b2a-ca7e0d5dec1c.jpg",
+   "tags": [
+    "humanoid",
+    "monstrous",
+    "small",
+    "giller",
+    "amphibious",
+    "biped",
+    "bipedal",
+    "fish"
+   ]
+  },
+  {
+   "name": "Gnoll Alchemist",
+   "kind": "creature",
+   "thumb": "thumbs/ae9a74c6-4fc2-487c-a808-2bfb8036872e.jpg",
+   "tags": [
+    "humanoid",
+    "medium",
+    "tan",
+    "brown",
+    "biped",
+    "bipedal",
+    "tail",
+    "wild"
+   ]
+  },
+  {
+   "name": "Gnoll Archer",
+   "kind": "creature",
+   "thumb": "thumbs/0f5ea56d-7f5a-4d07-921a-c026ef59ffd4.jpg",
+   "tags": [
+    "humanoid",
+    "medium",
+    "tan",
+    "brown",
+    "biped",
+    "bipedal",
+    "tail",
+    "wild"
+   ]
+  },
+  {
+   "name": "Gnoll Fighter",
+   "kind": "creature",
+   "thumb": "thumbs/6c7a68a7-95cd-4e32-a9ce-52e07d9c952d.jpg",
+   "tags": [
+    "humanoid",
+    "medium",
+    "tan",
+    "brown",
+    "biped",
+    "bipedal",
+    "tail",
+    "wild"
+   ]
+  },
+  {
+   "name": "Hag",
+   "kind": "creature",
+   "thumb": "thumbs/f73926fd-891f-4888-b6a0-8203691f2dc8.jpg",
+   "tags": [
+    "humanoid",
+    "monstrous",
+    "medium",
+    "hag",
+    "forest",
+    "swamp",
+    "biped",
+    "bipedal"
+   ]
+  },
+  {
+   "name": "Kobold Tinkerer",
+   "kind": "creature",
+   "thumb": "thumbs/0c795229-378c-4a37-82f6-e0801ba2e6dd.jpg",
+   "tags": [
+    "humanoid",
+    "backer",
+    "kobold",
+    "lizardfolk",
+    "claws",
+    "sword",
+    "shortsword",
+    "teeth"
+   ]
+  },
+  {
+   "name": "Kobold Warrior",
+   "kind": "creature",
+   "thumb": "thumbs/923e670f-5c00-457f-9f7d-1a4e457db6f9.jpg",
+   "tags": [
+    "humanoid",
+    "monstrous",
+    "small",
+    "kobold",
+    "slinger",
+    "reptilian",
+    "biped",
+    "bipedal"
+   ]
+  },
+  {
+   "name": "Lizardfolk Warrior",
+   "kind": "creature",
+   "thumb": "thumbs/8b76564c-7f22-413c-84b2-23212abaee59.jpg",
+   "tags": [
+    "humanoid",
+    "monstrous",
+    "medium",
+    "reptilian",
+    "warrior",
+    "club",
+    "shield",
+    "biped"
+   ]
+  },
+  {
+   "name": "Minotaur",
+   "kind": "creature",
+   "thumb": "thumbs/e4faa1b8-b416-44ce-aba6-83b2de06824a.jpg",
+   "tags": [
+    "humanoid",
+    "monstrous",
+    "large",
+    "berzerker",
+    "axe",
+    "minotaur",
+    "monster",
+    "chaotic"
+   ]
+  },
+  {
+   "name": "Ratfolk Warrior",
+   "kind": "creature",
+   "thumb": "thumbs/0eed68d6-0d57-405a-9784-a31b13537a1d.jpg",
+   "tags": [
+    "humanoid",
+    "ratfolk",
+    "warrior",
+    "fighter",
+    "monster",
+    "chaotic",
+    "evil",
+    "brown"
+   ]
+  },
+  {
+   "name": "Ravenfolk Rogue",
+   "kind": "creature",
+   "thumb": "thumbs/bb2a724b-6b00-4799-8b8a-cf5aa81f7de0.jpg",
+   "tags": [
+    "humanoid",
+    "ravenfolk",
+    "rogue",
+    "thief",
+    "crow",
+    "medium",
+    "biped",
+    "bipedal"
+   ]
+  },
+  {
+   "name": "Troglodyte Shaman",
+   "kind": "creature",
+   "thumb": "thumbs/4dba75ea-c41f-4d00-b589-02a57466d7ab.jpg",
+   "tags": [
+    "humanoid",
+    "monster",
+    "troglodyte",
+    "medium",
+    "shaman",
+    "lizard",
+    "staff"
+   ]
+  },
+  {
+   "name": "Troglodyte",
+   "kind": "creature",
+   "thumb": "thumbs/a7d29d90-4efc-49f9-8cb9-028e98243821.jpg",
+   "tags": [
+    "humanoid",
+    "monster",
+    "troglodyte",
+    "medium",
+    "lizard",
+    "spear"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1210 @@
+{
+ "id": "1d57ec64-5d1b-5edc-879f-7ae6189913e1",
+ "folder": "Fences Props.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 1226,
+   "sha256": "d57edf03989d930e37ccb94c2c770268b2df721bcf149e41841e11ab0e1bb8f3"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 26271,
+   "sha256": "342aa8ceec898a93acc65679d551ffe6068093184dbec99e2787d6fc77451d26"
+  },
+  {
+   "path": "media/materials/Library.usdc",
+   "size": 19724,
+   "sha256": "c24d21cc536ed131cf8633109bc9ffdf7e045cd0c2da1da90544a18c4fa9d5ba"
+  },
+  {
+   "path": "media/materials/textures/basalt.png",
+   "size": 25957,
+   "sha256": "e7295df0b2356c29812c23d4ee8cfcbbab04ee3eb5f20f52d281a6846c8f2e96"
+  },
+  {
+   "path": "media/materials/textures/basalt_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/blue.png",
+   "size": 29622,
+   "sha256": "bb2482f15178dd7ed1883b5558bae3c5db1e6f63dfb0a562b16da3cffcd80add"
+  },
+  {
+   "path": "media/materials/textures/blue_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bluefire.png",
+   "size": 40884,
+   "sha256": "95947aba8ef1863b10a5ceb035363c014f49bb066a629334e6b9fb0c0b2a2a57"
+  },
+  {
+   "path": "media/materials/textures/bluefire_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bone.png",
+   "size": 52095,
+   "sha256": "60127b0b9d500672ffa4413c2e0331968daf672f9edbbc58e031bd20a24410ce"
+  },
+  {
+   "path": "media/materials/textures/bone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/brass.png",
+   "size": 45700,
+   "sha256": "7653b7e6c813911303d183fd977ca9007540d1f30b8a647ce49a9b4b25479a7e"
+  },
+  {
+   "path": "media/materials/textures/brass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/fur.png",
+   "size": 32075,
+   "sha256": "e6ebdc6bf38121ac2caa3f246dbf760ceb5f618f67a707849f43ac55ee75e56d"
+  },
+  {
+   "path": "media/materials/textures/fur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ghost.png",
+   "size": 46813,
+   "sha256": "6b86f729a542c078e35015b96d3bdf6bb6fd252e59dc931fbd818c4ac61d0809"
+  },
+  {
+   "path": "media/materials/textures/ghost_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/goblinskin.png",
+   "size": 40654,
+   "sha256": "bc088b6cce6935a3e38a4e34d3f8e553b7269a409f04d5892d4bb7bcbb804e7a"
+  },
+  {
+   "path": "media/materials/textures/goblinskin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/grass.png",
+   "size": 37697,
+   "sha256": "f6440b6a238240b171a02d0a9abfa1db6e3b23470ea136796156c95dc85ecb1a"
+  },
+  {
+   "path": "media/materials/textures/grass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ice.png",
+   "size": 54673,
+   "sha256": "1776de4df5a1aa0fd4c24462a5bf2188a02dd0f291b002f76689f64c7401183f"
+  },
+  {
+   "path": "media/materials/textures/ice_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/iron.png",
+   "size": 33226,
+   "sha256": "b819ee206156042e76233baf2e2abdb7f0a4a0ae5bc64a26cfaaec7a6fae6a3b"
+  },
+  {
+   "path": "media/materials/textures/iron_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/jade.png",
+   "size": 33655,
+   "sha256": "449a6862f41cf33514e10aa482f65a2dd957d8accc0e776a061972b2b5323771"
+  },
+  {
+   "path": "media/materials/textures/jade_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/lava.png",
+   "size": 36124,
+   "sha256": "f4f7e6f7c9f527d2c962cacf29c83a795a16ecc66640854685970879a3f94e4c"
+  },
+  {
+   "path": "media/materials/textures/lava_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/leather.png",
+   "size": 22325,
+   "sha256": "5466b2bd41efecafe9089281e6fca4ca93def727a9c16cafc86dadf55d211774"
+  },
+  {
+   "path": "media/materials/textures/leather_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/limestone.png",
+   "size": 49995,
+   "sha256": "bf8ce44b291f665ea0c34f28befb206e92da7202b60d7b8ebdfc5fe801118ee9"
+  },
+  {
+   "path": "media/materials/textures/limestone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/marble.png",
+   "size": 31933,
+   "sha256": "d8c25c02c17e9076c1bb4fb692d360f9fb31c298ca833d8c244e306ff3604ae7"
+  },
+  {
+   "path": "media/materials/textures/marble_normal.png",
+   "size": 29285,
+   "sha256": "d4e5ab67529195c5a5be286a022e1e9c8058b9b614eadb7612942462d083a0ef"
+  },
+  {
+   "path": "media/materials/textures/mortar.png",
+   "size": 30700,
+   "sha256": "0749995c21d077be43c42b8de716a7992549eb89f73ba68253792accc4dc03e9"
+  },
+  {
+   "path": "media/materials/textures/mortar_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/oak.png",
+   "size": 44710,
+   "sha256": "cdf8ce500e0145dddaba5408a7bb6b6013c72e37ae225e23903efb16b6eaebd5"
+  },
+  {
+   "path": "media/materials/textures/oak_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  },
+  {
+   "path": "media/materials/textures/paper.png",
+   "size": 52363,
+   "sha256": "e8344646e132da563f18a9157fbf98bd778a6070ac4443ad6e3f209bb2b04fa6"
+  },
+  {
+   "path": "media/materials/textures/paper_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/plaster.png",
+   "size": 51787,
+   "sha256": "7a4c5f149f38204773143f16e06851f33496c436db368fe8a964a390873bfc2e"
+  },
+  {
+   "path": "media/materials/textures/plaster_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/red.png",
+   "size": 30685,
+   "sha256": "efbdd3cc8b5c72553f9db3b9c26860b5c364c1f321b3aa6012ecb45130633ed4"
+  },
+  {
+   "path": "media/materials/textures/red_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rope.png",
+   "size": 44507,
+   "sha256": "24b4fed56ade7e162aa38fcd54886e3c2730f38af4befb25c843422a278e5bbb"
+  },
+  {
+   "path": "media/materials/textures/rope_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rose.png",
+   "size": 51725,
+   "sha256": "e0e37ae18b6906a144680a1155de6ffad7e2bb083d9999fff0363e5112aee4d2"
+  },
+  {
+   "path": "media/materials/textures/rose_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/sand.png",
+   "size": 36961,
+   "sha256": "85886e8f7b3434815829178445b87ff6158c13e8164a8ffda3993c2f221a24cc"
+  },
+  {
+   "path": "media/materials/textures/sand_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/sandstone.png",
+   "size": 47840,
+   "sha256": "ef16b0605a795be8f93f5af413856bbace96ad202e7236059578339d185c3007"
+  },
+  {
+   "path": "media/materials/textures/sandstone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/scales.png",
+   "size": 35840,
+   "sha256": "b1bed18fc93d1ce569ba48331159220c33f9c0feacf02155e12816a7bcaf1e2d"
+  },
+  {
+   "path": "media/materials/textures/scales_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/skin.png",
+   "size": 46985,
+   "sha256": "5ca6e03744c454380928115d5223e4630134a27767a7b26dcfba204d1c4fcf47"
+  },
+  {
+   "path": "media/materials/textures/skin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/snow.png",
+   "size": 42837,
+   "sha256": "0d8d0cd049935a17e0b71ebea93ac5e8f823a998dd72ba10e283741ead9d4260"
+  },
+  {
+   "path": "media/materials/textures/snow_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/soil.png",
+   "size": 32264,
+   "sha256": "4c90d4c1a131223b16a1e4b20de7aa877cded6e90e932f4df75e0e9ec652f615"
+  },
+  {
+   "path": "media/materials/textures/soil_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/steel.png",
+   "size": 49671,
+   "sha256": "eea5cdd9f65ec98b43afd1f7e80a070c60c40fcb61812c4f3c3d6d16c9d95e38"
+  },
+  {
+   "path": "media/materials/textures/steel_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/stone.png",
+   "size": 42272,
+   "sha256": "e4f23d37e5e6d3a83d836d06089b88547117cb6b8978b3b448796eaa655d2ec9"
+  },
+  {
+   "path": "media/materials/textures/stone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/tanfur.png",
+   "size": 44965,
+   "sha256": "5c21a980f0db8b2fcc14c81ba8f6b487e73dd27d2a4bfe3e5000650534d675a7"
+  },
+  {
+   "path": "media/materials/textures/tanfur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/water.png",
+   "size": 29402,
+   "sha256": "a7861a6a33fa96041dd14a7c2ea61c48bfc767b4fbb3e2a2add4fcc74a347850"
+  },
+  {
+   "path": "media/materials/textures/water_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/wood.png",
+   "size": 36098,
+   "sha256": "93be5dba40fb0504f65177b720e06059d439aaf10c0c215617ba6fe9e55769f9"
+  },
+  {
+   "path": "media/materials/textures/wood_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  },
+  {
+   "path": "media/props/Fences/Graveyard fence 01.usd",
+   "size": 41706,
+   "sha256": "19dca31caf4937f2640965cbd755d87108cde6c8fc56f330e782873a01d09a05"
+  },
+  {
+   "path": "media/props/Fences/Graveyard fence 02.usd",
+   "size": 41704,
+   "sha256": "0345b7712da4281f497af671ce1cb8843443377ee816c1e2722e1ca62726bc6a"
+  },
+  {
+   "path": "media/props/Fences/Graveyard fence beam.usd",
+   "size": 41771,
+   "sha256": "4098a5f3835145555d550be318105b1b441ba50b7de5d3f5f1ad6d467409031e"
+  },
+  {
+   "path": "media/props/Fences/Graveyard fence broken 01.usd",
+   "size": 35678,
+   "sha256": "b1c34562f1fc60f7b17574688116541fe99b4ea1ca9576f2fddcd7466e338194"
+  },
+  {
+   "path": "media/props/Fences/Graveyard fence broken 02 A.usd",
+   "size": 35668,
+   "sha256": "e7cad356106654e719851850875e600d29851bf87d1abed6a4f988b053d7b9a8"
+  },
+  {
+   "path": "media/props/Fences/Graveyard fence broken 02 B.usd",
+   "size": 35612,
+   "sha256": "97be651a5c5f783752a477506b736ac696a90defe8693c12a8ad9f5477e9c1ab"
+  },
+  {
+   "path": "media/props/Fences/Graveyard fence corner 02.usd",
+   "size": 80065,
+   "sha256": "8edf57c145c1f248d99a96827fb8695345c6cb4549090e8d255f0caff22072d3"
+  },
+  {
+   "path": "media/props/Fences/Graveyard fence corner.usd",
+   "size": 80134,
+   "sha256": "9ccc66218bf69898e4292b8ba631b59ee3649cebf25f20834468c21ff137dd93"
+  },
+  {
+   "path": "media/props/Fences/Harbor Fence 01.usd",
+   "size": 62204,
+   "sha256": "e6890c9b4040e3993a4b60b7d086538b7970dcac422638332f59c77584aeb330"
+  },
+  {
+   "path": "media/props/Fences/Harbor Fence 02.usd",
+   "size": 62192,
+   "sha256": "a1b3c720815d114ef79e1954c9954536931028870b2bfa0162b99fe6d6ff2d47"
+  },
+  {
+   "path": "media/props/Fences/Harbor Fence Corner 01.usd",
+   "size": 120857,
+   "sha256": "45f929fa77eb9ade80c1b7fcea29cdef122823c41188fa82f8de91ccf4332c88"
+  },
+  {
+   "path": "media/props/Fences/Moorgoth Railing Corner 1x1.usd",
+   "size": 54011,
+   "sha256": "51eef7ec51f4d2b19586f4e20fc78c843dd9a534675ff2f4639c91abfc65c71f"
+  },
+  {
+   "path": "media/props/Fences/Moorgoth Railing Corner.usd",
+   "size": 68474,
+   "sha256": "14899d2047ee55db74e746cf82bef63d12afd5494547832a0a621807396dade9"
+  },
+  {
+   "path": "media/props/Fences/Moorgoth Railing End 1x1.usd",
+   "size": 28478,
+   "sha256": "a13564d32048a20ca0640c570e332c1f23d5e17014cf986aecc4ab350ecbf20e"
+  },
+  {
+   "path": "media/props/Fences/Moorgoth Railing End.usd",
+   "size": 28744,
+   "sha256": "02f8894065cba26c5309c6b434e9bd01d5f3de468ad07f10563cb350cc34250d"
+  },
+  {
+   "path": "media/props/Fences/Moorgoth Railing Straight 1x1.usd",
+   "size": 28643,
+   "sha256": "4944ceab76c1d72e692d5f2607bb83606ff9ca572ad3f3e588ec31006d014d3e"
+  },
+  {
+   "path": "media/props/Fences/Moorgoth Railing Straight.usd",
+   "size": 35943,
+   "sha256": "dcf6ea13e53c01c482889a51ce8c603ee0f1ac229fa14bd9608a689a1ecef991"
+  },
+  {
+   "path": "media/props/Fences/Palace Marble fence corner.usd",
+   "size": 68414,
+   "sha256": "1d8199aeda9a410621874b94b188d784f373cfe1456e8c8777e9e5b88b8dbbeb"
+  },
+  {
+   "path": "media/props/Fences/Palace Marble fence double L.usd",
+   "size": 35842,
+   "sha256": "b7caca1e6033dc2c7bde629838ad950c91bc2fe2de128d9e9d0256f86995b5e2"
+  },
+  {
+   "path": "media/props/Fences/Palace Marble fence double.usd",
+   "size": 35853,
+   "sha256": "a625255798d10a36a515d091ef3d29f6a48337f77a447f97faf6f47c5111e942"
+  },
+  {
+   "path": "media/props/Fences/Palace Marble fence single.usd",
+   "size": 28666,
+   "sha256": "8659a1e54b8cabb284cf209b1cc04598f9f9e431a7b1787b6ad0500746b379af"
+  },
+  {
+   "path": "media/props/Fences/Stone Fence Corner 01.usd",
+   "size": 120805,
+   "sha256": "4013fe2ca4be4af01e7e425ea4e109251c026ed4b3fb12ea8c9cce119637d114"
+  },
+  {
+   "path": "media/props/Fences/Stone Wall - Corner 01.usd",
+   "size": 181804,
+   "sha256": "47a9d59a9c3791e387560ec6815e13773db3a27314fad9e5de87267378b3abb4"
+  },
+  {
+   "path": "media/props/Fences/Stone Wall 01.usd",
+   "size": 92720,
+   "sha256": "ba5a3e3f22364b759f008b957740a2c462ba71ce79ed03e269aeb43d3d61ffb7"
+  },
+  {
+   "path": "media/props/Fences/Stone Wall 02.usd",
+   "size": 92685,
+   "sha256": "c5ebce952b2d0b25fdc876946e03ade5e538a7f6610f6aac41642fb18fecc04e"
+  },
+  {
+   "path": "media/props/Fences/Stone Wall Corner 02.usd",
+   "size": 181801,
+   "sha256": "f45d2197de133408910698d75617b5cba03eccd492375ee3342dd333d66e2a38"
+  },
+  {
+   "path": "media/props/Fences/Stone fence 01.usd",
+   "size": 62107,
+   "sha256": "3c95ea09c4af4b459846eda8c6ee60ca06bd248ef5892b1a735de5fed95f3a21"
+  },
+  {
+   "path": "media/props/Fences/Stone fence 02.usd",
+   "size": 61906,
+   "sha256": "86553e1a70772ef6f513a9e89f758069808193f9e943c80b79016ea74987cf9d"
+  },
+  {
+   "path": "media/props/Fences/Wooden Fence Corner.usd",
+   "size": 68436,
+   "sha256": "d63d82257dabf3f53091393d58c0ada4a0ba9bc00074feaf25166cd6491bcd0c"
+  },
+  {
+   "path": "media/props/Fences/Wooden Fence.usd",
+   "size": 35926,
+   "sha256": "81c09e1c7f590995fcc162444cc339451a4acffe1db05b766534059466d57349"
+  },
+  {
+   "path": "media/props/Fences/bamboo_fence_sm_01.usd",
+   "size": 921963,
+   "sha256": "c0e031ac6f3a79e4645e54c8bb6401b09fbc018d2d8500431c636858da86ba6c"
+  },
+  {
+   "path": "media/props/Fences/bamboo_fence_sm_02.usd",
+   "size": 922052,
+   "sha256": "a1d3401291acdaf18ddc75e394aaaf3cb8aa77bb39e975898149ab608d57a5ec"
+  },
+  {
+   "path": "media/props/Fences/bamboo_fence_sm_03.usd",
+   "size": 1839911,
+   "sha256": "f6cca8193a01bcbaa42481c3a1045043b183d03a70ac764c9bc4c47e0bb862e0"
+  },
+  {
+   "path": "scenery/bamboo-fence-sm-01.md",
+   "size": 224,
+   "sha256": "3a1408ddf45e67497445b8f352dfdceff36281663a5eb2de7c0599f0af1b9285"
+  },
+  {
+   "path": "scenery/bamboo-fence-sm-02.md",
+   "size": 224,
+   "sha256": "6fa74be3785398e8e3e31ca36080d393ce46166a9c2ed80b7a643355208b5ab4"
+  },
+  {
+   "path": "scenery/bamboo-fence-sm-03.md",
+   "size": 224,
+   "sha256": "93b2cbe56b2cd187937173ef4d6b21083f8a13c3caf4f4bce742abdc12231d3f"
+  },
+  {
+   "path": "scenery/graveyard-fence-01.md",
+   "size": 229,
+   "sha256": "3dc4c78078a0c6a1357f7dad19c5b7258cfff25d9ac00cd86283983744acab10"
+  },
+  {
+   "path": "scenery/graveyard-fence-02.md",
+   "size": 229,
+   "sha256": "1d7b4c29ebd392933d5b6c260b2133dafae731e5c406dac3387eab34a8e921c8"
+  },
+  {
+   "path": "scenery/graveyard-fence-beam.md",
+   "size": 247,
+   "sha256": "7b0803be4b03e264733eba90b1df83668e37776c5c3978acb6e34414640810bd"
+  },
+  {
+   "path": "scenery/graveyard-fence-broken-01.md",
+   "size": 251,
+   "sha256": "0003c8262f92e8e953cdcb715cbe7b6fba3feae887f04b078851e6142ea26f66"
+  },
+  {
+   "path": "scenery/graveyard-fence-broken-02-a.md",
+   "size": 255,
+   "sha256": "4d0605cdc87d5969bad4b783bc20c1872a2f07a560f46be71a7f9e65f58ba6c5"
+  },
+  {
+   "path": "scenery/graveyard-fence-broken-02-b.md",
+   "size": 240,
+   "sha256": "93479b4f9fe05ceebd80f449aeeca18abf56c01b6cba027f5ba009361087f95a"
+  },
+  {
+   "path": "scenery/graveyard-fence-corner-02.md",
+   "size": 251,
+   "sha256": "a6c295ef9aec19873cb7a60608919ddc1718f5a51b368be12cc085e0d70997ad"
+  },
+  {
+   "path": "scenery/graveyard-fence-corner.md",
+   "size": 245,
+   "sha256": "2025dc8aa84ebea926def0e7d027a38942577099855811f5f7d35d2306e705c9"
+  },
+  {
+   "path": "scenery/harbor-fence-01.md",
+   "size": 261,
+   "sha256": "3b671a126172292cbe52f568dd73ac959e53d88c8ced58e84c0eafb61b88eb7b"
+  },
+  {
+   "path": "scenery/harbor-fence-02.md",
+   "size": 260,
+   "sha256": "17b40dde65a6902d7d69c6280eb942d85e8487d57ac1a7839fe74173ce636175"
+  },
+  {
+   "path": "scenery/harbor-fence-corner-01.md",
+   "size": 272,
+   "sha256": "f8c78c061b3105031e90b7e423c3a8e19326cb5afb2cdba0605050757824b5c8"
+  },
+  {
+   "path": "scenery/moorgoth-railing-corner-1x1.md",
+   "size": 293,
+   "sha256": "171a78f241c0e8728a2973728b1b6b1c963983d81fbb0b9d8dd18759b145fde7"
+  },
+  {
+   "path": "scenery/moorgoth-railing-corner.md",
+   "size": 285,
+   "sha256": "d99540e331ca647aee01e26c6e045ef7dd16bb0b894f686280c100dbc1b31423"
+  },
+  {
+   "path": "scenery/moorgoth-railing-end-1x1.md",
+   "size": 289,
+   "sha256": "61b3477b8d94fef4b9d5faae6723527d6fd5f45289396dcabaf8f5b5fd2f77a3"
+  },
+  {
+   "path": "scenery/moorgoth-railing-end.md",
+   "size": 281,
+   "sha256": "ad61e24be2d75859e48beadb2d069bf19310c94484ac431ec2f317c70a5766f7"
+  },
+  {
+   "path": "scenery/moorgoth-railing-straight-1x1.md",
+   "size": 299,
+   "sha256": "f47590cc12acdc4cb144f976120bc65d2e620a98c6809d38bb6bf9e349e7a8f9"
+  },
+  {
+   "path": "scenery/moorgoth-railing-straight.md",
+   "size": 291,
+   "sha256": "5f19b9b9537afdcc46424b0438618d52866f3835b24d5b5d58fca8479a54dff6"
+  },
+  {
+   "path": "scenery/palace-marble-fence-corner.md",
+   "size": 285,
+   "sha256": "11aa670107c95c0208694b31359ea4e81873ba290e5977012100d6c7c5b0f9c0"
+  },
+  {
+   "path": "scenery/palace-marble-fence-double-l.md",
+   "size": 288,
+   "sha256": "96b3944bbe931741ce08220daa4f17fa6289e2c076abd3aac0e45cc996d1734f"
+  },
+  {
+   "path": "scenery/palace-marble-fence-double.md",
+   "size": 285,
+   "sha256": "6d65f1965b5cb8ecebf99ceaab154a37c0ecc0c5ee2a70abc99ccadfff6e2ade"
+  },
+  {
+   "path": "scenery/palace-marble-fence-single.md",
+   "size": 285,
+   "sha256": "04676113a13b525ebf6ee8a76562b062746661f5ca7fa05ea3efeabf9e5475f3"
+  },
+  {
+   "path": "scenery/stone-fence-01.md",
+   "size": 213,
+   "sha256": "0b68228ce7f71d00fdc9e076dd9840547792fafff5f2ab17dd91eb6d5bd9af2f"
+  },
+  {
+   "path": "scenery/stone-fence-02.md",
+   "size": 229,
+   "sha256": "f9d4c25601b0befb3290f1d09adbb649d486d9e68d2e1c6519fd97db0b6d0548"
+  },
+  {
+   "path": "scenery/stone-fence-corner-01.md",
+   "size": 242,
+   "sha256": "7e0e40df42206f659e269266f8d006b9f211fcfead2e8b62133531fe406882b6"
+  },
+  {
+   "path": "scenery/stone-wall-01.md",
+   "size": 233,
+   "sha256": "2c8623f7d0754818eb42752772546f222044a9d5d6c78a96d54767debda580fe"
+  },
+  {
+   "path": "scenery/stone-wall-02.md",
+   "size": 233,
+   "sha256": "3ff4c678942932eb12bd7e848ee9a7780144311a0a325687342aefad9128bb8f"
+  },
+  {
+   "path": "scenery/stone-wall-corner-01.md",
+   "size": 249,
+   "sha256": "7dc40211e4a33aea09978da6ed512935d7a1176b65d56a38f09d736d9b3b3311"
+  },
+  {
+   "path": "scenery/stone-wall-corner-02.md",
+   "size": 245,
+   "sha256": "ebd131ca65076f495b656d6e3ba7bb5316b8a2b43818f6d12989d06e2e093072"
+  },
+  {
+   "path": "scenery/wooden-fence-corner.md",
+   "size": 257,
+   "sha256": "75e8dd907b80f8e36a783a7acd851338bf3356f50af5cdb66bd3ccf0d1d8e855"
+  },
+  {
+   "path": "scenery/wooden-fence.md",
+   "size": 246,
+   "sha256": "6cfac0e75b034ac9c21c2644aba802d77e7c85bd978ce849d612297240fdf4b0"
+  }
+ ],
+ "contents": [
+  {
+   "name": "bamboo_fence_sm_01",
+   "kind": "scenery",
+   "thumb": "thumbs/fa4d03e3-3c33-4cf2-8827-ade07320f0dd.jpg",
+   "tags": [
+    "fences",
+    "bamboo",
+    "fence",
+    "small",
+    "yellow"
+   ]
+  },
+  {
+   "name": "bamboo_fence_sm_02",
+   "kind": "scenery",
+   "thumb": "thumbs/cf815497-9408-4ee0-a713-16d50a116679.jpg",
+   "tags": [
+    "fences",
+    "bamboo",
+    "fence",
+    "small",
+    "yellow"
+   ]
+  },
+  {
+   "name": "bamboo_fence_sm_03",
+   "kind": "scenery",
+   "thumb": "thumbs/8be221ec-0984-4203-8aca-48d6cc1e0467.jpg",
+   "tags": [
+    "fences",
+    "bamboo",
+    "fence",
+    "small",
+    "yellow"
+   ]
+  },
+  {
+   "name": "Graveyard fence 01",
+   "kind": "scenery",
+   "thumb": "thumbs/08b1918a-7cdb-4643-8d14-008cd6d18feb.jpg",
+   "tags": [
+    "fences",
+    "house",
+    "black",
+    "metal",
+    "heavy",
+    "fence"
+   ]
+  },
+  {
+   "name": "Graveyard fence 02",
+   "kind": "scenery",
+   "thumb": "thumbs/7a33b43e-ef84-4e06-90bf-333412d88cdb.jpg",
+   "tags": [
+    "fences",
+    "house",
+    "black",
+    "metal",
+    "heavy",
+    "fence"
+   ]
+  },
+  {
+   "name": "Graveyard fence beam",
+   "kind": "scenery",
+   "thumb": "thumbs/84ee0f89-1c06-467d-a3ef-7db0ef42768d.jpg",
+   "tags": [
+    "fences",
+    "house",
+    "beam",
+    "pillar",
+    "black",
+    "metal",
+    "heavy",
+    "fence"
+   ]
+  },
+  {
+   "name": "Graveyard fence broken 01",
+   "kind": "scenery",
+   "thumb": "thumbs/1e86ec31-8bfe-4db8-a489-2670468b980a.jpg",
+   "tags": [
+    "fences",
+    "house",
+    "broken",
+    "black",
+    "metal",
+    "heavy",
+    "fence"
+   ]
+  },
+  {
+   "name": "Graveyard fence broken 02 A",
+   "kind": "scenery",
+   "thumb": "thumbs/4e93d73d-7bb0-49d9-b42c-851193adf2fe.jpg",
+   "tags": [
+    "fences",
+    "house",
+    "broken",
+    "black",
+    "metal",
+    "heavy",
+    "fence"
+   ]
+  },
+  {
+   "name": "Graveyard fence broken 02 B",
+   "kind": "scenery",
+   "thumb": "thumbs/41cfc154-ed0d-445d-b235-19a3b4876baa.jpg",
+   "tags": [
+    "fences",
+    "black",
+    "metal",
+    "heavy",
+    "fence"
+   ]
+  },
+  {
+   "name": "Graveyard fence corner 02",
+   "kind": "scenery",
+   "thumb": "thumbs/7a874520-926b-4991-879f-ff53f4777adf.jpg",
+   "tags": [
+    "fences",
+    "house",
+    "corner",
+    "black",
+    "metal",
+    "heavy",
+    "fence"
+   ]
+  },
+  {
+   "name": "Graveyard fence corner",
+   "kind": "scenery",
+   "thumb": "thumbs/a94d0fed-79c3-4317-af28-4ab04fd7e04e.jpg",
+   "tags": [
+    "fences",
+    "house",
+    "corner",
+    "black",
+    "metal",
+    "heavy",
+    "fence"
+   ]
+  },
+  {
+   "name": "Harbor Fence 01",
+   "kind": "scenery",
+   "thumb": "thumbs/96ed61ff-c38a-41be-8aab-c2333a670aaf.jpg",
+   "tags": [
+    "fences",
+    "wood",
+    "dock",
+    "harbor",
+    "rope",
+    "straight",
+    "coastal",
+    "ocean",
+    "post",
+    "fence",
+    "medium"
+   ]
+  },
+  {
+   "name": "Harbor Fence 02",
+   "kind": "scenery",
+   "thumb": "thumbs/fd4a70b2-71e3-4919-9610-ef3cb8500f29.jpg",
+   "tags": [
+    "fences",
+    "wood",
+    "dock",
+    "harbor",
+    "rope",
+    "straight",
+    "coastal",
+    "ocean",
+    "post",
+    "fence",
+    "small"
+   ]
+  },
+  {
+   "name": "Harbor Fence Corner 01",
+   "kind": "scenery",
+   "thumb": "thumbs/bdbcbbf2-cc45-4055-8655-22b99a669163.jpg",
+   "tags": [
+    "fences",
+    "wood",
+    "dock",
+    "harbor",
+    "rope",
+    "corner",
+    "coastal",
+    "ocean",
+    "post",
+    "fence",
+    "small"
+   ]
+  },
+  {
+   "name": "Moorgoth Railing Corner 1x1",
+   "kind": "scenery",
+   "thumb": "thumbs/0f5eaf32-1503-4b83-8c86-c5489958bd1d.jpg",
+   "tags": [
+    "fences",
+    "rail",
+    "stone",
+    "moorgoth",
+    "railing",
+    "corner",
+    "castle",
+    "fancy",
+    "gray",
+    "grey",
+    "fence",
+    "large"
+   ]
+  },
+  {
+   "name": "Moorgoth Railing Corner",
+   "kind": "scenery",
+   "thumb": "thumbs/7ed360a4-9a21-42ac-a871-7dd6a30672ac.jpg",
+   "tags": [
+    "fences",
+    "rail",
+    "stone",
+    "moorgoth",
+    "railing",
+    "corner",
+    "castle",
+    "fancy",
+    "gray",
+    "grey",
+    "fence",
+    "large"
+   ]
+  },
+  {
+   "name": "Moorgoth Railing End 1x1",
+   "kind": "scenery",
+   "thumb": "thumbs/7b58baa5-0f17-4f27-aa74-783f28ca6939.jpg",
+   "tags": [
+    "fences",
+    "rail",
+    "stone",
+    "moorgoth",
+    "railing",
+    "straight",
+    "castle",
+    "fancy",
+    "gray",
+    "grey",
+    "fence",
+    "large"
+   ]
+  },
+  {
+   "name": "Moorgoth Railing End",
+   "kind": "scenery",
+   "thumb": "thumbs/d6b1a7ff-b523-4b79-9e63-c8c4a64f04bd.jpg",
+   "tags": [
+    "fences",
+    "rail",
+    "stone",
+    "moorgoth",
+    "railing",
+    "straight",
+    "castle",
+    "fancy",
+    "gray",
+    "grey",
+    "fence",
+    "large"
+   ]
+  },
+  {
+   "name": "Moorgoth Railing Straight 1x1",
+   "kind": "scenery",
+   "thumb": "thumbs/90bff444-aa3f-4ac3-b1b4-2462d8953917.jpg",
+   "tags": [
+    "fences",
+    "rail",
+    "stone",
+    "moorgoth",
+    "railing",
+    "straight",
+    "castle",
+    "fancy",
+    "gray",
+    "grey",
+    "fence",
+    "large"
+   ]
+  },
+  {
+   "name": "Moorgoth Railing Straight",
+   "kind": "scenery",
+   "thumb": "thumbs/538f748b-19ba-496e-87df-10618a931874.jpg",
+   "tags": [
+    "fences",
+    "rail",
+    "stone",
+    "moorgoth",
+    "railing",
+    "straight",
+    "castle",
+    "fancy",
+    "gray",
+    "grey",
+    "fence",
+    "large"
+   ]
+  },
+  {
+   "name": "Palace Marble fence corner",
+   "kind": "scenery",
+   "thumb": "thumbs/6ed15a4b-0f7f-4cfb-b780-828a1e54a180.jpg",
+   "tags": [
+    "fences",
+    "white",
+    "orange",
+    "palace",
+    "marble",
+    "fence",
+    "yellow",
+    "brown",
+    "decor",
+    "floor",
+    "medium"
+   ]
+  },
+  {
+   "name": "Palace Marble fence double L",
+   "kind": "scenery",
+   "thumb": "thumbs/b1c7500c-8732-404d-90ed-b744893c007c.jpg",
+   "tags": [
+    "fences",
+    "white",
+    "orange",
+    "palace",
+    "marble",
+    "fence",
+    "yellow",
+    "brown",
+    "decor",
+    "floor",
+    "large"
+   ]
+  },
+  {
+   "name": "Palace Marble fence double",
+   "kind": "scenery",
+   "thumb": "thumbs/dc5cee79-09eb-4d6f-9d56-f6d137da3462.jpg",
+   "tags": [
+    "fences",
+    "white",
+    "orange",
+    "palace",
+    "marble",
+    "fence",
+    "yellow",
+    "brown",
+    "decor",
+    "floor",
+    "medium"
+   ]
+  },
+  {
+   "name": "Palace Marble fence single",
+   "kind": "scenery",
+   "thumb": "thumbs/100112e7-6205-4320-a4b3-006a765054a3.jpg",
+   "tags": [
+    "fences",
+    "white",
+    "orange",
+    "palace",
+    "marble",
+    "fence",
+    "yellow",
+    "brown",
+    "decor",
+    "floor",
+    "medium"
+   ]
+  },
+  {
+   "name": "Stone fence 01",
+   "kind": "scenery",
+   "thumb": "thumbs/235b8068-24c7-4848-9fed-18ebc604e2ed.jpg",
+   "tags": [
+    "fences",
+    "stone",
+    "post",
+    "fence",
+    "small"
+   ]
+  },
+  {
+   "name": "Stone fence 02",
+   "kind": "scenery",
+   "thumb": "thumbs/b45932bc-e98b-4a15-b4ad-882b062be804.jpg",
+   "tags": [
+    "fences",
+    "stone",
+    "rope",
+    "straight",
+    "post",
+    "fence",
+    "small"
+   ]
+  },
+  {
+   "name": "Stone Fence Corner 01",
+   "kind": "scenery",
+   "thumb": "thumbs/771574af-f82f-4602-8b1e-b66a9e8a7785.jpg",
+   "tags": [
+    "fences",
+    "stone",
+    "rope",
+    "corner",
+    "post",
+    "fence",
+    "medium"
+   ]
+  },
+  {
+   "name": "Stone Wall 01",
+   "kind": "scenery",
+   "thumb": "thumbs/4e8c2ded-fd67-4c63-890e-8c655d445d1d.jpg",
+   "tags": [
+    "fences",
+    "stone",
+    "wall",
+    "straight",
+    "gray",
+    "grey",
+    "fence",
+    "large"
+   ]
+  },
+  {
+   "name": "Stone Wall 02",
+   "kind": "scenery",
+   "thumb": "thumbs/1a45f37f-3af2-47ba-877b-9d6e6429665d.jpg",
+   "tags": [
+    "fences",
+    "wall",
+    "stone",
+    "straight",
+    "gray",
+    "grey",
+    "fence",
+    "large"
+   ]
+  },
+  {
+   "name": "Stone Wall - Corner 01",
+   "kind": "scenery",
+   "thumb": "thumbs/d8bd43bf-b944-491a-b7d9-19e107ece38f.jpg",
+   "tags": [
+    "fences",
+    "wall",
+    "stone",
+    "corner",
+    "gray",
+    "grey",
+    "fence",
+    "large"
+   ]
+  },
+  {
+   "name": "Stone Wall Corner 02",
+   "kind": "scenery",
+   "thumb": "thumbs/8a679019-0f22-4b03-9d9b-fdf878587904.jpg",
+   "tags": [
+    "fences",
+    "wall",
+    "stone",
+    "corner",
+    "gray",
+    "grey",
+    "fence",
+    "large"
+   ]
+  },
+  {
+   "name": "Wooden Fence Corner",
+   "kind": "scenery",
+   "thumb": "thumbs/158ca840-1c34-43b8-aaf9-2ad030a99951.jpg",
+   "tags": [
+    "fences",
+    "corner",
+    "wood",
+    "brown",
+    "grassland",
+    "plains",
+    "post",
+    "fence",
+    "medium"
+   ]
+  },
+  {
+   "name": "Wooden Fence",
+   "kind": "scenery",
+   "thumb": "thumbs/b86102fa-7c63-461b-a1e9-6529e3495eec.jpg",
+   "tags": [
+    "fences",
+    "wood",
+    "straight",
+    "brown",
+    "grassland",
+    "plains",
+    "post",
+    "fence",
+    "medium"
+   ]
+  }
+ ]
+}

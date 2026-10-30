@@ -1,0 +1,787 @@
+{
+ "id": "e3365610-8aaf-5e06-97ae-1887a564bec6",
+ "folder": "Crafting Props.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 709,
+   "sha256": "986da007d6658c7ff14ba9630a7e75f18953849d3bf7493da977b23bd7d25c84"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 28959,
+   "sha256": "2fef227be14fb9342180cde8a88e0801cf6b062460719cd80b3408e393f071c2"
+  },
+  {
+   "path": "media/materials/Library.usdc",
+   "size": 19724,
+   "sha256": "c24d21cc536ed131cf8633109bc9ffdf7e045cd0c2da1da90544a18c4fa9d5ba"
+  },
+  {
+   "path": "media/materials/textures/basalt.png",
+   "size": 25957,
+   "sha256": "e7295df0b2356c29812c23d4ee8cfcbbab04ee3eb5f20f52d281a6846c8f2e96"
+  },
+  {
+   "path": "media/materials/textures/basalt_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/blue.png",
+   "size": 29622,
+   "sha256": "bb2482f15178dd7ed1883b5558bae3c5db1e6f63dfb0a562b16da3cffcd80add"
+  },
+  {
+   "path": "media/materials/textures/blue_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bluefire.png",
+   "size": 40884,
+   "sha256": "95947aba8ef1863b10a5ceb035363c014f49bb066a629334e6b9fb0c0b2a2a57"
+  },
+  {
+   "path": "media/materials/textures/bluefire_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bone.png",
+   "size": 52095,
+   "sha256": "60127b0b9d500672ffa4413c2e0331968daf672f9edbbc58e031bd20a24410ce"
+  },
+  {
+   "path": "media/materials/textures/bone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/brass.png",
+   "size": 45700,
+   "sha256": "7653b7e6c813911303d183fd977ca9007540d1f30b8a647ce49a9b4b25479a7e"
+  },
+  {
+   "path": "media/materials/textures/brass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/fur.png",
+   "size": 32075,
+   "sha256": "e6ebdc6bf38121ac2caa3f246dbf760ceb5f618f67a707849f43ac55ee75e56d"
+  },
+  {
+   "path": "media/materials/textures/fur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ghost.png",
+   "size": 46813,
+   "sha256": "6b86f729a542c078e35015b96d3bdf6bb6fd252e59dc931fbd818c4ac61d0809"
+  },
+  {
+   "path": "media/materials/textures/ghost_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/goblinskin.png",
+   "size": 40654,
+   "sha256": "bc088b6cce6935a3e38a4e34d3f8e553b7269a409f04d5892d4bb7bcbb804e7a"
+  },
+  {
+   "path": "media/materials/textures/goblinskin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/grass.png",
+   "size": 37697,
+   "sha256": "f6440b6a238240b171a02d0a9abfa1db6e3b23470ea136796156c95dc85ecb1a"
+  },
+  {
+   "path": "media/materials/textures/grass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ice.png",
+   "size": 54673,
+   "sha256": "1776de4df5a1aa0fd4c24462a5bf2188a02dd0f291b002f76689f64c7401183f"
+  },
+  {
+   "path": "media/materials/textures/ice_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/iron.png",
+   "size": 33226,
+   "sha256": "b819ee206156042e76233baf2e2abdb7f0a4a0ae5bc64a26cfaaec7a6fae6a3b"
+  },
+  {
+   "path": "media/materials/textures/iron_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/jade.png",
+   "size": 33655,
+   "sha256": "449a6862f41cf33514e10aa482f65a2dd957d8accc0e776a061972b2b5323771"
+  },
+  {
+   "path": "media/materials/textures/jade_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/lava.png",
+   "size": 36124,
+   "sha256": "f4f7e6f7c9f527d2c962cacf29c83a795a16ecc66640854685970879a3f94e4c"
+  },
+  {
+   "path": "media/materials/textures/lava_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/leather.png",
+   "size": 22325,
+   "sha256": "5466b2bd41efecafe9089281e6fca4ca93def727a9c16cafc86dadf55d211774"
+  },
+  {
+   "path": "media/materials/textures/leather_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/limestone.png",
+   "size": 49995,
+   "sha256": "bf8ce44b291f665ea0c34f28befb206e92da7202b60d7b8ebdfc5fe801118ee9"
+  },
+  {
+   "path": "media/materials/textures/limestone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/marble.png",
+   "size": 31933,
+   "sha256": "d8c25c02c17e9076c1bb4fb692d360f9fb31c298ca833d8c244e306ff3604ae7"
+  },
+  {
+   "path": "media/materials/textures/marble_normal.png",
+   "size": 29285,
+   "sha256": "d4e5ab67529195c5a5be286a022e1e9c8058b9b614eadb7612942462d083a0ef"
+  },
+  {
+   "path": "media/materials/textures/mortar.png",
+   "size": 30700,
+   "sha256": "0749995c21d077be43c42b8de716a7992549eb89f73ba68253792accc4dc03e9"
+  },
+  {
+   "path": "media/materials/textures/mortar_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/oak.png",
+   "size": 44710,
+   "sha256": "cdf8ce500e0145dddaba5408a7bb6b6013c72e37ae225e23903efb16b6eaebd5"
+  },
+  {
+   "path": "media/materials/textures/oak_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  },
+  {
+   "path": "media/materials/textures/paper.png",
+   "size": 52363,
+   "sha256": "e8344646e132da563f18a9157fbf98bd778a6070ac4443ad6e3f209bb2b04fa6"
+  },
+  {
+   "path": "media/materials/textures/paper_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/plaster.png",
+   "size": 51787,
+   "sha256": "7a4c5f149f38204773143f16e06851f33496c436db368fe8a964a390873bfc2e"
+  },
+  {
+   "path": "media/materials/textures/plaster_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/red.png",
+   "size": 30685,
+   "sha256": "efbdd3cc8b5c72553f9db3b9c26860b5c364c1f321b3aa6012ecb45130633ed4"
+  },
+  {
+   "path": "media/materials/textures/red_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rope.png",
+   "size": 44507,
+   "sha256": "24b4fed56ade7e162aa38fcd54886e3c2730f38af4befb25c843422a278e5bbb"
+  },
+  {
+   "path": "media/materials/textures/rope_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rose.png",
+   "size": 51725,
+   "sha256": "e0e37ae18b6906a144680a1155de6ffad7e2bb083d9999fff0363e5112aee4d2"
+  },
+  {
+   "path": "media/materials/textures/rose_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/sand.png",
+   "size": 36961,
+   "sha256": "85886e8f7b3434815829178445b87ff6158c13e8164a8ffda3993c2f221a24cc"
+  },
+  {
+   "path": "media/materials/textures/sand_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/sandstone.png",
+   "size": 47840,
+   "sha256": "ef16b0605a795be8f93f5af413856bbace96ad202e7236059578339d185c3007"
+  },
+  {
+   "path": "media/materials/textures/sandstone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/scales.png",
+   "size": 35840,
+   "sha256": "b1bed18fc93d1ce569ba48331159220c33f9c0feacf02155e12816a7bcaf1e2d"
+  },
+  {
+   "path": "media/materials/textures/scales_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/skin.png",
+   "size": 46985,
+   "sha256": "5ca6e03744c454380928115d5223e4630134a27767a7b26dcfba204d1c4fcf47"
+  },
+  {
+   "path": "media/materials/textures/skin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/snow.png",
+   "size": 42837,
+   "sha256": "0d8d0cd049935a17e0b71ebea93ac5e8f823a998dd72ba10e283741ead9d4260"
+  },
+  {
+   "path": "media/materials/textures/snow_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/soil.png",
+   "size": 32264,
+   "sha256": "4c90d4c1a131223b16a1e4b20de7aa877cded6e90e932f4df75e0e9ec652f615"
+  },
+  {
+   "path": "media/materials/textures/soil_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/steel.png",
+   "size": 49671,
+   "sha256": "eea5cdd9f65ec98b43afd1f7e80a070c60c40fcb61812c4f3c3d6d16c9d95e38"
+  },
+  {
+   "path": "media/materials/textures/steel_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/stone.png",
+   "size": 42272,
+   "sha256": "e4f23d37e5e6d3a83d836d06089b88547117cb6b8978b3b448796eaa655d2ec9"
+  },
+  {
+   "path": "media/materials/textures/stone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/tanfur.png",
+   "size": 44965,
+   "sha256": "5c21a980f0db8b2fcc14c81ba8f6b487e73dd27d2a4bfe3e5000650534d675a7"
+  },
+  {
+   "path": "media/materials/textures/tanfur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/water.png",
+   "size": 29402,
+   "sha256": "a7861a6a33fa96041dd14a7c2ea61c48bfc767b4fbb3e2a2add4fcc74a347850"
+  },
+  {
+   "path": "media/materials/textures/water_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/wood.png",
+   "size": 36098,
+   "sha256": "93be5dba40fb0504f65177b720e06059d439aaf10c0c215617ba6fe9e55769f9"
+  },
+  {
+   "path": "media/materials/textures/wood_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, distillery base.usd",
+   "size": 5684,
+   "sha256": "3ef58f8f900ae6ce9e9657ff1bb04282e3c68a052479d65da235239f1736c3d7"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, distillery.usd",
+   "size": 143718,
+   "sha256": "3b633b0ce0dc5302055652443f5defbf418a87b7035d733d27c486b6c59ed5bc"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, shelf 01.usd",
+   "size": 287656,
+   "sha256": "17c1c24ad1a545fdc59c89482c7e8458daee702ce1f171c1252e821b596db96a"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, shelf 02.usd",
+   "size": 289007,
+   "sha256": "c0cc4095be64e189044f50cb895cc805579a9a9ca05a17a79c25a01ba9c83d4c"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, table 01.usd",
+   "size": 204156,
+   "sha256": "7b18e5fc359f506db0bae06b8093fa83ff71d0128976e65fd3086d9370a27d14"
+  },
+  {
+   "path": "media/props/Crafting/Anvil.usd",
+   "size": 53164,
+   "sha256": "e2c47463b0623e778ccabceab89cf4ac439fc690cb86765c04ff986f8aaba414"
+  },
+  {
+   "path": "media/props/Crafting/Armor Rack.usd",
+   "size": 57747,
+   "sha256": "ba6f21cb32516900207ea0a67462b43379ed5d4247ccd31a809667d08461b050"
+  },
+  {
+   "path": "media/props/Crafting/Arrow pile 01.usd",
+   "size": 15400,
+   "sha256": "4737b937e17dc5ba73768221713173dc8261e245e353f276f14a7c13fec0ac08"
+  },
+  {
+   "path": "media/props/Crafting/Coil, Electromagnet Off.usd",
+   "size": 167359,
+   "sha256": "d14ded95799d14c5c0ab096ca9c3316f33fa5098f5b9682ec93362e4776a1702"
+  },
+  {
+   "path": "media/props/Crafting/Coil, Electromagnet.usd",
+   "size": 167363,
+   "sha256": "a38e96903f6080f05e61ef85d7c11ae15b03e6204ec134cb7ebe0636b35cbae7"
+  },
+  {
+   "path": "media/props/Crafting/Forge.usd",
+   "size": 64967,
+   "sha256": "cd4da7e7aa7bd57a9f6df08605a542842186da9ac45a9ade6fda8eec0da6dda4"
+  },
+  {
+   "path": "media/props/Crafting/Weapon Rack.usd",
+   "size": 26149,
+   "sha256": "8af74b3fa5531d83ba87eb393d2ccb414367f449fbf98d4e532e45915db6de8d"
+  },
+  {
+   "path": "media/props/Crafting/Workbench.usd",
+   "size": 74348,
+   "sha256": "29202e678e9552303d14e1c94c9ef0d398405f820ec1b5ad237131fe7d3da17e"
+  },
+  {
+   "path": "media/props/Crafting/alchemy jug 07.usd",
+   "size": 48288,
+   "sha256": "abdf34d02c92990ef85e0055c30e1da682dce00dc510a4f3d6a157146066f282"
+  },
+  {
+   "path": "scenery/alchemy-distillery-base.md",
+   "size": 291,
+   "sha256": "162fd4ac9b02d8468a23f67bbd24e6af6271c6461b57649a5c617fa8fa95f0d2"
+  },
+  {
+   "path": "scenery/alchemy-distillery.md",
+   "size": 314,
+   "sha256": "dcf64d4655fb1d0a5f28b8971b2b2f55c6697306242cb9f317d2a08ee514a497"
+  },
+  {
+   "path": "scenery/alchemy-jug-07.md",
+   "size": 311,
+   "sha256": "58c869dd62deb86711a6c80ae309fdbe45412629a8ce604a9d01a0e77dbf9a3f"
+  },
+  {
+   "path": "scenery/alchemy-shelf-01.md",
+   "size": 299,
+   "sha256": "6bea8dc393a3cb290974641e4051cdf790c12125c827b055b0480f642c8c2c08"
+  },
+  {
+   "path": "scenery/alchemy-shelf-02.md",
+   "size": 299,
+   "sha256": "7862770c0cb9b2bcdb926ce96fe15b898de03ffceb5e8b523f576dc7e86dc9b4"
+  },
+  {
+   "path": "scenery/alchemy-table-01.md",
+   "size": 307,
+   "sha256": "34a4ec079956cc857f9dae5015a4fbb31602da3f744310e8f10120ce9e4efa59"
+  },
+  {
+   "path": "scenery/anvil.md",
+   "size": 302,
+   "sha256": "4062f6159d0c3ecac3461fa109287dd26ba4194a0db3d3fe503686dba9e82072"
+  },
+  {
+   "path": "scenery/armor-rack.md",
+   "size": 316,
+   "sha256": "96315519b644cf7e789a461a325c64b2cc86660dc43c59c0d87c0afcc6641685"
+  },
+  {
+   "path": "scenery/arrow-pile-01.md",
+   "size": 273,
+   "sha256": "e05a794b3f4bcf40c94a4b15e47510b61b79af5c0ab8186c124100c0ba67694a"
+  },
+  {
+   "path": "scenery/coil-electromagnet-off.md",
+   "size": 299,
+   "sha256": "2819055bc03f956ae96b2c361f730696e8543a005f9af7fa2e22ea54d67c4976"
+  },
+  {
+   "path": "scenery/coil-electromagnet.md",
+   "size": 291,
+   "sha256": "f5dbb269dc42b41c6d933a74702fb9449ab08171b67d109a80a8764d41532845"
+  },
+  {
+   "path": "scenery/forge.md",
+   "size": 303,
+   "sha256": "299a9cc335e06cddd9bc1147902b2f810cf6d49ede97943b8bf27916ec323865"
+  },
+  {
+   "path": "scenery/weapon-rack.md",
+   "size": 321,
+   "sha256": "95fe2c1c07979a0b0189e70110bd60739b8953be386e0ad31448550a0e211b02"
+  },
+  {
+   "path": "scenery/workbench.md",
+   "size": 308,
+   "sha256": "fa6a47acdcb524d183502075eaecf234cfbfccc25cfb8873631275d6fc68f439"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Alchemy, distillery base",
+   "kind": "scenery",
+   "thumb": "thumbs/1207e22d-014d-48d3-b999-3af9c6378f4c.jpg",
+   "tags": [
+    "distillery",
+    "laboratory",
+    "stone",
+    "rock",
+    "black",
+    "crafting",
+    "warehouse",
+    "shack",
+    "medium",
+    "alchemy"
+   ]
+  },
+  {
+   "name": "Alchemy, distillery",
+   "kind": "scenery",
+   "thumb": "thumbs/122680e9-fd9c-453d-8943-22497cb5feed.jpg",
+   "tags": [
+    "distillery",
+    "laboratory",
+    "still",
+    "brewing",
+    "brew",
+    "crafting",
+    "warehouse",
+    "shack",
+    "medium",
+    "alchemy",
+    "metal",
+    "stone",
+    "rock",
+    "container"
+   ]
+  },
+  {
+   "name": "alchemy jug 07",
+   "kind": "scenery",
+   "thumb": "thumbs/3a8fe987-2a14-40f4-a08d-029a3c31a3e2.jpg",
+   "tags": [
+    "accessories",
+    "cooking",
+    "magic",
+    "copper",
+    "tiny",
+    "black",
+    "white",
+    "orange",
+    "bunsen",
+    "burner",
+    "crafting",
+    "warehouse",
+    "shack",
+    "alchemy",
+    "container"
+   ]
+  },
+  {
+   "name": "Alchemy, shelf 01",
+   "kind": "scenery",
+   "thumb": "thumbs/22ec9979-4c54-47f9-b60a-faf9f0614858.jpg",
+   "tags": [
+    "crafting",
+    "alchemy",
+    "shelf",
+    "laboratory",
+    "appliances",
+    "accessories",
+    "medium",
+    "wood",
+    "copper",
+    "metal",
+    "container",
+    "bottle"
+   ]
+  },
+  {
+   "name": "Alchemy, shelf 02",
+   "kind": "scenery",
+   "thumb": "thumbs/8fc32b45-a5ff-46a2-bed6-946c8caf36ed.jpg",
+   "tags": [
+    "crafting",
+    "alchemy",
+    "shelf",
+    "laboratory",
+    "appliances",
+    "accessories",
+    "medium",
+    "wood",
+    "copper",
+    "metal",
+    "container",
+    "bottle"
+   ]
+  },
+  {
+   "name": "Alchemy, table 01",
+   "kind": "scenery",
+   "thumb": "thumbs/5aaba37d-4d17-4c05-a935-a19c288aabf1.jpg",
+   "tags": [
+    "alchemy",
+    "table",
+    "laboratory",
+    "bunsen",
+    "burner",
+    "crafting",
+    "warehouse",
+    "shack",
+    "large",
+    "wood",
+    "copper",
+    "metal",
+    "container",
+    "bottle"
+   ]
+  },
+  {
+   "name": "Anvil",
+   "kind": "scenery",
+   "thumb": "thumbs/ea2cb7d1-29c2-43c4-bdc5-ab21080bfad3.jpg",
+   "tags": [
+    "anvil",
+    "metal",
+    "armorsmith",
+    "vendor",
+    "crafter",
+    "iron",
+    "wood",
+    "tongs",
+    "hammer",
+    "crafting",
+    "warehouse",
+    "shack",
+    "small",
+    "smithy",
+    "blacksmith",
+    "weaponsmith"
+   ]
+  },
+  {
+   "name": "Armor Rack",
+   "kind": "scenery",
+   "thumb": "thumbs/b8d3839f-00fa-436b-8dc9-f67cef318bf8.jpg",
+   "tags": [
+    "rack",
+    "armor",
+    "halfplate",
+    "pauldrons",
+    "helmet",
+    "plate",
+    "stand",
+    "armorsmith",
+    "crafting",
+    "warehouse",
+    "shack",
+    "small",
+    "smithy",
+    "blacksmith",
+    "weaponsmith",
+    "war"
+   ]
+  },
+  {
+   "name": "Arrow pile 01",
+   "kind": "scenery",
+   "thumb": "thumbs/2f4face8-297e-462c-85a2-902707c05974.jpg",
+   "tags": [
+    "arrow",
+    "pile",
+    "weapon",
+    "crafting",
+    "warehouse",
+    "shack",
+    "tiny",
+    "smithy",
+    "blacksmith",
+    "weaponsmith",
+    "war"
+   ]
+  },
+  {
+   "name": "Coil, Electromagnet Off",
+   "kind": "scenery",
+   "thumb": "thumbs/9af5212e-7412-4ca9-aa94-d96e19352bd2.jpg",
+   "tags": [
+    "alchemy",
+    "coil",
+    "electromagnetic",
+    "laboratory",
+    "tesla",
+    "technology",
+    "crafting",
+    "warehouse",
+    "shack",
+    "medium"
+   ]
+  },
+  {
+   "name": "Coil, Electromagnet",
+   "kind": "scenery",
+   "thumb": "thumbs/ad6264ac-d52f-4bff-b930-23ca7143184b.jpg",
+   "tags": [
+    "alchemy",
+    "coil",
+    "electromagnetic",
+    "laboratory",
+    "tesla",
+    "technology",
+    "crafting",
+    "warehouse",
+    "shack",
+    "medium"
+   ]
+  },
+  {
+   "name": "Forge",
+   "kind": "scenery",
+   "thumb": "thumbs/ac4e845b-254e-40e9-b1be-3eb7e924d24c.jpg",
+   "tags": [
+    "crafting",
+    "forge",
+    "light",
+    "lit",
+    "illuminated",
+    "stone",
+    "rock",
+    "black",
+    "large",
+    "accessories",
+    "appliances",
+    "huge",
+    "smithy",
+    "blacksmith",
+    "weaponsmith",
+    "fire"
+   ]
+  },
+  {
+   "name": "Weapon Rack",
+   "kind": "scenery",
+   "thumb": "thumbs/f44f9e09-264c-49c5-9335-3a1d24263a81.jpg",
+   "tags": [
+    "crafting",
+    "rack",
+    "weapon",
+    "wood",
+    "smithy",
+    "accessories",
+    "household",
+    "appliances",
+    "house",
+    "axe",
+    "battleaxe",
+    "sword",
+    "warhammer",
+    "blacksmith",
+    "weaponsmith",
+    "war"
+   ]
+  },
+  {
+   "name": "Workbench",
+   "kind": "scenery",
+   "thumb": "thumbs/fc33604a-1b38-4618-969f-13216d75cdb5.jpg",
+   "tags": [
+    "workbench",
+    "table",
+    "bench",
+    "wood",
+    "smithy",
+    "technology",
+    "crafting",
+    "warehouse",
+    "shack",
+    "large",
+    "blacksmith",
+    "carpenter",
+    "cartographer",
+    "weaponsmith"
+   ]
+  }
+ ]
+}

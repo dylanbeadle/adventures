@@ -1,0 +1,825 @@
+{
+ "id": "2e68b170-cea9-5fd9-8397-a15f0c24f2f2",
+ "folder": "Castle Tiles.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 918,
+   "sha256": "9d0910ddb28ac02bf3c50c5efd9abf9f94b86454db0c9cac35c00990c1cd36a7"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 38572,
+   "sha256": "0fdc7c8a3c7ed5cf68c417bfb1aaab065b755b2819eb5cd82bc6c6f065bcc958"
+  },
+  {
+   "path": "media/materials/Library.usdc",
+   "size": 19724,
+   "sha256": "c24d21cc536ed131cf8633109bc9ffdf7e045cd0c2da1da90544a18c4fa9d5ba"
+  },
+  {
+   "path": "media/materials/textures/basalt.png",
+   "size": 25957,
+   "sha256": "e7295df0b2356c29812c23d4ee8cfcbbab04ee3eb5f20f52d281a6846c8f2e96"
+  },
+  {
+   "path": "media/materials/textures/basalt_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/blue.png",
+   "size": 29622,
+   "sha256": "bb2482f15178dd7ed1883b5558bae3c5db1e6f63dfb0a562b16da3cffcd80add"
+  },
+  {
+   "path": "media/materials/textures/blue_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bluefire.png",
+   "size": 40884,
+   "sha256": "95947aba8ef1863b10a5ceb035363c014f49bb066a629334e6b9fb0c0b2a2a57"
+  },
+  {
+   "path": "media/materials/textures/bluefire_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bone.png",
+   "size": 52095,
+   "sha256": "60127b0b9d500672ffa4413c2e0331968daf672f9edbbc58e031bd20a24410ce"
+  },
+  {
+   "path": "media/materials/textures/bone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/brass.png",
+   "size": 45700,
+   "sha256": "7653b7e6c813911303d183fd977ca9007540d1f30b8a647ce49a9b4b25479a7e"
+  },
+  {
+   "path": "media/materials/textures/brass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/fur.png",
+   "size": 32075,
+   "sha256": "e6ebdc6bf38121ac2caa3f246dbf760ceb5f618f67a707849f43ac55ee75e56d"
+  },
+  {
+   "path": "media/materials/textures/fur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ghost.png",
+   "size": 46813,
+   "sha256": "6b86f729a542c078e35015b96d3bdf6bb6fd252e59dc931fbd818c4ac61d0809"
+  },
+  {
+   "path": "media/materials/textures/ghost_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/goblinskin.png",
+   "size": 40654,
+   "sha256": "bc088b6cce6935a3e38a4e34d3f8e553b7269a409f04d5892d4bb7bcbb804e7a"
+  },
+  {
+   "path": "media/materials/textures/goblinskin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/grass.png",
+   "size": 37697,
+   "sha256": "f6440b6a238240b171a02d0a9abfa1db6e3b23470ea136796156c95dc85ecb1a"
+  },
+  {
+   "path": "media/materials/textures/grass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ice.png",
+   "size": 54673,
+   "sha256": "1776de4df5a1aa0fd4c24462a5bf2188a02dd0f291b002f76689f64c7401183f"
+  },
+  {
+   "path": "media/materials/textures/ice_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/iron.png",
+   "size": 33226,
+   "sha256": "b819ee206156042e76233baf2e2abdb7f0a4a0ae5bc64a26cfaaec7a6fae6a3b"
+  },
+  {
+   "path": "media/materials/textures/iron_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/jade.png",
+   "size": 33655,
+   "sha256": "449a6862f41cf33514e10aa482f65a2dd957d8accc0e776a061972b2b5323771"
+  },
+  {
+   "path": "media/materials/textures/jade_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/lava.png",
+   "size": 36124,
+   "sha256": "f4f7e6f7c9f527d2c962cacf29c83a795a16ecc66640854685970879a3f94e4c"
+  },
+  {
+   "path": "media/materials/textures/lava_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/leather.png",
+   "size": 22325,
+   "sha256": "5466b2bd41efecafe9089281e6fca4ca93def727a9c16cafc86dadf55d211774"
+  },
+  {
+   "path": "media/materials/textures/leather_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/limestone.png",
+   "size": 49995,
+   "sha256": "bf8ce44b291f665ea0c34f28befb206e92da7202b60d7b8ebdfc5fe801118ee9"
+  },
+  {
+   "path": "media/materials/textures/limestone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/marble.png",
+   "size": 31933,
+   "sha256": "d8c25c02c17e9076c1bb4fb692d360f9fb31c298ca833d8c244e306ff3604ae7"
+  },
+  {
+   "path": "media/materials/textures/marble_normal.png",
+   "size": 29285,
+   "sha256": "d4e5ab67529195c5a5be286a022e1e9c8058b9b614eadb7612942462d083a0ef"
+  },
+  {
+   "path": "media/materials/textures/mortar.png",
+   "size": 30700,
+   "sha256": "0749995c21d077be43c42b8de716a7992549eb89f73ba68253792accc4dc03e9"
+  },
+  {
+   "path": "media/materials/textures/mortar_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/oak.png",
+   "size": 44710,
+   "sha256": "cdf8ce500e0145dddaba5408a7bb6b6013c72e37ae225e23903efb16b6eaebd5"
+  },
+  {
+   "path": "media/materials/textures/oak_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  },
+  {
+   "path": "media/materials/textures/paper.png",
+   "size": 52363,
+   "sha256": "e8344646e132da563f18a9157fbf98bd778a6070ac4443ad6e3f209bb2b04fa6"
+  },
+  {
+   "path": "media/materials/textures/paper_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/plaster.png",
+   "size": 51787,
+   "sha256": "7a4c5f149f38204773143f16e06851f33496c436db368fe8a964a390873bfc2e"
+  },
+  {
+   "path": "media/materials/textures/plaster_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/red.png",
+   "size": 30685,
+   "sha256": "efbdd3cc8b5c72553f9db3b9c26860b5c364c1f321b3aa6012ecb45130633ed4"
+  },
+  {
+   "path": "media/materials/textures/red_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rope.png",
+   "size": 44507,
+   "sha256": "24b4fed56ade7e162aa38fcd54886e3c2730f38af4befb25c843422a278e5bbb"
+  },
+  {
+   "path": "media/materials/textures/rope_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rose.png",
+   "size": 51725,
+   "sha256": "e0e37ae18b6906a144680a1155de6ffad7e2bb083d9999fff0363e5112aee4d2"
+  },
+  {
+   "path": "media/materials/textures/rose_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/sand.png",
+   "size": 36961,
+   "sha256": "85886e8f7b3434815829178445b87ff6158c13e8164a8ffda3993c2f221a24cc"
+  },
+  {
+   "path": "media/materials/textures/sand_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/sandstone.png",
+   "size": 47840,
+   "sha256": "ef16b0605a795be8f93f5af413856bbace96ad202e7236059578339d185c3007"
+  },
+  {
+   "path": "media/materials/textures/sandstone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/scales.png",
+   "size": 35840,
+   "sha256": "b1bed18fc93d1ce569ba48331159220c33f9c0feacf02155e12816a7bcaf1e2d"
+  },
+  {
+   "path": "media/materials/textures/scales_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/skin.png",
+   "size": 46985,
+   "sha256": "5ca6e03744c454380928115d5223e4630134a27767a7b26dcfba204d1c4fcf47"
+  },
+  {
+   "path": "media/materials/textures/skin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/snow.png",
+   "size": 42837,
+   "sha256": "0d8d0cd049935a17e0b71ebea93ac5e8f823a998dd72ba10e283741ead9d4260"
+  },
+  {
+   "path": "media/materials/textures/snow_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/soil.png",
+   "size": 32264,
+   "sha256": "4c90d4c1a131223b16a1e4b20de7aa877cded6e90e932f4df75e0e9ec652f615"
+  },
+  {
+   "path": "media/materials/textures/soil_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/steel.png",
+   "size": 49671,
+   "sha256": "eea5cdd9f65ec98b43afd1f7e80a070c60c40fcb61812c4f3c3d6d16c9d95e38"
+  },
+  {
+   "path": "media/materials/textures/steel_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/stone.png",
+   "size": 42272,
+   "sha256": "e4f23d37e5e6d3a83d836d06089b88547117cb6b8978b3b448796eaa655d2ec9"
+  },
+  {
+   "path": "media/materials/textures/stone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/tanfur.png",
+   "size": 44965,
+   "sha256": "5c21a980f0db8b2fcc14c81ba8f6b487e73dd27d2a4bfe3e5000650534d675a7"
+  },
+  {
+   "path": "media/materials/textures/tanfur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/water.png",
+   "size": 29402,
+   "sha256": "a7861a6a33fa96041dd14a7c2ea61c48bfc767b4fbb3e2a2add4fcc74a347850"
+  },
+  {
+   "path": "media/materials/textures/water_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/wood.png",
+   "size": 36098,
+   "sha256": "93be5dba40fb0504f65177b720e06059d439aaf10c0c215617ba6fe9e55769f9"
+  },
+  {
+   "path": "media/materials/textures/wood_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Floor 1.usd",
+   "size": 28806,
+   "sha256": "b080349fb505292bb285e01745513533025b2c4f3c2e2588d1d59377e568340e"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Floor 2.usd",
+   "size": 65616,
+   "sha256": "f4bb89b4debc7b6a854f6e91885805318c3c206cec7cf18576d7f10e407a3403"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Floor 3.usd",
+   "size": 65586,
+   "sha256": "4904e027bfb09aa5e3cc06d63060623e417dd5076a53b2e995bc778eda2b324d"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor - Small.usd",
+   "size": 119702,
+   "sha256": "86bdecbd10f6a0d92928a3b9a9b9ca1bbdb73712c738d0f732a155f2b192ba04"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 1.usd",
+   "size": 119272,
+   "sha256": "c4521bd1dc459ee3626346c171f78ee2c97e02e44fc278d1750c5033d825a891"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 2.usd",
+   "size": 194912,
+   "sha256": "138713eaddea3e1dfe439b9c26d194b926e4d3256c8013a1718132a4e125f983"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 3.usd",
+   "size": 217218,
+   "sha256": "ee7a97188facfce183ab76e7932712cc3d2830b2fc42fe76643dba97792103a8"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 4.usd",
+   "size": 194655,
+   "sha256": "fde1dc43c1172860db3aa0250e3659b17d0e60be0f72bca0ec5e6460d2ba9236"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 5.usd",
+   "size": 216797,
+   "sha256": "781665aa7c68421d4064bdcc7f24a1d678e49953c4dc1e1d7d0ec9956943b28d"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Corner.usd",
+   "size": 314430,
+   "sha256": "92dab706d7d5146e179ac14feddb4e012de10e093662816d10176cb8af72c9a7"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Window 1.usd",
+   "size": 202783,
+   "sha256": "f273307f0e283da91b0cb84b5866f1666d053ec25489b96efafea48744b4d935"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Window 2.usd",
+   "size": 221848,
+   "sha256": "ce0240b7dee13853a2e3a07ac6a3edef78b89d7b06be94128ffecbfae3f92ebf"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Small.usd",
+   "size": 90731,
+   "sha256": "f79559784503d80bb65aba72dd9f8d7b26b145adfa737ed33945bd26e3f522cd"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Window.usd",
+   "size": 162446,
+   "sha256": "481718d0f95d53640d95361334919fa9992e4ad037a0a041019621f185ca5022"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall 1.usd",
+   "size": 155176,
+   "sha256": "d89208c25a7556c5e1f1c494b5c603d1ef713fad45cf8145c69aaa71e89f692d"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall 2.usd",
+   "size": 155178,
+   "sha256": "3641d4cb0deb5065619b44800c8c2d3600be27566b190b6da35633cf656c8aba"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall Corner - Small.usd",
+   "size": 143447,
+   "sha256": "5e245ac3351f885914fb84d9936d53190e56e83c07dec38f865cbf705d15929f"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall Corner.usd",
+   "size": 252102,
+   "sha256": "b9b20f63e449f1b2b2ed01b73c329bf0337ade1db0a5bca829cc0323b7bd211b"
+  },
+  {
+   "path": "media/tiles/Castle/Wall (Window 2x1 B).usd",
+   "size": 162660,
+   "sha256": "0e375c1f2c3d0b32a8ea625dabd47006d5a11d8497c3a4467e9454196e95a751"
+  },
+  {
+   "path": "media/tiles/Castle/Wall (Window 2x2 B).usd",
+   "size": 162652,
+   "sha256": "116fa522371c506d3166bb2c512cdda1f57a12710a4ee92bbe2c11931ac75775"
+  },
+  {
+   "path": "media/tiles/Castle/Wall (Window Large B).usd",
+   "size": 160091,
+   "sha256": "dccb0c144b4d5a2f9961721ca76dc64c0a267870eba20c93db5c665ed2d46ddb"
+  },
+  {
+   "path": "scenery/castle-floor-1.md",
+   "size": 207,
+   "sha256": "e0753084a54693e83868f516cb8a6b01c2cf76130e1858b1fde620eaa03bd826"
+  },
+  {
+   "path": "scenery/castle-floor-2.md",
+   "size": 208,
+   "sha256": "3581b92cae4c9429c0b55b3eed50da5bd6af46893f4d05516959cc8fa9e9d846"
+  },
+  {
+   "path": "scenery/castle-floor-3.md",
+   "size": 208,
+   "sha256": "738bde2416595da94d2c67d87ea2119bb9ed067b8771b15b6f350a5755bd6705"
+  },
+  {
+   "path": "scenery/castle-wall-1.md",
+   "size": 204,
+   "sha256": "e9204d03e9adfb21f98d3257a1d86b8374f73d7ae431923d71f4a30ba3399743"
+  },
+  {
+   "path": "scenery/castle-wall-2.md",
+   "size": 204,
+   "sha256": "69727452d5763be2a83dfb340425e3b1ed98c6030c204a1c6c95b51c3fee02a1"
+  },
+  {
+   "path": "scenery/castle-wall-corner-small.md",
+   "size": 238,
+   "sha256": "d3b034eef6ded82138e28b4920e1a9028037400c10367855330190c6286cc898"
+  },
+  {
+   "path": "scenery/castle-wall-corner.md",
+   "size": 222,
+   "sha256": "d3851426af50564b2d5d2bd77f28e1a2a0114225368b0981c2383d9f4a203f30"
+  },
+  {
+   "path": "scenery/castle-wall-floor-1.md",
+   "size": 225,
+   "sha256": "567cfbe6904b78204fa8bc9da28c0870520bb2a6e98685caa4af3ba537dc2d94"
+  },
+  {
+   "path": "scenery/castle-wall-floor-2.md",
+   "size": 225,
+   "sha256": "bbe0679a4d662ae530ca6c53b648c243ec710f74b99354a99a49d2427c169318"
+  },
+  {
+   "path": "scenery/castle-wall-floor-3.md",
+   "size": 225,
+   "sha256": "7fb6029978571032840f0766a506e84ee0c3749ecc87208d5fc7de130bf66410"
+  },
+  {
+   "path": "scenery/castle-wall-floor-4.md",
+   "size": 225,
+   "sha256": "c87b3ce7d1a51dcfadedb6954b060dec17e54e26eccc155e2482afdaf2f7978b"
+  },
+  {
+   "path": "scenery/castle-wall-floor-5.md",
+   "size": 225,
+   "sha256": "75cdfb2cb8c48041bb1ddaab74819e59fc2c16e6a8467bd62b770106a4538024"
+  },
+  {
+   "path": "scenery/castle-wall-floor-corner.md",
+   "size": 243,
+   "sha256": "c4e870868f330e114a48c2bc495d480f901ccb0a5e0ab2fdf963941f6de78c5a"
+  },
+  {
+   "path": "scenery/castle-wall-floor-small.md",
+   "size": 245,
+   "sha256": "b70144dc843c1a14d78406b1049a5cfe27d811d204decbc2ca5c1cb5c40e8746"
+  },
+  {
+   "path": "scenery/castle-wall-floor-window-1.md",
+   "size": 247,
+   "sha256": "a9671947c07904ba8357aca1899b1126b2c315b1d3ba6c3136d7d62d9d9aafc4"
+  },
+  {
+   "path": "scenery/castle-wall-floor-window-2.md",
+   "size": 247,
+   "sha256": "5faa29d22f886cdad5126bde7fac985e0887b2e5d9884861b2cc9b68599a4d1f"
+  },
+  {
+   "path": "scenery/castle-wall-small.md",
+   "size": 217,
+   "sha256": "8bc1e716ac0301d7393864e7d313274db4cdca117a64682bfbdf1a6cb916d0f9"
+  },
+  {
+   "path": "scenery/castle-wall-window.md",
+   "size": 226,
+   "sha256": "7a1b5fa8b720643dfc61dc1d76b30fdefaa928a68ad05c107077a3920524db94"
+  },
+  {
+   "path": "scenery/wall-window-2x1-b.md",
+   "size": 231,
+   "sha256": "f0174bee57652f3989fa3606092ac0a209638aedb51b8a5904a0696a5f44a959"
+  },
+  {
+   "path": "scenery/wall-window-2x2-b.md",
+   "size": 231,
+   "sha256": "d1b79b9f936c50880db8cd8c6e92efb896db5a2323a5a60ffa3339ed7be6d7c7"
+  },
+  {
+   "path": "scenery/wall-window-large-b.md",
+   "size": 228,
+   "sha256": "9aa6e715dd95c84412afb30c12e1660494a75a8e5be04772e1d73a78e70587af"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Castle Floor 1",
+   "kind": "scenery",
+   "thumb": "thumbs/32cfd208-c363-4434-b817-8ba59faeed17.jpg",
+   "tags": [
+    "floor",
+    "castle",
+    "stone",
+    "small"
+   ]
+  },
+  {
+   "name": "Castle Floor 2",
+   "kind": "scenery",
+   "thumb": "thumbs/b364de7a-7564-4621-80ac-91380fe271fd.jpg",
+   "tags": [
+    "floor",
+    "castle",
+    "stone",
+    "medium"
+   ]
+  },
+  {
+   "name": "Castle Floor 3",
+   "kind": "scenery",
+   "thumb": "thumbs/0b9f9061-a6e4-4126-829f-1deb43147f49.jpg",
+   "tags": [
+    "floor",
+    "castle",
+    "stone",
+    "medium"
+   ]
+  },
+  {
+   "name": "Castle Wall 1",
+   "kind": "scenery",
+   "thumb": "thumbs/d24c154a-093f-430a-8604-cee13b20f611.jpg",
+   "tags": [
+    "castle",
+    "wall",
+    "stone",
+    "large"
+   ]
+  },
+  {
+   "name": "Castle Wall 2",
+   "kind": "scenery",
+   "thumb": "thumbs/1bcf670b-7640-4709-b388-f475ec5e678c.jpg",
+   "tags": [
+    "castle",
+    "wall",
+    "stone",
+    "large"
+   ]
+  },
+  {
+   "name": "Castle Wall Corner - Small",
+   "kind": "scenery",
+   "thumb": "thumbs/7947bfe2-12ed-451b-a90d-265303da42f6.jpg",
+   "tags": [
+    "castle",
+    "wall",
+    "stone",
+    "corner",
+    "large"
+   ]
+  },
+  {
+   "name": "Castle Wall Corner",
+   "kind": "scenery",
+   "thumb": "thumbs/be0509d0-c87c-491a-b510-743cda6af8bd.jpg",
+   "tags": [
+    "castle",
+    "wall",
+    "stone",
+    "corner",
+    "large"
+   ]
+  },
+  {
+   "name": "Castle Wall/Floor 1",
+   "kind": "scenery",
+   "thumb": "thumbs/8df8bc5f-8aff-4d73-bb7d-d6c1bdb60113.jpg",
+   "tags": [
+    "wall",
+    "floor",
+    "stone",
+    "castle",
+    "large"
+   ]
+  },
+  {
+   "name": "Castle Wall/Floor 2",
+   "kind": "scenery",
+   "thumb": "thumbs/b33fedfa-7352-4f02-9c2f-18ba4a6ac452.jpg",
+   "tags": [
+    "floor",
+    "wall",
+    "castle",
+    "stone",
+    "large"
+   ]
+  },
+  {
+   "name": "Castle Wall/Floor 3",
+   "kind": "scenery",
+   "thumb": "thumbs/00d4b5be-138e-4dde-ad33-a2866fdaf431.jpg",
+   "tags": [
+    "wall",
+    "floor",
+    "castle",
+    "stone",
+    "large"
+   ]
+  },
+  {
+   "name": "Castle Wall/Floor 4",
+   "kind": "scenery",
+   "thumb": "thumbs/f007b070-431a-420b-95ff-566fbbecd56f.jpg",
+   "tags": [
+    "wall",
+    "floor",
+    "castle",
+    "stone",
+    "large"
+   ]
+  },
+  {
+   "name": "Castle Wall/Floor 5",
+   "kind": "scenery",
+   "thumb": "thumbs/88c8ff7e-b9dd-48e1-861d-505432075569.jpg",
+   "tags": [
+    "wall",
+    "floor",
+    "castle",
+    "stone",
+    "large"
+   ]
+  },
+  {
+   "name": "Castle Wall/Floor Corner",
+   "kind": "scenery",
+   "thumb": "thumbs/38c2c374-fe5a-434d-b0e3-50526bbae9ff.jpg",
+   "tags": [
+    "wall",
+    "floor",
+    "corner",
+    "castle",
+    "stone",
+    "large"
+   ]
+  },
+  {
+   "name": "Castle Wall/Floor - Small",
+   "kind": "scenery",
+   "thumb": "thumbs/4c284f67-01c6-4a27-b63e-b29cc5d53cfd.jpg",
+   "tags": [
+    "wall",
+    "floor",
+    "corner",
+    "castle",
+    "stone",
+    "large"
+   ]
+  },
+  {
+   "name": "Castle Wall/Floor Window 1",
+   "kind": "scenery",
+   "thumb": "thumbs/5d05df18-52a6-480c-92f6-1be49b37003b.jpg",
+   "tags": [
+    "wall",
+    "floor",
+    "window",
+    "castle",
+    "stone",
+    "large"
+   ]
+  },
+  {
+   "name": "Castle Wall/Floor Window 2",
+   "kind": "scenery",
+   "thumb": "thumbs/9b1a5bea-6b32-4ab3-9d45-8c5bd85620f6.jpg",
+   "tags": [
+    "wall",
+    "floor",
+    "castle",
+    "window",
+    "stone",
+    "large"
+   ]
+  },
+  {
+   "name": "Castle Wall - Small",
+   "kind": "scenery",
+   "thumb": "thumbs/be12958a-8e30-45ee-ad35-7397651d7340.jpg",
+   "tags": [
+    "castle",
+    "wall",
+    "stone",
+    "medium"
+   ]
+  },
+  {
+   "name": "Castle Wall - Window",
+   "kind": "scenery",
+   "thumb": "thumbs/29fa80d1-425d-4f04-a97f-1c48b0bb490a.jpg",
+   "tags": [
+    "castle",
+    "wall",
+    "stone",
+    "window",
+    "large"
+   ]
+  },
+  {
+   "name": "Wall (Window 2x1 B)",
+   "kind": "scenery",
+   "thumb": "thumbs/bbae3981-254e-4d78-8043-4035ea592a4e.jpg",
+   "tags": [
+    "wall",
+    "floor",
+    "window",
+    "castle",
+    "stone",
+    "large"
+   ]
+  },
+  {
+   "name": "Wall (Window 2x2 B)",
+   "kind": "scenery",
+   "thumb": "thumbs/da6bbf3b-8b52-45a6-b3d8-56dbc156e270.jpg",
+   "tags": [
+    "castle",
+    "wall",
+    "floor",
+    "window",
+    "stone",
+    "large"
+   ]
+  },
+  {
+   "name": "Wall (Window Large B)",
+   "kind": "scenery",
+   "thumb": "thumbs/879f1719-9d05-401b-844b-6aa9b663b05f.jpg",
+   "tags": [
+    "castle",
+    "wall",
+    "stone",
+    "window",
+    "large"
+   ]
+  }
+ ]
+}

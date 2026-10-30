@@ -1,0 +1,1031 @@
+{
+ "id": "13172f62-c523-55c0-9216-4936cbb7eee4",
+ "folder": "Misc. Exterior Props.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 962,
+   "sha256": "35eb57ef5fd42d00c8a0419bf2230a5bec73ca9e748b84ec7943b59e5d9b3350"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 28194,
+   "sha256": "2c6784121103afc10fffcc20cdb8f281999ae16caf6b56188c9945a6a1c44361"
+  },
+  {
+   "path": "media/materials/Library.usdc",
+   "size": 19724,
+   "sha256": "c24d21cc536ed131cf8633109bc9ffdf7e045cd0c2da1da90544a18c4fa9d5ba"
+  },
+  {
+   "path": "media/materials/textures/basalt.png",
+   "size": 25957,
+   "sha256": "e7295df0b2356c29812c23d4ee8cfcbbab04ee3eb5f20f52d281a6846c8f2e96"
+  },
+  {
+   "path": "media/materials/textures/basalt_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/blue.png",
+   "size": 29622,
+   "sha256": "bb2482f15178dd7ed1883b5558bae3c5db1e6f63dfb0a562b16da3cffcd80add"
+  },
+  {
+   "path": "media/materials/textures/blue_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bluefire.png",
+   "size": 40884,
+   "sha256": "95947aba8ef1863b10a5ceb035363c014f49bb066a629334e6b9fb0c0b2a2a57"
+  },
+  {
+   "path": "media/materials/textures/bluefire_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bone.png",
+   "size": 52095,
+   "sha256": "60127b0b9d500672ffa4413c2e0331968daf672f9edbbc58e031bd20a24410ce"
+  },
+  {
+   "path": "media/materials/textures/bone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/brass.png",
+   "size": 45700,
+   "sha256": "7653b7e6c813911303d183fd977ca9007540d1f30b8a647ce49a9b4b25479a7e"
+  },
+  {
+   "path": "media/materials/textures/brass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/fur.png",
+   "size": 32075,
+   "sha256": "e6ebdc6bf38121ac2caa3f246dbf760ceb5f618f67a707849f43ac55ee75e56d"
+  },
+  {
+   "path": "media/materials/textures/fur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ghost.png",
+   "size": 46813,
+   "sha256": "6b86f729a542c078e35015b96d3bdf6bb6fd252e59dc931fbd818c4ac61d0809"
+  },
+  {
+   "path": "media/materials/textures/ghost_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/goblinskin.png",
+   "size": 40654,
+   "sha256": "bc088b6cce6935a3e38a4e34d3f8e553b7269a409f04d5892d4bb7bcbb804e7a"
+  },
+  {
+   "path": "media/materials/textures/goblinskin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/grass.png",
+   "size": 37697,
+   "sha256": "f6440b6a238240b171a02d0a9abfa1db6e3b23470ea136796156c95dc85ecb1a"
+  },
+  {
+   "path": "media/materials/textures/grass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ice.png",
+   "size": 54673,
+   "sha256": "1776de4df5a1aa0fd4c24462a5bf2188a02dd0f291b002f76689f64c7401183f"
+  },
+  {
+   "path": "media/materials/textures/ice_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/iron.png",
+   "size": 33226,
+   "sha256": "b819ee206156042e76233baf2e2abdb7f0a4a0ae5bc64a26cfaaec7a6fae6a3b"
+  },
+  {
+   "path": "media/materials/textures/iron_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/jade.png",
+   "size": 33655,
+   "sha256": "449a6862f41cf33514e10aa482f65a2dd957d8accc0e776a061972b2b5323771"
+  },
+  {
+   "path": "media/materials/textures/jade_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/lava.png",
+   "size": 36124,
+   "sha256": "f4f7e6f7c9f527d2c962cacf29c83a795a16ecc66640854685970879a3f94e4c"
+  },
+  {
+   "path": "media/materials/textures/lava_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/leather.png",
+   "size": 22325,
+   "sha256": "5466b2bd41efecafe9089281e6fca4ca93def727a9c16cafc86dadf55d211774"
+  },
+  {
+   "path": "media/materials/textures/leather_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/limestone.png",
+   "size": 49995,
+   "sha256": "bf8ce44b291f665ea0c34f28befb206e92da7202b60d7b8ebdfc5fe801118ee9"
+  },
+  {
+   "path": "media/materials/textures/limestone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/marble.png",
+   "size": 31933,
+   "sha256": "d8c25c02c17e9076c1bb4fb692d360f9fb31c298ca833d8c244e306ff3604ae7"
+  },
+  {
+   "path": "media/materials/textures/marble_normal.png",
+   "size": 29285,
+   "sha256": "d4e5ab67529195c5a5be286a022e1e9c8058b9b614eadb7612942462d083a0ef"
+  },
+  {
+   "path": "media/materials/textures/mortar.png",
+   "size": 30700,
+   "sha256": "0749995c21d077be43c42b8de716a7992549eb89f73ba68253792accc4dc03e9"
+  },
+  {
+   "path": "media/materials/textures/mortar_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/oak.png",
+   "size": 44710,
+   "sha256": "cdf8ce500e0145dddaba5408a7bb6b6013c72e37ae225e23903efb16b6eaebd5"
+  },
+  {
+   "path": "media/materials/textures/oak_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  },
+  {
+   "path": "media/materials/textures/paper.png",
+   "size": 52363,
+   "sha256": "e8344646e132da563f18a9157fbf98bd778a6070ac4443ad6e3f209bb2b04fa6"
+  },
+  {
+   "path": "media/materials/textures/paper_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/plaster.png",
+   "size": 51787,
+   "sha256": "7a4c5f149f38204773143f16e06851f33496c436db368fe8a964a390873bfc2e"
+  },
+  {
+   "path": "media/materials/textures/plaster_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/red.png",
+   "size": 30685,
+   "sha256": "efbdd3cc8b5c72553f9db3b9c26860b5c364c1f321b3aa6012ecb45130633ed4"
+  },
+  {
+   "path": "media/materials/textures/red_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rope.png",
+   "size": 44507,
+   "sha256": "24b4fed56ade7e162aa38fcd54886e3c2730f38af4befb25c843422a278e5bbb"
+  },
+  {
+   "path": "media/materials/textures/rope_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rose.png",
+   "size": 51725,
+   "sha256": "e0e37ae18b6906a144680a1155de6ffad7e2bb083d9999fff0363e5112aee4d2"
+  },
+  {
+   "path": "media/materials/textures/rose_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/sand.png",
+   "size": 36961,
+   "sha256": "85886e8f7b3434815829178445b87ff6158c13e8164a8ffda3993c2f221a24cc"
+  },
+  {
+   "path": "media/materials/textures/sand_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/sandstone.png",
+   "size": 47840,
+   "sha256": "ef16b0605a795be8f93f5af413856bbace96ad202e7236059578339d185c3007"
+  },
+  {
+   "path": "media/materials/textures/sandstone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/scales.png",
+   "size": 35840,
+   "sha256": "b1bed18fc93d1ce569ba48331159220c33f9c0feacf02155e12816a7bcaf1e2d"
+  },
+  {
+   "path": "media/materials/textures/scales_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/skin.png",
+   "size": 46985,
+   "sha256": "5ca6e03744c454380928115d5223e4630134a27767a7b26dcfba204d1c4fcf47"
+  },
+  {
+   "path": "media/materials/textures/skin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/snow.png",
+   "size": 42837,
+   "sha256": "0d8d0cd049935a17e0b71ebea93ac5e8f823a998dd72ba10e283741ead9d4260"
+  },
+  {
+   "path": "media/materials/textures/snow_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/soil.png",
+   "size": 32264,
+   "sha256": "4c90d4c1a131223b16a1e4b20de7aa877cded6e90e932f4df75e0e9ec652f615"
+  },
+  {
+   "path": "media/materials/textures/soil_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/steel.png",
+   "size": 49671,
+   "sha256": "eea5cdd9f65ec98b43afd1f7e80a070c60c40fcb61812c4f3c3d6d16c9d95e38"
+  },
+  {
+   "path": "media/materials/textures/steel_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/stone.png",
+   "size": 42272,
+   "sha256": "e4f23d37e5e6d3a83d836d06089b88547117cb6b8978b3b448796eaa655d2ec9"
+  },
+  {
+   "path": "media/materials/textures/stone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/tanfur.png",
+   "size": 44965,
+   "sha256": "5c21a980f0db8b2fcc14c81ba8f6b487e73dd27d2a4bfe3e5000650534d675a7"
+  },
+  {
+   "path": "media/materials/textures/tanfur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/water.png",
+   "size": 29402,
+   "sha256": "a7861a6a33fa96041dd14a7c2ea61c48bfc767b4fbb3e2a2add4fcc74a347850"
+  },
+  {
+   "path": "media/materials/textures/water_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/wood.png",
+   "size": 36098,
+   "sha256": "93be5dba40fb0504f65177b720e06059d439aaf10c0c215617ba6fe9e55769f9"
+  },
+  {
+   "path": "media/materials/textures/wood_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  },
+  {
+   "path": "media/props/Misc. Exterior/Castle Ruins Rockpile.usd",
+   "size": 20789,
+   "sha256": "451488b1cf466e4b4b51da925ec61849aaac61cd21890ba821e290985d94f2d3"
+  },
+  {
+   "path": "media/props/Misc. Exterior/Gravestone 01.usd",
+   "size": 45179,
+   "sha256": "972ae24298c783761a543be25600aff8969b0233df5c7512d9b30561ffd06955"
+  },
+  {
+   "path": "media/props/Misc. Exterior/Gravestone 02.usd",
+   "size": 44938,
+   "sha256": "c0dce4d713fc9f71231407fec0158f39693eef511c02431635090deb67622f7e"
+  },
+  {
+   "path": "media/props/Misc. Exterior/Gravestone 03.usd",
+   "size": 45124,
+   "sha256": "07949db93e5c2321b274d850ab48b15d95b07594e9f5bfe73cb0b8746cc00446"
+  },
+  {
+   "path": "media/props/Misc. Exterior/Gravestone 04.usd",
+   "size": 6829,
+   "sha256": "70df967734dec961ec84d25e4a706c9113cb381416b96159d512616ac0f49854"
+  },
+  {
+   "path": "media/props/Misc. Exterior/Gravestone With Crow 01.usd",
+   "size": 94446,
+   "sha256": "a688b7b6aec5d55b0e00749363e6b9b67cde5ee212c090e1c130b34e9e1368ab"
+  },
+  {
+   "path": "media/props/Misc. Exterior/Palisade bridge 01 incline.usd",
+   "size": 26333,
+   "sha256": "410f3daf4d221184b9edd80fab5d55c6b2224d9d1fb28fa658723e9afdcba4e9"
+  },
+  {
+   "path": "media/props/Misc. Exterior/Palisade bridge 01 support.usd",
+   "size": 32186,
+   "sha256": "81f88b0b50f50b826eb89fb8926223c90bbae864b7fdd228d881b19bec8c57c0"
+  },
+  {
+   "path": "media/props/Misc. Exterior/Palisade bridge 01.usd",
+   "size": 25116,
+   "sha256": "6b656cb9d7577065459337a4d926e20a42d560a4d137b6928cda3a87b2339821"
+  },
+  {
+   "path": "media/props/Misc. Exterior/Palisade log pile.usd",
+   "size": 28354,
+   "sha256": "f363ac21d59ff839f63fe106f0757ad507ea16c1890caa0dba2ade9e2590cf99"
+  },
+  {
+   "path": "media/props/Misc. Exterior/Rubble Rocks L 01.usd",
+   "size": 20794,
+   "sha256": "4c84a825f7a00d71840d493263a8f1082c722ec25d0f73219ae54b1ce8ef39b3"
+  },
+  {
+   "path": "media/props/Misc. Exterior/Rubble Rocks pile.usd",
+   "size": 20931,
+   "sha256": "51b73081d8897d5f75459e3dd5560ba912b0d691d7d9aaaf3eb5fe7b5c58a3ce"
+  },
+  {
+   "path": "media/props/Misc. Exterior/Rubble Rocks spread out 01.usd",
+   "size": 20936,
+   "sha256": "3fe2baf3072947c19c11093d24d58efcaa954bab86223fe4aad1715352a0d652"
+  },
+  {
+   "path": "media/props/Misc. Exterior/Rubble pebbles spread out.usd",
+   "size": 20940,
+   "sha256": "7828a5a6521788f136cb188c6270afb9d992513e776885e9ce8ca7ff582d6ac2"
+  },
+  {
+   "path": "media/props/Misc. Exterior/Rubble.usd",
+   "size": 20917,
+   "sha256": "41d76a6913bd0e01957717f2d0bcebf1cb5c5c86240b793d5441df73c30b9bc7"
+  },
+  {
+   "path": "media/props/Misc. Exterior/Straw stacks 01.usd",
+   "size": 365643,
+   "sha256": "4b53d2b6d5e7e8af012a16c98b6e4e6f541d7cb7f103e0d970e7e1b43b68be55"
+  },
+  {
+   "path": "media/props/Misc. Exterior/Straw stacks 02.usd",
+   "size": 365649,
+   "sha256": "3b6797f7b267b7ada38be9664e5761840e9001cc10506404c0a395c6a1fe2732"
+  },
+  {
+   "path": "media/props/Misc. Exterior/Well 01.usd",
+   "size": 435823,
+   "sha256": "f957449c6a5dc8d0ab2e848a7e3704871cc0d67158b66cf3cb14d4426cbdb8ba"
+  },
+  {
+   "path": "media/props/Misc. Exterior/Wheat Bunch.usd",
+   "size": 1760142,
+   "sha256": "6a62fd0bf55f4026ed69c94256402783363caf38fd4c4b21e928aecf75c967f6"
+  },
+  {
+   "path": "media/props/Misc. Exterior/Wood Pile.usd",
+   "size": 28116,
+   "sha256": "7358e21eebfaee978f016d233da8d762e4598c0bc22a94e14860aea753b0d25b"
+  },
+  {
+   "path": "media/props/Misc. Exterior/Wooden Cart.usd",
+   "size": 212606,
+   "sha256": "2ea8d64e383771ed38164aabf010b74c28ef9dc34f8d92b541077167851e3ea4"
+  },
+  {
+   "path": "media/props/Misc. Exterior/target_arrow_01.usd",
+   "size": 50099,
+   "sha256": "167e02e9385ce24919875113515189b38b9bfa38c119d5fc36565dbd70d5f3d2"
+  },
+  {
+   "path": "media/props/Misc. Exterior/target_arrow_02.usd",
+   "size": 58257,
+   "sha256": "fc79b2134f7540c46d9a7fedbea832a6f9299efcade8835ec1cca81c205ebb85"
+  },
+  {
+   "path": "media/props/Misc. Exterior/target_axe_knife_01.usd",
+   "size": 50093,
+   "sha256": "060e1e84f4918e510e5fd1d89006f77fcb1f44f8be02a703fb8aff0e9e9ce108"
+  },
+  {
+   "path": "media/props/Misc. Exterior/target_axe_knife_02.usd",
+   "size": 57961,
+   "sha256": "3c2c0005dae4663871f6d0cef14ecd4f9b3332e7f4a71451f0e7700200a16abf"
+  },
+  {
+   "path": "scenery/castle-ruins-rockpile.md",
+   "size": 287,
+   "sha256": "7ece22dec44e46a0952fcf0a4173e78295b967294ac49054df4887cec7586478"
+  },
+  {
+   "path": "scenery/gravestone-01.md",
+   "size": 270,
+   "sha256": "ce42c741b7cd600d1fd07b7749df1709dde51da9b3532480fc6de90cf964ae65"
+  },
+  {
+   "path": "scenery/gravestone-02.md",
+   "size": 270,
+   "sha256": "84944d7e36d35817ce80c1395dfb2cd4866fcf4c30cc6b9b654d35dc5baabfec"
+  },
+  {
+   "path": "scenery/gravestone-03.md",
+   "size": 270,
+   "sha256": "9edf70dbff6ac366ddbf0c774e0bbf41e28a9ff7493c95ee18a41da4191aca3e"
+  },
+  {
+   "path": "scenery/gravestone-04.md",
+   "size": 271,
+   "sha256": "06ff4640c6eb296e41b86134d5ded7b4f66a843eeb139fcca0235793c113ab52"
+  },
+  {
+   "path": "scenery/gravestone-with-crow-01.md",
+   "size": 310,
+   "sha256": "ed83ae7b1917b2221d36a2e0ba0346eabd851aa8942191d2e74a8fe48a73ff01"
+  },
+  {
+   "path": "scenery/palisade-bridge-01-incline.md",
+   "size": 297,
+   "sha256": "05a4c6158107c65b3c0afee2094afc670a2d1fed0e67732b0f3671f896396ceb"
+  },
+  {
+   "path": "scenery/palisade-bridge-01-support.md",
+   "size": 289,
+   "sha256": "8997ee275dd8bf2262af5728fc0dacb17bfba70a550c0bc56974cd0c775ec0ee"
+  },
+  {
+   "path": "scenery/palisade-bridge-01.md",
+   "size": 273,
+   "sha256": "6e63618ac3e1d827a25601ecf5b6148411dfba538d6ccf23f56c95c0f7c2884c"
+  },
+  {
+   "path": "scenery/palisade-log-pile.md",
+   "size": 276,
+   "sha256": "286baeacf475226592fb68d8b9663687bc6df7a1c6b24bd4a2a5c7ea7347e455"
+  },
+  {
+   "path": "scenery/rubble-pebbles-spread-out.md",
+   "size": 287,
+   "sha256": "4eb46bb4440955a09181f2aee1bebd8e623e6eab468ae2ed95f38f4f86b028d2"
+  },
+  {
+   "path": "scenery/rubble-rocks-l-01.md",
+   "size": 271,
+   "sha256": "edbd071ea342416e36a0d8db80985204ba7fe63841d816df65e0ff88bbba6b9f"
+  },
+  {
+   "path": "scenery/rubble-rocks-pile.md",
+   "size": 271,
+   "sha256": "e96ffd8a6263306b5422c6c6e8c37037df5d3ae0b279dbc05223deca8dce1c8a"
+  },
+  {
+   "path": "scenery/rubble-rocks-spread-out-01.md",
+   "size": 289,
+   "sha256": "d06f19aacd33d1592f86c287be975ce27567ae7a09fe3ee2e6afb0fd00771ff6"
+  },
+  {
+   "path": "scenery/rubble.md",
+   "size": 249,
+   "sha256": "2234b41be0c9e7976a973accbd5b68d0959a4d5fd4972d1b9a541ed89e75e465"
+  },
+  {
+   "path": "scenery/straw-stacks-01.md",
+   "size": 274,
+   "sha256": "78d351cda90c613e452f955722eba01290a4b8911e72d99bc16ef127afccf661"
+  },
+  {
+   "path": "scenery/straw-stacks-02.md",
+   "size": 274,
+   "sha256": "c5b6689762dd2e9f8d31c335943e995875ba6bf94b664bd3fdd81cb601b175d3"
+  },
+  {
+   "path": "scenery/target-arrow-01.md",
+   "size": 258,
+   "sha256": "863b1cf4c99ecee447399b190748d2ab781b0964e1b040f44d5e612c7698ecf3"
+  },
+  {
+   "path": "scenery/target-arrow-02.md",
+   "size": 265,
+   "sha256": "6f1e6f20838c1f66d8e80992b163cdfbb89744e16a6bc0e177f8b72ff3ab0145"
+  },
+  {
+   "path": "scenery/target-axe-knife-01.md",
+   "size": 260,
+   "sha256": "e399c55960198329076629897d530d34498b3d99c2fc60d6120eee08173ad867"
+  },
+  {
+   "path": "scenery/target-axe-knife-02.md",
+   "size": 297,
+   "sha256": "e6538b92f69afaaaab032630dabc3d2946305bb745db57c491cfb815335525ad"
+  },
+  {
+   "path": "scenery/well-01.md",
+   "size": 279,
+   "sha256": "81cecb6002fb217f86b1659df4307c249a3c4bbb1264bf00bacbd5b84937bafc"
+  },
+  {
+   "path": "scenery/wheat-bunch.md",
+   "size": 332,
+   "sha256": "794ab2ac4310c25e7e63b0ade10d87df2aac6afcd38e9c97498ba00e41b3c12f"
+  },
+  {
+   "path": "scenery/wood-pile.md",
+   "size": 262,
+   "sha256": "534be7acb06cf83d60715e8b22f97b80360be0e705e4ddaa572e2b9c8e80c291"
+  },
+  {
+   "path": "scenery/wooden-cart.md",
+   "size": 302,
+   "sha256": "676b396397612e37e547e6924f00990a54f3eaa9895cec3be33d7ced651eaa23"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Castle Ruins Rockpile",
+   "kind": "scenery",
+   "thumb": "thumbs/a990c316-75dd-45dc-9cc3-cfb8bde0a9ff.jpg",
+   "tags": [
+    "misc-exterior",
+    "rockpile",
+    "castle",
+    "stone",
+    "black",
+    "debris",
+    "rock",
+    "gray",
+    "tiny",
+    "ruin"
+   ]
+  },
+  {
+   "name": "Gravestone 01",
+   "kind": "scenery",
+   "thumb": "thumbs/89e6faca-3b0c-41e6-bb2f-80c5c6eb0b03.jpg",
+   "tags": [
+    "misc-exterior",
+    "gravestone",
+    "stone",
+    "graveyard",
+    "small",
+    "gray",
+    "house",
+    "yard",
+    "grave"
+   ]
+  },
+  {
+   "name": "Gravestone 02",
+   "kind": "scenery",
+   "thumb": "thumbs/0ec92df2-c6c9-4be4-85f9-ca340e102201.jpg",
+   "tags": [
+    "misc-exterior",
+    "gravestone",
+    "stone",
+    "graveyard",
+    "small",
+    "gray",
+    "house",
+    "yard",
+    "grave"
+   ]
+  },
+  {
+   "name": "Gravestone 03",
+   "kind": "scenery",
+   "thumb": "thumbs/16865988-9e66-4add-a9ba-b5fc257afd5d.jpg",
+   "tags": [
+    "misc-exterior",
+    "gravestone",
+    "stone",
+    "graveyard",
+    "small",
+    "gray",
+    "house",
+    "yard",
+    "grave"
+   ]
+  },
+  {
+   "name": "Gravestone 04",
+   "kind": "scenery",
+   "thumb": "thumbs/7ae5095a-d2a8-4f87-ac91-936425e85326.jpg",
+   "tags": [
+    "misc-exterior",
+    "gravestone",
+    "stone",
+    "graveyard",
+    "medium",
+    "gray",
+    "house",
+    "yard",
+    "grave"
+   ]
+  },
+  {
+   "name": "Gravestone With Crow 01",
+   "kind": "scenery",
+   "thumb": "thumbs/311c385d-6c34-4bcb-aa5a-dcf77bbb99eb.jpg",
+   "tags": [
+    "misc-exterior",
+    "gravestone",
+    "crow",
+    "stone",
+    "bird",
+    "animal",
+    "graveyard",
+    "small",
+    "gray",
+    "house",
+    "yard",
+    "grave"
+   ]
+  },
+  {
+   "name": "Palisade bridge 01 incline",
+   "kind": "scenery",
+   "thumb": "thumbs/33913ec7-dbec-41e0-8cb4-50e179b6d998.jpg",
+   "tags": [
+    "misc-exterior",
+    "wood",
+    "brown",
+    "orange",
+    "yellow",
+    "palisade",
+    "bridge",
+    "balance",
+    "stairs"
+   ]
+  },
+  {
+   "name": "Palisade bridge 01 support",
+   "kind": "scenery",
+   "thumb": "thumbs/5365825c-f0fb-412f-aba3-0c42982a59fc.jpg",
+   "tags": [
+    "misc-exterior",
+    "wood",
+    "brown",
+    "orange",
+    "yellow",
+    "palisade",
+    "bridge",
+    "balance"
+   ]
+  },
+  {
+   "name": "Palisade bridge 01",
+   "kind": "scenery",
+   "thumb": "thumbs/e03267fc-5a95-43f1-ae6e-5819022ffaef.jpg",
+   "tags": [
+    "misc-exterior",
+    "wood",
+    "brown",
+    "orange",
+    "yellow",
+    "palisade",
+    "bridge",
+    "balance"
+   ]
+  },
+  {
+   "name": "Palisade log pile",
+   "kind": "scenery",
+   "thumb": "thumbs/39e8a8a4-4969-4d9d-8d8a-2a3595dd5c8e.jpg",
+   "tags": [
+    "misc-exterior",
+    "wood",
+    "brown",
+    "orange",
+    "yellow",
+    "palisade",
+    "armor",
+    "fence",
+    "abatis"
+   ]
+  },
+  {
+   "name": "Rubble pebbles spread out",
+   "kind": "scenery",
+   "thumb": "thumbs/ac288dec-372b-4c7a-b70f-3a48115920ab.jpg",
+   "tags": [
+    "misc-exterior",
+    "stone",
+    "debris",
+    "rock",
+    "white",
+    "gray",
+    "medium",
+    "ruin",
+    "broken"
+   ]
+  },
+  {
+   "name": "Rubble Rocks L 01",
+   "kind": "scenery",
+   "thumb": "thumbs/1b066055-231c-436d-86dc-632ce351b350.jpg",
+   "tags": [
+    "misc-exterior",
+    "stone",
+    "debris",
+    "rock",
+    "white",
+    "gray",
+    "medium",
+    "ruin",
+    "broken"
+   ]
+  },
+  {
+   "name": "Rubble Rocks pile",
+   "kind": "scenery",
+   "thumb": "thumbs/829e84f1-b425-4ff5-ac34-824ecea3d859.jpg",
+   "tags": [
+    "misc-exterior",
+    "stone",
+    "debris",
+    "rock",
+    "white",
+    "gray",
+    "medium",
+    "ruin",
+    "broken"
+   ]
+  },
+  {
+   "name": "Rubble Rocks spread out 01",
+   "kind": "scenery",
+   "thumb": "thumbs/aaa853d2-370e-4ffb-aec6-0043046bfb53.jpg",
+   "tags": [
+    "misc-exterior",
+    "stone",
+    "debris",
+    "rock",
+    "white",
+    "gray",
+    "medium",
+    "ruin",
+    "broken"
+   ]
+  },
+  {
+   "name": "Rubble",
+   "kind": "scenery",
+   "thumb": "thumbs/510604be-2661-4da8-a440-da370f746fcc.jpg",
+   "tags": [
+    "misc-exterior",
+    "stone",
+    "debris",
+    "rock",
+    "white",
+    "gray",
+    "medium",
+    "ruin",
+    "broken"
+   ]
+  },
+  {
+   "name": "Straw stacks 01",
+   "kind": "scenery",
+   "thumb": "thumbs/16d8377c-cb8b-480c-9a63-1130737a2ccf.jpg",
+   "tags": [
+    "misc-exterior",
+    "straw",
+    "yellow",
+    "medium",
+    "haystack",
+    "food",
+    "house",
+    "yard",
+    "farm",
+    "hay"
+   ]
+  },
+  {
+   "name": "Straw stacks 02",
+   "kind": "scenery",
+   "thumb": "thumbs/f6ef2e24-0c4c-4c0c-bbd3-6fc768d40944.jpg",
+   "tags": [
+    "misc-exterior",
+    "straw",
+    "yellow",
+    "medium",
+    "haystack",
+    "food",
+    "house",
+    "yard",
+    "farm",
+    "hay"
+   ]
+  },
+  {
+   "name": "target_arrow_01",
+   "kind": "scenery",
+   "thumb": "thumbs/abed3d53-1794-4640-a387-de6bde16439e.jpg",
+   "tags": [
+    "misc-exterior",
+    "trainer",
+    "training",
+    "wooden",
+    "wood",
+    "target",
+    "rope"
+   ]
+  },
+  {
+   "name": "target_arrow_02",
+   "kind": "scenery",
+   "thumb": "thumbs/afc47433-5999-4bcc-8666-7c2ebd64593c.jpg",
+   "tags": [
+    "misc-exterior",
+    "trainer",
+    "training",
+    "wooden",
+    "wood",
+    "target",
+    "rope",
+    "arrow"
+   ]
+  },
+  {
+   "name": "target_axe_knife_01",
+   "kind": "scenery",
+   "thumb": "thumbs/182c2a1b-be78-4281-9644-da507a0a2917.jpg",
+   "tags": [
+    "misc-exterior",
+    "trainer",
+    "training",
+    "wooden",
+    "wood",
+    "target"
+   ]
+  },
+  {
+   "name": "target_axe_knife_02",
+   "kind": "scenery",
+   "thumb": "thumbs/e0533bba-0e50-44a1-9315-285b45928436.jpg",
+   "tags": [
+    "misc-exterior",
+    "trainer",
+    "training",
+    "wooden",
+    "wood",
+    "target",
+    "axe",
+    "knife",
+    "throw",
+    "thrown",
+    "throwing"
+   ]
+  },
+  {
+   "name": "Well 01",
+   "kind": "scenery",
+   "thumb": "thumbs/ec5ceb75-0f02-4892-96bc-f82e55890a82.jpg",
+   "tags": [
+    "misc-exterior",
+    "well",
+    "water",
+    "wood",
+    "brown",
+    "container",
+    "large",
+    "decor",
+    "gray",
+    "yellow",
+    "house",
+    "yard",
+    "farm"
+   ]
+  },
+  {
+   "name": "Wheat Bunch",
+   "kind": "scenery",
+   "thumb": "thumbs/86811e0b-e486-4952-8037-58209ba23327.jpg",
+   "tags": [
+    "misc-exterior",
+    "chimney",
+    "thatched",
+    "roof",
+    "window",
+    "wheat",
+    "tiny",
+    "small",
+    "decor",
+    "yellow",
+    "brown",
+    "accessories",
+    "household",
+    "appliances",
+    "house",
+    "farm",
+    "hay"
+   ]
+  },
+  {
+   "name": "Wood Pile",
+   "kind": "scenery",
+   "thumb": "thumbs/71edc3f6-ffd9-4971-be7b-c5002e984053.jpg",
+   "tags": [
+    "misc-exterior",
+    "wood",
+    "small",
+    "decor",
+    "brown",
+    "orange",
+    "debris",
+    "rock",
+    "ruin",
+    "broken"
+   ]
+  },
+  {
+   "name": "Wooden Cart",
+   "kind": "scenery",
+   "thumb": "thumbs/8d13bc1e-f05b-4c03-8d57-5a897e66693e.jpg",
+   "tags": [
+    "misc-exterior",
+    "cart",
+    "wood",
+    "merchant",
+    "salesman",
+    "trader",
+    "tradesman",
+    "vendor",
+    "farmer",
+    "red",
+    "brown",
+    "wheel",
+    "farm",
+    "wagon"
+   ]
+  }
+ ]
+}

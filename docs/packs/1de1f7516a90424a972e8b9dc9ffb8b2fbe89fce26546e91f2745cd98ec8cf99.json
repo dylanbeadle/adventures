@@ -1,0 +1,1343 @@
+{
+ "id": "a69f8f06-400f-564a-8a0f-ab07d9507954",
+ "folder": "Desert Village Tiles.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 1236,
+   "sha256": "2b42a383ddcbb90d940aaf899c215556a1f8d362549afa176d33eef617b7c534"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 34841,
+   "sha256": "61642d7f4270bb9b75cb82e5de79f04aa034f27fa463a0e1b0cafc71ca1e4f1f"
+  },
+  {
+   "path": "media/materials/Library.usdc",
+   "size": 19724,
+   "sha256": "c24d21cc536ed131cf8633109bc9ffdf7e045cd0c2da1da90544a18c4fa9d5ba"
+  },
+  {
+   "path": "media/materials/textures/basalt.png",
+   "size": 25957,
+   "sha256": "e7295df0b2356c29812c23d4ee8cfcbbab04ee3eb5f20f52d281a6846c8f2e96"
+  },
+  {
+   "path": "media/materials/textures/basalt_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/blue.png",
+   "size": 29622,
+   "sha256": "bb2482f15178dd7ed1883b5558bae3c5db1e6f63dfb0a562b16da3cffcd80add"
+  },
+  {
+   "path": "media/materials/textures/blue_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bluefire.png",
+   "size": 40884,
+   "sha256": "95947aba8ef1863b10a5ceb035363c014f49bb066a629334e6b9fb0c0b2a2a57"
+  },
+  {
+   "path": "media/materials/textures/bluefire_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bone.png",
+   "size": 52095,
+   "sha256": "60127b0b9d500672ffa4413c2e0331968daf672f9edbbc58e031bd20a24410ce"
+  },
+  {
+   "path": "media/materials/textures/bone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/brass.png",
+   "size": 45700,
+   "sha256": "7653b7e6c813911303d183fd977ca9007540d1f30b8a647ce49a9b4b25479a7e"
+  },
+  {
+   "path": "media/materials/textures/brass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/fur.png",
+   "size": 32075,
+   "sha256": "e6ebdc6bf38121ac2caa3f246dbf760ceb5f618f67a707849f43ac55ee75e56d"
+  },
+  {
+   "path": "media/materials/textures/fur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ghost.png",
+   "size": 46813,
+   "sha256": "6b86f729a542c078e35015b96d3bdf6bb6fd252e59dc931fbd818c4ac61d0809"
+  },
+  {
+   "path": "media/materials/textures/ghost_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/goblinskin.png",
+   "size": 40654,
+   "sha256": "bc088b6cce6935a3e38a4e34d3f8e553b7269a409f04d5892d4bb7bcbb804e7a"
+  },
+  {
+   "path": "media/materials/textures/goblinskin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/grass.png",
+   "size": 37697,
+   "sha256": "f6440b6a238240b171a02d0a9abfa1db6e3b23470ea136796156c95dc85ecb1a"
+  },
+  {
+   "path": "media/materials/textures/grass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ice.png",
+   "size": 54673,
+   "sha256": "1776de4df5a1aa0fd4c24462a5bf2188a02dd0f291b002f76689f64c7401183f"
+  },
+  {
+   "path": "media/materials/textures/ice_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/iron.png",
+   "size": 33226,
+   "sha256": "b819ee206156042e76233baf2e2abdb7f0a4a0ae5bc64a26cfaaec7a6fae6a3b"
+  },
+  {
+   "path": "media/materials/textures/iron_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/jade.png",
+   "size": 33655,
+   "sha256": "449a6862f41cf33514e10aa482f65a2dd957d8accc0e776a061972b2b5323771"
+  },
+  {
+   "path": "media/materials/textures/jade_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/lava.png",
+   "size": 36124,
+   "sha256": "f4f7e6f7c9f527d2c962cacf29c83a795a16ecc66640854685970879a3f94e4c"
+  },
+  {
+   "path": "media/materials/textures/lava_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/leather.png",
+   "size": 22325,
+   "sha256": "5466b2bd41efecafe9089281e6fca4ca93def727a9c16cafc86dadf55d211774"
+  },
+  {
+   "path": "media/materials/textures/leather_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/limestone.png",
+   "size": 49995,
+   "sha256": "bf8ce44b291f665ea0c34f28befb206e92da7202b60d7b8ebdfc5fe801118ee9"
+  },
+  {
+   "path": "media/materials/textures/limestone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/marble.png",
+   "size": 31933,
+   "sha256": "d8c25c02c17e9076c1bb4fb692d360f9fb31c298ca833d8c244e306ff3604ae7"
+  },
+  {
+   "path": "media/materials/textures/marble_normal.png",
+   "size": 29285,
+   "sha256": "d4e5ab67529195c5a5be286a022e1e9c8058b9b614eadb7612942462d083a0ef"
+  },
+  {
+   "path": "media/materials/textures/mortar.png",
+   "size": 30700,
+   "sha256": "0749995c21d077be43c42b8de716a7992549eb89f73ba68253792accc4dc03e9"
+  },
+  {
+   "path": "media/materials/textures/mortar_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/oak.png",
+   "size": 44710,
+   "sha256": "cdf8ce500e0145dddaba5408a7bb6b6013c72e37ae225e23903efb16b6eaebd5"
+  },
+  {
+   "path": "media/materials/textures/oak_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  },
+  {
+   "path": "media/materials/textures/paper.png",
+   "size": 52363,
+   "sha256": "e8344646e132da563f18a9157fbf98bd778a6070ac4443ad6e3f209bb2b04fa6"
+  },
+  {
+   "path": "media/materials/textures/paper_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/plaster.png",
+   "size": 51787,
+   "sha256": "7a4c5f149f38204773143f16e06851f33496c436db368fe8a964a390873bfc2e"
+  },
+  {
+   "path": "media/materials/textures/plaster_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/red.png",
+   "size": 30685,
+   "sha256": "efbdd3cc8b5c72553f9db3b9c26860b5c364c1f321b3aa6012ecb45130633ed4"
+  },
+  {
+   "path": "media/materials/textures/red_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rope.png",
+   "size": 44507,
+   "sha256": "24b4fed56ade7e162aa38fcd54886e3c2730f38af4befb25c843422a278e5bbb"
+  },
+  {
+   "path": "media/materials/textures/rope_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rose.png",
+   "size": 51725,
+   "sha256": "e0e37ae18b6906a144680a1155de6ffad7e2bb083d9999fff0363e5112aee4d2"
+  },
+  {
+   "path": "media/materials/textures/rose_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/sand.png",
+   "size": 36961,
+   "sha256": "85886e8f7b3434815829178445b87ff6158c13e8164a8ffda3993c2f221a24cc"
+  },
+  {
+   "path": "media/materials/textures/sand_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/sandstone.png",
+   "size": 47840,
+   "sha256": "ef16b0605a795be8f93f5af413856bbace96ad202e7236059578339d185c3007"
+  },
+  {
+   "path": "media/materials/textures/sandstone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/scales.png",
+   "size": 35840,
+   "sha256": "b1bed18fc93d1ce569ba48331159220c33f9c0feacf02155e12816a7bcaf1e2d"
+  },
+  {
+   "path": "media/materials/textures/scales_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/skin.png",
+   "size": 46985,
+   "sha256": "5ca6e03744c454380928115d5223e4630134a27767a7b26dcfba204d1c4fcf47"
+  },
+  {
+   "path": "media/materials/textures/skin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/snow.png",
+   "size": 42837,
+   "sha256": "0d8d0cd049935a17e0b71ebea93ac5e8f823a998dd72ba10e283741ead9d4260"
+  },
+  {
+   "path": "media/materials/textures/snow_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/soil.png",
+   "size": 32264,
+   "sha256": "4c90d4c1a131223b16a1e4b20de7aa877cded6e90e932f4df75e0e9ec652f615"
+  },
+  {
+   "path": "media/materials/textures/soil_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/steel.png",
+   "size": 49671,
+   "sha256": "eea5cdd9f65ec98b43afd1f7e80a070c60c40fcb61812c4f3c3d6d16c9d95e38"
+  },
+  {
+   "path": "media/materials/textures/steel_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/stone.png",
+   "size": 42272,
+   "sha256": "e4f23d37e5e6d3a83d836d06089b88547117cb6b8978b3b448796eaa655d2ec9"
+  },
+  {
+   "path": "media/materials/textures/stone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/tanfur.png",
+   "size": 44965,
+   "sha256": "5c21a980f0db8b2fcc14c81ba8f6b487e73dd27d2a4bfe3e5000650534d675a7"
+  },
+  {
+   "path": "media/materials/textures/tanfur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/water.png",
+   "size": 29402,
+   "sha256": "a7861a6a33fa96041dd14a7c2ea61c48bfc767b4fbb3e2a2add4fcc74a347850"
+  },
+  {
+   "path": "media/materials/textures/water_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/wood.png",
+   "size": 36098,
+   "sha256": "93be5dba40fb0504f65177b720e06059d439aaf10c0c215617ba6fe9e55769f9"
+  },
+  {
+   "path": "media/materials/textures/wood_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert Pillar.usd",
+   "size": 36853,
+   "sha256": "f9c0031d858665598df4decb96f38bf9c6a119831804e09b78fb733130a4805a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert Stair.usd",
+   "size": 14357,
+   "sha256": "94c234891935c2b8b4076894795a1cdb9ab585f3153bba6e065c60bb13a8a000"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert bar corner.usd",
+   "size": 20804,
+   "sha256": "d7458ef050fb868d21ca3fdccf9674fede51787074691104122831a38860556e"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert bar.usd",
+   "size": 8517,
+   "sha256": "6cd9b6c53a506aeae2415785d3b4d34e50434d1b8c17085da9e4cad21d052e9a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence corner 01.usd",
+   "size": 32519,
+   "sha256": "f96bd21b215d96adffbdc00b7f0fc9e95b09b5ebea1c13626a6609058fdb07eb"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence corner 02.usd",
+   "size": 52710,
+   "sha256": "89ec974ae1d7c113efbb6ebe9b1113489e459be452c59e6b5fb6459f4adbd88f"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence corner 03.usd",
+   "size": 52710,
+   "sha256": "2ba160906346bc4f3a3de05c19f672c592029a03027e62f2082ccdb5fe39f46f"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence corner.usd",
+   "size": 99507,
+   "sha256": "37ff4fb44e47f624843a564482d53fab53e2367dfecdb8f08bd649cf024b5dd1"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence low.usd",
+   "size": 51708,
+   "sha256": "dd8251e1c52f0f36c13083acd08fceac3dee4571a4ad0e7c50b65fa8cc856261"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence.usd",
+   "size": 51490,
+   "sha256": "c33361323671f085c1400cee1a46e0428b087246f2ea50541406ea16ca5361fa"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor 01.usd",
+   "size": 15918,
+   "sha256": "877cbaabcda6d58eda77a7283a59ec5b230ed7b608c02b7e63abcf869a4ab22b"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor 02.usd",
+   "size": 51190,
+   "sha256": "8a3ef3634393790dfb165050a8c86d19eb9aff23b9eb870e95649726a6ed66c8"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor 03.usd",
+   "size": 15915,
+   "sha256": "542bddf7c4140bb5b32ffdf32e23d20425d82ccd3ff20c9480c22f3f2dc732cc"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor 04.usd",
+   "size": 43775,
+   "sha256": "b7595c960b724f480503c8ab670b02517851f2243c6d5d1864f902741079720c"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor decor 01.usd",
+   "size": 31547,
+   "sha256": "399fcff3a3b3e387981ab9d694f1ad4ae340214f7c75073edf2e09030d559cd6"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor decor corner 02.usd",
+   "size": 65761,
+   "sha256": "aab06ed538d35b8dfce48b2df825aa64726c799c2bf16902326cd9444767142f"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor decor corner.usd",
+   "size": 31657,
+   "sha256": "f38a9c543e9c9854fe76dbede162c4ba1b05f520bb5871cf8930daac8bc9e692"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert stair block.usd",
+   "size": 8514,
+   "sha256": "b66386a95ed216932fff0065fbe1ee5a9b01837075294d213062bb39eb7f1ef3"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert stone floor 01.usd",
+   "size": 15914,
+   "sha256": "ea428e2b271bc6e8e368d88a80a82c5169febb8ee7c4bef7fa6bae4749f96b20"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert stone floor 02.usd",
+   "size": 50963,
+   "sha256": "416d1783a973e5872edfbeed9181678a3708cbd1596675664a7d2d0fd5146de8"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall 01.usd",
+   "size": 79687,
+   "sha256": "b08c28b911683bcaa1af5d6d04de151b5ad95d6d08fd9f373677c2cff120621a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall 02.usd",
+   "size": 79676,
+   "sha256": "83e2a282ce7fc599a636f7d51c5fe29e6af2985a51b3dca6a6ba514f864c510c"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall 03.usd",
+   "size": 79540,
+   "sha256": "72585ea575162672fba7e882befc4d376782bcafabb0091dbfbf0530bc748c40"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall 04.usd",
+   "size": 79687,
+   "sha256": "5c6ec9cd9382bb0406b51c70802d6f72430194b03463a881f062222a665407be"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall corner 01.usd",
+   "size": 155000,
+   "sha256": "3ace76bc7e3852ecae8ff7f5742b1cb3473fdf038ada789cddced92de8f23b85"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall corner 03.usd",
+   "size": 155341,
+   "sha256": "e6c67668d182dce4626c94a153dd10d788a02af162cc81e33d7a3a49c77435fd"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall corner 04.usd",
+   "size": 154848,
+   "sha256": "ea7f05041a3fd7b2d9d29fbb6c809a1a20723b96f85ef8ed78619f9c82bd6499"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall corner 05.usd",
+   "size": 154923,
+   "sha256": "b5433e3f382a4c3a00189a613f10bc9fab91e9d9f28ac13478c66e74b01ac192"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor 01.usd",
+   "size": 105090,
+   "sha256": "f7fdb8fb1c7bc277c1064ed3e509a20633c9ca163be45220a5767cedecc67ee7"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor 02.usd",
+   "size": 93883,
+   "sha256": "cf672e8f9a360ea052a356180a06e245eddfbaa192763421aa7168de02225cf4"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor corner 01.usd",
+   "size": 169491,
+   "sha256": "2c6fe2a4a54ca8a5d3eb2099947c3273f41302a9b819a220ae1ec8f77af318bc"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor corner 03.usd",
+   "size": 202891,
+   "sha256": "7764bf2cf1774c0b48a76ea07bef494952964d9db94e73df82cb83fca793b278"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor corner 05.usd",
+   "size": 202892,
+   "sha256": "4ad0a43743b7eb497bd956c2864fd30b2340e2dae78c95349332ce8c24797b2a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall window 01.usd",
+   "size": 116571,
+   "sha256": "8ecbd9446257f8a8f75acc64553b20e3b4c626bb38d60326ab58b4782804db20"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall window 02.usd",
+   "size": 116616,
+   "sha256": "9371bae60e8862ee302f3e921ce9c97db8cc86e2dd28047aadf7c47165a8a7e3"
+  },
+  {
+   "path": "scenery/desert-bar-corner.md",
+   "size": 290,
+   "sha256": "37d13e7f7f0081b4584c8d28afef8ef86804a6f78223d89d2558cc5b86340931"
+  },
+  {
+   "path": "scenery/desert-bar.md",
+   "size": 276,
+   "sha256": "fc7b1fbaf226a4a0a7bb6efa1c9d5ee88c22ac4f2fe5c6375084dd9fd66d8387"
+  },
+  {
+   "path": "scenery/desert-fence-corner-01.md",
+   "size": 302,
+   "sha256": "821669f0814ae60f8e939ffb2f96b703702dc7a8bb887e0967bc4d07b5d65644"
+  },
+  {
+   "path": "scenery/desert-fence-corner-02.md",
+   "size": 302,
+   "sha256": "4977884a861f3e5099f53c8ee2a71bdd90d9315a75b31ae0d55787f367179dd8"
+  },
+  {
+   "path": "scenery/desert-fence-corner-03.md",
+   "size": 302,
+   "sha256": "0190a8240eda59eb200717bc2083f38e6828680050563364141a4dad63f62173"
+  },
+  {
+   "path": "scenery/desert-fence-corner.md",
+   "size": 296,
+   "sha256": "ee32f65d128130117a1140dd10c3cc58a0bdb62c267a02d5bf1c6d7196a1fd53"
+  },
+  {
+   "path": "scenery/desert-fence-low.md",
+   "size": 290,
+   "sha256": "204160c0f0563b1834903a35ac05ecfa6602ba826683517c2c3cb8e646e46579"
+  },
+  {
+   "path": "scenery/desert-fence.md",
+   "size": 282,
+   "sha256": "59e0c30b7cc22f4d7bcaa1ad6849b6b851bf3904eeee980ba0c805ca6faf9a7a"
+  },
+  {
+   "path": "scenery/desert-floor-01.md",
+   "size": 295,
+   "sha256": "c04c5923b6b78feeb21313bae311ce6e97bff43f82245446d79638cb313e4a97"
+  },
+  {
+   "path": "scenery/desert-floor-02.md",
+   "size": 289,
+   "sha256": "72d95d1434170b592d5cc87f6f9b44564c2a00ddc2d7a9d6e1abe455ae83d0c2"
+  },
+  {
+   "path": "scenery/desert-floor-03.md",
+   "size": 295,
+   "sha256": "e146c3de267072f1353e199b0962f0a3ee05bd9b53f4c59f280d9167b1555af0"
+  },
+  {
+   "path": "scenery/desert-floor-04.md",
+   "size": 289,
+   "sha256": "9805cecfe36318102f90700aebca5a3dba996d71d591752616ad3eaf95076de9"
+  },
+  {
+   "path": "scenery/desert-floor-decor-01.md",
+   "size": 307,
+   "sha256": "9e78a1038a3f7cc570da32821ff6586ef33dc6a1671648d9b5e7b552ef467854"
+  },
+  {
+   "path": "scenery/desert-floor-decor-corner-02.md",
+   "size": 321,
+   "sha256": "4c356c5a6e5845c57f3132bc774a263859a7d8cb1141cec0ddf02aaa9b340883"
+  },
+  {
+   "path": "scenery/desert-floor-decor-corner.md",
+   "size": 315,
+   "sha256": "2eebc48f9bfc4522ef77d1cde6873d09b50b0ac241d1293d1e26baf6450c50ac"
+  },
+  {
+   "path": "scenery/desert-pillar.md",
+   "size": 233,
+   "sha256": "dd32a0385323ca1d0aa6e10055b2effc0c460cac343fa6b42eb7dc0dcf211cc4"
+  },
+  {
+   "path": "scenery/desert-stair-block.md",
+   "size": 295,
+   "sha256": "9cf225e7427c2eeae2b39c4cd3922442de6528c0281a609a7d58c726a501cd2c"
+  },
+  {
+   "path": "scenery/desert-stair.md",
+   "size": 238,
+   "sha256": "0f01366e55416285c025d71430e313dc61aa653614986cc247c946ec550453a5"
+  },
+  {
+   "path": "scenery/desert-stone-floor-01.md",
+   "size": 300,
+   "sha256": "b8c6be06e87660ef14279ad6366bc4cf01a0d389c5f251d12c2eece221c941de"
+  },
+  {
+   "path": "scenery/desert-stone-floor-02.md",
+   "size": 308,
+   "sha256": "41179a04269944f8b789369569ed80ca67fc74c8012973c9233acf49b253b70e"
+  },
+  {
+   "path": "scenery/desert-wall-01.md",
+   "size": 285,
+   "sha256": "8729a12c7f511ed4dbe00c05acfac1f0203a4a8a2617f62ccf6272867c44d845"
+  },
+  {
+   "path": "scenery/desert-wall-02.md",
+   "size": 286,
+   "sha256": "b56ff7e5695c934e6d1c9015e843aca7a9a0572ba268bd141736a5af5df2f994"
+  },
+  {
+   "path": "scenery/desert-wall-03.md",
+   "size": 286,
+   "sha256": "3e6fdae4231a35bdcebb7267997ced8ce5d38d09d31d3ff0fcc0461a97d3470e"
+  },
+  {
+   "path": "scenery/desert-wall-04.md",
+   "size": 285,
+   "sha256": "d82669b20d484d08fc5c29c20f0f5ea59d51336285f81be3432219338d47970e"
+  },
+  {
+   "path": "scenery/desert-wall-corner-01.md",
+   "size": 308,
+   "sha256": "95ffb2c691e87d0c0a58e80f0fc5a3b8ddd48b9441d3dbfe6a9e4c9515f8072e"
+  },
+  {
+   "path": "scenery/desert-wall-corner-03.md",
+   "size": 308,
+   "sha256": "ba0dd0a5d6ca9aebd79e76116de9aaf45f3ffd3565e40bcd0512015e3fed56c6"
+  },
+  {
+   "path": "scenery/desert-wall-corner-04.md",
+   "size": 308,
+   "sha256": "0ab7c5dff7b6d42f83b87e4f3d4d80f2c7866c0583777c58d01e84040a59fc75"
+  },
+  {
+   "path": "scenery/desert-wall-corner-05.md",
+   "size": 307,
+   "sha256": "0b7a37fd8afab167d91def1e7dc6c8f9c9c4fd499c16912367aebbac3bef24de"
+  },
+  {
+   "path": "scenery/desert-wall-floor-01.md",
+   "size": 297,
+   "sha256": "3294b5de634cae219532345b66eccaaf6d82dda08f9771666d498caf37da4a46"
+  },
+  {
+   "path": "scenery/desert-wall-floor-02.md",
+   "size": 298,
+   "sha256": "35869c469b6742bae1cda5e495788862e293d3d49be0211a93b9ab664df8e09c"
+  },
+  {
+   "path": "scenery/desert-wall-floor-corner-01.md",
+   "size": 320,
+   "sha256": "7104a92b08015b27cc43de53e51353c9e8c89545225145f8a49e01e095320c5f"
+  },
+  {
+   "path": "scenery/desert-wall-floor-corner-03.md",
+   "size": 319,
+   "sha256": "e035e46fb58c475e6204ac0b10166c22ba5e458f13fb501b2ecf900b23e26d90"
+  },
+  {
+   "path": "scenery/desert-wall-floor-corner-05.md",
+   "size": 319,
+   "sha256": "2dae9441e20808d2123c53ac7d3ceb535e7e5a3d61727dbdcc9555383101bc11"
+  },
+  {
+   "path": "scenery/desert-wall-window-01.md",
+   "size": 299,
+   "sha256": "768885b9a7c73c2b785a5db582c69a79a4b887fcd414e727fcc18ab9bba4854b"
+  },
+  {
+   "path": "scenery/desert-wall-window-02.md",
+   "size": 300,
+   "sha256": "3a69aa9e4509877590d98b89d6d680c2a1d596806944f82c85d631a4b4c98da2"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Desert bar corner",
+   "kind": "scenery",
+   "thumb": "thumbs/0e7dd7de-ab95-4e78-8ddf-26d3170cc142.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "bar",
+    "village",
+    "small",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert bar",
+   "kind": "scenery",
+   "thumb": "thumbs/b66bda7f-2b5b-450b-a058-ad8c5d4bc266.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "bar",
+    "village",
+    "small",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert fence corner 01",
+   "kind": "scenery",
+   "thumb": "thumbs/889ed1ce-dd13-4956-af71-3bc263a63b69.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "village",
+    "small",
+    "fence",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert fence corner 02",
+   "kind": "scenery",
+   "thumb": "thumbs/af4710b5-ef42-4c9f-99df-c424a247d8a5.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "fence",
+    "village",
+    "small",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert fence corner 03",
+   "kind": "scenery",
+   "thumb": "thumbs/fc8d0bce-9833-47c8-a6b3-01c6b2fed5cb.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "village",
+    "small",
+    "fence",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert fence corner",
+   "kind": "scenery",
+   "thumb": "thumbs/78193eda-9e60-4fe7-b1b9-21110b4e120e.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "village",
+    "small",
+    "fence",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert fence low",
+   "kind": "scenery",
+   "thumb": "thumbs/75e3ce71-d2a6-4476-83a9-bcfac9651be6.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "village",
+    "small",
+    "fence",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert fence",
+   "kind": "scenery",
+   "thumb": "thumbs/a07cef93-5b9f-477e-aa9a-b66a1c76c471.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "village",
+    "small",
+    "fence",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert floor 01",
+   "kind": "scenery",
+   "thumb": "thumbs/35a4af95-4afc-45a8-a657-a5601f4ad879.jpg",
+   "tags": [
+    "desert-village",
+    "floor",
+    "desert",
+    "floor",
+    "village",
+    "small",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert floor 02",
+   "kind": "scenery",
+   "thumb": "thumbs/9536a8fb-ab44-4b73-a430-6d17fd6316d4.jpg",
+   "tags": [
+    "desert-village",
+    "floor",
+    "desert",
+    "village",
+    "medium",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert floor 03",
+   "kind": "scenery",
+   "thumb": "thumbs/4245fbdd-8c05-4f1f-bc3a-ed60dedbddaf.jpg",
+   "tags": [
+    "desert-village",
+    "floor",
+    "desert",
+    "floor",
+    "village",
+    "small",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert floor 04",
+   "kind": "scenery",
+   "thumb": "thumbs/6d57a25c-fd2f-40a4-b868-597762041843.jpg",
+   "tags": [
+    "desert-village",
+    "floor",
+    "desert",
+    "village",
+    "medium",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert floor decor 01",
+   "kind": "scenery",
+   "thumb": "thumbs/6ae18603-ef06-431e-9e53-d7ffe6b17b30.jpg",
+   "tags": [
+    "desert-village",
+    "floor",
+    "desert",
+    "floor",
+    "village",
+    "small",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert floor decor corner 02",
+   "kind": "scenery",
+   "thumb": "thumbs/03361c62-5d2c-4d58-8692-70b23a36e05f.jpg",
+   "tags": [
+    "desert-village",
+    "floor",
+    "desert",
+    "floor",
+    "village",
+    "small",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert floor decor corner",
+   "kind": "scenery",
+   "thumb": "thumbs/221867eb-99b1-4246-a47d-31b902ed2067.jpg",
+   "tags": [
+    "desert-village",
+    "floor",
+    "desert",
+    "floor",
+    "village",
+    "small",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert Pillar",
+   "kind": "scenery",
+   "thumb": "thumbs/ff7a5675-053a-4e2a-97d9-28904d3108f0.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "pillar",
+    "village"
+   ]
+  },
+  {
+   "name": "Desert stair block",
+   "kind": "scenery",
+   "thumb": "thumbs/d4317fa6-cdfb-4533-8f7e-bed1c8839585.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "stairs",
+    "village",
+    "small",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert Stair",
+   "kind": "scenery",
+   "thumb": "thumbs/f76d22ad-70af-4c37-b222-0d8944b59733.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "stairs",
+    "village",
+    "small"
+   ]
+  },
+  {
+   "name": "Desert stone floor 01",
+   "kind": "scenery",
+   "thumb": "thumbs/ce330020-b299-4512-8957-3c74e5e6ef90.jpg",
+   "tags": [
+    "desert-village",
+    "floor",
+    "desert",
+    "village",
+    "small",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert stone floor 02",
+   "kind": "scenery",
+   "thumb": "thumbs/ed6a96ab-857f-4ea2-ae2c-490f0da92533.jpg",
+   "tags": [
+    "desert-village",
+    "floor",
+    "desert",
+    "floor",
+    "village",
+    "medium",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert wall 01",
+   "kind": "scenery",
+   "thumb": "thumbs/d9f2f65f-ab6e-4c02-b4c0-6793fd2ba49c.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "wall",
+    "village",
+    "large",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert wall 02",
+   "kind": "scenery",
+   "thumb": "thumbs/d3313868-0459-4e00-be2d-7ed99fbe7f72.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "wall",
+    "village",
+    "medium",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert wall 03",
+   "kind": "scenery",
+   "thumb": "thumbs/f486efae-dee0-4526-a231-6a3f477cdbd5.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "wall",
+    "village",
+    "medium",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert wall 04",
+   "kind": "scenery",
+   "thumb": "thumbs/595c8d05-49ec-4bbc-a0b6-85ea613095e5.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "wall",
+    "village",
+    "large",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert wall corner 01",
+   "kind": "scenery",
+   "thumb": "thumbs/05e77997-3382-48e2-b09f-114b40894e19.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "wall",
+    "village",
+    "medium",
+    "corner",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert wall  corner 03",
+   "kind": "scenery",
+   "thumb": "thumbs/350b7829-ec03-418c-a067-686f2bb1bd65.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "wall",
+    "village",
+    "large",
+    "corner",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert wall  corner 04",
+   "kind": "scenery",
+   "thumb": "thumbs/20efe4a8-8c59-4eba-99c1-a7c07edb7e62.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "wall",
+    "village",
+    "large",
+    "corner",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert wall corner 05",
+   "kind": "scenery",
+   "thumb": "thumbs/aaae0ac1-946d-43f0-970f-daaabb0a51b0.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "wall",
+    "village",
+    "large",
+    "corner",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert wall floor 01",
+   "kind": "scenery",
+   "thumb": "thumbs/f1df0fec-badf-432b-8cf8-154f938aa755.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "wall",
+    "village",
+    "large",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert wall floor 02",
+   "kind": "scenery",
+   "thumb": "thumbs/2c70d1ce-d76e-44cf-980d-d69dd521204b.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "wall",
+    "village",
+    "medium",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert wall floor corner 01",
+   "kind": "scenery",
+   "thumb": "thumbs/af2a956b-85f1-48a3-b077-777373fedc85.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "wall",
+    "village",
+    "medium",
+    "corner",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert wall floor corner 03",
+   "kind": "scenery",
+   "thumb": "thumbs/4dc088c2-98e0-42b7-967e-bb910766ee18.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "wall",
+    "village",
+    "large",
+    "corner",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert wall floor corner 05",
+   "kind": "scenery",
+   "thumb": "thumbs/01443ee2-a8bb-426f-962f-0267fa2f2d37.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "wall",
+    "village",
+    "large",
+    "corner",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert wall window 01",
+   "kind": "scenery",
+   "thumb": "thumbs/c3de8ad5-3f73-4df0-9283-c8cd99521b53.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "wall",
+    "village",
+    "large",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert wall window 02",
+   "kind": "scenery",
+   "thumb": "thumbs/a25e97f9-6cee-47fb-89b7-d924791a7ae8.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "wall",
+    "village",
+    "medium",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  }
+ ]
+}

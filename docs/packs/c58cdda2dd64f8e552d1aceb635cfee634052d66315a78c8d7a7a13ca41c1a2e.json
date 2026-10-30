@@ -1,0 +1,615 @@
+{
+ "id": "e821b300-ae4c-594d-b2c8-15b2dc386018",
+ "folder": "Palisade Tiles.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 697,
+   "sha256": "cd8ae742a6faa604e99c4aeda45e650ae9032297a724eb95fdc0520e3161a192"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 34576,
+   "sha256": "fef474f72c4d30be70b7fb890b2197f321a1208a37d323cb3572a848200257a5"
+  },
+  {
+   "path": "media/materials/Library.usdc",
+   "size": 19724,
+   "sha256": "c24d21cc536ed131cf8633109bc9ffdf7e045cd0c2da1da90544a18c4fa9d5ba"
+  },
+  {
+   "path": "media/materials/textures/basalt.png",
+   "size": 25957,
+   "sha256": "e7295df0b2356c29812c23d4ee8cfcbbab04ee3eb5f20f52d281a6846c8f2e96"
+  },
+  {
+   "path": "media/materials/textures/basalt_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/blue.png",
+   "size": 29622,
+   "sha256": "bb2482f15178dd7ed1883b5558bae3c5db1e6f63dfb0a562b16da3cffcd80add"
+  },
+  {
+   "path": "media/materials/textures/blue_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bluefire.png",
+   "size": 40884,
+   "sha256": "95947aba8ef1863b10a5ceb035363c014f49bb066a629334e6b9fb0c0b2a2a57"
+  },
+  {
+   "path": "media/materials/textures/bluefire_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bone.png",
+   "size": 52095,
+   "sha256": "60127b0b9d500672ffa4413c2e0331968daf672f9edbbc58e031bd20a24410ce"
+  },
+  {
+   "path": "media/materials/textures/bone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/brass.png",
+   "size": 45700,
+   "sha256": "7653b7e6c813911303d183fd977ca9007540d1f30b8a647ce49a9b4b25479a7e"
+  },
+  {
+   "path": "media/materials/textures/brass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/fur.png",
+   "size": 32075,
+   "sha256": "e6ebdc6bf38121ac2caa3f246dbf760ceb5f618f67a707849f43ac55ee75e56d"
+  },
+  {
+   "path": "media/materials/textures/fur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ghost.png",
+   "size": 46813,
+   "sha256": "6b86f729a542c078e35015b96d3bdf6bb6fd252e59dc931fbd818c4ac61d0809"
+  },
+  {
+   "path": "media/materials/textures/ghost_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/goblinskin.png",
+   "size": 40654,
+   "sha256": "bc088b6cce6935a3e38a4e34d3f8e553b7269a409f04d5892d4bb7bcbb804e7a"
+  },
+  {
+   "path": "media/materials/textures/goblinskin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/grass.png",
+   "size": 37697,
+   "sha256": "f6440b6a238240b171a02d0a9abfa1db6e3b23470ea136796156c95dc85ecb1a"
+  },
+  {
+   "path": "media/materials/textures/grass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ice.png",
+   "size": 54673,
+   "sha256": "1776de4df5a1aa0fd4c24462a5bf2188a02dd0f291b002f76689f64c7401183f"
+  },
+  {
+   "path": "media/materials/textures/ice_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/iron.png",
+   "size": 33226,
+   "sha256": "b819ee206156042e76233baf2e2abdb7f0a4a0ae5bc64a26cfaaec7a6fae6a3b"
+  },
+  {
+   "path": "media/materials/textures/iron_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/jade.png",
+   "size": 33655,
+   "sha256": "449a6862f41cf33514e10aa482f65a2dd957d8accc0e776a061972b2b5323771"
+  },
+  {
+   "path": "media/materials/textures/jade_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/lava.png",
+   "size": 36124,
+   "sha256": "f4f7e6f7c9f527d2c962cacf29c83a795a16ecc66640854685970879a3f94e4c"
+  },
+  {
+   "path": "media/materials/textures/lava_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/leather.png",
+   "size": 22325,
+   "sha256": "5466b2bd41efecafe9089281e6fca4ca93def727a9c16cafc86dadf55d211774"
+  },
+  {
+   "path": "media/materials/textures/leather_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/limestone.png",
+   "size": 49995,
+   "sha256": "bf8ce44b291f665ea0c34f28befb206e92da7202b60d7b8ebdfc5fe801118ee9"
+  },
+  {
+   "path": "media/materials/textures/limestone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/marble.png",
+   "size": 31933,
+   "sha256": "d8c25c02c17e9076c1bb4fb692d360f9fb31c298ca833d8c244e306ff3604ae7"
+  },
+  {
+   "path": "media/materials/textures/marble_normal.png",
+   "size": 29285,
+   "sha256": "d4e5ab67529195c5a5be286a022e1e9c8058b9b614eadb7612942462d083a0ef"
+  },
+  {
+   "path": "media/materials/textures/mortar.png",
+   "size": 30700,
+   "sha256": "0749995c21d077be43c42b8de716a7992549eb89f73ba68253792accc4dc03e9"
+  },
+  {
+   "path": "media/materials/textures/mortar_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/oak.png",
+   "size": 44710,
+   "sha256": "cdf8ce500e0145dddaba5408a7bb6b6013c72e37ae225e23903efb16b6eaebd5"
+  },
+  {
+   "path": "media/materials/textures/oak_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  },
+  {
+   "path": "media/materials/textures/paper.png",
+   "size": 52363,
+   "sha256": "e8344646e132da563f18a9157fbf98bd778a6070ac4443ad6e3f209bb2b04fa6"
+  },
+  {
+   "path": "media/materials/textures/paper_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/plaster.png",
+   "size": 51787,
+   "sha256": "7a4c5f149f38204773143f16e06851f33496c436db368fe8a964a390873bfc2e"
+  },
+  {
+   "path": "media/materials/textures/plaster_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/red.png",
+   "size": 30685,
+   "sha256": "efbdd3cc8b5c72553f9db3b9c26860b5c364c1f321b3aa6012ecb45130633ed4"
+  },
+  {
+   "path": "media/materials/textures/red_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rope.png",
+   "size": 44507,
+   "sha256": "24b4fed56ade7e162aa38fcd54886e3c2730f38af4befb25c843422a278e5bbb"
+  },
+  {
+   "path": "media/materials/textures/rope_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rose.png",
+   "size": 51725,
+   "sha256": "e0e37ae18b6906a144680a1155de6ffad7e2bb083d9999fff0363e5112aee4d2"
+  },
+  {
+   "path": "media/materials/textures/rose_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/sand.png",
+   "size": 36961,
+   "sha256": "85886e8f7b3434815829178445b87ff6158c13e8164a8ffda3993c2f221a24cc"
+  },
+  {
+   "path": "media/materials/textures/sand_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/sandstone.png",
+   "size": 47840,
+   "sha256": "ef16b0605a795be8f93f5af413856bbace96ad202e7236059578339d185c3007"
+  },
+  {
+   "path": "media/materials/textures/sandstone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/scales.png",
+   "size": 35840,
+   "sha256": "b1bed18fc93d1ce569ba48331159220c33f9c0feacf02155e12816a7bcaf1e2d"
+  },
+  {
+   "path": "media/materials/textures/scales_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/skin.png",
+   "size": 46985,
+   "sha256": "5ca6e03744c454380928115d5223e4630134a27767a7b26dcfba204d1c4fcf47"
+  },
+  {
+   "path": "media/materials/textures/skin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/snow.png",
+   "size": 42837,
+   "sha256": "0d8d0cd049935a17e0b71ebea93ac5e8f823a998dd72ba10e283741ead9d4260"
+  },
+  {
+   "path": "media/materials/textures/snow_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/soil.png",
+   "size": 32264,
+   "sha256": "4c90d4c1a131223b16a1e4b20de7aa877cded6e90e932f4df75e0e9ec652f615"
+  },
+  {
+   "path": "media/materials/textures/soil_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/steel.png",
+   "size": 49671,
+   "sha256": "eea5cdd9f65ec98b43afd1f7e80a070c60c40fcb61812c4f3c3d6d16c9d95e38"
+  },
+  {
+   "path": "media/materials/textures/steel_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/stone.png",
+   "size": 42272,
+   "sha256": "e4f23d37e5e6d3a83d836d06089b88547117cb6b8978b3b448796eaa655d2ec9"
+  },
+  {
+   "path": "media/materials/textures/stone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/tanfur.png",
+   "size": 44965,
+   "sha256": "5c21a980f0db8b2fcc14c81ba8f6b487e73dd27d2a4bfe3e5000650534d675a7"
+  },
+  {
+   "path": "media/materials/textures/tanfur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/water.png",
+   "size": 29402,
+   "sha256": "a7861a6a33fa96041dd14a7c2ea61c48bfc767b4fbb3e2a2add4fcc74a347850"
+  },
+  {
+   "path": "media/materials/textures/water_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/wood.png",
+   "size": 36098,
+   "sha256": "93be5dba40fb0504f65177b720e06059d439aaf10c0c215617ba6fe9e55769f9"
+  },
+  {
+   "path": "media/materials/textures/wood_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall short 1x1.usd",
+   "size": 166515,
+   "sha256": "f06a2e8ec729e1e4449a8f6cc78fcdfec0f5bed51e73a3538b7170cbcbfeeefa"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall short 1x2.usd",
+   "size": 294504,
+   "sha256": "957239a7e02e44caa98421280ce67d7568a016996f4910e6e91c22a12638c2b6"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall short corner.usd",
+   "size": 328559,
+   "sha256": "42b3deb97043c3fe67a663417795f48e87932451a37bfa223e593df22235b3f2"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall tall 1x2.usd",
+   "size": 166483,
+   "sha256": "4c98faa00785cf4a8d53174104ffeb600eaa94e7c5ce7ccb6224c7ecd874602c"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall tall 2x2.usd",
+   "size": 294177,
+   "sha256": "ade53146411a7b3963cfbd98da43a791f788d7a4407682ba836e6088fdf3a0e6"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall tall corner.usd",
+   "size": 328606,
+   "sha256": "55108abf805038bcd67d6b6c9f7d7ee6e0e62057def899ff66d150ba15549303"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall top 1.usd",
+   "size": 166318,
+   "sha256": "46635771c49d0f9457964b4528f612ca9db68cbe3b402b9c005ffd46d5caf6a8"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall top 2.usd",
+   "size": 294484,
+   "sha256": "74cffb5607c0d4f575209f3906163813a0006e4764177ba7f3f839bc386aaba7"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall top corner.usd",
+   "size": 328546,
+   "sha256": "801aea13eee91df7299a6148ea6d4ac487066f6908b282d8cdbd00bab62e6ed3"
+  },
+  {
+   "path": "scenery/palisade-wall-short-1x1.md",
+   "size": 280,
+   "sha256": "056315668bc16510140ab9c961abd576bf2272d8db122ceceb2cb028f0be63ac"
+  },
+  {
+   "path": "scenery/palisade-wall-short-1x2.md",
+   "size": 280,
+   "sha256": "a92f09730350faad497ce0e2c6f758f653f8f618427e8fab0b4fcf1d5a3f99c4"
+  },
+  {
+   "path": "scenery/palisade-wall-short-corner.md",
+   "size": 286,
+   "sha256": "ea005e1ccee08660804c2f8da21754b1d2e04368d68851770ff6612f9309ea43"
+  },
+  {
+   "path": "scenery/palisade-wall-tall-1x2.md",
+   "size": 278,
+   "sha256": "1e5a23cadd0b7aac7a43f8a4131d15623f76ff24c3cc385256500f10788cf4b4"
+  },
+  {
+   "path": "scenery/palisade-wall-tall-2x2.md",
+   "size": 278,
+   "sha256": "00eb94af29a755abce9f4692e83bdc4aab27b93d33f4b32f52d3ad4cd4534bcb"
+  },
+  {
+   "path": "scenery/palisade-wall-tall-corner.md",
+   "size": 284,
+   "sha256": "965584930b66751251c2964c500b4ad6fe75421dfbb3e25d4aa6abbc5dfc45b5"
+  },
+  {
+   "path": "scenery/palisade-wall-top-1.md",
+   "size": 272,
+   "sha256": "4498ba43c971f7c150c7929a9d5c30fed6be975be9a0239035d71e324c83a254"
+  },
+  {
+   "path": "scenery/palisade-wall-top-2.md",
+   "size": 272,
+   "sha256": "4a336aceea7e7c5b69bd62c5d3865808b1132a68437c6430e0df5f919f7fcaff"
+  },
+  {
+   "path": "scenery/palisade-wall-top-corner.md",
+   "size": 282,
+   "sha256": "df2a335093472bc982b8c8e0cba30dbe659cd07089395a63c67d707a7be63cc3"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Palisade wall short 1x1",
+   "kind": "scenery",
+   "thumb": "thumbs/10336934-fb7d-4af4-8869-ec5135897415.jpg",
+   "tags": [
+    "wall",
+    "camp",
+    "wood",
+    "palisade",
+    "brown",
+    "orange",
+    "yellow",
+    "white",
+    "fort",
+    "fence",
+    "defence"
+   ]
+  },
+  {
+   "name": "Palisade wall short 1x2",
+   "kind": "scenery",
+   "thumb": "thumbs/8c13625b-1d26-4b41-bbe0-6176beb718ec.jpg",
+   "tags": [
+    "wall",
+    "camp",
+    "wood",
+    "palisade",
+    "brown",
+    "orange",
+    "yellow",
+    "white",
+    "fort",
+    "fence",
+    "defence"
+   ]
+  },
+  {
+   "name": "Palisade wall short corner",
+   "kind": "scenery",
+   "thumb": "thumbs/5521cfca-a78a-4522-9c55-96171958f979.jpg",
+   "tags": [
+    "wall",
+    "camp",
+    "wood",
+    "palisade",
+    "brown",
+    "orange",
+    "yellow",
+    "white",
+    "fort",
+    "fence",
+    "defence"
+   ]
+  },
+  {
+   "name": "Palisade wall tall 1x2",
+   "kind": "scenery",
+   "thumb": "thumbs/122b1c4d-ae71-49d2-8c06-7f7dd23fbc13.jpg",
+   "tags": [
+    "wall",
+    "camp",
+    "wood",
+    "palisade",
+    "brown",
+    "orange",
+    "yellow",
+    "white",
+    "fort",
+    "fence",
+    "defence"
+   ]
+  },
+  {
+   "name": "Palisade wall tall 2x2",
+   "kind": "scenery",
+   "thumb": "thumbs/cef1d292-9f3d-451b-9933-f986491fc3de.jpg",
+   "tags": [
+    "wall",
+    "camp",
+    "wood",
+    "palisade",
+    "brown",
+    "orange",
+    "yellow",
+    "white",
+    "fort",
+    "fence",
+    "defence"
+   ]
+  },
+  {
+   "name": "Palisade wall tall corner",
+   "kind": "scenery",
+   "thumb": "thumbs/2916f2a6-5ddb-46a5-bdce-f029ee09c7ef.jpg",
+   "tags": [
+    "wall",
+    "camp",
+    "wood",
+    "palisade",
+    "brown",
+    "orange",
+    "yellow",
+    "white",
+    "fort",
+    "fence",
+    "defence"
+   ]
+  },
+  {
+   "name": "Palisade wall top 1",
+   "kind": "scenery",
+   "thumb": "thumbs/8343e943-8923-40f1-bead-d008bf6755eb.jpg",
+   "tags": [
+    "roof",
+    "camp",
+    "wood",
+    "palisade",
+    "brown",
+    "orange",
+    "yellow",
+    "white",
+    "fort",
+    "fence",
+    "defence"
+   ]
+  },
+  {
+   "name": "Palisade wall top 2",
+   "kind": "scenery",
+   "thumb": "thumbs/16f46555-5204-40e7-a322-3063080056e0.jpg",
+   "tags": [
+    "roof",
+    "camp",
+    "wood",
+    "palisade",
+    "brown",
+    "orange",
+    "yellow",
+    "white",
+    "fort",
+    "fence",
+    "defence"
+   ]
+  },
+  {
+   "name": "Palisade wall top corner",
+   "kind": "scenery",
+   "thumb": "thumbs/36211bfc-5ec2-417a-989a-c25d1443b81f.jpg",
+   "tags": [
+    "roof",
+    "camp",
+    "wood",
+    "palisade",
+    "brown",
+    "orange",
+    "yellow",
+    "white",
+    "fort",
+    "fence",
+    "defence"
+   ]
+  }
+ ]
+}

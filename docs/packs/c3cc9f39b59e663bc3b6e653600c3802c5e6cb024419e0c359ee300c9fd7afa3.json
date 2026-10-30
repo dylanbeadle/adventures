@@ -1,0 +1,861 @@
+{
+ "id": "3c1a1789-3aed-547c-b114-6541e392787e",
+ "folder": "Rural Tiles.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 950,
+   "sha256": "c51d026dcfbefd9e37a0ae395d0fe0acd3b01fe98f90d7d129e888e2d441559a"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 34493,
+   "sha256": "86766fba3ae4040ff32580159dab78a82cf70b2f4a8f2469c255fe7fe5d5bb68"
+  },
+  {
+   "path": "media/materials/Library.usdc",
+   "size": 19724,
+   "sha256": "c24d21cc536ed131cf8633109bc9ffdf7e045cd0c2da1da90544a18c4fa9d5ba"
+  },
+  {
+   "path": "media/materials/textures/basalt.png",
+   "size": 25957,
+   "sha256": "e7295df0b2356c29812c23d4ee8cfcbbab04ee3eb5f20f52d281a6846c8f2e96"
+  },
+  {
+   "path": "media/materials/textures/basalt_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/blue.png",
+   "size": 29622,
+   "sha256": "bb2482f15178dd7ed1883b5558bae3c5db1e6f63dfb0a562b16da3cffcd80add"
+  },
+  {
+   "path": "media/materials/textures/blue_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bluefire.png",
+   "size": 40884,
+   "sha256": "95947aba8ef1863b10a5ceb035363c014f49bb066a629334e6b9fb0c0b2a2a57"
+  },
+  {
+   "path": "media/materials/textures/bluefire_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bone.png",
+   "size": 52095,
+   "sha256": "60127b0b9d500672ffa4413c2e0331968daf672f9edbbc58e031bd20a24410ce"
+  },
+  {
+   "path": "media/materials/textures/bone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/brass.png",
+   "size": 45700,
+   "sha256": "7653b7e6c813911303d183fd977ca9007540d1f30b8a647ce49a9b4b25479a7e"
+  },
+  {
+   "path": "media/materials/textures/brass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/fur.png",
+   "size": 32075,
+   "sha256": "e6ebdc6bf38121ac2caa3f246dbf760ceb5f618f67a707849f43ac55ee75e56d"
+  },
+  {
+   "path": "media/materials/textures/fur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ghost.png",
+   "size": 46813,
+   "sha256": "6b86f729a542c078e35015b96d3bdf6bb6fd252e59dc931fbd818c4ac61d0809"
+  },
+  {
+   "path": "media/materials/textures/ghost_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/goblinskin.png",
+   "size": 40654,
+   "sha256": "bc088b6cce6935a3e38a4e34d3f8e553b7269a409f04d5892d4bb7bcbb804e7a"
+  },
+  {
+   "path": "media/materials/textures/goblinskin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/grass.png",
+   "size": 37697,
+   "sha256": "f6440b6a238240b171a02d0a9abfa1db6e3b23470ea136796156c95dc85ecb1a"
+  },
+  {
+   "path": "media/materials/textures/grass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ice.png",
+   "size": 54673,
+   "sha256": "1776de4df5a1aa0fd4c24462a5bf2188a02dd0f291b002f76689f64c7401183f"
+  },
+  {
+   "path": "media/materials/textures/ice_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/iron.png",
+   "size": 33226,
+   "sha256": "b819ee206156042e76233baf2e2abdb7f0a4a0ae5bc64a26cfaaec7a6fae6a3b"
+  },
+  {
+   "path": "media/materials/textures/iron_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/jade.png",
+   "size": 33655,
+   "sha256": "449a6862f41cf33514e10aa482f65a2dd957d8accc0e776a061972b2b5323771"
+  },
+  {
+   "path": "media/materials/textures/jade_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/lava.png",
+   "size": 36124,
+   "sha256": "f4f7e6f7c9f527d2c962cacf29c83a795a16ecc66640854685970879a3f94e4c"
+  },
+  {
+   "path": "media/materials/textures/lava_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/leather.png",
+   "size": 22325,
+   "sha256": "5466b2bd41efecafe9089281e6fca4ca93def727a9c16cafc86dadf55d211774"
+  },
+  {
+   "path": "media/materials/textures/leather_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/limestone.png",
+   "size": 49995,
+   "sha256": "bf8ce44b291f665ea0c34f28befb206e92da7202b60d7b8ebdfc5fe801118ee9"
+  },
+  {
+   "path": "media/materials/textures/limestone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/marble.png",
+   "size": 31933,
+   "sha256": "d8c25c02c17e9076c1bb4fb692d360f9fb31c298ca833d8c244e306ff3604ae7"
+  },
+  {
+   "path": "media/materials/textures/marble_normal.png",
+   "size": 29285,
+   "sha256": "d4e5ab67529195c5a5be286a022e1e9c8058b9b614eadb7612942462d083a0ef"
+  },
+  {
+   "path": "media/materials/textures/mortar.png",
+   "size": 30700,
+   "sha256": "0749995c21d077be43c42b8de716a7992549eb89f73ba68253792accc4dc03e9"
+  },
+  {
+   "path": "media/materials/textures/mortar_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/oak.png",
+   "size": 44710,
+   "sha256": "cdf8ce500e0145dddaba5408a7bb6b6013c72e37ae225e23903efb16b6eaebd5"
+  },
+  {
+   "path": "media/materials/textures/oak_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  },
+  {
+   "path": "media/materials/textures/paper.png",
+   "size": 52363,
+   "sha256": "e8344646e132da563f18a9157fbf98bd778a6070ac4443ad6e3f209bb2b04fa6"
+  },
+  {
+   "path": "media/materials/textures/paper_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/plaster.png",
+   "size": 51787,
+   "sha256": "7a4c5f149f38204773143f16e06851f33496c436db368fe8a964a390873bfc2e"
+  },
+  {
+   "path": "media/materials/textures/plaster_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/red.png",
+   "size": 30685,
+   "sha256": "efbdd3cc8b5c72553f9db3b9c26860b5c364c1f321b3aa6012ecb45130633ed4"
+  },
+  {
+   "path": "media/materials/textures/red_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rope.png",
+   "size": 44507,
+   "sha256": "24b4fed56ade7e162aa38fcd54886e3c2730f38af4befb25c843422a278e5bbb"
+  },
+  {
+   "path": "media/materials/textures/rope_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rose.png",
+   "size": 51725,
+   "sha256": "e0e37ae18b6906a144680a1155de6ffad7e2bb083d9999fff0363e5112aee4d2"
+  },
+  {
+   "path": "media/materials/textures/rose_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/sand.png",
+   "size": 36961,
+   "sha256": "85886e8f7b3434815829178445b87ff6158c13e8164a8ffda3993c2f221a24cc"
+  },
+  {
+   "path": "media/materials/textures/sand_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/sandstone.png",
+   "size": 47840,
+   "sha256": "ef16b0605a795be8f93f5af413856bbace96ad202e7236059578339d185c3007"
+  },
+  {
+   "path": "media/materials/textures/sandstone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/scales.png",
+   "size": 35840,
+   "sha256": "b1bed18fc93d1ce569ba48331159220c33f9c0feacf02155e12816a7bcaf1e2d"
+  },
+  {
+   "path": "media/materials/textures/scales_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/skin.png",
+   "size": 46985,
+   "sha256": "5ca6e03744c454380928115d5223e4630134a27767a7b26dcfba204d1c4fcf47"
+  },
+  {
+   "path": "media/materials/textures/skin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/snow.png",
+   "size": 42837,
+   "sha256": "0d8d0cd049935a17e0b71ebea93ac5e8f823a998dd72ba10e283741ead9d4260"
+  },
+  {
+   "path": "media/materials/textures/snow_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/soil.png",
+   "size": 32264,
+   "sha256": "4c90d4c1a131223b16a1e4b20de7aa877cded6e90e932f4df75e0e9ec652f615"
+  },
+  {
+   "path": "media/materials/textures/soil_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/steel.png",
+   "size": 49671,
+   "sha256": "eea5cdd9f65ec98b43afd1f7e80a070c60c40fcb61812c4f3c3d6d16c9d95e38"
+  },
+  {
+   "path": "media/materials/textures/steel_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/stone.png",
+   "size": 42272,
+   "sha256": "e4f23d37e5e6d3a83d836d06089b88547117cb6b8978b3b448796eaa655d2ec9"
+  },
+  {
+   "path": "media/materials/textures/stone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/tanfur.png",
+   "size": 44965,
+   "sha256": "5c21a980f0db8b2fcc14c81ba8f6b487e73dd27d2a4bfe3e5000650534d675a7"
+  },
+  {
+   "path": "media/materials/textures/tanfur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/water.png",
+   "size": 29402,
+   "sha256": "a7861a6a33fa96041dd14a7c2ea61c48bfc767b4fbb3e2a2add4fcc74a347850"
+  },
+  {
+   "path": "media/materials/textures/water_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/wood.png",
+   "size": 36098,
+   "sha256": "93be5dba40fb0504f65177b720e06059d439aaf10c0c215617ba6fe9e55769f9"
+  },
+  {
+   "path": "media/materials/textures/wood_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Corner Floor 01.usd",
+   "size": 86767,
+   "sha256": "39672749bfde9844f997aa163c05d1d96cd177ecb481e610e724858674f80016"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Corner Floor 02.usd",
+   "size": 112155,
+   "sha256": "0a6c97ccfd2933397934dd812d7c3551faf4dcb8efc3733a598d258f3b71fa97"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Corner.usd",
+   "size": 53288,
+   "sha256": "a0f0fafc4554c2e6a3bed85eb2ea99381173f3267ee8c48ced2a475bc56d0e36"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor 01.usd",
+   "size": 37444,
+   "sha256": "d0f28b09c3a2f4decc5df3a4688a59065a191cf70271c1c277ebb1c39b9ea566"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor 02.usd",
+   "size": 37394,
+   "sha256": "be6b1fcf3310cf0be87eb962f02d50d022ed8848cbc27130d9efaf615ec54db7"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor 03.usd",
+   "size": 63278,
+   "sha256": "5d572545465dae929b5a8dff48362ddb81a34bc2577548c43126efca36bd0839"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor 04.usd",
+   "size": 63092,
+   "sha256": "d360e73b15c6e0665a1290bf2222f5bccb84a2e7a549492524106aa6933bbfa9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor Wall Window 01.usd",
+   "size": 102119,
+   "sha256": "67d9be6633ca84b0177d4ae0bdbbd9fbcbb8f48493b4c89d1c08aa6f88a61fe1"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor Wall Window 02.usd",
+   "size": 102385,
+   "sha256": "7ac9ef7edf1433fc7b6bbc881a7b636006c99316799f918cf745f0fbcacbe07f"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Inner Corner Floor.usd",
+   "size": 86779,
+   "sha256": "0f709c1c25ae5863b7336322921e00f3864098d6944c8c56704fc47b43f69b6f"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Inner Corner.usd",
+   "size": 52963,
+   "sha256": "f65c2ec802ebef3ec37be9b9651aef56f1f986adb1aa9c9dcc8e2f5eee149770"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Railing Flat Corner.usd",
+   "size": 33884,
+   "sha256": "ecf431b83a8adfb442773b5b0bcf7eb3b9463dafccacfe51ec617f01157cc0a1"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Stairs Flat Railing.usd",
+   "size": 23023,
+   "sha256": "899db2ffe414db47f542510952464011faa54ac3f67bb5a8f8271e104a201d81"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Stairs Flat.usd",
+   "size": 14024,
+   "sha256": "db2e1ca8c7b55c57d26f94d9f6c4d5e4bbe5807ed6e7eced479812dd6b65ed43"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Stairs Railing 02.usd",
+   "size": 22862,
+   "sha256": "91f56c7a39fbafe766ec6fb131d84d8e43c20479708bf160b63c4e2c693c4737"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Stairs Railing.usd",
+   "size": 22991,
+   "sha256": "df4ce4e96b5536e369dbb210346fa514b184a7aad10df948f4e4049f5246926d"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Stairs.usd",
+   "size": 14336,
+   "sha256": "8a2a558709f9567c84a7ced159ee69e3907b02d0abfa90fdf54a015791f3614b"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall 01.usd",
+   "size": 28112,
+   "sha256": "8128649fe5a2dd1ff3dd219b3d5bd68c1697bdbbd24de5440dba0aa11e1924aa"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall 02.usd",
+   "size": 28236,
+   "sha256": "f92300599e689a09b1ba96ec1d4dc4a2a7175cd35ad4e573d66c23910cc4d19a"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Floor 01.usd",
+   "size": 62183,
+   "sha256": "4e6935b78015a5da2bf0a0b9a1513799cf1616dc40d2001c19aeb58fcc736891"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Floor 02__42e6daf2.usd",
+   "size": 86391,
+   "sha256": "9a36a8402f14646e2e075af2413d95520470ec65ae4829d8323500b8a5117930"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Floor 02__94aee0af.usd",
+   "size": 87736,
+   "sha256": "08d0deb4dd03626e1e9cc0b722b98e60f8d7afa09c94e0dcb7c37714800850ee"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Window.usd",
+   "size": 42800,
+   "sha256": "cc8e0727d25bcf8cc71d067f0f6460b6f83cb99012437507969d774d238356c3"
+  },
+  {
+   "path": "scenery/rural-corner-floor-01.md",
+   "size": 225,
+   "sha256": "2f50a999c55467fe484c22de6f746ff79911bc22a0e2e0a811401680778d8524"
+  },
+  {
+   "path": "scenery/rural-corner-floor-02.md",
+   "size": 224,
+   "sha256": "ca626098b7526a0123b6b815334e583f38f704483f95d8f080584eea57b8b679"
+  },
+  {
+   "path": "scenery/rural-corner.md",
+   "size": 207,
+   "sha256": "059c238f7122810a81d4b6c7b0646eb26b861f077f905cec4ed83e8914ab7c9c"
+  },
+  {
+   "path": "scenery/rural-floor-01.md",
+   "size": 203,
+   "sha256": "94a08911ae6d4ce5bdb8076f1546c9115bb20b00fd9b6ce0d5131fc7ffd5429c"
+  },
+  {
+   "path": "scenery/rural-floor-02.md",
+   "size": 203,
+   "sha256": "c738c5f03edd7d5ec9d58c36819af3197aa6c01ed3850542ef03e6499bd6187c"
+  },
+  {
+   "path": "scenery/rural-floor-03.md",
+   "size": 204,
+   "sha256": "bf6e49d3c87649c1682c7eb329eeaa09579774025a14ea66cd9db281fd033c68"
+  },
+  {
+   "path": "scenery/rural-floor-04.md",
+   "size": 203,
+   "sha256": "cc0fbb69c2914ce12d44ef4c7d11191a41d72e839896089b8f3ec70684a3b9b5"
+  },
+  {
+   "path": "scenery/rural-floor-wall-window-01.md",
+   "size": 234,
+   "sha256": "57fa443b7a53b03c66cf84de5ebb135cfb1dade9a280b88b6f842cf296ec9d79"
+  },
+  {
+   "path": "scenery/rural-floor-wall-window-02.md",
+   "size": 234,
+   "sha256": "ab560ff51a35da0aeb1dfb86138602974699c096f1269bd046c2922adffd9a35"
+  },
+  {
+   "path": "scenery/rural-inner-corner-floor.md",
+   "size": 237,
+   "sha256": "cd16d773d1f647b79b0493d3f0cf88958e26ce9ab97c3927ead80280c07b6145"
+  },
+  {
+   "path": "scenery/rural-inner-corner.md",
+   "size": 218,
+   "sha256": "440a084c9b4c0240dc20d8334cee687c353a2295807e977132b72854ab1d4b29"
+  },
+  {
+   "path": "scenery/rural-railing-flat-corner.md",
+   "size": 242,
+   "sha256": "af813202eb475db6e0ceb823dbe1113b46fae73141417688cd0a1d862e277d4a"
+  },
+  {
+   "path": "scenery/rural-stairs-flat-railing.md",
+   "size": 242,
+   "sha256": "a380da5e2641a6218554d9fdb332dbddd7613579c3a29d839af07357d31e139b"
+  },
+  {
+   "path": "scenery/rural-stairs-flat.md",
+   "size": 217,
+   "sha256": "3a18e1ece82e9cb6173d6f287a9ccec71673cfd440021f0ec8cd7e4f1c8f8b8b"
+  },
+  {
+   "path": "scenery/rural-stairs-railing-02.md",
+   "size": 231,
+   "sha256": "70714b7d3d92d29a3a263f68a82a5de21120f237b72176953c280508cc404a76"
+  },
+  {
+   "path": "scenery/rural-stairs-railing.md",
+   "size": 216,
+   "sha256": "ced02583bac5fa9ddffac9f9d13f91e07e2f83d99327629db640236cac5ad654"
+  },
+  {
+   "path": "scenery/rural-stairs.md",
+   "size": 200,
+   "sha256": "81a96fc16078fd10a5740558163e9c4a9dce58dc12639b989d4420668a1c39dd"
+  },
+  {
+   "path": "scenery/rural-wall-01.md",
+   "size": 200,
+   "sha256": "66950673279cf2cf032b83324ff43e7835669a34de11a66ba86826c7298d1241"
+  },
+  {
+   "path": "scenery/rural-wall-02.md",
+   "size": 200,
+   "sha256": "30e642bc37d922a0f6e0188a18252a53e9b5a2d0a7c9b14f95fdf2b36cccabb5"
+  },
+  {
+   "path": "scenery/rural-wall-floor-01.md",
+   "size": 213,
+   "sha256": "b04e615cc7d2b35b3d3924200ef5a7bba20989e35fcfe9ca29c6a5350865cc6f"
+  },
+  {
+   "path": "scenery/rural-wall-floor-02-1x2.md",
+   "size": 228,
+   "sha256": "f167cbdf9c476ed19297a32f2a743252d714c18b16cdad77b1bacc1b1ee90339"
+  },
+  {
+   "path": "scenery/rural-wall-floor-02-2x2.md",
+   "size": 228,
+   "sha256": "e44e1597fe82e159342916f118ced2b97dfebef2db86be8970c65e236206219d"
+  },
+  {
+   "path": "scenery/rural-wall-window.md",
+   "size": 216,
+   "sha256": "23df7495b7b1ce48f24f4bf274a2983e1b265ea225b0d63242bd0ce2a0ca2481"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Rural Corner Floor 01",
+   "kind": "scenery",
+   "thumb": "thumbs/632ac7be-4a35-4249-a561-53b250d91293.jpg",
+   "tags": [
+    "wood",
+    "wall",
+    "corner",
+    "rural",
+    "medium"
+   ]
+  },
+  {
+   "name": "Rural Corner Floor 02",
+   "kind": "scenery",
+   "thumb": "thumbs/6a1a6139-3449-4e4a-81e2-eb6d120257e3.jpg",
+   "tags": [
+    "wood",
+    "wall",
+    "corner",
+    "rural",
+    "large"
+   ]
+  },
+  {
+   "name": "Rural Corner",
+   "kind": "scenery",
+   "thumb": "thumbs/489c204c-1369-4267-a468-6077b2e8dd8c.jpg",
+   "tags": [
+    "wood",
+    "wall",
+    "corner",
+    "rural",
+    "medium"
+   ]
+  },
+  {
+   "name": "Rural Floor 01",
+   "kind": "scenery",
+   "thumb": "thumbs/db9902bc-cc36-4172-ae60-df9d5eaee4e7.jpg",
+   "tags": [
+    "floor",
+    "wood",
+    "rural",
+    "small"
+   ]
+  },
+  {
+   "name": "Rural Floor 02",
+   "kind": "scenery",
+   "thumb": "thumbs/654a2e59-a5cf-439c-a897-59578264f3e8.jpg",
+   "tags": [
+    "floor",
+    "wood",
+    "rural",
+    "small"
+   ]
+  },
+  {
+   "name": "Rural Floor 03",
+   "kind": "scenery",
+   "thumb": "thumbs/a4522b17-969b-4f19-8b58-ae5c22d10bff.jpg",
+   "tags": [
+    "floor",
+    "wood",
+    "rural",
+    "medium"
+   ]
+  },
+  {
+   "name": "Rural Floor 04",
+   "kind": "scenery",
+   "thumb": "thumbs/6e8cee0f-afe4-4538-b0df-b339ab42bebb.jpg",
+   "tags": [
+    "floor",
+    "wood",
+    "rural",
+    "large"
+   ]
+  },
+  {
+   "name": "Rural Floor Wall Window 01",
+   "kind": "scenery",
+   "thumb": "thumbs/16249ea5-95a0-40de-a723-81981e2c0400.jpg",
+   "tags": [
+    "wood",
+    "wall",
+    "rural",
+    "window",
+    "large"
+   ]
+  },
+  {
+   "name": "Rural Floor Wall Window 02",
+   "kind": "scenery",
+   "thumb": "thumbs/4af04a3c-77b0-477f-bf53-e2e3b18db027.jpg",
+   "tags": [
+    "wood",
+    "wall",
+    "rural",
+    "window",
+    "large"
+   ]
+  },
+  {
+   "name": "Rural Inner Corner Floor",
+   "kind": "scenery",
+   "thumb": "thumbs/9b3123d5-90f9-412c-802a-72edf5177dcb.jpg",
+   "tags": [
+    "wood",
+    "wall",
+    "corner",
+    "rural",
+    "floor",
+    "small"
+   ]
+  },
+  {
+   "name": "Rural Inner Corner",
+   "kind": "scenery",
+   "thumb": "thumbs/6db20a42-b868-43af-93eb-290a880a1afa.jpg",
+   "tags": [
+    "wood",
+    "wall",
+    "corner",
+    "rural",
+    "small"
+   ]
+  },
+  {
+   "name": "Rural Railing Flat Corner",
+   "kind": "scenery",
+   "thumb": "thumbs/af836d01-5333-4d12-9f67-244df536c3ac.jpg",
+   "tags": [
+    "wood",
+    "stairs",
+    "rural",
+    "railing",
+    "floor",
+    "small"
+   ]
+  },
+  {
+   "name": "Rural Stairs Flat Railing",
+   "kind": "scenery",
+   "thumb": "thumbs/f1fdd6eb-4b37-41fa-8992-5b249f9c0e41.jpg",
+   "tags": [
+    "wood",
+    "stairs",
+    "rural",
+    "floor",
+    "railing",
+    "small"
+   ]
+  },
+  {
+   "name": "Rural Stairs Flat",
+   "kind": "scenery",
+   "thumb": "thumbs/e0c243d2-67c9-486e-9f32-a075be971c39.jpg",
+   "tags": [
+    "wood",
+    "stairs",
+    "rural",
+    "floor",
+    "small"
+   ]
+  },
+  {
+   "name": "Rural Stairs Railing 02",
+   "kind": "scenery",
+   "thumb": "thumbs/845a598d-e036-45f9-915d-2987f76a37a5.jpg",
+   "tags": [
+    "wood",
+    "stairs",
+    "rural",
+    "railing",
+    "small"
+   ]
+  },
+  {
+   "name": "Rural Stairs Railing",
+   "kind": "scenery",
+   "thumb": "thumbs/1514732a-1382-4624-8e91-1c2042aeac65.jpg",
+   "tags": [
+    "wood",
+    "stairs",
+    "rural",
+    "small"
+   ]
+  },
+  {
+   "name": "Rural Stairs",
+   "kind": "scenery",
+   "thumb": "thumbs/fd31ea7e-0b05-4caa-a3df-439c2e3b6a31.jpg",
+   "tags": [
+    "wood",
+    "stairs",
+    "rural",
+    "small"
+   ]
+  },
+  {
+   "name": "Rural Wall 01",
+   "kind": "scenery",
+   "thumb": "thumbs/0c3b3167-f45b-4751-b410-f45aea257adb.jpg",
+   "tags": [
+    "wood",
+    "wall",
+    "rural",
+    "large"
+   ]
+  },
+  {
+   "name": "Rural Wall 02",
+   "kind": "scenery",
+   "thumb": "thumbs/231ed553-f9f7-45a8-9415-3ef5859371eb.jpg",
+   "tags": [
+    "wood",
+    "wall",
+    "rural",
+    "large"
+   ]
+  },
+  {
+   "name": "Rural Wall Floor 01",
+   "kind": "scenery",
+   "thumb": "thumbs/ecc47cd7-0da1-429a-8a5a-3668f8f3b3cd.jpg",
+   "tags": [
+    "wood",
+    "wall",
+    "rural",
+    "medium"
+   ]
+  },
+  {
+   "name": "Rural Wall Floor 02 (1x2)",
+   "kind": "scenery",
+   "thumb": "thumbs/94aee0af-4148-4afa-99e6-8ea47258cf46.jpg",
+   "tags": [
+    "wood",
+    "wall",
+    "rural",
+    "large"
+   ]
+  },
+  {
+   "name": "Rural Wall Floor 02 (2x2)",
+   "kind": "scenery",
+   "thumb": "thumbs/42e6daf2-8313-4cd6-8066-472c4f902ffc.jpg",
+   "tags": [
+    "wood",
+    "wall",
+    "rural",
+    "large"
+   ]
+  },
+  {
+   "name": "Rural Wall Window",
+   "kind": "scenery",
+   "thumb": "thumbs/75c7d3e9-752c-46f8-aa85-d58bc5e16e36.jpg",
+   "tags": [
+    "wood",
+    "wall",
+    "window",
+    "rural",
+    "large"
+   ]
+  }
+ ]
+}

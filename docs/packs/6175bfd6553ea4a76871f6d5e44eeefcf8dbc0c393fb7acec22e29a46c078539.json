@@ -1,0 +1,588 @@
+{
+ "id": "1c712ce5-025f-5936-b557-65fd3406d78d",
+ "folder": "Half-Demon Creatures.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 705,
+   "sha256": "762932495990c5c0c933f9a05706125e985376dfa334ae39315b9bb7baaa9511"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 23381,
+   "sha256": "8581eadd42228b01e74dc699f093da51e80dc6553fb2df09d22497aeafb71052"
+  },
+  {
+   "path": "creatures/half-demon-caster.md",
+   "size": 320,
+   "sha256": "52a5e463545912124a735cc93b78b94c7ddb3c213a4a5c6d3be1da5d20701b0b"
+  },
+  {
+   "path": "creatures/half-demon-commoner-2.md",
+   "size": 333,
+   "sha256": "58ba3825c09d45c1dfed4d69f97d23d78a95d7052e4fbd664888d025c6561fe3"
+  },
+  {
+   "path": "creatures/half-demon-commoner-3.md",
+   "size": 333,
+   "sha256": "a0b6c7b068304085454dc2698d48ef459e6cba9d53f67fd9e8c86df4f01f45f8"
+  },
+  {
+   "path": "creatures/half-demon-commoner.md",
+   "size": 332,
+   "sha256": "bc6ac524dcde1bcd7d1d01224bd82f902578d22f13c692abddf83a42ee18085c"
+  },
+  {
+   "path": "creatures/half-demon-rogue.md",
+   "size": 314,
+   "sha256": "6d56393620cd3c9139345b789c33d4da6d0ebaa347a88f103e7d1c6cc8886178"
+  },
+  {
+   "path": "creatures/half-demon-shopkeeper.md",
+   "size": 336,
+   "sha256": "d2b000bae8a5003c9fd1104b21482710f1a6d1109b10e11040ac3b70477f5468"
+  },
+  {
+   "path": "creatures/half-demon-spellcaster-2.md",
+   "size": 328,
+   "sha256": "8e6013db7c0011ce96f7d42ec8d2de6a8cd54762a3c9d5cadd6eb5082111a507"
+  },
+  {
+   "path": "creatures/half-demon-spellcaster.md",
+   "size": 334,
+   "sha256": "a491d29a611fb38ec54d8959d316571b964cf081d680428860131050e8aa7cfe"
+  },
+  {
+   "path": "creatures/half-demon-warrior.md",
+   "size": 322,
+   "sha256": "1aa139e45f1df7a542f90743d8cbd6dc612eb0696c3ffacc42d781c41cdecb5c"
+  },
+  {
+   "path": "media/creatures/Half-Demon/Half Demon Spellcaster.usd",
+   "size": 1077258,
+   "sha256": "ed6627c99148b9ce4b4c04b4770885053331aeeb6ddb193b8441e0cf308af0dc"
+  },
+  {
+   "path": "media/creatures/Half-Demon/Half-Demon Caster.usd",
+   "size": 1076807,
+   "sha256": "540d376c0208b796709d4e39c62631d2b84b99f2d576229c1c17380902a921f0"
+  },
+  {
+   "path": "media/creatures/Half-Demon/Half-Demon Commoner__5edd569d.usd",
+   "size": 986340,
+   "sha256": "4903fedcbe2119cb9054100e9d8b9192f12b699e0c267cefb5e6c07e9714a390"
+  },
+  {
+   "path": "media/creatures/Half-Demon/Half-Demon Commoner__d6cd8dd6.usd",
+   "size": 1015450,
+   "sha256": "ac1fccb101c278b4445e53fdb88f986c1449398308613ec4cb861df31167ac20"
+  },
+  {
+   "path": "media/creatures/Half-Demon/Half-Demon Commoner__d8fea8f1.usd",
+   "size": 990393,
+   "sha256": "7704094a4fd001c5134c645fbe8b0683d7e9e16c96552b59cd0a7a1c8d1433ad"
+  },
+  {
+   "path": "media/creatures/Half-Demon/Half-Demon Rogue.usd",
+   "size": 1080898,
+   "sha256": "6a1722cab3c6f5b3f3bdcdaac3ddc4ddb3abedd060bf454a70d1d333699ae0e1"
+  },
+  {
+   "path": "media/creatures/Half-Demon/Half-Demon Shopkeeper.usd",
+   "size": 988926,
+   "sha256": "eb19bf3518ee7055293e266af64ab32029d5a4ba56b7afe24b73375374b47e40"
+  },
+  {
+   "path": "media/creatures/Half-Demon/Half-Demon Spellcaster.usd",
+   "size": 1077376,
+   "sha256": "40db5ce4a280032bb65a7025ae4a47f49baf1f7d285b7fd259b40ea38a841e8a"
+  },
+  {
+   "path": "media/creatures/Half-Demon/Half-Demon Warrior.usd",
+   "size": 1290320,
+   "sha256": "d79253d56a28e76a462d31a8c66074b5f3372a3f0bbf2b3ca752b5832dac4285"
+  },
+  {
+   "path": "media/materials/Library.usdc",
+   "size": 19724,
+   "sha256": "c24d21cc536ed131cf8633109bc9ffdf7e045cd0c2da1da90544a18c4fa9d5ba"
+  },
+  {
+   "path": "media/materials/textures/basalt.png",
+   "size": 25957,
+   "sha256": "e7295df0b2356c29812c23d4ee8cfcbbab04ee3eb5f20f52d281a6846c8f2e96"
+  },
+  {
+   "path": "media/materials/textures/basalt_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/blue.png",
+   "size": 29622,
+   "sha256": "bb2482f15178dd7ed1883b5558bae3c5db1e6f63dfb0a562b16da3cffcd80add"
+  },
+  {
+   "path": "media/materials/textures/blue_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bluefire.png",
+   "size": 40884,
+   "sha256": "95947aba8ef1863b10a5ceb035363c014f49bb066a629334e6b9fb0c0b2a2a57"
+  },
+  {
+   "path": "media/materials/textures/bluefire_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bone.png",
+   "size": 52095,
+   "sha256": "60127b0b9d500672ffa4413c2e0331968daf672f9edbbc58e031bd20a24410ce"
+  },
+  {
+   "path": "media/materials/textures/bone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/brass.png",
+   "size": 45700,
+   "sha256": "7653b7e6c813911303d183fd977ca9007540d1f30b8a647ce49a9b4b25479a7e"
+  },
+  {
+   "path": "media/materials/textures/brass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/fur.png",
+   "size": 32075,
+   "sha256": "e6ebdc6bf38121ac2caa3f246dbf760ceb5f618f67a707849f43ac55ee75e56d"
+  },
+  {
+   "path": "media/materials/textures/fur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ghost.png",
+   "size": 46813,
+   "sha256": "6b86f729a542c078e35015b96d3bdf6bb6fd252e59dc931fbd818c4ac61d0809"
+  },
+  {
+   "path": "media/materials/textures/ghost_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/goblinskin.png",
+   "size": 40654,
+   "sha256": "bc088b6cce6935a3e38a4e34d3f8e553b7269a409f04d5892d4bb7bcbb804e7a"
+  },
+  {
+   "path": "media/materials/textures/goblinskin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/grass.png",
+   "size": 37697,
+   "sha256": "f6440b6a238240b171a02d0a9abfa1db6e3b23470ea136796156c95dc85ecb1a"
+  },
+  {
+   "path": "media/materials/textures/grass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ice.png",
+   "size": 54673,
+   "sha256": "1776de4df5a1aa0fd4c24462a5bf2188a02dd0f291b002f76689f64c7401183f"
+  },
+  {
+   "path": "media/materials/textures/ice_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/iron.png",
+   "size": 33226,
+   "sha256": "b819ee206156042e76233baf2e2abdb7f0a4a0ae5bc64a26cfaaec7a6fae6a3b"
+  },
+  {
+   "path": "media/materials/textures/iron_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/jade.png",
+   "size": 33655,
+   "sha256": "449a6862f41cf33514e10aa482f65a2dd957d8accc0e776a061972b2b5323771"
+  },
+  {
+   "path": "media/materials/textures/jade_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/lava.png",
+   "size": 36124,
+   "sha256": "f4f7e6f7c9f527d2c962cacf29c83a795a16ecc66640854685970879a3f94e4c"
+  },
+  {
+   "path": "media/materials/textures/lava_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/leather.png",
+   "size": 22325,
+   "sha256": "5466b2bd41efecafe9089281e6fca4ca93def727a9c16cafc86dadf55d211774"
+  },
+  {
+   "path": "media/materials/textures/leather_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/limestone.png",
+   "size": 49995,
+   "sha256": "bf8ce44b291f665ea0c34f28befb206e92da7202b60d7b8ebdfc5fe801118ee9"
+  },
+  {
+   "path": "media/materials/textures/limestone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/marble.png",
+   "size": 31933,
+   "sha256": "d8c25c02c17e9076c1bb4fb692d360f9fb31c298ca833d8c244e306ff3604ae7"
+  },
+  {
+   "path": "media/materials/textures/marble_normal.png",
+   "size": 29285,
+   "sha256": "d4e5ab67529195c5a5be286a022e1e9c8058b9b614eadb7612942462d083a0ef"
+  },
+  {
+   "path": "media/materials/textures/mortar.png",
+   "size": 30700,
+   "sha256": "0749995c21d077be43c42b8de716a7992549eb89f73ba68253792accc4dc03e9"
+  },
+  {
+   "path": "media/materials/textures/mortar_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/oak.png",
+   "size": 44710,
+   "sha256": "cdf8ce500e0145dddaba5408a7bb6b6013c72e37ae225e23903efb16b6eaebd5"
+  },
+  {
+   "path": "media/materials/textures/oak_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  },
+  {
+   "path": "media/materials/textures/paper.png",
+   "size": 52363,
+   "sha256": "e8344646e132da563f18a9157fbf98bd778a6070ac4443ad6e3f209bb2b04fa6"
+  },
+  {
+   "path": "media/materials/textures/paper_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/plaster.png",
+   "size": 51787,
+   "sha256": "7a4c5f149f38204773143f16e06851f33496c436db368fe8a964a390873bfc2e"
+  },
+  {
+   "path": "media/materials/textures/plaster_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/red.png",
+   "size": 30685,
+   "sha256": "efbdd3cc8b5c72553f9db3b9c26860b5c364c1f321b3aa6012ecb45130633ed4"
+  },
+  {
+   "path": "media/materials/textures/red_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rope.png",
+   "size": 44507,
+   "sha256": "24b4fed56ade7e162aa38fcd54886e3c2730f38af4befb25c843422a278e5bbb"
+  },
+  {
+   "path": "media/materials/textures/rope_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rose.png",
+   "size": 51725,
+   "sha256": "e0e37ae18b6906a144680a1155de6ffad7e2bb083d9999fff0363e5112aee4d2"
+  },
+  {
+   "path": "media/materials/textures/rose_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/sand.png",
+   "size": 36961,
+   "sha256": "85886e8f7b3434815829178445b87ff6158c13e8164a8ffda3993c2f221a24cc"
+  },
+  {
+   "path": "media/materials/textures/sand_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/sandstone.png",
+   "size": 47840,
+   "sha256": "ef16b0605a795be8f93f5af413856bbace96ad202e7236059578339d185c3007"
+  },
+  {
+   "path": "media/materials/textures/sandstone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/scales.png",
+   "size": 35840,
+   "sha256": "b1bed18fc93d1ce569ba48331159220c33f9c0feacf02155e12816a7bcaf1e2d"
+  },
+  {
+   "path": "media/materials/textures/scales_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/skin.png",
+   "size": 46985,
+   "sha256": "5ca6e03744c454380928115d5223e4630134a27767a7b26dcfba204d1c4fcf47"
+  },
+  {
+   "path": "media/materials/textures/skin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/snow.png",
+   "size": 42837,
+   "sha256": "0d8d0cd049935a17e0b71ebea93ac5e8f823a998dd72ba10e283741ead9d4260"
+  },
+  {
+   "path": "media/materials/textures/snow_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/soil.png",
+   "size": 32264,
+   "sha256": "4c90d4c1a131223b16a1e4b20de7aa877cded6e90e932f4df75e0e9ec652f615"
+  },
+  {
+   "path": "media/materials/textures/soil_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/steel.png",
+   "size": 49671,
+   "sha256": "eea5cdd9f65ec98b43afd1f7e80a070c60c40fcb61812c4f3c3d6d16c9d95e38"
+  },
+  {
+   "path": "media/materials/textures/steel_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/stone.png",
+   "size": 42272,
+   "sha256": "e4f23d37e5e6d3a83d836d06089b88547117cb6b8978b3b448796eaa655d2ec9"
+  },
+  {
+   "path": "media/materials/textures/stone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/tanfur.png",
+   "size": 44965,
+   "sha256": "5c21a980f0db8b2fcc14c81ba8f6b487e73dd27d2a4bfe3e5000650534d675a7"
+  },
+  {
+   "path": "media/materials/textures/tanfur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/water.png",
+   "size": 29402,
+   "sha256": "a7861a6a33fa96041dd14a7c2ea61c48bfc767b4fbb3e2a2add4fcc74a347850"
+  },
+  {
+   "path": "media/materials/textures/water_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/wood.png",
+   "size": 36098,
+   "sha256": "93be5dba40fb0504f65177b720e06059d439aaf10c0c215617ba6fe9e55769f9"
+  },
+  {
+   "path": "media/materials/textures/wood_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Half-Demon Caster",
+   "kind": "creature",
+   "thumb": "thumbs/32fbdb43-e809-4eea-a834-5d120886bd81.jpg",
+   "tags": [
+    "half-demon",
+    "halfdemon",
+    "bard",
+    "wizard",
+    "warlock",
+    "sorcerer",
+    "spellcaster",
+    "blue"
+   ]
+  },
+  {
+   "name": "Half-Demon Commoner 2",
+   "kind": "creature",
+   "thumb": "thumbs/d6cd8dd6-09b2-424c-a383-80a59dd4fac3.jpg",
+   "tags": [
+    "half-demon",
+    "chef",
+    "halfdemon",
+    "biped",
+    "bipedal",
+    "commoner",
+    "beard",
+    "humanoid"
+   ]
+  },
+  {
+   "name": "Half-Demon Commoner 3",
+   "kind": "creature",
+   "thumb": "thumbs/d8fea8f1-7c5e-4f4a-a2c3-deba26b2ac34.jpg",
+   "tags": [
+    "half-demon",
+    "halfdemon",
+    "chef",
+    "biped",
+    "bipedal",
+    "commoner",
+    "humanoid",
+    "horns"
+   ]
+  },
+  {
+   "name": "Half-Demon Commoner",
+   "kind": "creature",
+   "thumb": "thumbs/5edd569d-aa48-4ac0-92bc-64ce8fcb8413.jpg",
+   "tags": [
+    "half-demon",
+    "halfdemon",
+    "commoner",
+    "npc",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "medium"
+   ]
+  },
+  {
+   "name": "Half-Demon Rogue",
+   "kind": "creature",
+   "thumb": "thumbs/2539a0b5-6ca6-4ef2-a98e-9ef7cc99430c.jpg",
+   "tags": [
+    "half-demon",
+    "halfdemon",
+    "thief",
+    "rogue",
+    "medium",
+    "biped",
+    "bipedal",
+    "humanoid"
+   ]
+  },
+  {
+   "name": "Half-Demon Shopkeeper",
+   "kind": "creature",
+   "thumb": "thumbs/67c6b32e-bda3-42b1-91c8-42dac13fc32f.jpg",
+   "tags": [
+    "half-demon",
+    "humanoid",
+    "halfdemon",
+    "unaligned",
+    "neutral",
+    "civilian",
+    "merchant",
+    "shopkeep"
+   ]
+  },
+  {
+   "name": "Half-Demon Spellcaster 2",
+   "kind": "creature",
+   "thumb": "thumbs/f61f4c48-ce60-4bca-8aa4-4c2581cc7582.jpg",
+   "tags": [
+    "half-demon",
+    "halfdemon",
+    "mage",
+    "wizard",
+    "medium",
+    "biped",
+    "bipedal",
+    "humanoid"
+   ]
+  },
+  {
+   "name": "Half Demon Spellcaster",
+   "kind": "creature",
+   "thumb": "thumbs/02a6dea1-2c7b-4c8f-a420-7e73852fd56a.jpg",
+   "tags": [
+    "half-demon",
+    "halfdemon",
+    "warlock",
+    "necromancer",
+    "medium",
+    "biped",
+    "bipedal",
+    "humanoid"
+   ]
+  },
+  {
+   "name": "Half-Demon Warrior",
+   "kind": "creature",
+   "thumb": "thumbs/b341bc85-139c-46da-93fe-519272e15543.jpg",
+   "tags": [
+    "half-demon",
+    "halfdemon",
+    "fighter",
+    "warrior",
+    "medium",
+    "biped",
+    "bipedal",
+    "humanoid"
+   ]
+  }
+ ]
+}

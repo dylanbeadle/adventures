@@ -1,0 +1,8203 @@
+{
+ "id": "de4cdf55-c73b-5385-b174-e6e80cce49f2",
+ "folder": "Creatures Kit.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 1507,
+   "sha256": "196ed24b8adf29196bc79648c81b4242a2ce8869215acf28ade812467c92ed73"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 25337,
+   "sha256": "4db099df8c0b9b6d6169e1176a654c5692b460847f67dd2ec0e9f47771cb91e2"
+  },
+  {
+   "path": "creatures/air-elemental.md",
+   "size": 306,
+   "sha256": "42425187d1974911a5684a2b9c735106f67e28ba6008d94b061a5d4b19b56508"
+  },
+  {
+   "path": "creatures/astronaut-2.md",
+   "size": 325,
+   "sha256": "35e360e3bed89c89dcca178c0bd479a47fdad5fda916838608af3c1b632a6874"
+  },
+  {
+   "path": "creatures/astronaut.md",
+   "size": 323,
+   "sha256": "22aa6f29423bddc7058a87e854c069518e82350cd287b06ac7fed2ddd47a0026"
+  },
+  {
+   "path": "creatures/banshee.md",
+   "size": 272,
+   "sha256": "bed17d1abe5d8ed1f6eb8f05741c990ffe0e49e27d5543a63d512831e6a8d798"
+  },
+  {
+   "path": "creatures/bat-giant.md",
+   "size": 289,
+   "sha256": "517140a3b886a5b483baae4ec9dbce9e37ae931f28279dcdf6d5ab369287797a"
+  },
+  {
+   "path": "creatures/bear-cave.md",
+   "size": 291,
+   "sha256": "3a8eea1e1b713f2234a6eeae3fb7064cbf646c881e7ddc40627901bd2c6c4c16"
+  },
+  {
+   "path": "creatures/beaver.md",
+   "size": 267,
+   "sha256": "2ae4361bcc0633b9d8ed141b0171bda2896eb8feaef0bc0d40ec61284437738d"
+  },
+  {
+   "path": "creatures/bio-agent-2.md",
+   "size": 333,
+   "sha256": "f58d552b77a14a8e01eb0c1818b8fef957cc342bb0d4e6cabe8b1cb74c5b2c8b"
+  },
+  {
+   "path": "creatures/bio-agent-3.md",
+   "size": 339,
+   "sha256": "960c8a2fe4785b0f4307bc033a7df327d5838a9926d2d59885d1c8348dc4bb2c"
+  },
+  {
+   "path": "creatures/bio-agent.md",
+   "size": 331,
+   "sha256": "30d66221c8fb1fcc5d3153d32e6232738c0549d8f555358ecbf36bb3c6a5a6af"
+  },
+  {
+   "path": "creatures/birdfolk-2.md",
+   "size": 299,
+   "sha256": "9f0e5fa35545c0241a371e065af2917ab202cd422812ee37cc9a1aeffdbfc9a7"
+  },
+  {
+   "path": "creatures/birdfolk.md",
+   "size": 292,
+   "sha256": "da9b9c4698e32212a82ae36d6033f050044203361989b5c4694b03af97ae12a9"
+  },
+  {
+   "path": "creatures/black-pudding.md",
+   "size": 301,
+   "sha256": "b0d9f25a45ef948d31d5581bc30a7fa34aa69a842dd99f96552aa1485a53cee0"
+  },
+  {
+   "path": "creatures/blacksmith.md",
+   "size": 297,
+   "sha256": "3df83b0c09461e8036155a6df48e78b88f62546675fb678d088c6ae22b3fd07c"
+  },
+  {
+   "path": "creatures/blade-demon.md",
+   "size": 347,
+   "sha256": "6b1e8afcd22e0bf263abb46de4dfd86e274ad02f9837c32b15dc9def29804498"
+  },
+  {
+   "path": "creatures/blood-queen.md",
+   "size": 288,
+   "sha256": "ec3ed6da74638de1e23749bba3b19c3638849200ceb8358a250e2aa339c7805b"
+  },
+  {
+   "path": "creatures/boar.md",
+   "size": 267,
+   "sha256": "15c25ad0b693d95600297876fc1cf893e268042755fb8965b1adbbb4a1ec12cc"
+  },
+  {
+   "path": "creatures/book-swarm.md",
+   "size": 271,
+   "sha256": "8b47fc1beed84ac050843a9470c92e9c35ad8a056e4bff654fe376eeab724e6d"
+  },
+  {
+   "path": "creatures/bugbear-2.md",
+   "size": 331,
+   "sha256": "9d5c3725a1af3e2d4867688962afc58cf079b8c92614e41f3e9ee9fa4d3b7456"
+  },
+  {
+   "path": "creatures/bugbear-3.md",
+   "size": 326,
+   "sha256": "bda24743feb8d102674dfb145d74e422a000d1dc353880c43ce5f8bdd282fbc8"
+  },
+  {
+   "path": "creatures/bugbear.md",
+   "size": 270,
+   "sha256": "7eab35ec38cba4dbfe4ac046b51b2302c5d66889618160f8dfaa05942098c96c"
+  },
+  {
+   "path": "creatures/burrow-beast.md",
+   "size": 317,
+   "sha256": "8bd63d380538e86bf540bca66d519f072578f225e2dfe04ac2e8f76c3df07267"
+  },
+  {
+   "path": "creatures/camel.md",
+   "size": 281,
+   "sha256": "9683e8ffde615fe2ce69737f700f03c33ac4db8879adc5105998d9381dacfefa"
+  },
+  {
+   "path": "creatures/carnivorous-plant.md",
+   "size": 364,
+   "sha256": "f589e737d3781ecbe614d9a31b822465542a99a24f56b0303e188cb4a60860f5"
+  },
+  {
+   "path": "creatures/cat-black-white.md",
+   "size": 303,
+   "sha256": "2e067f30bf5998c5791b6717449ffdad60a6b315d8a853a81e30dea504647757"
+  },
+  {
+   "path": "creatures/cat.md",
+   "size": 259,
+   "sha256": "05fbd350e9946e4bd01b7c7024eb75d4811fc9892830f7e7d5d0114c5b6d32b9"
+  },
+  {
+   "path": "creatures/catfolk-rogue.md",
+   "size": 300,
+   "sha256": "e45c61c279133d4ca28c6ae06a15a3534157f8268649c30a055e02eb0dddbee9"
+  },
+  {
+   "path": "creatures/catfolk-warrior.md",
+   "size": 313,
+   "sha256": "63e96d8831efd21fe66acc8928cb0c25a72eca0102d46ddb9ee5c6ee1cab725e"
+  },
+  {
+   "path": "creatures/cave-horror.md",
+   "size": 315,
+   "sha256": "d152d69e08d039c1f6f586bd7948f76dd2a774302ab3ab69d1814e79c44942be"
+  },
+  {
+   "path": "creatures/celestial-guardian-2.md",
+   "size": 380,
+   "sha256": "d29a6189a37cb720811d9a7a44b5e5910b56375b1a0fdb7b972dd4f78ba27dae"
+  },
+  {
+   "path": "creatures/celestial-guardian.md",
+   "size": 386,
+   "sha256": "97ba6c129878c93d9d0457b4618902392dfd7e97ad34778fc727b81f27dc9189"
+  },
+  {
+   "path": "creatures/centaur-2.md",
+   "size": 341,
+   "sha256": "750d93c8dbbe03e8a3e9d6c0f92422f452a8a509682fca9dad96c1c5df0de983"
+  },
+  {
+   "path": "creatures/centaur.md",
+   "size": 301,
+   "sha256": "ef706f838fa3efdb501902f4ef88897810b6be5c4eec5957125768c41ef67b64"
+  },
+  {
+   "path": "creatures/centipede-giant.md",
+   "size": 320,
+   "sha256": "a70dc5dda1671a2fffedd1b9c311c30d46524b19afabba8ee09689682971644c"
+  },
+  {
+   "path": "creatures/chicken.md",
+   "size": 290,
+   "sha256": "284f8545593acb62dd5e171c963382ea4e19f1c5c665a05a343990a072065cec"
+  },
+  {
+   "path": "creatures/chimera.md",
+   "size": 303,
+   "sha256": "3dcb2ebb563103a406cbee016a94fc396c4fe37213a2ea10f069af4318f4d313"
+  },
+  {
+   "path": "creatures/citizen-2.md",
+   "size": 309,
+   "sha256": "5d3638049684e16bf7599b0fcb15e86fed02e7a070505db3a96bb001880f39c7"
+  },
+  {
+   "path": "creatures/citizen.md",
+   "size": 307,
+   "sha256": "d8abd3f694078cc72eedba6ecc0d5ab2542b6c2a2ba88341d5c27a0c33fc5a69"
+  },
+  {
+   "path": "creatures/clay-golem.md",
+   "size": 307,
+   "sha256": "06fdf8cc238d3bd299ed3022c143c7efa919c668fff76d3a3eb65439e090a005"
+  },
+  {
+   "path": "creatures/cloaked-nightmare.md",
+   "size": 362,
+   "sha256": "7de2642cd1461f34050c178cdfcea87fa29cc3c3b09773f8d98ce4d195ee768c"
+  },
+  {
+   "path": "creatures/clockwork-warrior-2.md",
+   "size": 322,
+   "sha256": "65f5471d998a9b4b8596924551cef0c8b64fe63ed30315bd906a13ec5e3f323a"
+  },
+  {
+   "path": "creatures/clockwork-warrior.md",
+   "size": 323,
+   "sha256": "33023f98ec344aadfb8e0b927b1b2161d9842bfc6b451f4a41daab616ab81dbf"
+  },
+  {
+   "path": "creatures/commoner-2.md",
+   "size": 288,
+   "sha256": "410d9df859f0614d1f71dc7264f3b7517919144ffa3482d42588c19b40df8589"
+  },
+  {
+   "path": "creatures/commoner-3.md",
+   "size": 291,
+   "sha256": "94050c5aed7d69268a037e2c9c1519c9693f012358f10d43967cfa51bf36a96a"
+  },
+  {
+   "path": "creatures/commoner-4.md",
+   "size": 290,
+   "sha256": "00b6292ce3cdfd21ba69b69daa2cf211b63273afea1da2e0582ec031e8570efa"
+  },
+  {
+   "path": "creatures/commoner-5.md",
+   "size": 298,
+   "sha256": "08b1dffc7ebdea8bbefa744029b53ead015056064648347bacd8e155914f4994"
+  },
+  {
+   "path": "creatures/commoner-6.md",
+   "size": 277,
+   "sha256": "90602487b6d48973313c0b66ee3b08916f93a332fcf23fe5685814eba22ad026"
+  },
+  {
+   "path": "creatures/commoner-7.md",
+   "size": 290,
+   "sha256": "3262ee7c6fbbdbfedc79d92fda1055b97a9610ec3ace8f9513ea11432e73a346"
+  },
+  {
+   "path": "creatures/commoner-8.md",
+   "size": 296,
+   "sha256": "e4210de5975081d176bbcd124c7605a5d4bea967df9487866edecc85710f6ff4"
+  },
+  {
+   "path": "creatures/commoner-9.md",
+   "size": 297,
+   "sha256": "460912fb577da72942eb3602aa4d5441e7076c6bede10418d9571119dbcd53de"
+  },
+  {
+   "path": "creatures/commoner.md",
+   "size": 292,
+   "sha256": "0b24c1bcfd01598660c5d1843c30b539947736708d35c2c411222e63dfd4bc22"
+  },
+  {
+   "path": "creatures/corporate-worker-2.md",
+   "size": 354,
+   "sha256": "bbed4139ed8fcd8d253f4bb0fdf4973ca4519a0ec16d9c69ced9f6823ab35307"
+  },
+  {
+   "path": "creatures/corporate-worker-3.md",
+   "size": 354,
+   "sha256": "a7be0588ffae88e3287fde722537b1ee3dadba0969882921d07d207cd61310f1"
+  },
+  {
+   "path": "creatures/corporate-worker.md",
+   "size": 352,
+   "sha256": "6fd14ef61af057dc7fb3b6b15e1516ae58c872580131e52e94f7f3999284ccb6"
+  },
+  {
+   "path": "creatures/cow.md",
+   "size": 275,
+   "sha256": "659dba1609f446de1d52d0312b1d7c2924a10257157b5402125ee0f0ec51fd34"
+  },
+  {
+   "path": "creatures/crab-giant.md",
+   "size": 299,
+   "sha256": "f87a33aad2566664625a060fb794b367019346740085fa51aa3cf9c4ef581928"
+  },
+  {
+   "path": "creatures/crane.md",
+   "size": 297,
+   "sha256": "ba8065bf0036b2ed2a50bd5c4f0a0267a942e213d6397781a4faf24324bf137e"
+  },
+  {
+   "path": "creatures/croaker-warrior.md",
+   "size": 302,
+   "sha256": "dec076021d480883414fcbb7343af5f16f2b9a197809591148e48baef8f426a7"
+  },
+  {
+   "path": "creatures/crocodile.md",
+   "size": 315,
+   "sha256": "d0de67b9bb9bdb746f636de00afe27d249501a080dae7ff5dd4a14707acf70fa"
+  },
+  {
+   "path": "creatures/cultist.md",
+   "size": 286,
+   "sha256": "bfa48023b0442df3230353c06da6050b34572406dc72ab63c8045e215e556751"
+  },
+  {
+   "path": "creatures/cyber-soldier.md",
+   "size": 331,
+   "sha256": "4995de88bea9756d7ae56155764f34a73ab76ce9e3994da0e5c402fedfc45896"
+  },
+  {
+   "path": "creatures/dark-dwarf-warrior.md",
+   "size": 305,
+   "sha256": "13fdb52477617e29082f895fda01a57e8dd95ac3bdff4df194d79c8eaf1db46d"
+  },
+  {
+   "path": "creatures/dark-elf-spellcaster.md",
+   "size": 296,
+   "sha256": "1e4b217ad1f7d6d809839cdc39901ce0a986e079bf50e15895f9f58baeccf23d"
+  },
+  {
+   "path": "creatures/dark-elf-warrior.md",
+   "size": 291,
+   "sha256": "265c407f8427a7a71d748d2011db6443f64946361c32108c9d4ad770cf03ca6e"
+  },
+  {
+   "path": "creatures/dark-gnome-cleric.md",
+   "size": 311,
+   "sha256": "1d12e8797ab0b255347719c4489bf97bf96bbbc9116168c286d77bfb8ddc46fe"
+  },
+  {
+   "path": "creatures/dark-gnome-warrior.md",
+   "size": 314,
+   "sha256": "8017806f124dc80916bf4024361bcb7383c191ce92788a20c650f013b77a2eaf"
+  },
+  {
+   "path": "creatures/dark-jester.md",
+   "size": 298,
+   "sha256": "1df8e74736f32fdca5bc73dc22a890db927b74e30b9f8e1c9f0ea7951cb77d28"
+  },
+  {
+   "path": "creatures/death-knight.md",
+   "size": 293,
+   "sha256": "b59d1c6f4e90b25e1c34881d743187affdb8bc14d6d426cbff14e47d8fcf5568"
+  },
+  {
+   "path": "creatures/djinni.md",
+   "size": 297,
+   "sha256": "0594a3a1a8c1aed1e169e77a34dcc754e8217407f7291313bf97420b1a80e33f"
+  },
+  {
+   "path": "creatures/dog-german-shepherd.md",
+   "size": 284,
+   "sha256": "a45dc38c77f824cd61db8c4ab89b8b757993ddc742c2265309abf02fe3237812"
+  },
+  {
+   "path": "creatures/dog.md",
+   "size": 237,
+   "sha256": "399c50cae53025134dad9a09862fdd3b29eeb3137d634d9d5f63c80a3a3dca1f"
+  },
+  {
+   "path": "creatures/doplhin.md",
+   "size": 290,
+   "sha256": "8f67589c92cb325744f4f231f5f02f16aab0fb4f09d9ac48e7583efff6c87459"
+  },
+  {
+   "path": "creatures/dracolich.md",
+   "size": 302,
+   "sha256": "2b11ba652d44670a5323a421c180be00429d292cdd99b4634de2981203fbc096"
+  },
+  {
+   "path": "creatures/dragon-2.md",
+   "size": 305,
+   "sha256": "a7086ee95d3f6662a0cc78ad2e88c1146f72472b030e95dd9beab25c2d48654d"
+  },
+  {
+   "path": "creatures/dragon-black.md",
+   "size": 307,
+   "sha256": "6bfdd92ec583d364bfb84a5e2179b2c8e7d5259adf7aae662b926191580f25a2"
+  },
+  {
+   "path": "creatures/dragon-gold.md",
+   "size": 284,
+   "sha256": "2e578c818abc1fb07febe908b652a2c3174b2f3566987cb4ef2be9f05713bf59"
+  },
+  {
+   "path": "creatures/dragon.md",
+   "size": 319,
+   "sha256": "1276a8b297307c68dc537f93e9771d79e167a85cf2d2bc4b53c02a135ef19b05"
+  },
+  {
+   "path": "creatures/dragonfolk-spellcaster-2.md",
+   "size": 338,
+   "sha256": "0e5061fff2490987559690671b6d82edc2c074e7e9ae65bb40d73c17328dffef"
+  },
+  {
+   "path": "creatures/dragonfolk-spellcaster.md",
+   "size": 336,
+   "sha256": "46f0ef6074f79e832878ca0473fceb07e9c4a3c7531e477d312549923452cb02"
+  },
+  {
+   "path": "creatures/dragonfolk-warrior-2.md",
+   "size": 331,
+   "sha256": "bc685c6d9698929b2225e267c44af1849879096be3c40a2408bf44e74a52d435"
+  },
+  {
+   "path": "creatures/dragonfolk-warrior.md",
+   "size": 329,
+   "sha256": "a59f1470527a211923f81a7498ed678a0524c0537ad348255a983676e4c3fdc2"
+  },
+  {
+   "path": "creatures/dread-observer.md",
+   "size": 321,
+   "sha256": "aeae08eff77a45c22457602b2285010343c3acb72791b42c6a14955d4e559a97"
+  },
+  {
+   "path": "creatures/drider.md",
+   "size": 297,
+   "sha256": "7991f2c9b0d57a87dcb30a6b85bd1df43a99e6d7b51baa85a6c488c655fdfff4"
+  },
+  {
+   "path": "creatures/droid.md",
+   "size": 308,
+   "sha256": "da407ef1b5d47cc06e17bf577d340573ca8105a858aeac4ac481b271ab3496dc"
+  },
+  {
+   "path": "creatures/dryad.md",
+   "size": 267,
+   "sha256": "92830201fcba4b07da53dd5c11e321858b020eae7fa282f55532131213082a9f"
+  },
+  {
+   "path": "creatures/dwarf-bard.md",
+   "size": 283,
+   "sha256": "3ce8729d8d090077defd29d072b08d19920a09a9bb5b81fee22f230448329de9"
+  },
+  {
+   "path": "creatures/dwarf-commoner-2.md",
+   "size": 312,
+   "sha256": "7e53a463fb9ec293257098a7cd78e67294cb4ccebe4efbe016462ac72e26476a"
+  },
+  {
+   "path": "creatures/dwarf-commoner-3.md",
+   "size": 316,
+   "sha256": "5c57e996c50506f203ad496c12c4e4fbbb39308138d764a0c3704c8e84fb2756"
+  },
+  {
+   "path": "creatures/dwarf-commoner.md",
+   "size": 299,
+   "sha256": "51ca68531153a44fdce0bde0fec58911b073abcffe82ba6f846afbad72458bb0"
+  },
+  {
+   "path": "creatures/dwarf-paladin.md",
+   "size": 294,
+   "sha256": "47f3c6984424962c33dd7eb35b38f5dd72f82668e94a183b96360ac8512a369a"
+  },
+  {
+   "path": "creatures/dwarf-warrior-2.md",
+   "size": 302,
+   "sha256": "a318f40816d2b585f2b904cdf37db33f73a7e315940238f4a0465b2f0f1bd6c2"
+  },
+  {
+   "path": "creatures/dwarf-warrior.md",
+   "size": 305,
+   "sha256": "3e932dee7a754cea351eefe6ff7e0c385e166b3578870500a6df171e7c41053a"
+  },
+  {
+   "path": "creatures/earth-elemental.md",
+   "size": 318,
+   "sha256": "c86666ea31f9f8ae963c262127b7a4dabd5a90b800665a48537c66ae3e4b565e"
+  },
+  {
+   "path": "creatures/elf-commoner-2.md",
+   "size": 293,
+   "sha256": "ed9beaf632998f11c1aee94f1bcf20be3bf30b62c9ccc9794c030ee0035e88a9"
+  },
+  {
+   "path": "creatures/elf-commoner.md",
+   "size": 297,
+   "sha256": "2edf90e809d78d0d3f38c6f2b5bcaaa5a6c65c1caacde202b6155e989784ef9a"
+  },
+  {
+   "path": "creatures/elf-druid.md",
+   "size": 275,
+   "sha256": "5cae9513b50ddee9a4793439a7a3a5cc0938543331bf8d6eb9ee46d30f1d5b42"
+  },
+  {
+   "path": "creatures/elf-ranger.md",
+   "size": 279,
+   "sha256": "b91cd64415796aa8ac4a0910ef3743e5143ae2f77757044e52a1735fcc02cabd"
+  },
+  {
+   "path": "creatures/elf-rogue.md",
+   "size": 278,
+   "sha256": "e987d47dea3afc6fb8edee1d433749f139eecc5b9e437de3a86f4b4a82cbb4ab"
+  },
+  {
+   "path": "creatures/elf-spellcaster-2.md",
+   "size": 304,
+   "sha256": "cf5dc96692d6ef3951e60910bd6d278837e54d2beba7d78ea8668c51546ccb51"
+  },
+  {
+   "path": "creatures/elf-spellcaster.md",
+   "size": 297,
+   "sha256": "eef16d4350dbc0744f0827cab007b646643f4c60be82c36cc557dde961bee193"
+  },
+  {
+   "path": "creatures/elk.md",
+   "size": 271,
+   "sha256": "d659300dfc4a8e096c536a227d2a92693998863f6475af2efea7784702e9380f"
+  },
+  {
+   "path": "creatures/ettin.md",
+   "size": 287,
+   "sha256": "3fb8188c8ced43b23e1271c37434348246a97d5c27c9a6261236ce938b9b238c"
+  },
+  {
+   "path": "creatures/evil-spirit.md",
+   "size": 289,
+   "sha256": "3883764d43480906c41e8159c2dc3d5a44da0ebdac7b82cd0b20b89fece98c65"
+  },
+  {
+   "path": "creatures/fenfolk-shaman.md",
+   "size": 304,
+   "sha256": "73afc0782bf15a3eb284c3dd7c4c8f1a8ac8e73546a566cc296fe3a27fd71c3b"
+  },
+  {
+   "path": "creatures/fenfolk-spellcaster.md",
+   "size": 320,
+   "sha256": "c8bac72d4c2346fb9c5b10a59afebc0ddb5a41567c94f456d125efeea8614245"
+  },
+  {
+   "path": "creatures/ferret.md",
+   "size": 260,
+   "sha256": "df9f984c86c5f366e7642ff9e23d93bcaff113232f8c8def5390c624a79d38f6"
+  },
+  {
+   "path": "creatures/fire-elemental.md",
+   "size": 309,
+   "sha256": "fbb72a03b524ff90f3633f5236e554c6e066db98b5d84cc213e4bfec3697ed7a"
+  },
+  {
+   "path": "creatures/fire-giant.md",
+   "size": 304,
+   "sha256": "544b588ea7badea907b3ef06a164b01927e15efe16c7088c55639670d039ac33"
+  },
+  {
+   "path": "creatures/forest-fairy.md",
+   "size": 303,
+   "sha256": "5948db8810d3e4b7c8a88cafb1c0a79b9ee5e18e565a0c50434c27d388a6b1e8"
+  },
+  {
+   "path": "creatures/frost-giant.md",
+   "size": 300,
+   "sha256": "8889d20e5d35cd1f570d7e15b227761d0fd3a4c6470d5d8f87ea4df257600057"
+  },
+  {
+   "path": "creatures/fungus-folk-tall.md",
+   "size": 309,
+   "sha256": "e47aac23cf7a81f42311e4c38d4de93f965f73c6dd986b3d98c7f27a365e8559"
+  },
+  {
+   "path": "creatures/gargoyle.md",
+   "size": 305,
+   "sha256": "47927d30db438c1377cf937b432bd90d8ee34e6af373c75f168ed101c79cfd78"
+  },
+  {
+   "path": "creatures/ghost.md",
+   "size": 278,
+   "sha256": "ab795413d73580e9a3795852ea249f0c2eebc36033d1d2a3c42a5f1180f5664a"
+  },
+  {
+   "path": "creatures/ghoul.md",
+   "size": 274,
+   "sha256": "0bcc712f77b4beb88130f5c24ab1d6a67695548b8a3224c9299f0be92305eaee"
+  },
+  {
+   "path": "creatures/giant-storm.md",
+   "size": 246,
+   "sha256": "198cbe0259aa6b2d5c387f0b81b663218276cfa0b2ed29f084e5a5e950021990"
+  },
+  {
+   "path": "creatures/giant-worm.md",
+   "size": 294,
+   "sha256": "f7894347a5457383a8041003846dd2fb348ba4955dbc8d75ea63a7d95f198938"
+  },
+  {
+   "path": "creatures/giller-warrior.md",
+   "size": 317,
+   "sha256": "a7c332892633347666dbf2d9ffcc1971aea212419d270084c90e54efe965b252"
+  },
+  {
+   "path": "creatures/gnoll-alchemist.md",
+   "size": 295,
+   "sha256": "15ac1db3a8e7e3ae8e7ce8a7d921e7e9e522b9a8cde4acf58bc361337ade9e3f"
+  },
+  {
+   "path": "creatures/gnoll-archer.md",
+   "size": 289,
+   "sha256": "bd45938eb3ea2a4552c449ff4e3c759f1be1477dd679fca9658f4b1edd46ad06"
+  },
+  {
+   "path": "creatures/gnoll-fighter.md",
+   "size": 291,
+   "sha256": "a65542daf1a0d4dc2cf4b4ff10038d12248e53e41811caffc4711feddb352556"
+  },
+  {
+   "path": "creatures/gnome-alchemist.md",
+   "size": 320,
+   "sha256": "8e00d37b598526defeb4d7455b6554db70e93d4dd926ceeb9f75a7cd8a17ab22"
+  },
+  {
+   "path": "creatures/gnome-spellcaster.md",
+   "size": 315,
+   "sha256": "fc118f153839a59542f0aaf3f224500399fbda20b0fc3c54d8b5cdd33acd5ba4"
+  },
+  {
+   "path": "creatures/gnome-tinkerer.md",
+   "size": 309,
+   "sha256": "18708153bb60e10a620cce1fbfe49cde70b4640d9a26db0c7fe245675fa319e0"
+  },
+  {
+   "path": "creatures/goat-01.md",
+   "size": 276,
+   "sha256": "e8527715bcb9049d80f1b6356524ece3fb3665b46af8c40343e48ec5ddb0ff7a"
+  },
+  {
+   "path": "creatures/goblin-archer.md",
+   "size": 307,
+   "sha256": "4fd3971f373678a91d60598591362e83806055ccdbdc0c0165b724bf0f600b4e"
+  },
+  {
+   "path": "creatures/goblin-rogue.md",
+   "size": 302,
+   "sha256": "d26cffb5fe1f3ecb4f07918193ee1a1bd1a2e332c9c7e3ee8a346423656980bd"
+  },
+  {
+   "path": "creatures/goblin-spellcaster.md",
+   "size": 319,
+   "sha256": "5c0c2edd65278831201492bc5d5cede8a8e2a8f0eb80558f653bfeca6536a19b"
+  },
+  {
+   "path": "creatures/goblin-warrior.md",
+   "size": 310,
+   "sha256": "79e1630253a745a849d872022ebfbbc63a8acc17839adee0f7c17e82abf648b8"
+  },
+  {
+   "path": "creatures/golem-flesh.md",
+   "size": 327,
+   "sha256": "9d069649924d4eb9e933f1b84888684f816965e00108124233b487d0e192e303"
+  },
+  {
+   "path": "creatures/goose.md",
+   "size": 294,
+   "sha256": "4e1b5771a263af794a8fe3b6bfd6e0559b761381ca2fc751a7a87e3e52c32715"
+  },
+  {
+   "path": "creatures/gorgon.md",
+   "size": 288,
+   "sha256": "1496b9f33a0c8fa721d80dd07d21eea769cd9d055db13cbbcf4fc93f2e9c623c"
+  },
+  {
+   "path": "creatures/grave-robber.md",
+   "size": 286,
+   "sha256": "48692117c06c1bab6d24ead3fe8ae49ad99c7fe12ec78a24324445ff10a22e2d"
+  },
+  {
+   "path": "creatures/grick.md",
+   "size": 282,
+   "sha256": "4f44f661ece73d5e2438123327f8c4f0a4f3994deba5e2d8251cf5a0591ac21e"
+  },
+  {
+   "path": "creatures/griffon.md",
+   "size": 317,
+   "sha256": "0d51c77c4876338c11b66e3a9f37e128e782f5378c2fbb714d3e14f4cf74dbd4"
+  },
+  {
+   "path": "creatures/hacker.md",
+   "size": 315,
+   "sha256": "59e07c6bec1b864641c93a571739964a4539c39b0e9f9789e1e61bf2f2e06dd4"
+  },
+  {
+   "path": "creatures/hag.md",
+   "size": 278,
+   "sha256": "cae8dfe8f0fe27ca4f81ceb11fcad3df36a95ddc5ca54b0ddc62b61b8d55383e"
+  },
+  {
+   "path": "creatures/half-demon-caster.md",
+   "size": 320,
+   "sha256": "52a5e463545912124a735cc93b78b94c7ddb3c213a4a5c6d3be1da5d20701b0b"
+  },
+  {
+   "path": "creatures/half-demon-commoner-2.md",
+   "size": 333,
+   "sha256": "58ba3825c09d45c1dfed4d69f97d23d78a95d7052e4fbd664888d025c6561fe3"
+  },
+  {
+   "path": "creatures/half-demon-commoner-3.md",
+   "size": 333,
+   "sha256": "a0b6c7b068304085454dc2698d48ef459e6cba9d53f67fd9e8c86df4f01f45f8"
+  },
+  {
+   "path": "creatures/half-demon-commoner.md",
+   "size": 332,
+   "sha256": "bc6ac524dcde1bcd7d1d01224bd82f902578d22f13c692abddf83a42ee18085c"
+  },
+  {
+   "path": "creatures/half-demon-rogue.md",
+   "size": 314,
+   "sha256": "6d56393620cd3c9139345b789c33d4da6d0ebaa347a88f103e7d1c6cc8886178"
+  },
+  {
+   "path": "creatures/half-demon-shopkeeper.md",
+   "size": 336,
+   "sha256": "d2b000bae8a5003c9fd1104b21482710f1a6d1109b10e11040ac3b70477f5468"
+  },
+  {
+   "path": "creatures/half-demon-spellcaster-2.md",
+   "size": 328,
+   "sha256": "8e6013db7c0011ce96f7d42ec8d2de6a8cd54762a3c9d5cadd6eb5082111a507"
+  },
+  {
+   "path": "creatures/half-demon-spellcaster.md",
+   "size": 334,
+   "sha256": "a491d29a611fb38ec54d8959d316571b964cf081d680428860131050e8aa7cfe"
+  },
+  {
+   "path": "creatures/half-demon-warrior.md",
+   "size": 322,
+   "sha256": "1aa139e45f1df7a542f90743d8cbd6dc612eb0696c3ffacc42d781c41cdecb5c"
+  },
+  {
+   "path": "creatures/half-elf-cleric.md",
+   "size": 290,
+   "sha256": "d44828abd1aaf459a04f9e42fc895affdd3280d96d6cbeacebb450cb52e3dbb8"
+  },
+  {
+   "path": "creatures/half-elf-ranger.md",
+   "size": 288,
+   "sha256": "37a78c5a66306e1bed865ca28961b535e2e3e7416d964d75f5dac8fd8cbabfb6"
+  },
+  {
+   "path": "creatures/half-orc-commoner-2.md",
+   "size": 317,
+   "sha256": "95905997a2bf59fd3617562973bdcded79d7ead5d33d7f32fd2642f7a8dca84a"
+  },
+  {
+   "path": "creatures/half-orc-commoner.md",
+   "size": 314,
+   "sha256": "6cb0c5d1337234b08578e7288d01d51f66b9483dfd5c3620d2dee47c1370632f"
+  },
+  {
+   "path": "creatures/half-orc-spellcaster.md",
+   "size": 314,
+   "sha256": "57f413558cc42e24c52416702519bafa97dff57a131b533dcc39185f34ad7ecb"
+  },
+  {
+   "path": "creatures/half-orc-warrior-2.md",
+   "size": 322,
+   "sha256": "61d13762f7ac4393266d5070fc9b35f79bd9c59d467ecea22f91e27dc1532852"
+  },
+  {
+   "path": "creatures/half-orc-warrior-3.md",
+   "size": 318,
+   "sha256": "083c577ebbc0b48b24ce4e01c983323bdf1fa7d1c97ec519b734b19f818e826d"
+  },
+  {
+   "path": "creatures/half-orc-warrior.md",
+   "size": 312,
+   "sha256": "c1982d5b7126b6c0542e03716eef01de963034045aa82ffdfc455e87387feb0d"
+  },
+  {
+   "path": "creatures/halfling-commoner.md",
+   "size": 318,
+   "sha256": "263e3ff33cbb1aa2bf829a82e8c33a006b6277d14e7e3f766f3eed1f8a79028b"
+  },
+  {
+   "path": "creatures/halfling-rogue-2.md",
+   "size": 329,
+   "sha256": "5c022293de07f8d99b2f4f3f6fed6b02b693b8b45befa4d43c808257d59f6ed5"
+  },
+  {
+   "path": "creatures/halfling-rogue.md",
+   "size": 329,
+   "sha256": "353829bd276154ec0071d9bf831f58e6718dc847c1c53fcb9fd4611cc1ff8038"
+  },
+  {
+   "path": "creatures/halfling-spellcaster-2.md",
+   "size": 334,
+   "sha256": "7bcb9230d247e3649a6455ec72c2a9cf3b9731ef9c0f6eeaab0c23c29979a089"
+  },
+  {
+   "path": "creatures/halfling-spellcaster.md",
+   "size": 332,
+   "sha256": "09103007534de406b51f1b82ab9ae65026f2c3169dcfcbd35534ddd5fefe43b5"
+  },
+  {
+   "path": "creatures/halfling-warrior-2.md",
+   "size": 330,
+   "sha256": "77fb3e6edb0c6c51182c83a507e265c8d7ca035b17ebb115a7072f9bb9e6122a"
+  },
+  {
+   "path": "creatures/halfling-warrior.md",
+   "size": 330,
+   "sha256": "968671065739bc875c7319176a2f3fee93ecd45a2f776acfa9ce8e2b112b591c"
+  },
+  {
+   "path": "creatures/harpy.md",
+   "size": 295,
+   "sha256": "d51c1cf079aa8bd8ba4a06b65aba25b6ffdb614184fd1cfef2e85170d4460098"
+  },
+  {
+   "path": "creatures/haunted-armor.md",
+   "size": 299,
+   "sha256": "84dfa5aa7b46633b7fa6f6971ea9818154686923a878945440f9be782cbf9193"
+  },
+  {
+   "path": "creatures/hell-hound.md",
+   "size": 292,
+   "sha256": "593efbf993f94bc5f1ea44e1874ca2ab71e42037a290dbf82c96900a75675980"
+  },
+  {
+   "path": "creatures/homunculus-buttons.md",
+   "size": 337,
+   "sha256": "b929867f048656e62ac97146f5f3f9c00b36506d3586ae005d52dccc09fad868"
+  },
+  {
+   "path": "creatures/horse.md",
+   "size": 284,
+   "sha256": "71e4594642eb8e48d5b91be575c6447bd5a9cbdc9c999f33b1154c7576c7c4ef"
+  },
+  {
+   "path": "creatures/human-bandit-2.md",
+   "size": 298,
+   "sha256": "4c36f83d9e1e72b7286630fa555b154a59bfb30a9a2600e17491b498702dac92"
+  },
+  {
+   "path": "creatures/human-bandit.md",
+   "size": 300,
+   "sha256": "d674aac5dcef6666d1af339c00fc17db5520839233887e935bbc5d7c715848c1"
+  },
+  {
+   "path": "creatures/human-barbarian.md",
+   "size": 300,
+   "sha256": "8507304899fd74e269667f1491db5caaaca9e4b61d6a8eb5ba0f81303f36b91f"
+  },
+  {
+   "path": "creatures/human-bard-doom.md",
+   "size": 303,
+   "sha256": "36a58fe582edc06226e966ba63e727c182442897c1c240c8c0b54bb72fc06c9b"
+  },
+  {
+   "path": "creatures/human-bard.md",
+   "size": 288,
+   "sha256": "dcc9c10e7b20a0f6bb1617ab3a49325821d646546b78a9e663fa253e79709c73"
+  },
+  {
+   "path": "creatures/human-captain.md",
+   "size": 290,
+   "sha256": "176022b2f05570aee80cf1259441defc49f1199c8330e2dffc6d4bc5d57f81b1"
+  },
+  {
+   "path": "creatures/human-caster.md",
+   "size": 296,
+   "sha256": "de9291b78a1a64b5faae48fc5e17cfad5d5eff5442ae5175125b6dac12bb25c6"
+  },
+  {
+   "path": "creatures/human-druid.md",
+   "size": 287,
+   "sha256": "495b025dc9c53d79f9c0807e74f2cc0907f6e18708aa56fa8c57948a3b818753"
+  },
+  {
+   "path": "creatures/human-explorer.md",
+   "size": 294,
+   "sha256": "262ddd5a71ff9b1a7469c203fb553fd4f2fda352addabdb606272883df33c8fc"
+  },
+  {
+   "path": "creatures/human-knight.md",
+   "size": 287,
+   "sha256": "c47256e1c53c75eb6fa959c66c5e6c9aed053895d868ad767ab1d29f9aa6e6b9"
+  },
+  {
+   "path": "creatures/human-paladin.md",
+   "size": 290,
+   "sha256": "bd875a4c4f468b82f0326383ea28632376b9456aa541bb8a69b1d789c5ec5b42"
+  },
+  {
+   "path": "creatures/human-soldier-2.md",
+   "size": 304,
+   "sha256": "01da54ffe33da6b41ffbce6f0f43564ee2ced3a259b939b2e1165b3002b39495"
+  },
+  {
+   "path": "creatures/human-soldier.md",
+   "size": 302,
+   "sha256": "47cdc5b7846b18616340c5ee5122003897766a9093f53968d8b7a8c222e2649d"
+  },
+  {
+   "path": "creatures/human-spellcaster-2.md",
+   "size": 313,
+   "sha256": "4ddd044e121da6043dd173d0218d7d9bbb497396fcf8a62522811cdb4126d326"
+  },
+  {
+   "path": "creatures/human-spellcaster-3.md",
+   "size": 308,
+   "sha256": "788691e673069f6a13cc5eb6d66f3f8bde8828932052c555ba9dc65c08eb6269"
+  },
+  {
+   "path": "creatures/human-spellcaster-4.md",
+   "size": 313,
+   "sha256": "fa57b63e7915cf52d45f5919c23dc735c91b90f89497c67638bd3bfd6aa28616"
+  },
+  {
+   "path": "creatures/human-spellcaster.md",
+   "size": 307,
+   "sha256": "675f70be8e64c8945d5094c1693824b02a4ceb361d33113bd0c32509bc425052"
+  },
+  {
+   "path": "creatures/human-warrior-2.md",
+   "size": 305,
+   "sha256": "62aad03c3737d8a5e625453dc8fd2e25fa18568bbf6e8a5b609b485126c6c266"
+  },
+  {
+   "path": "creatures/human-warrior-3.md",
+   "size": 298,
+   "sha256": "d99bb7d3d5dc969b8b1fe8273d730f9dd8c92cb429a12c2563bccf6201587e10"
+  },
+  {
+   "path": "creatures/human-warrior.md",
+   "size": 297,
+   "sha256": "cd0b28b5777908cd051a7a63b5cf5aa0a01694dcd8ef02b1e2744cb361358eb7"
+  },
+  {
+   "path": "creatures/hydra.md",
+   "size": 294,
+   "sha256": "f7940be7690307e0434319afb66c29aff754368c06ec80f4a0c4df6c8c748afa"
+  },
+  {
+   "path": "creatures/hyena.md",
+   "size": 271,
+   "sha256": "89bb546a54de963018da0f371a7c12c80d6954dae09c1b1056243daf30073594"
+  },
+  {
+   "path": "creatures/igril.md",
+   "size": 333,
+   "sha256": "6b7dfe23ba010752caf89d6ec227006ebe49224e08b7b9408fe8f58d09b6f0a2"
+  },
+  {
+   "path": "creatures/imp.md",
+   "size": 280,
+   "sha256": "f78d63c00e1855e098a560f14eaa3dea0c55bd403026d6cf37849df44813756a"
+  },
+  {
+   "path": "creatures/innkeeper.md",
+   "size": 284,
+   "sha256": "d6d4248c998a8f8c9bbe1eccf5b75db58efea723b8e3153764f610706373e5c5"
+  },
+  {
+   "path": "creatures/insectoid-2.md",
+   "size": 298,
+   "sha256": "b191ba8497dcce002bae514fb6ab1d69ae9e438cde12a6200e2206dd3c491407"
+  },
+  {
+   "path": "creatures/insectoid-3.md",
+   "size": 301,
+   "sha256": "882a7933e10a3e91769c91a153d783e42464be8c09eb821ca91d18c8f000e666"
+  },
+  {
+   "path": "creatures/insectoid.md",
+   "size": 299,
+   "sha256": "791cbc31f9ec0abdd52b81054081b112dfbeee0d1436c4d3f483cdfc1012db87"
+  },
+  {
+   "path": "creatures/kiroterror.md",
+   "size": 358,
+   "sha256": "df8674ef6b9246c3a174b54509320b111aa93b6047dc09ffff100dbfd15af50a"
+  },
+  {
+   "path": "creatures/klojin.md",
+   "size": 353,
+   "sha256": "be1062dd7e0b6940c114f6a2a631bf993b4c1dd807b66491e130792d898667bd"
+  },
+  {
+   "path": "creatures/knight-2.md",
+   "size": 287,
+   "sha256": "9acef7854afba7c06910e3a1da965b9b8140be94ab5687bd5dc65a8cc51deef6"
+  },
+  {
+   "path": "creatures/knight.md",
+   "size": 285,
+   "sha256": "a0fb21269888e2ee2d0c941e116c7deb58f870faa69e9fb870bcda42b94b55ff"
+  },
+  {
+   "path": "creatures/kobold-tinkerer.md",
+   "size": 320,
+   "sha256": "9ca02aa9e4e4a934b27d73eed00c24ee3422f0179a6b979e3c70dd80a267391a"
+  },
+  {
+   "path": "creatures/kobold-warrior.md",
+   "size": 319,
+   "sha256": "607bb782777a9b59b5d41fe8797e48ecfe8c5f982824a13a36416269c1ec30e6"
+  },
+  {
+   "path": "creatures/kozra.md",
+   "size": 332,
+   "sha256": "71a445e9393a57c7609ef706ee2daca76dbb532b5b82e599f1f0cfc4ec2ffafd"
+  },
+  {
+   "path": "creatures/krampus.md",
+   "size": 333,
+   "sha256": "12527e35b9ba3371d51e2e2b42f1d53474345f104f5da113f663e466654c6942"
+  },
+  {
+   "path": "creatures/law-enforcement-2.md",
+   "size": 345,
+   "sha256": "2c279886a93770ba2d732b77ee098818e7adf4909cb3d775baa53ab0ba5407c6"
+  },
+  {
+   "path": "creatures/law-enforcement-3.md",
+   "size": 345,
+   "sha256": "b964b444e2359b83984d1c6e69fcc09e0f277aa06544ca406cda4b7d7a1d94e5"
+  },
+  {
+   "path": "creatures/law-enforcement-4.md",
+   "size": 345,
+   "sha256": "0100e9ddd3cd2aacb3eb2247dc81b9e713eb40f8286245bd4656055a8a84e11e"
+  },
+  {
+   "path": "creatures/law-enforcement.md",
+   "size": 343,
+   "sha256": "cbc21922fece68fbe184b056880eec14feb6b2ec84cc0cf01985c92a3de242cb"
+  },
+  {
+   "path": "creatures/lich.md",
+   "size": 273,
+   "sha256": "82ff8cfb5c1578cce1a8240aa69dce60f2f2ca3047152d4a590565b85170100a"
+  },
+  {
+   "path": "creatures/lizardfolk-warrior.md",
+   "size": 313,
+   "sha256": "031ae294ce478c7abbfee0c1d50913ee741cd96957e9e6b6261aef77b2bb1188"
+  },
+  {
+   "path": "creatures/magic-weapon.md",
+   "size": 339,
+   "sha256": "b9ab68bd59707254621a7a2e70daa653ac9da40a14e7207baa365f76069e2e47"
+  },
+  {
+   "path": "creatures/manticore.md",
+   "size": 304,
+   "sha256": "038cdaefcb6c9d110237e0a363923c0fcce54e471d4f59c53e727c442eaa1d14"
+  },
+  {
+   "path": "creatures/mechanic-worker.md",
+   "size": 307,
+   "sha256": "5918d821aefec4cd4b892a5d92dd88c46e4c09c43dd34f51db78b19054bc6aa5"
+  },
+  {
+   "path": "creatures/mercenary.md",
+   "size": 323,
+   "sha256": "8cffd5c15bdbb173d1e6b074493d2e55c5a39865d3f401db5a99d233a27bf77f"
+  },
+  {
+   "path": "creatures/merchant-2.md",
+   "size": 292,
+   "sha256": "14a3ee310749a84d24309c2e04baf732bf79fa19dc147834b678ac99d6fe6dc9"
+  },
+  {
+   "path": "creatures/merchant.md",
+   "size": 292,
+   "sha256": "3a93e934899ee2003870f5dc2d949e27abf08fdc5ad9797c6cf22511e92cb7ea"
+  },
+  {
+   "path": "creatures/merfolk-2.md",
+   "size": 344,
+   "sha256": "98d78dd71775a9c903716b7aba7815bc7ff74eaf040342db3a6364472c643124"
+  },
+  {
+   "path": "creatures/merfolk.md",
+   "size": 292,
+   "sha256": "20400df8c09fab476dc8e512f0bf7c588085b5644cad5f2fe8a9cf5bbdc05a64"
+  },
+  {
+   "path": "creatures/mimic-2.md",
+   "size": 295,
+   "sha256": "b50607f6e71dc926a658dd412af8b8327824d40005de06c97bb8be16b1665017"
+  },
+  {
+   "path": "creatures/mimic-3.md",
+   "size": 352,
+   "sha256": "81a7207a392b7d43d1724a6788d1715dd7f3f3db8c48844f15e742abdc5b692f"
+  },
+  {
+   "path": "creatures/mimic.md",
+   "size": 297,
+   "sha256": "26ebf772adec05088632d86bfd6f732cc360c0726a1dfc22da9926e026780dad"
+  },
+  {
+   "path": "creatures/mindcrawler.md",
+   "size": 354,
+   "sha256": "520c93bfd249314cf78172b3d4578292f84831c4e11551558a9d6156453bcec1"
+  },
+  {
+   "path": "creatures/minotaur.md",
+   "size": 307,
+   "sha256": "f7bea0f95b93a6076484259b043290dc2551552508b139803f3c0ba629caf01b"
+  },
+  {
+   "path": "creatures/monkey-snub-nosed.md",
+   "size": 307,
+   "sha256": "e5c05a19b1f69d7e05be164731181709ee2a72d4c883510852e19bc3f425a8c5"
+  },
+  {
+   "path": "creatures/mule-pack.md",
+   "size": 282,
+   "sha256": "ac908494053c9912841c37d63e66b45f3ee98957e973b81bd7244fe0c80128f1"
+  },
+  {
+   "path": "creatures/mule.md",
+   "size": 270,
+   "sha256": "1487d75df6294492bca6d7c2e4b7b236226fbc79c1dd0f9341b00ae466b8c688"
+  },
+  {
+   "path": "creatures/mummy.md",
+   "size": 260,
+   "sha256": "037a5c13efc1085395ec928ca9f06e80c549c58a78abcd6f346769bd496d08fa"
+  },
+  {
+   "path": "creatures/narwhal.md",
+   "size": 292,
+   "sha256": "fac3407285eed1d3639ea56a8c49d791882030ace6ccd806089e3c7c766c8866"
+  },
+  {
+   "path": "creatures/noble.md",
+   "size": 278,
+   "sha256": "4baec8c33f32cbbb436d1cdd6ebaeeafd4f5be3be417205f2e7661f74c2717ec"
+  },
+  {
+   "path": "creatures/octopus.md",
+   "size": 291,
+   "sha256": "09b5c512487508104541ed71bd624b58934f0ac81f6e54312807e95d29d1e2fc"
+  },
+  {
+   "path": "creatures/ogre-spellcaster.md",
+   "size": 305,
+   "sha256": "0a4dbad2cc3cf28001cccd10203c7ef1c69ed5ee490ed545e30452cd9514ed38"
+  },
+  {
+   "path": "creatures/ogre.md",
+   "size": 281,
+   "sha256": "c8a48262648cba6e7fe756a922c2a79439c1c651a3235840b42b2d09a7e610c0"
+  },
+  {
+   "path": "creatures/orc-bolter.md",
+   "size": 281,
+   "sha256": "77c68e75805a4b4fddd8274dceef08e24f9494fd63876d22ab9ccfaf97fc4383"
+  },
+  {
+   "path": "creatures/orc-spellcaster.md",
+   "size": 291,
+   "sha256": "23700e9f6a7167770a2f8a59f3452480791dd0d5caa9067a6299abd0d2aa47ad"
+  },
+  {
+   "path": "creatures/orc-warrior.md",
+   "size": 282,
+   "sha256": "a7e5898d691de06452d62dfcb6f74dda2ba1dac78905c094d41b4c4d3f7ec00b"
+  },
+  {
+   "path": "creatures/otyugh.md",
+   "size": 303,
+   "sha256": "f78ff0a9ab00a7149b9715927b1d4f3a8af5e0a55039c841875f181bf582b429"
+  },
+  {
+   "path": "creatures/owl.md",
+   "size": 289,
+   "sha256": "2159a96a87d7e26528cc4b0e8631195a2eb2e19d1ea9167b87c5faec60b3f9ac"
+  },
+  {
+   "path": "creatures/owlbear.md",
+   "size": 280,
+   "sha256": "f7a33fc2218c8c5b4be275d43132ef9bb6b5839493f173da6663dfe36df73671"
+  },
+  {
+   "path": "creatures/pig.md",
+   "size": 267,
+   "sha256": "1572ca92ff22ba4387f4352fa1ec26db4923bf3766a60cb8d414c5450667d751"
+  },
+  {
+   "path": "creatures/pirate-captain-2.md",
+   "size": 306,
+   "sha256": "e829deb82a2ec462e62fe4f9fdac857f0e85152e6df2e282ec3820ba1dd999d9"
+  },
+  {
+   "path": "creatures/pirate-captain.md",
+   "size": 304,
+   "sha256": "073560a23741508b4a7424a76deaa802c3db66e8e44c4544d842869d97b5dfc5"
+  },
+  {
+   "path": "creatures/pirate-dwarf.md",
+   "size": 284,
+   "sha256": "86503bf9c86852783dd3f0fc18fb393da38de9058e63b23756ddde6c3b488bc3"
+  },
+  {
+   "path": "creatures/pirate-elf.md",
+   "size": 276,
+   "sha256": "91691feed8c2bce3c207ed23919fc809bdf2dd57fda3eb08781786e7d542b9a4"
+  },
+  {
+   "path": "creatures/pirate-half-orc.md",
+   "size": 296,
+   "sha256": "f1969eaba2fb0028b6c03b571e93045848a281b3f61ee02121272da774394c6e"
+  },
+  {
+   "path": "creatures/pterodactyl.md",
+   "size": 296,
+   "sha256": "2105dff3078e20f457d92267f7e2f36a5567bf07eb3851aaf70b13e17ed2a5bd"
+  },
+  {
+   "path": "creatures/punk-2.md",
+   "size": 328,
+   "sha256": "2f61d02ca02397da53ef22fc048fce8a3f0637a8a01a7f3a8039d1e632ad6559"
+  },
+  {
+   "path": "creatures/punk-3.md",
+   "size": 322,
+   "sha256": "c35ecec7ec05b90e59360ee2b8bb06a1cd8249269672a0114e8a976e1251a9d4"
+  },
+  {
+   "path": "creatures/punk-4.md",
+   "size": 322,
+   "sha256": "5c346a9f5b1d7b8ea157970842577423409b86c1173743bb3c90a559632d798a"
+  },
+  {
+   "path": "creatures/punk-5.md",
+   "size": 322,
+   "sha256": "ac56cff1cba8fe591f89a3eddcc14113fefaee70eaf261f4ec095bd4dcf862d0"
+  },
+  {
+   "path": "creatures/punk.md",
+   "size": 320,
+   "sha256": "c940dcddd45ed0a7295483b86523afcfda1c63fc73fa78706e81277e47e062b0"
+  },
+  {
+   "path": "creatures/rabbit.md",
+   "size": 272,
+   "sha256": "7642e6f7b06855165db2c718e6e72e54b2cfa4c46f6bb441e64911b4d9780c0c"
+  },
+  {
+   "path": "creatures/raccoon.md",
+   "size": 270,
+   "sha256": "86470543e0f1ba0a05f8bde5e12975c9ae35a82c8a94e5048e3a98562c7588b9"
+  },
+  {
+   "path": "creatures/raptor.md",
+   "size": 296,
+   "sha256": "d09fbabb34365e5977731762a9dd57e16e9cc11d059656b79ddb16efb266098d"
+  },
+  {
+   "path": "creatures/rat-giant.md",
+   "size": 289,
+   "sha256": "fcb27a2065ddf791d6354e6434345d654741f3f932228150d4862ae8bf40750d"
+  },
+  {
+   "path": "creatures/ratfolk-warrior.md",
+   "size": 317,
+   "sha256": "71c71faa95040f395eabdc999c0d2bdd5b2d912df84764aa3518343fd53e4b8b"
+  },
+  {
+   "path": "creatures/raven.md",
+   "size": 287,
+   "sha256": "75c2507c6df88d45dc80be41509a62e6aff3611698711e0391e911e60ad463fc"
+  },
+  {
+   "path": "creatures/ravenfolk-rogue.md",
+   "size": 302,
+   "sha256": "31d6a6b332d81e53e949d1fc698a3d198ac5f4a9357565137e45c22126c514d8"
+  },
+  {
+   "path": "creatures/razgora.md",
+   "size": 355,
+   "sha256": "cdd6d098e094bc2e643b72b56cd79f8157a6b32a28ddd67c84c0ad2f04fe49fb"
+  },
+  {
+   "path": "creatures/reverse-centaur.md",
+   "size": 303,
+   "sha256": "664e1fd987966eba435df3e96717990a481bb0e3138b1172558cdfdee1c376d7"
+  },
+  {
+   "path": "creatures/rooster.md",
+   "size": 292,
+   "sha256": "0b20da55a9ea55449b77b9d48e2d3990594b0159be9cedb25f18caf4ec1245a6"
+  },
+  {
+   "path": "creatures/rust-eater.md",
+   "size": 323,
+   "sha256": "6564f6dd68ad1b769d67f73c796db682ea4a95100abca9c1f6d03a8b79b2f649"
+  },
+  {
+   "path": "creatures/samurai-2.md",
+   "size": 286,
+   "sha256": "1757cc3f6dadda2c676b08ac93d08f94e1d960f846b9bde4358f87e4c6d593ae"
+  },
+  {
+   "path": "creatures/samurai.md",
+   "size": 283,
+   "sha256": "9e25288ca7a4514f22ad5582ae6a4d9d1bc4f42d59cb667c4a9695b8ebe607ab"
+  },
+  {
+   "path": "creatures/satyr-2.md",
+   "size": 317,
+   "sha256": "b30a348b1b02eeef31ff919900c6a6ee92db6062dbd8fc44cb4e07f0eba44932"
+  },
+  {
+   "path": "creatures/satyr.md",
+   "size": 265,
+   "sha256": "cdd0e8f1af61a73410feee40e710f5d5c65ff4a9adb7e219f8ff9f9e21fad8f8"
+  },
+  {
+   "path": "creatures/scarecrow.md",
+   "size": 301,
+   "sha256": "a578f95f16b3853afb25a749ae4d18d8722821741cdf4bc73b3f029cfc50a37f"
+  },
+  {
+   "path": "creatures/scorpion-giant.md",
+   "size": 313,
+   "sha256": "093d91a1db1266d479459c58d5581889720204524dfc930b7a8cb771d51a717e"
+  },
+  {
+   "path": "creatures/sea-monster.md",
+   "size": 316,
+   "sha256": "509d88f0c860e859a06e48505b242c17c25215fe7eafb2dc0d87cc470f9286a0"
+  },
+  {
+   "path": "creatures/security-bot.md",
+   "size": 334,
+   "sha256": "50beac1e9f43766b7558f35a93944b6bcba6a3c33e3d30daf54c1991f4927509"
+  },
+  {
+   "path": "creatures/serpentfolk-archer.md",
+   "size": 314,
+   "sha256": "e6f4386f38ec9c1689b84242d510f5d46585b12a7135f1f53e08344220741dea"
+  },
+  {
+   "path": "creatures/serpentfolk-caster.md",
+   "size": 320,
+   "sha256": "cdd4824be24699b5a7a0c58c3a98e06f36b62df554174db14dc725dcbec56857"
+  },
+  {
+   "path": "creatures/serpentfolk-warrior.md",
+   "size": 322,
+   "sha256": "d3b34e61c57b907e7f88e8e9b1975f47e66b7e1029c561da88928e1dec4bceb9"
+  },
+  {
+   "path": "creatures/shambler.md",
+   "size": 302,
+   "sha256": "681fb26f7511d2174f8f74f2c145d392d0554cb125629ad89f99aeb850ea6ce1"
+  },
+  {
+   "path": "creatures/shark-great-white.md",
+   "size": 314,
+   "sha256": "7ba8ae9d4a9e70f6452fe8888ecac26ab837489bca484351c1f79fe11f4aa19f"
+  },
+  {
+   "path": "creatures/shroomer.md",
+   "size": 286,
+   "sha256": "c225b8fa5d23ad39176be7f54c9e9197bd54e5050e80bdf28aff8a3bb9089fb9"
+  },
+  {
+   "path": "creatures/skeleton-archer.md",
+   "size": 292,
+   "sha256": "faebbffae7fb1388f7bb3c81d2d34888bf02493e20ac2d7810922bb3e7a1a889"
+  },
+  {
+   "path": "creatures/skeleton-lord.md",
+   "size": 292,
+   "sha256": "e939a6e6e22e43afe765c6b2d2af2c3121e62812954941486ff32f76b171e1e8"
+  },
+  {
+   "path": "creatures/skeleton-warrior-2.md",
+   "size": 312,
+   "sha256": "571239d45d2c52c7c2f4e7e01c55b231efc7f75f7bc14b5ba12fb744170b9daa"
+  },
+  {
+   "path": "creatures/skeleton-warrior.md",
+   "size": 312,
+   "sha256": "a5bcf5627b57188e9624df1f268912de6604259258cad1dc11e6d7a923d116ee"
+  },
+  {
+   "path": "creatures/slaagoth.md",
+   "size": 326,
+   "sha256": "f92e2b81625fab236a4d5174cc65337cfff4a60e60b0b2ccc689584f79b48437"
+  },
+  {
+   "path": "creatures/slime.md",
+   "size": 303,
+   "sha256": "2e19958b7ff58c5e922ba629b1e34fdbca7dbda9933b6639d03a40a4bbf1040d"
+  },
+  {
+   "path": "creatures/snake-giant.md",
+   "size": 300,
+   "sha256": "df7ebfef893393bc4aad5a66421f9ac493c24d52b400949a16d2922eee7292bb"
+  },
+  {
+   "path": "creatures/snapper-giant.md",
+   "size": 307,
+   "sha256": "2f9c86b9b367ff35070ee18f373b705f2c5c0a2ad7065a087ceebb55f3ce2b54"
+  },
+  {
+   "path": "creatures/spellcaster.md",
+   "size": 269,
+   "sha256": "5914e6aae7596f4a66602af7a37abc88f5f7fb3dc5be07536946a144cad12974"
+  },
+  {
+   "path": "creatures/sphinx-2.md",
+   "size": 326,
+   "sha256": "dace234f8b85eb26b46443ae43ef2abb04c2ee307f7b29da52a723581be7e07b"
+  },
+  {
+   "path": "creatures/sphinx.md",
+   "size": 324,
+   "sha256": "d603129fc2940ea13bf1da24e8628d40b936b3e063ebcbb5dd5d39b1189229da"
+  },
+  {
+   "path": "creatures/spider-giant.md",
+   "size": 304,
+   "sha256": "87382a0baef682f00809b6fe0d7d953a75cd153b9dd082269da60f7b96ae4443"
+  },
+  {
+   "path": "creatures/stirge.md",
+   "size": 296,
+   "sha256": "c423cf13a974ee23e5a3e70e4679668066b8bc1f9cb89e1b6e235959a75e16d4"
+  },
+  {
+   "path": "creatures/street-doc.md",
+   "size": 328,
+   "sha256": "0ca153cbdf3326e730a2a3856a9591ee525e21f6e7272ec8eccbe080f3161ffc"
+  },
+  {
+   "path": "creatures/street-thug.md",
+   "size": 327,
+   "sha256": "514091b6b5506823ac820c73b6462efe214a11cc11241d386f33463590132a8e"
+  },
+  {
+   "path": "creatures/street-warrior-2.md",
+   "size": 353,
+   "sha256": "32792b140106086a5a6c841f6d26b693b9e556833c5cf898e328d94e42c9b9c9"
+  },
+  {
+   "path": "creatures/street-warrior-3.md",
+   "size": 336,
+   "sha256": "f7ffc095c0e17597d1c3f6be783855f8e1626965cbe45090dd0143e080b85990"
+  },
+  {
+   "path": "creatures/street-warrior-4.md",
+   "size": 343,
+   "sha256": "68f5a53f1ca0a73051c7f592466606c80c6e3f591894d9052ae2f0537f197c91"
+  },
+  {
+   "path": "creatures/street-warrior-5.md",
+   "size": 355,
+   "sha256": "974cb13a4e163c941d7b002e0431f8acbb8714594e048e9f4867f55778ef0155"
+  },
+  {
+   "path": "creatures/street-warrior.md",
+   "size": 340,
+   "sha256": "46829cbe169956bdaeee951bbaeca3d2e17583aa3d1b4fa77d634391558121a5"
+  },
+  {
+   "path": "creatures/succubus.md",
+   "size": 304,
+   "sha256": "0ef76964881ba29218b15a316f2eb661b7b0da00728f8f96bf170d9fced97562"
+  },
+  {
+   "path": "creatures/swarm-rats.md",
+   "size": 273,
+   "sha256": "ee4f01a5aac30e3bb60401094b2c1d6a3c07198cf10824da9c6fd22f710badd1"
+  },
+  {
+   "path": "creatures/tentacle-large.md",
+   "size": 326,
+   "sha256": "4adeb32e5b251b5eb1895db103878e98485e5ae9b807c08fb32b0b63d2985248"
+  },
+  {
+   "path": "creatures/toad-giant.md",
+   "size": 295,
+   "sha256": "1df741ab6e070f5ce17e083d88df276adb900c848356c8139be5c167e4852fb1"
+  },
+  {
+   "path": "creatures/tomte.md",
+   "size": 279,
+   "sha256": "5567bce23a507eeafd485ad6a2de8778dc3b7b8a81a254e36fafa2d5e1677865"
+  },
+  {
+   "path": "creatures/treant.md",
+   "size": 277,
+   "sha256": "8e679f5f0507e82e2dec5f720e751c74cc595e087a289872071cc26def83508f"
+  },
+  {
+   "path": "creatures/troglodyte-shaman.md",
+   "size": 303,
+   "sha256": "f0c43ef0217e4603a13ee704527b4c1d4bb2c8de6c273240eeaaa6719d866dc2"
+  },
+  {
+   "path": "creatures/troglodyte.md",
+   "size": 281,
+   "sha256": "51bac3522fdefd384aea02a05710618070f909b09b60dd10748a86b7db379a77"
+  },
+  {
+   "path": "creatures/troll.md",
+   "size": 297,
+   "sha256": "ddc234d9125819d172a943d3cef82085531c7f971fc10323bdc2168d9701bdec"
+  },
+  {
+   "path": "creatures/turkey.md",
+   "size": 281,
+   "sha256": "3ff1d7ce28b9c38d8b9d029e4ff42dfeebf29dcbd3f25b4b67531e2eac0560b3"
+  },
+  {
+   "path": "creatures/unicorn.md",
+   "size": 297,
+   "sha256": "d9fdbc090d85326da50a513813be07bbc136a08fdfa08d2c173d4825cabfc0c2"
+  },
+  {
+   "path": "creatures/vampire.md",
+   "size": 287,
+   "sha256": "9100da1d97bda2a7969913c436acbdc52929ad9c49bb58c81fe9666237aad822"
+  },
+  {
+   "path": "creatures/vanessia-genive.md",
+   "size": 289,
+   "sha256": "d43b376490dd248221b205d80a8d837eb6cf6f3fefb76774e8a30c53df09d2a9"
+  },
+  {
+   "path": "creatures/warrior.md",
+   "size": 253,
+   "sha256": "24a7a82733a760a96cfb3efa9b98c6b3a182753ccc4d6ec2f69794380428cde1"
+  },
+  {
+   "path": "creatures/water-elemental.md",
+   "size": 317,
+   "sha256": "2b58fdcd366f6575a31aef6ba5dcff1e15216f59e80a05eaf133238f1ed4029e"
+  },
+  {
+   "path": "creatures/werewolf.md",
+   "size": 294,
+   "sha256": "b187c2ef7ae7b4bae70d9b4c86d94a965b6942956b947d77dd6a2090b27d4ad5"
+  },
+  {
+   "path": "creatures/wolf-vicious.md",
+   "size": 287,
+   "sha256": "4d9478676549398a721e49b2493d18a34c2a809d41c2532c30833c10b5a27e98"
+  },
+  {
+   "path": "creatures/writhemind.md",
+   "size": 347,
+   "sha256": "8e13d626d4a128768c72c655f2ecac79c1abd4f1c08b368f4fbce803edc51606"
+  },
+  {
+   "path": "creatures/yeti.md",
+   "size": 287,
+   "sha256": "a3d1804279bd8ebf2e48f1a0bc0593f2df525c5abf7e0d28a09412dc795a84c0"
+  },
+  {
+   "path": "creatures/yigmond-marbu.md",
+   "size": 293,
+   "sha256": "e9c9e594a8a47c565fe1cd94d4c5eeb960d0a81ca66dfff8409f90fa7631f760"
+  },
+  {
+   "path": "creatures/zombie-2.md",
+   "size": 270,
+   "sha256": "d52fb708ad8c3ea88ced1b83aec3da19d8d24c9ade643a7a5439860f569f12b7"
+  },
+  {
+   "path": "creatures/zombie-3.md",
+   "size": 270,
+   "sha256": "9ef713c405d918a607998e5714d4a2990dda996d7d4609a39f91d2625bc0fb71"
+  },
+  {
+   "path": "creatures/zombie-4.md",
+   "size": 292,
+   "sha256": "8ff9098f0b1b74a26f5c346574bbcc64161ca6881d86f827c08755656239f7e9"
+  },
+  {
+   "path": "creatures/zombie-dwarf.md",
+   "size": 285,
+   "sha256": "dafe115b5ac6c072a4697d70936a39644d6e89f4a1fdec794b0fcb44a4dd247c"
+  },
+  {
+   "path": "creatures/zombie-elf.md",
+   "size": 302,
+   "sha256": "49518f76c6f100557d32d77b21689b203185f278d2fb36899e161a1c2cdb73e0"
+  },
+  {
+   "path": "creatures/zombie.md",
+   "size": 268,
+   "sha256": "acc424d9e307de5611d439bfa87f7bc0c79ed9d59394e21d56d44438bb5f8983"
+  },
+  {
+   "path": "media/creatures/Aberration/Dread Observer.usd",
+   "size": 666980,
+   "sha256": "74249e3cc91df2a945b884ccd62b2c05101245a42ca2c6d7080872ec9163ebaf"
+  },
+  {
+   "path": "media/creatures/Aberration/Igril.usd",
+   "size": 141853,
+   "sha256": "4ded2752c03081d25c421e5ef26f017056a90e0cd125cb358fd703bfbc215afd"
+  },
+  {
+   "path": "media/creatures/Aberration/MindCrawler.usd",
+   "size": 359373,
+   "sha256": "5d85ff0a45b9fa8dc146b0563dca799feeae2565cc2369989a549669dc1dae40"
+  },
+  {
+   "path": "media/creatures/Aberration/Otyugh.usd",
+   "size": 124836,
+   "sha256": "299ef1b4cab35c2ca673603a8905a42ca5271c3119c927bbddcc6d507cd907be"
+  },
+  {
+   "path": "media/creatures/Aberration/Slaagoth.usd",
+   "size": 800970,
+   "sha256": "bb8b89d84668030d53575c8808f1dccb6b57fffd14d912fa87dc37c8b2a47145"
+  },
+  {
+   "path": "media/creatures/Aberration/WritheMind.usd",
+   "size": 946046,
+   "sha256": "b02382cac73db5ab956a924dbdca78a7e3841ce67341c7409907f7f663e8b244"
+  },
+  {
+   "path": "media/creatures/Beast/Bat, Giant.usd",
+   "size": 252844,
+   "sha256": "b11827083dc16a7fc467196f086f6921531d587cf5044458232504fa1cf6cd54"
+  },
+  {
+   "path": "media/creatures/Beast/Bear, Cave.usd",
+   "size": 571116,
+   "sha256": "1d773c9213a870b340c432e442e762260c1cfae41867d98a7eadd89d7f1ca919"
+  },
+  {
+   "path": "media/creatures/Beast/Beaver.usd",
+   "size": 590211,
+   "sha256": "24776a8535de518c7ceec3d8792a99fdb644283a65a8e0312c289b1b2971fc3f"
+  },
+  {
+   "path": "media/creatures/Beast/Boar.usd",
+   "size": 561256,
+   "sha256": "2fdac760f1263fd9073e7712614d35ab843ef036daa5807a28db2e926b139dbc"
+  },
+  {
+   "path": "media/creatures/Beast/Camel.usd",
+   "size": 807002,
+   "sha256": "382eac856cdd422c0328bfa0a75893c746eeaba7609b9a74ede0d8ebe53f8225"
+  },
+  {
+   "path": "media/creatures/Beast/Cat, Black & White.usd",
+   "size": 635289,
+   "sha256": "372a6007c8056b3188fbca8b43210466f7e982ef4de1f084164b894dd48d96c3"
+  },
+  {
+   "path": "media/creatures/Beast/Cat.usd",
+   "size": 571344,
+   "sha256": "818b74353b8170fa1ed6c95eef9764d3b3173e58ba28c75cab3bf716160a76d3"
+  },
+  {
+   "path": "media/creatures/Beast/Centipede, Giant.usd",
+   "size": 460293,
+   "sha256": "5b83d8dc315f74ef2b5705d54b575fd4332c6f0fa1369af63eae2d411f053805"
+  },
+  {
+   "path": "media/creatures/Beast/Chicken.usd",
+   "size": 795555,
+   "sha256": "1f488411956d123bf63b3b87b9e9ac3d3999a7025ed086c3ba3dfc2f548c4462"
+  },
+  {
+   "path": "media/creatures/Beast/Cow.usd",
+   "size": 562318,
+   "sha256": "1e2a3d46f14c37fe69875776aefca9cbd20b64c1aea093218ef4aadd899bd056"
+  },
+  {
+   "path": "media/creatures/Beast/Crab, Giant.usd",
+   "size": 229228,
+   "sha256": "7fdd73567e950929be5189bde471893b314a7729413507f0f9db2f96e9233497"
+  },
+  {
+   "path": "media/creatures/Beast/Crane.usd",
+   "size": 1286529,
+   "sha256": "3c5521a7ade9e52fa2a3fd24c3b30c36d3a10b7dcb8b37ab571b677452b1b21e"
+  },
+  {
+   "path": "media/creatures/Beast/Crocodile.usd",
+   "size": 427957,
+   "sha256": "856a4a4f98322bc9cb6eea68b15e7ec883f0304ac8549416a2e832cebd6119e2"
+  },
+  {
+   "path": "media/creatures/Beast/Dog, German Shepherd.usd",
+   "size": 593349,
+   "sha256": "b45a8be004d051795580be8412af9e3a22b29c03e9b11a6579b48556fa9b9623"
+  },
+  {
+   "path": "media/creatures/Beast/Dog.usd",
+   "size": 504775,
+   "sha256": "dff17cd7635e079ec3667ba424339b51d349b47babd1a8c5cc93fd586d23439b"
+  },
+  {
+   "path": "media/creatures/Beast/Doplhin.usd",
+   "size": 166854,
+   "sha256": "cc74c483ebba45a4d76368d1391c75265486901aac5fc5de5c1ae9ecb113ddad"
+  },
+  {
+   "path": "media/creatures/Beast/Elk.usd",
+   "size": 802118,
+   "sha256": "c133f27253020859398b198f22019c943d6cdad249b26531cc53b6b5fb295621"
+  },
+  {
+   "path": "media/creatures/Beast/Ferret.usd",
+   "size": 563031,
+   "sha256": "d158872edeb7d71770d51285239b7d01148ef0103951dca5c83a4d10904bf284"
+  },
+  {
+   "path": "media/creatures/Beast/Goat 01.usd",
+   "size": 560685,
+   "sha256": "5a1c14c0099e9701066db572f2db7bcf7b749bbd631d06997c80b45b8a657483"
+  },
+  {
+   "path": "media/creatures/Beast/Goose.usd",
+   "size": 1287852,
+   "sha256": "ffe027013d8fb29ac1a9426376b4555e000f32f0a0fa18835579d3bdb2ab3259"
+  },
+  {
+   "path": "media/creatures/Beast/Horse.usd",
+   "size": 776237,
+   "sha256": "9cbe1f1ef2ff7aa25f07d6acdbdbe8b757679b7361cb49ae670a5eea58b7f8bf"
+  },
+  {
+   "path": "media/creatures/Beast/Hyena.usd",
+   "size": 504296,
+   "sha256": "c71aa0453f42dd3d8c1cb92325c14a4859b65e50d3e16b4ce22c5c53568a9ad0"
+  },
+  {
+   "path": "media/creatures/Beast/Monkey (Snub-nosed).usd",
+   "size": 513344,
+   "sha256": "2583f43622e6ec1b66d83b5366cf705ddb0ccfa038d558e2071fe530651fb907"
+  },
+  {
+   "path": "media/creatures/Beast/Mule, Pack.usd",
+   "size": 1014715,
+   "sha256": "7eb0bf45505d83ec577043ff8cf2eba3cee05a8d7859828dc472ea1bf3daa527"
+  },
+  {
+   "path": "media/creatures/Beast/Mule.usd",
+   "size": 783866,
+   "sha256": "7c69ad3ed3b23b483d1e1ac0d947fcea881008d21e45f45ae597fbdb36969ca1"
+  },
+  {
+   "path": "media/creatures/Beast/Narwhal.usd",
+   "size": 191644,
+   "sha256": "6cbfaae672009f62c5695cbc2dd19b3101ec850781b8dc4c357f94d7829bb29c"
+  },
+  {
+   "path": "media/creatures/Beast/Octopus.usd",
+   "size": 579036,
+   "sha256": "c98dd83e5df55f23468e5f2747db99d166c98f26d7da81ae51fb964b0f82cf0b"
+  },
+  {
+   "path": "media/creatures/Beast/Owl.usd",
+   "size": 1330632,
+   "sha256": "50d6e29e3bddd087f0e59f3366d63c0962e6dc1bb9b71f0375ee48c07e14c142"
+  },
+  {
+   "path": "media/creatures/Beast/Owlbear.usd",
+   "size": 681154,
+   "sha256": "275441d3abb1ad32cc00585f5da479a6a2a045fd30950f60dc88bfc6c3f895f7"
+  },
+  {
+   "path": "media/creatures/Beast/Pig.usd",
+   "size": 476571,
+   "sha256": "3487d9962c064aa614d8f2237b1c4f6b1bd14c8fe0518fbd03fce29a5c456f5f"
+  },
+  {
+   "path": "media/creatures/Beast/Pterodactyl.usd",
+   "size": 220029,
+   "sha256": "3cad85016c7659842d49f838911f095f0280d2dcf9025cc5bc57422be02f0b17"
+  },
+  {
+   "path": "media/creatures/Beast/Rabbit.usd",
+   "size": 564374,
+   "sha256": "c6ac62f096e2ff76d9136c8ee57d09caec243578508c4f575824451b3b326ac5"
+  },
+  {
+   "path": "media/creatures/Beast/Raccoon.usd",
+   "size": 630417,
+   "sha256": "ba305f0b5c740d6ccb721bdf993f03d0ad27112e0e5a5aa8ef19a3d659bc6ace"
+  },
+  {
+   "path": "media/creatures/Beast/Raptor.usd",
+   "size": 366540,
+   "sha256": "543209b386960a1ba3c35846fae85e9702afc65c35439554c9e183ef3037a51c"
+  },
+  {
+   "path": "media/creatures/Beast/Rat, Giant.usd",
+   "size": 570522,
+   "sha256": "13a79440c1c2eb25b87b1116c0e282268d1435ad4e920574899ce7bda83b6ba8"
+  },
+  {
+   "path": "media/creatures/Beast/Raven.usd",
+   "size": 1279124,
+   "sha256": "4f33f4400e453bdda7b9ed1e4f84c9a7ff3fcb751051d86e2989b2f30dcfa6fb"
+  },
+  {
+   "path": "media/creatures/Beast/Rooster.usd",
+   "size": 776717,
+   "sha256": "6c4b03d261d1a16da5f8387dfa71e092c57f028265c44d5090f3d31aa6dcad9b"
+  },
+  {
+   "path": "media/creatures/Beast/Scorpion, Giant.usd",
+   "size": 339276,
+   "sha256": "dee0ac4dcbb6b221214003830aaed70301a2d21380e093a3c65a3ba2bb8ebbd0"
+  },
+  {
+   "path": "media/creatures/Beast/Shark, Great White.usd",
+   "size": 213959,
+   "sha256": "39892d58a697ee841b713dacdd880947a0d14481205315daa810bccd648d8b2c"
+  },
+  {
+   "path": "media/creatures/Beast/Snake, Giant.usd",
+   "size": 217740,
+   "sha256": "a1502c32c551d81840a47dbdbf8d273f01deb6ea73fd80c621ac0a0c2aa1ea5f"
+  },
+  {
+   "path": "media/creatures/Beast/Snapper, Giant.usd",
+   "size": 383854,
+   "sha256": "1f6766756708d26be35143606ae31a1c4174496f9607216ee25e630346712a4c"
+  },
+  {
+   "path": "media/creatures/Beast/Spider, Giant.usd",
+   "size": 181107,
+   "sha256": "5a18616bd59e2b358311d1c619883d57e5764c83c08818699f3ae625a9658555"
+  },
+  {
+   "path": "media/creatures/Beast/Swarm, Rats.usd",
+   "size": 3779597,
+   "sha256": "3cc29eaaa283e99be6b19588b7458696107201d7812301fd6e0af84cabfa02fe"
+  },
+  {
+   "path": "media/creatures/Beast/Toad, Giant.usd",
+   "size": 757325,
+   "sha256": "061d66c19d27b82c19aba617ffb66f952ab64b560a41a7eb6874bc83da1abb04"
+  },
+  {
+   "path": "media/creatures/Beast/Turkey.usd",
+   "size": 1440106,
+   "sha256": "0bfd32c632c50188388557dafc950cac5fb5463372f6c7b0bae6a857c7ec712d"
+  },
+  {
+   "path": "media/creatures/Beast/Wolf, Vicious.usd",
+   "size": 570831,
+   "sha256": "eb7bd6110ba970eafec6a6db6d635b26039343632d927a03d04ead2eabc9ec4b"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__0e919ce8.usd",
+   "size": 2216011,
+   "sha256": "eb78fffe2f7a73c9d6e95f54aba288f64a2268f4cb9b2f89711f9bccd26d2728"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__dbb9d975.usd",
+   "size": 2085776,
+   "sha256": "fbadab73163193a6239f9f57c0251c9e8e3e047d75416ec7ef7e2b7e11ba7774"
+  },
+  {
+   "path": "media/creatures/Celestial/Unicorn.usd",
+   "size": 787359,
+   "sha256": "703d078b75b098260484d634693ba5c250392cd431c651ef1be22fd66214186b"
+  },
+  {
+   "path": "media/creatures/Constructs/Clay Golem.usd",
+   "size": 451473,
+   "sha256": "a3cb3793c608b05e373c4214b496eb60d1a0f236de58dfec560f27343d1aa190"
+  },
+  {
+   "path": "media/creatures/Constructs/Golem, Flesh.usd",
+   "size": 457615,
+   "sha256": "47f6c27f2ed1fe8f59580f3bee236299e9fcf13364e96e78417f6fee8a04f3d1"
+  },
+  {
+   "path": "media/creatures/Constructs/Homunculus, Buttons.usd",
+   "size": 525543,
+   "sha256": "15f4dcea6697f59af5eaaead3c9a92e809c64769db4cc3d7e3d1b839dc724207"
+  },
+  {
+   "path": "media/creatures/Constructs/Magic Weapon.usd",
+   "size": 130243,
+   "sha256": "1f8ed3dd404643452a854f90deeee9bb31727a6f1990cf63fec2e9efdfefdc6e"
+  },
+  {
+   "path": "media/creatures/Constructs/Scarecrow.usd",
+   "size": 764222,
+   "sha256": "5efe41a8288a7aa9992c9f7640f5ed3e2aa449795ed914b422543ef57a203f8b"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__44237b68.usd",
+   "size": 448184,
+   "sha256": "001a64c758527bb0b23f6c91b391b990825911832bd6731e06e941b29fc96f2f"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__fa0ff88c.usd",
+   "size": 448222,
+   "sha256": "5d59e65dd971d0ffb465e9fe334140940885c6741a72bb57060d6dc0d4fca391"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__599e0109.usd",
+   "size": 381145,
+   "sha256": "e565fdcb5788739d1fb540f1321251ce3e1893e670e2612515ff54294482160c"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__b1d9968e.usd",
+   "size": 381749,
+   "sha256": "8c1f7f788fc03ef1791baa374cb4195ae1554149c7e9f423ca11bfc44938338f"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__f140b418.usd",
+   "size": 369952,
+   "sha256": "95776ad3a1019ec0a85b8eee685ad0284359462b34808f788776263afb9499f8"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Citizen__69c920ea.usd",
+   "size": 629445,
+   "sha256": "62d90abd03958d4ee352cd9e30dfc85bd455e4ca1f3da3ad2b60c97ce82cdbb8"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Citizen__a1bf5476.usd",
+   "size": 672308,
+   "sha256": "75563c475201113a1a3aae5c7e3357d79278e5d299f77c96c0fdd8fcd47ca4f9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__95f51fa8.usd",
+   "size": 760965,
+   "sha256": "db93f8f32de08dcaef391e1465903fcd051d09d5deab2c5efae8d81eb7cda311"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__d2d41216.usd",
+   "size": 726439,
+   "sha256": "088a94a56c4b3b8c7c7d0dec602909f42ab57e2b9632cf050e3f19570dcd0c00"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__de874066.usd",
+   "size": 728624,
+   "sha256": "9323b7d7c11815d27ceb54e033ca99dd778b6d44629969b24627c63d9ea0a2df"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Cyber Soldier.usd",
+   "size": 434806,
+   "sha256": "6f0d36561acaca4f9f679176b09e4b07f7fad6da71ebfb195a79cc0e50bcb6ca"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Droid.usd",
+   "size": 166575,
+   "sha256": "4eb253ac3f637b628318bddcf71d815da315f01a286af60f55ab3c519f2fa354"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Hacker.usd",
+   "size": 692601,
+   "sha256": "8a2bcf1a2712f6815a0cdd1e19e42d526b65d264009af408153eaf1317ce7db2"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__66a1d89a.usd",
+   "size": 423830,
+   "sha256": "a1bd36269d96f22ce4b73d7fc9cd6fff29623beef02216d7d1028cda042e2b84"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__c5392549.usd",
+   "size": 426612,
+   "sha256": "35eda23ea5b8363824ce4bde151058e687a6f2903bc64c2bf1e0cab7d3dd491d"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__cefe2805.usd",
+   "size": 415244,
+   "sha256": "9f83ad396400184f43f301c571b5780ee303ce04e895f28336db3194dba4eff2"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__f9ac52c7.usd",
+   "size": 422300,
+   "sha256": "0f17e01189ba44612bac8e90ddf30d27a09062bf01139d7a8e376bdd8399b3b8"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Mechanic Worker.usd",
+   "size": 727338,
+   "sha256": "b21b1f39f59e3fa684dab0d96ff113da1aa72506ebe65f1a2a64ed7c78d0e8e4"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Mercenary.usd",
+   "size": 693298,
+   "sha256": "9c0e3216c32cd43f1ef09090225e623c55bac80ecf6dc36d5a9fd2c159c9a4b5"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__18082f62.usd",
+   "size": 701698,
+   "sha256": "82be34952520c5f32c7339988428cfbc984ac399d0810c1fcc197b2de6ae5a53"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__279539b5.usd",
+   "size": 684764,
+   "sha256": "f54d9805cdb79c4255917ed548d06ceb538e27e6e11a5001ca8be0b3af92fccf"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__6f42950d.usd",
+   "size": 666141,
+   "sha256": "d71ec534b4ccc83918407aec6913278caff34eac2aa508cf43290bece3e212a5"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__7e854cd1.usd",
+   "size": 635239,
+   "sha256": "19eba0ce406126880e7512e023c627525d313fc25d34739793a011905bd0617a"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__bc1767ca.usd",
+   "size": 656686,
+   "sha256": "0565929d82a26d1783167c5526b1e37eb5a16f7928ea19fcf1d63dd0a8b3169c"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Security Bot.usd",
+   "size": 124725,
+   "sha256": "f5d27e8e1d44f4b219c6faaddfc6144883fe884f5d8cd69c4bdae7210284c1e7"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Doc.usd",
+   "size": 717581,
+   "sha256": "ea866eaefb8d1c31ce9a3af2229924c488e3c5fe9a5942a33408caa82ccf0da1"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Thug.usd",
+   "size": 664058,
+   "sha256": "ff350b8ff0bf06d854261f9af60750c6161b53fe621eb750f8dd5e831fac9327"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__66873286.usd",
+   "size": 684438,
+   "sha256": "548e06f3e99baa10bfe12e530bfd1f0a7257b3ed42ba3af355bbabd18684e92e"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__ab0616b4.usd",
+   "size": 375408,
+   "sha256": "3b4a2c86fcd19faa303f467a0d7402961fb57e3d3fa5a212502b5546b67fe57a"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__ae6c5db3.usd",
+   "size": 684292,
+   "sha256": "41de79eee2bc3193634d96a4ffa5158a386ec74720d24725eb7d1dff1ba6bb40"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__b2af23c2.usd",
+   "size": 454656,
+   "sha256": "5286637b5e82f835c60d55e868365f98671441cc94a2296d7f20d19df7a17728"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__eb7efd24.usd",
+   "size": 459629,
+   "sha256": "56240128f1943207a92f29eed918a4fed59f9a81404cc78552c8cdd7afb8d923"
+  },
+  {
+   "path": "media/creatures/Demonic/Blade Demon.usd",
+   "size": 537519,
+   "sha256": "82ac8872fdcadff1fceb0cb2e1514e7c9ca921df4fc366fc309e8a7d13b1ad47"
+  },
+  {
+   "path": "media/creatures/Demonic/Hell Hound.usd",
+   "size": 621678,
+   "sha256": "f99e6aa5a6a75d739eb2782be2d32de05bfe2446c2786bdd09165049c90bfefd"
+  },
+  {
+   "path": "media/creatures/Demonic/Imp.usd",
+   "size": 604077,
+   "sha256": "cb9510a931a7bb8c86344fb251ff4443ec06e7ab28eb7612d423f485bc045fbb"
+  },
+  {
+   "path": "media/creatures/Demonic/Kiroterror.usd",
+   "size": 248020,
+   "sha256": "056b8a1f540e4d1fd969031a165ca80f47f3d0cec2100d67ee9584619f98e8c3"
+  },
+  {
+   "path": "media/creatures/Demonic/Klojin.usd",
+   "size": 593854,
+   "sha256": "65f00929d10087979ea8536e41ad0d8261f101d873ca3f9f465518464ac14549"
+  },
+  {
+   "path": "media/creatures/Demonic/Kozra.usd",
+   "size": 703975,
+   "sha256": "ae9a16edab47b92ea3e74d2b2e89feb898f7034afb72e1d4834bedc41872c96d"
+  },
+  {
+   "path": "media/creatures/Demonic/Krampus.usd",
+   "size": 618147,
+   "sha256": "50640dc5cc878084ee91c7a0fd890c66e3e75000086849d1656d3086987843e4"
+  },
+  {
+   "path": "media/creatures/Demonic/Razgora.usd",
+   "size": 620226,
+   "sha256": "fc1119b267150960071bfd4cb9cca69364cee684602da2f331c821090e31b91a"
+  },
+  {
+   "path": "media/creatures/Demonic/Succubus.usd",
+   "size": 1043411,
+   "sha256": "ae6f28e0e4d09a88e478aa63ecd811d71937836e4bfdfda9371a13e9cc422f91"
+  },
+  {
+   "path": "media/creatures/Dragonfolk/Dragonfolk Spellcaster__5dd58c82.usd",
+   "size": 920320,
+   "sha256": "0e16d3ca416736d5028b250d212aff05de001c471ea7e1fcfd6f95065c989439"
+  },
+  {
+   "path": "media/creatures/Dragonfolk/Dragonfolk Spellcaster__74e4b677.usd",
+   "size": 917115,
+   "sha256": "84edc2271b405d2861350d54a333106412211d4dcb701b8c9baaafa58c27f354"
+  },
+  {
+   "path": "media/creatures/Dragonfolk/Dragonfolk Warrior__28bfaf42.usd",
+   "size": 1115973,
+   "sha256": "952fe08c6b8ac89abbb97de7c713cbdebddc57ef4e7b47ecdefc156ba20b3709"
+  },
+  {
+   "path": "media/creatures/Dragonfolk/Dragonfolk Warrior__f88981dd.usd",
+   "size": 1130528,
+   "sha256": "6282dde0196fc4981f0a4799b9171d940a45e35a940a724fc5d94eb5091d51d1"
+  },
+  {
+   "path": "media/creatures/Dwarf/Dark Dwarf Warrior.usd",
+   "size": 1302448,
+   "sha256": "57909c67adec8d2a875033399428c73b64516778f37a320842013378fe6fdf37"
+  },
+  {
+   "path": "media/creatures/Dwarf/Dwarf Bard.usd",
+   "size": 1065047,
+   "sha256": "9c6b62f84963e463a021bab3a0d8d0dd79ae4824e24804b009c249f5d9bfa526"
+  },
+  {
+   "path": "media/creatures/Dwarf/Dwarf Commoner__4e375f61.usd",
+   "size": 1059469,
+   "sha256": "b2f775170f6eab6712354730b2052af4a3bdf7ab566b080ab716896a9f15e16f"
+  },
+  {
+   "path": "media/creatures/Dwarf/Dwarf Commoner__d3a0e612.usd",
+   "size": 1000430,
+   "sha256": "a1077216931fba06b1a6bdc69a1e8044701a9f3cfe2ae53943ac715f2bcbabc4"
+  },
+  {
+   "path": "media/creatures/Dwarf/Dwarf Commoner__f0aa7361.usd",
+   "size": 993341,
+   "sha256": "2bf8fa7f19671704d62f27538929ef490985ba98aeb2163b0f6a00b84e855642"
+  },
+  {
+   "path": "media/creatures/Dwarf/Dwarf Paladin.usd",
+   "size": 1296354,
+   "sha256": "663bfeccf69abc6df87e46e9a2711baf79cda66d6744cec1410bb54211252a16"
+  },
+  {
+   "path": "media/creatures/Dwarf/Dwarf Warrior__b3dc7d69.usd",
+   "size": 1100725,
+   "sha256": "c4ed4310261e452012eb09b234f566a5be613afc66a622c2062c1249dd1973fe"
+  },
+  {
+   "path": "media/creatures/Dwarf/Dwarf Warrior__fa90f8c9.usd",
+   "size": 1297617,
+   "sha256": "6affaa271e2e4ea23637f109c4b42921a2b00eeae2cdf9d82973e36e0989355d"
+  },
+  {
+   "path": "media/creatures/Dwarf/Pirate.usd",
+   "size": 1116653,
+   "sha256": "d033cee0ab6ecce6a9439bf61f4d2083854163727a8f3b93a4fa1db70f2a75df"
+  },
+  {
+   "path": "media/creatures/Elementals/Air Elemental.usd",
+   "size": 283105,
+   "sha256": "149621bed216d2eb9f926758b9aa3a36299ad05a450f0195ad729dabbee434bd"
+  },
+  {
+   "path": "media/creatures/Elementals/Book Swarm.usd",
+   "size": 109146,
+   "sha256": "9c6a9d4e5b72afae8c8ba4b8c0bbcbce1c78da8395b581e61495b068af6947f0"
+  },
+  {
+   "path": "media/creatures/Elementals/Djinni.usd",
+   "size": 1093196,
+   "sha256": "b40ea7dd84d93cebf1f5b0598db9d51ec3b4f39f73c56a887c85613aa4ca6eca"
+  },
+  {
+   "path": "media/creatures/Elementals/Earth Elemental.usd",
+   "size": 130437,
+   "sha256": "b1e1bd894ad821e45a7c7a2ddd585b51d1d7057ff0d259228cb6bddf2f3f7b8a"
+  },
+  {
+   "path": "media/creatures/Elementals/Fire Elemental.usd",
+   "size": 299274,
+   "sha256": "7931e5f9c66f7b76fc8eff64dc328591a06b2f81b9ec319730dacdc4aaafcae0"
+  },
+  {
+   "path": "media/creatures/Elementals/Water Elemental.usd",
+   "size": 291500,
+   "sha256": "d5e0e03ca76f8de1bec82a5c05424753fe5cd8ee5e4a05d2aa4a32badd52b0cd"
+  },
+  {
+   "path": "media/creatures/Elf/Dark Elf Spellcaster.usd",
+   "size": 1023320,
+   "sha256": "775eecded62ba3b51498288e11719bfabf8dcc6b69b779a50b7c6d877e227d2d"
+  },
+  {
+   "path": "media/creatures/Elf/Dark Elf Warrior.usd",
+   "size": 1039746,
+   "sha256": "cc30dbdabbb5a57f3a33983c558e5c5af7a762f2d7c9a5c0ee43b98154b13515"
+  },
+  {
+   "path": "media/creatures/Elf/Elf Commoner__1f3ea4bb.usd",
+   "size": 947316,
+   "sha256": "80272d1ee8416a68e990bd283d55a7d65ffa163b4b871fdbd0caa57fe7b83c5d"
+  },
+  {
+   "path": "media/creatures/Elf/Elf Commoner__735347cb.usd",
+   "size": 930950,
+   "sha256": "facbabbfc087fe83943ecec0de4c6282d15e2ddbfe40dadb09eede1c540d9844"
+  },
+  {
+   "path": "media/creatures/Elf/Elf Druid.usd",
+   "size": 1041670,
+   "sha256": "438598c1660e2149662e403c942626a987f6ee10107c6752a6aa982e92babc55"
+  },
+  {
+   "path": "media/creatures/Elf/Elf Ranger.usd",
+   "size": 1193906,
+   "sha256": "12ad365c6998ec5696534c15ee6f0dd38a05fb0abd4d6cf098a3654c81222f2a"
+  },
+  {
+   "path": "media/creatures/Elf/Elf Rogue.usd",
+   "size": 1029549,
+   "sha256": "38fdcdd81a53dba0197d11c13f83dddead4746e762f991a0602e0eab0625d73d"
+  },
+  {
+   "path": "media/creatures/Elf/Elf Spellcaster__7b25890c.usd",
+   "size": 1020570,
+   "sha256": "57f7b45201c351ebc37b736e87b0d02ef145b7c3a430d14e4f1d1087cd07f2ed"
+  },
+  {
+   "path": "media/creatures/Elf/Elf Spellcaster__cc8560d3.usd",
+   "size": 1037544,
+   "sha256": "ddb9de2e5e0e045d772e3339911b308aa219b4e9eaab6ab90a4a0576808d5082"
+  },
+  {
+   "path": "media/creatures/Elf/Half-Elf Cleric.usd",
+   "size": 1211137,
+   "sha256": "7decbbcf5604367a0d6ccbc3244925c79b5361171a15f8af33216abe4c4f4fac"
+  },
+  {
+   "path": "media/creatures/Elf/Half-Elf Ranger.usd",
+   "size": 1016230,
+   "sha256": "5ac8f0781270d657fdae8d0fdd2599025c51237ecb4597bedb68dd3b48fa2eed"
+  },
+  {
+   "path": "media/creatures/Elf/Pirate.usd",
+   "size": 999425,
+   "sha256": "30a9c2598ad7af610ec0e3c54ad312386251c45b2305f020fa257c0eb76cc166"
+  },
+  {
+   "path": "media/creatures/Elf/Vanessia Genive.usd",
+   "size": 1050737,
+   "sha256": "e3ddb501be56493bf2e51d88be9897b2a8f273e803eeb0f1535e1d6fc8af9109"
+  },
+  {
+   "path": "media/creatures/Fey/Dryad.usd",
+   "size": 982152,
+   "sha256": "bdf76da6fd210766f08aedea17de6cfb78ff7d14b91eb9a6896aeaa422030b99"
+  },
+  {
+   "path": "media/creatures/Fey/Forest Fairy.usd",
+   "size": 1096889,
+   "sha256": "a7054cd48764001616e9be7b59e442fdbba6c7e9cf758b4e765cea69f336ceca"
+  },
+  {
+   "path": "media/creatures/Fey/Fungus Folk (Tall).usd",
+   "size": 217888,
+   "sha256": "6fe9868b611270e25b48ec12ba2c4f58acdc01c87aba69481381bb2d8f960d96"
+  },
+  {
+   "path": "media/creatures/Fey/Satyr__53f1e54f.usd",
+   "size": 1080726,
+   "sha256": "d82ac3f724d0e86c0b25c68ba3ad96418edd910a4891dc013b51df7a8e7adf92"
+  },
+  {
+   "path": "media/creatures/Fey/Satyr__cb81953a.usd",
+   "size": 1076326,
+   "sha256": "dfea923b28a229b3f55b91296a899db79377e6ca012e8656d08e526af7cf2362"
+  },
+  {
+   "path": "media/creatures/Fey/Shroomer.usd",
+   "size": 210518,
+   "sha256": "bd52b6eb07e053eb80c2603e1cdb1795d9a222ab2d014f9aa3d16ddad643bf75"
+  },
+  {
+   "path": "media/creatures/Fey/Tomte.usd",
+   "size": 1090846,
+   "sha256": "7ee919b1ca3cb21d505be4401ca4ce3eb3cafb30eadd9755aa4b344ab21f0cbd"
+  },
+  {
+   "path": "media/creatures/Fey/Treant.usd",
+   "size": 982877,
+   "sha256": "77be7783c49b1ac1d1d70942d411af4396c3a223b6ed4cdfb727c58fa63533d4"
+  },
+  {
+   "path": "media/creatures/Giants/Ettin.usd",
+   "size": 1368428,
+   "sha256": "d045b0e157239db55da2b3cc245aa787207f82eb2f22094726a89a0df7048462"
+  },
+  {
+   "path": "media/creatures/Giants/Fire Giant.usd",
+   "size": 1301755,
+   "sha256": "0ccb8dc19f4d48555474884fb981d2850fcfcd791c9080016ebb449458266a83"
+  },
+  {
+   "path": "media/creatures/Giants/Frost Giant.usd",
+   "size": 1108669,
+   "sha256": "3d2bae17489c6d5dd13ec0c802c139eb1e7384eaff8d0c7eed4afa5027d99575"
+  },
+  {
+   "path": "media/creatures/Giants/Giant, Storm.usd",
+   "size": 1105856,
+   "sha256": "bffabbff389d25128f9c310d70c233cd76e0294ee67a4f400212fe59e05ba7bd"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre Spellcaster.usd",
+   "size": 1119037,
+   "sha256": "45fce03f67eccbf98311ee12ee752d9ae99774bb593c9d974186aeb6c88397eb"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre.usd",
+   "size": 1117744,
+   "sha256": "3006e37d1467bd0b064631c5e89ab1dcb7d25e42aa7c24a3e92db704b8efc5fb"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Cleric.usd",
+   "size": 1233520,
+   "sha256": "4f968c4da1cc27796985eed2957266c68364f6626349b25469078a3d0a2ce16e"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Warrior.usd",
+   "size": 1280757,
+   "sha256": "2905b407e523faa94ab596d0e19d1d3f12a1ea55877f61c8388d5d689c3974f6"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Alchemist.usd",
+   "size": 1018539,
+   "sha256": "9a867d8e75182e10c48afa873901bf89543f80dead1474377886646acf323683"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Spellcaster.usd",
+   "size": 1066504,
+   "sha256": "2fb41934ab8f4d158c941b5da5e09355fde7ce180920e77543ac1044a3720bf6"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Tinkerer.usd",
+   "size": 1072149,
+   "sha256": "4a022e280e3ccbd2ac79f6decf485f7877e97c65e746b17aab33e62c7a16f3f2"
+  },
+  {
+   "path": "media/creatures/Gnome/Yigmond Marbu.usd",
+   "size": 1097195,
+   "sha256": "b85d3d4540778ea41c8d49cfc35d3c4b4d191aa03ab5aaa5a36b694f1cc62101"
+  },
+  {
+   "path": "media/creatures/Goblin/Goblin Archer.usd",
+   "size": 1025998,
+   "sha256": "de90b7061f8ba18862eefbbf9ca1d4bd05b932dab5fefcb671825b0647e2aa86"
+  },
+  {
+   "path": "media/creatures/Goblin/Goblin Rogue.usd",
+   "size": 1040762,
+   "sha256": "a35a8024aca1f1b4c7205ea34d8f0fce11665a56fa736eabd8715cbae95ab500"
+  },
+  {
+   "path": "media/creatures/Goblin/Goblin Spellcaster.usd",
+   "size": 1037907,
+   "sha256": "fc5420cbd9c25fc0fb8501292763d59c78951a41f58170dcbffc9709b40566fa"
+  },
+  {
+   "path": "media/creatures/Goblin/Goblin Warrior.usd",
+   "size": 972506,
+   "sha256": "cce912e5170d7457f0a9b63595660d104b3a0d1d9afa3e1819d148d53ca1f9e3"
+  },
+  {
+   "path": "media/creatures/Half-Demon/Half Demon Spellcaster.usd",
+   "size": 1077258,
+   "sha256": "ed6627c99148b9ce4b4c04b4770885053331aeeb6ddb193b8441e0cf308af0dc"
+  },
+  {
+   "path": "media/creatures/Half-Demon/Half-Demon Caster.usd",
+   "size": 1076807,
+   "sha256": "540d376c0208b796709d4e39c62631d2b84b99f2d576229c1c17380902a921f0"
+  },
+  {
+   "path": "media/creatures/Half-Demon/Half-Demon Commoner__5edd569d.usd",
+   "size": 986340,
+   "sha256": "4903fedcbe2119cb9054100e9d8b9192f12b699e0c267cefb5e6c07e9714a390"
+  },
+  {
+   "path": "media/creatures/Half-Demon/Half-Demon Commoner__d6cd8dd6.usd",
+   "size": 1015450,
+   "sha256": "ac1fccb101c278b4445e53fdb88f986c1449398308613ec4cb861df31167ac20"
+  },
+  {
+   "path": "media/creatures/Half-Demon/Half-Demon Commoner__d8fea8f1.usd",
+   "size": 990393,
+   "sha256": "7704094a4fd001c5134c645fbe8b0683d7e9e16c96552b59cd0a7a1c8d1433ad"
+  },
+  {
+   "path": "media/creatures/Half-Demon/Half-Demon Rogue.usd",
+   "size": 1080898,
+   "sha256": "6a1722cab3c6f5b3f3bdcdaac3ddc4ddb3abedd060bf454a70d1d333699ae0e1"
+  },
+  {
+   "path": "media/creatures/Half-Demon/Half-Demon Shopkeeper.usd",
+   "size": 988926,
+   "sha256": "eb19bf3518ee7055293e266af64ab32029d5a4ba56b7afe24b73375374b47e40"
+  },
+  {
+   "path": "media/creatures/Half-Demon/Half-Demon Spellcaster.usd",
+   "size": 1077376,
+   "sha256": "40db5ce4a280032bb65a7025ae4a47f49baf1f7d285b7fd259b40ea38a841e8a"
+  },
+  {
+   "path": "media/creatures/Half-Demon/Half-Demon Warrior.usd",
+   "size": 1290320,
+   "sha256": "d79253d56a28e76a462d31a8c66074b5f3372a3f0bbf2b3ca752b5832dac4285"
+  },
+  {
+   "path": "media/creatures/Half-Orc/Half-Orc Commoner__b735b7c0.usd",
+   "size": 950112,
+   "sha256": "b656936d6bf110d47b719a642ee3470315ddb90b1b9dffd3d236deadd51bdfd1"
+  },
+  {
+   "path": "media/creatures/Half-Orc/Half-Orc Commoner__c7603eda.usd",
+   "size": 976802,
+   "sha256": "0afbb20d3bd850d9f9a948dab9482560303c927147b4afb0cb3a2a58b14c3a89"
+  },
+  {
+   "path": "media/creatures/Half-Orc/Half-Orc Spellcaster.usd",
+   "size": 1063340,
+   "sha256": "a5f315c4773921c5583fc70bb91029086d793efdde8094febd9406d698fbd63d"
+  },
+  {
+   "path": "media/creatures/Half-Orc/Half-Orc Warrior__3c98486a.usd",
+   "size": 1043267,
+   "sha256": "33b474993923014333ebc9e699b950d66b5f73675d859222f11b38c46573544c"
+  },
+  {
+   "path": "media/creatures/Half-Orc/Half-Orc Warrior__bbc30c2c.usd",
+   "size": 1242844,
+   "sha256": "e2a39dededef4885e096a37bafa4ed17d6ef30bd877ac7f027883726b5128997"
+  },
+  {
+   "path": "media/creatures/Half-Orc/Half-Orc Warrior__bfa05721.usd",
+   "size": 1296755,
+   "sha256": "7526fd718c06c8b956ccfdf636812a2c89935ffe1783a3c80f7bc67402b08836"
+  },
+  {
+   "path": "media/creatures/Half-Orc/Pirate.usd",
+   "size": 1056068,
+   "sha256": "c41e1ce1a949d5e1c6c7efe5131cb4f5d83268e8f57b775293fecbf4061e669a"
+  },
+  {
+   "path": "media/creatures/Halfling/Dark Jester.usd",
+   "size": 1019881,
+   "sha256": "25a163ecf61ec5c484a45d55dafd3283443a7ad54a6903e22c28a4478cf952bd"
+  },
+  {
+   "path": "media/creatures/Halfling/Halfling Commoner.usd",
+   "size": 980577,
+   "sha256": "446f56bdf50f2e6d1f6b7d0ba9eeb88f210aaaf6eeac517fbbe665fee972e45c"
+  },
+  {
+   "path": "media/creatures/Halfling/Halfling Rogue__3b43258f.usd",
+   "size": 1083994,
+   "sha256": "9e322aa8d2fa3d8d74cef44534f1d29058394da5d10d31b6dbf6c1a1995f90be"
+  },
+  {
+   "path": "media/creatures/Halfling/Halfling Rogue__b32df07b.usd",
+   "size": 1143861,
+   "sha256": "9f8473eb8d8149b51a26001e389040c60c56e9e12cb8ea1f6d68b6a85a2d780f"
+  },
+  {
+   "path": "media/creatures/Halfling/Halfling Spellcaster__783e5bae.usd",
+   "size": 1092067,
+   "sha256": "053717b20ef88cbe7a39c4c4e986360dc056c4172b24c10730a2f97f60e7c508"
+  },
+  {
+   "path": "media/creatures/Halfling/Halfling Spellcaster__d5a43392.usd",
+   "size": 1091900,
+   "sha256": "e0d1d931b7ed14a0536274b4981cfb5b7df219186d5cd2d8c49a60da691a0526"
+  },
+  {
+   "path": "media/creatures/Halfling/Halfling Warrior__983ebc3d.usd",
+   "size": 1261495,
+   "sha256": "bd275885c744ee5f1877f995eccf46d47b80c6a53007851278b07e18a738336b"
+  },
+  {
+   "path": "media/creatures/Halfling/Halfling Warrior__dbcf4516.usd",
+   "size": 1264483,
+   "sha256": "652ccc74f70324b1ca928e37da86e5e8571ba0d732ba2def4b64cac63dbe7954"
+  },
+  {
+   "path": "media/creatures/Human/Blacksmith.usd",
+   "size": 1095127,
+   "sha256": "94aeb7d9d97de9a6de783408b9cf18915612b635791ab6091061308d9de907a5"
+  },
+  {
+   "path": "media/creatures/Human/Commoner__03ef1953.usd",
+   "size": 1009824,
+   "sha256": "c52ef4a3c7f0d7f1b00e4f9ecb9e425e9dad4b83e7ef2c0d8eda180da736ecd5"
+  },
+  {
+   "path": "media/creatures/Human/Commoner__19200b0f.usd",
+   "size": 1053322,
+   "sha256": "9777d77c74fa54c65a2a0d8fff6917bb6f10668e8c4a06c5164860351cbe8880"
+  },
+  {
+   "path": "media/creatures/Human/Commoner__389c30a8.usd",
+   "size": 1060196,
+   "sha256": "c95d89f96f92dd115e50bde08579fcd126d75565f94cb8904e4e886cea8827e8"
+  },
+  {
+   "path": "media/creatures/Human/Commoner__9f64c6ac.usd",
+   "size": 1169601,
+   "sha256": "5a72cf7f794819536bb76dba5be1cb192471d464e40f3e66af318bd74bbb3607"
+  },
+  {
+   "path": "media/creatures/Human/Commoner__c1ac3102.usd",
+   "size": 1095368,
+   "sha256": "fd3ba884e13c4b34cd0480eb6bae37218de2fbb35c3f5fdd7690ba73064165f3"
+  },
+  {
+   "path": "media/creatures/Human/Commoner__c31cfe74.usd",
+   "size": 983754,
+   "sha256": "93bdff0750692de8550827eff2676a1e3a6f1ec858689e7404380d03ae341321"
+  },
+  {
+   "path": "media/creatures/Human/Commoner__c794ce90.usd",
+   "size": 1086892,
+   "sha256": "ce05ed6d36299503fab845c2beb2d216281322bdd7c7ed95814394c4056b6f27"
+  },
+  {
+   "path": "media/creatures/Human/Commoner__c7b7f271.usd",
+   "size": 1035346,
+   "sha256": "b9ecd65c4b4085074cb68e6f3b51b79bc14fc7f896e786dacf9943204ff3dfcd"
+  },
+  {
+   "path": "media/creatures/Human/Commoner__d5614ded.usd",
+   "size": 1037719,
+   "sha256": "c21462020e0aa51cfc28881ffafd235758ef4d061cd9ccc542af470386c54204"
+  },
+  {
+   "path": "media/creatures/Human/Cultist.usd",
+   "size": 1080725,
+   "sha256": "c77e4d72c7c73cad2590c9e5419b12e3aa79904e52ddac520029b6b7733b595f"
+  },
+  {
+   "path": "media/creatures/Human/Grave Robber.usd",
+   "size": 974830,
+   "sha256": "25d009c788df72fddd12a72aac0420de9e1516c4890949936c4db09187109883"
+  },
+  {
+   "path": "media/creatures/Human/Human Bandit__a0cbec0d.usd",
+   "size": 1134901,
+   "sha256": "e1cd1da0b33d688e6eb0be04be3c090f8cebe611426de3161e48c70d08644aeb"
+  },
+  {
+   "path": "media/creatures/Human/Human Bandit__f982056e.usd",
+   "size": 999786,
+   "sha256": "6ffbe022d0df68a24425fa1c06d662a0ab9ff19bb2276d290613b428d6b036ed"
+  },
+  {
+   "path": "media/creatures/Human/Human Barbarian.usd",
+   "size": 1099805,
+   "sha256": "563d7f715f8aff75ffbbac337c59616508e1cc5a63abc06b943bc385689a57e4"
+  },
+  {
+   "path": "media/creatures/Human/Human Bard, Doom.usd",
+   "size": 1185894,
+   "sha256": "bb67e8094e17ef1fff1472a7bfc35dfb8c3a40712305b1e1c5fb3d3cce25af0a"
+  },
+  {
+   "path": "media/creatures/Human/Human Bard.usd",
+   "size": 1022574,
+   "sha256": "7ed12de88f32c6e1f748dbbabb3fe87e985985aa55f1fc11e2828a259281ad91"
+  },
+  {
+   "path": "media/creatures/Human/Human Captain.usd",
+   "size": 1337605,
+   "sha256": "2d4d89ff628c5a2fc5c8081b592749846fb22c865ff2ab7e8e410575b15ef9ae"
+  },
+  {
+   "path": "media/creatures/Human/Human Caster.usd",
+   "size": 1073130,
+   "sha256": "f9565d3dd63928f6f2b0433ed0c51a42a0fd55c72a4c6703fd5872e7118854f0"
+  },
+  {
+   "path": "media/creatures/Human/Human Druid.usd",
+   "size": 1127624,
+   "sha256": "d90fb0b4e747969af7dc40aad9eaac653cef7abb0a9cc72dcae6156c6c22f0c8"
+  },
+  {
+   "path": "media/creatures/Human/Human Explorer.usd",
+   "size": 1077942,
+   "sha256": "7aac7d1d0a19eae4c672ecb697164aa9c273cdb9bd07b6a685c99e6eee5c88c6"
+  },
+  {
+   "path": "media/creatures/Human/Human Knight.usd",
+   "size": 1061345,
+   "sha256": "cd9c28ae0748cc367eadb423b1ac6ef0d899aae274e10abdaa2269ac73bc3f6e"
+  },
+  {
+   "path": "media/creatures/Human/Human Paladin.usd",
+   "size": 1055257,
+   "sha256": "c676c5d37dbc9e02223204f84dea33a6c9ffcd861570b747de6c4fa3e789c9cc"
+  },
+  {
+   "path": "media/creatures/Human/Human Soldier__c40f5ac6.usd",
+   "size": 1210718,
+   "sha256": "947875370da5d931ba3fd6bf51a6d66b93a7d6d2989d68279120f495b17e9274"
+  },
+  {
+   "path": "media/creatures/Human/Human Soldier__e9117ad2.usd",
+   "size": 1262432,
+   "sha256": "bba9f313595a8d60de770fb08e46e3ac4c7f0190eabbe9bf5e922aadc8b9adda"
+  },
+  {
+   "path": "media/creatures/Human/Human Spellcaster__2678c6a5.usd",
+   "size": 1114260,
+   "sha256": "b2193578353e2a31a80d5629347cda7d23c7dfefc8c946711d53c268bc3bfc38"
+  },
+  {
+   "path": "media/creatures/Human/Human Spellcaster__6e61880c.usd",
+   "size": 1097859,
+   "sha256": "58b5f45be434abce8a0b1e145c538bf4bd50292e3388a7ce1e70eb503b188f99"
+  },
+  {
+   "path": "media/creatures/Human/Human Spellcaster__712ffa6e.usd",
+   "size": 1070676,
+   "sha256": "8bddd723b7a83e377c0e587f7149a174672a0bd97b9463075a80bac5f23b85a2"
+  },
+  {
+   "path": "media/creatures/Human/Human Spellcaster__a7d49bed.usd",
+   "size": 1090955,
+   "sha256": "0a67a695d3ad7412e6c980464e24485d3e0413d8fd4fe3b5095e63acdd601933"
+  },
+  {
+   "path": "media/creatures/Human/Human Warrior__29a3deda.usd",
+   "size": 1422441,
+   "sha256": "fd66c0d985f79caa3c4cc5d98756b5aa9a953f103d7f32cd2d67d8194ad7a681"
+  },
+  {
+   "path": "media/creatures/Human/Human Warrior__80858f64.usd",
+   "size": 966678,
+   "sha256": "7b8726513729eaa7b521a08e2ea225e39f23cd1382b1cf50fc1e379a68f81b98"
+  },
+  {
+   "path": "media/creatures/Human/Human Warrior__9c9ea41f.usd",
+   "size": 1018357,
+   "sha256": "af1382b32af9cea02b78e4e9beda91ff617ea45daf51255f52a247bbeeabba75"
+  },
+  {
+   "path": "media/creatures/Human/Innkeeper.usd",
+   "size": 1119120,
+   "sha256": "11c3145994df8663b7e15a8569e61c494c6a650b25d61c9193baf39f97407043"
+  },
+  {
+   "path": "media/creatures/Human/Knight__7241df8e.usd",
+   "size": 1115530,
+   "sha256": "3ff5eb90a19416cd6e6d9856b05c98dcc2905e14dd149ad778ddfaaea560e099"
+  },
+  {
+   "path": "media/creatures/Human/Knight__afee4e5c.usd",
+   "size": 1125221,
+   "sha256": "86cf264700164bec2418b960a89992c017b6a4b612cde58420f6156bf6879cfc"
+  },
+  {
+   "path": "media/creatures/Human/Merchant__57c8712e.usd",
+   "size": 1059480,
+   "sha256": "fdc3313a31826990196fd127fc8df5be1d71fbec0141813bf1caf75628c0720f"
+  },
+  {
+   "path": "media/creatures/Human/Merchant__87046ea0.usd",
+   "size": 1056319,
+   "sha256": "ce24c3e441e3e28ea3b945c41b60943db4c019566a8ff656e46e81c3c553378c"
+  },
+  {
+   "path": "media/creatures/Human/Noble.usd",
+   "size": 983735,
+   "sha256": "f1f91935dc217111f1b891267e624f035733b30f7c197bfd7bdfec33c7708fda"
+  },
+  {
+   "path": "media/creatures/Human/Pirate, Captain__2292f37b.usd",
+   "size": 1087255,
+   "sha256": "3db1ccb3c77d04e2136c29463a132e175d91f663b14746e4e20f9cacc53c908c"
+  },
+  {
+   "path": "media/creatures/Human/Pirate, Captain__2920dc63.usd",
+   "size": 1097602,
+   "sha256": "4055ce6f7968e5f3c41a0681277ae3a8b8bec9ad88275bc4d051556dc2365c3c"
+  },
+  {
+   "path": "media/creatures/Human/Samurai__290b17f3.usd",
+   "size": 1336600,
+   "sha256": "8fc9e630a0a81998a365aa8d8aed07588bc764ef47c9a7b961d01873b0b052dd"
+  },
+  {
+   "path": "media/creatures/Human/Samurai__6432da38.usd",
+   "size": 1328856,
+   "sha256": "bf36e07bbc7821c576f0c77e70b2a4a81087db01002514d40c195a180841969c"
+  },
+  {
+   "path": "media/creatures/Human/Spellcaster.usd",
+   "size": 1071988,
+   "sha256": "eb9ab2f58e7d72b512f90b522f2140369d550364bfcdcf84fa3d687078448ebd"
+  },
+  {
+   "path": "media/creatures/Human/Warrior.usd",
+   "size": 1161990,
+   "sha256": "e71154adca70d81f2e6b909390dc063078d2f2cca4fe0f51054b0df4db7a7fcf"
+  },
+  {
+   "path": "media/creatures/Humanoid/Birdfolk__4c2592b2.usd",
+   "size": 771516,
+   "sha256": "262b091b6d6cb5e4a1e9953b75fc6c71270be23d7545b947ebc2e9cb58f43020"
+  },
+  {
+   "path": "media/creatures/Humanoid/Birdfolk__a3234779.usd",
+   "size": 805062,
+   "sha256": "e70c1c9769241fa3f449c82b474c7fda9ae9012c52a3e3c192164182b0606a64"
+  },
+  {
+   "path": "media/creatures/Humanoid/Bugbear__38ce4811.usd",
+   "size": 964891,
+   "sha256": "c7a297b490be0112d6dad2ddf5120162327b1b6c72706cc96cea988b525d2c5a"
+  },
+  {
+   "path": "media/creatures/Humanoid/Bugbear__71cdee5c.usd",
+   "size": 973054,
+   "sha256": "702b196a3b4f148be6129ba42afc9fdda43eebe3bbf9e08fd673083f22a3232d"
+  },
+  {
+   "path": "media/creatures/Humanoid/Bugbear__dfe0eb06.usd",
+   "size": 891342,
+   "sha256": "9d4352cb162db3c22b420d77b39095b930067f45925d7012dd7e1c0e5ae0547e"
+  },
+  {
+   "path": "media/creatures/Humanoid/Catfolk Rogue.usd",
+   "size": 911701,
+   "sha256": "3667fe207c971c8baa18869920faf8df5f58a4f7fd5c63e91169ffc00cda743b"
+  },
+  {
+   "path": "media/creatures/Humanoid/Catfolk Warrior.usd",
+   "size": 981131,
+   "sha256": "5d2249dfe65023b1e7ce711f69933ed4f4411391428e4a587c15b1c29cd9662f"
+  },
+  {
+   "path": "media/creatures/Humanoid/Clockwork Warrior__6ba05c81.usd",
+   "size": 1077221,
+   "sha256": "96edefa347802a258aee110c5b95e58da7ec1fcb6a94da2b4207ace7fa9c0f50"
+  },
+  {
+   "path": "media/creatures/Humanoid/Clockwork Warrior__d2b8b571.usd",
+   "size": 1038008,
+   "sha256": "35b52379b85fa0b737248f85acd42c504d1e9480436c296c6fb8ff920036cf09"
+  },
+  {
+   "path": "media/creatures/Humanoid/Croaker Warrior.usd",
+   "size": 909768,
+   "sha256": "d051bac5d1d05dd253d1147c42b080cc87cc7f800c366b1dc2057122758da76f"
+  },
+  {
+   "path": "media/creatures/Humanoid/Fenfolk Shaman.usd",
+   "size": 932662,
+   "sha256": "4d8b0546ce6d1b77ce7fb0ca4dd4ede4185846985d13cc790d3a78ea08c409ab"
+  },
+  {
+   "path": "media/creatures/Humanoid/Fenfolk Spellcaster.usd",
+   "size": 918598,
+   "sha256": "6ea93acaf8ceb3901e0bc191de14fa5a10d23c7f9d036bc3aa2f1b503b17f74a"
+  },
+  {
+   "path": "media/creatures/Humanoid/Giller Warrior.usd",
+   "size": 769735,
+   "sha256": "04304f5ac45abf2acfc1a3421599448b1a0f5be5961943ffeeb8649e1d4d5ed2"
+  },
+  {
+   "path": "media/creatures/Humanoid/Gnoll Alchemist.usd",
+   "size": 936398,
+   "sha256": "b8d226a897a172e3eafb4b7d7dc59fe861cd63db690c30c6f0d63524fc6c2a83"
+  },
+  {
+   "path": "media/creatures/Humanoid/Gnoll Archer.usd",
+   "size": 938045,
+   "sha256": "341954db77e26c77c1d2a96432d42b7007fb72d33ce96339ba250f3d91b3b7e2"
+  },
+  {
+   "path": "media/creatures/Humanoid/Gnoll Fighter.usd",
+   "size": 1156710,
+   "sha256": "8117d7ce20e411babaa64949b39141c751eef8708c6d115e062114df719bf307"
+  },
+  {
+   "path": "media/creatures/Humanoid/Hag.usd",
+   "size": 1065934,
+   "sha256": "34f161fd9483215fb11da8652b96d8f9db529ee57bb821f4c39ca99667f22965"
+  },
+  {
+   "path": "media/creatures/Humanoid/Kobold Tinkerer.usd",
+   "size": 909749,
+   "sha256": "5f7e12f555b3ecba4c58303964a951e6abedc9b12180e759618da01e9bf1042c"
+  },
+  {
+   "path": "media/creatures/Humanoid/Kobold Warrior.usd",
+   "size": 921565,
+   "sha256": "c7adbc7a007f195a61a3e63d8b9d4a441be01eb5dcb017388a4f4d47bb544e13"
+  },
+  {
+   "path": "media/creatures/Humanoid/Lizardfolk Warrior.usd",
+   "size": 765421,
+   "sha256": "9e6fd15eb8a55fa91a2d089e8093695cfab94d133796df164e36873fbefbc745"
+  },
+  {
+   "path": "media/creatures/Humanoid/Minotaur.usd",
+   "size": 933759,
+   "sha256": "24e03033a3b326864bbdea1b513e6f197f788910914f7a90399fbafe873a032a"
+  },
+  {
+   "path": "media/creatures/Humanoid/Ratfolk Warrior.usd",
+   "size": 1079289,
+   "sha256": "32a14b9531d37938ee6ecffe2698e51383421f7a455f129bdef1b720e6912610"
+  },
+  {
+   "path": "media/creatures/Humanoid/Ravenfolk Rogue.usd",
+   "size": 951243,
+   "sha256": "f08418c088f82b39bcce4cb177d48e1a35536c24e72b6a41171df9dd974a2362"
+  },
+  {
+   "path": "media/creatures/Humanoid/Troglodyte Shaman.usd",
+   "size": 840020,
+   "sha256": "dec55661d2aef31a3b51387a030df50bb1392bd3ff91856a5cfdffc88ab7d474"
+  },
+  {
+   "path": "media/creatures/Humanoid/Troglodyte.usd",
+   "size": 747418,
+   "sha256": "d9fb48379673dabbcc65adc8079efe75bcc78ad986966ce12aa74472adc71105"
+  },
+  {
+   "path": "media/creatures/Monstrous/Black Pudding.usd",
+   "size": 252860,
+   "sha256": "768e073ecf5307d0e6432189dc438655abef9025a38b10ca9f11a4ed821ed1a5"
+  },
+  {
+   "path": "media/creatures/Monstrous/Burrow Beast.usd",
+   "size": 245664,
+   "sha256": "21eacae4a2784aef8a20aa9f8d40a4c9efd5aa8a6af301daf11136d9dd60ba44"
+  },
+  {
+   "path": "media/creatures/Monstrous/Carnivorous Plant.usd",
+   "size": 109175,
+   "sha256": "f054052ebbab493036451296b9ed9ee5568432d157809f4ba4d1c283653ec8b7"
+  },
+  {
+   "path": "media/creatures/Monstrous/Cave Horror.usd",
+   "size": 124874,
+   "sha256": "8c106098bc80c15bd52070f287ddb1714c73b7528d15d4ad3a95cafba2a289c0"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__7be32951.usd",
+   "size": 1241711,
+   "sha256": "e31b678ccee2260ea26a5d410a9b02db86b19fcdaf82fcb86bb249f685895e4d"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__884c74a1.usd",
+   "size": 1146310,
+   "sha256": "3e118522115d16242179a55d76b4e74225b95fde156356e3297ab3135229acfe"
+  },
+  {
+   "path": "media/creatures/Monstrous/Chimera.usd",
+   "size": 1145316,
+   "sha256": "1902c976e8992a27263376463aefd1fc2ed12cb29166d42d970ab717d197541a"
+  },
+  {
+   "path": "media/creatures/Monstrous/Cloaked Nightmare.usd",
+   "size": 300829,
+   "sha256": "ebc73c6a39d78e2f9250ad503718bbcb96a493316212e6070e773038a6ab96b1"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dracolich.usd",
+   "size": 836202,
+   "sha256": "83a93f8be238ada4af69c414a7efab5bf83bedbfc946be949ade8c29d14cd67a"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon, Black.usd",
+   "size": 1659573,
+   "sha256": "652df916c7003508f71082d14f5b65cfa57c86bec4b17cae97daea77976afcca"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon, Gold.usd",
+   "size": 1650227,
+   "sha256": "b7b495683855dcf8a914295ffda727c14d2f5b2dbdbecc90243d37822d01a02d"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon__dc39fae5.usd",
+   "size": 1650947,
+   "sha256": "fd53c135cdb78d42eaa0165bf25336d925a9b4450c39a2665ecf94f90c90779d"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon__e3c8c0d3.usd",
+   "size": 1662264,
+   "sha256": "90e5714678c86b28ccd089bed8eb2b39d7f8d335d92453cda66fa75dacbb0f62"
+  },
+  {
+   "path": "media/creatures/Monstrous/Drider.usd",
+   "size": 1081022,
+   "sha256": "3e1db949a04e02bf8dfea30153cf982fd308a6eac7ed93a02ab8b5b40fad7fc5"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gargoyle.usd",
+   "size": 688954,
+   "sha256": "79c15709b9f085d389246537b8ba6cbdca591907acc59c4a7a2023b3b88526c8"
+  },
+  {
+   "path": "media/creatures/Monstrous/Giant Worm.usd",
+   "size": 139215,
+   "sha256": "049977e50cdc997791833625dbd45255639298c2cbf04cc25565cc5a91657da7"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gorgon.usd",
+   "size": 1132531,
+   "sha256": "6bd1438d98184cd861b6d7ca3b70520dc335feb14332a5c4a4270f5d89bcb485"
+  },
+  {
+   "path": "media/creatures/Monstrous/Grick.usd",
+   "size": 150759,
+   "sha256": "0830a154b139e2f743d9d5c3ace7c6bf8d06979c633f173cf74a78a297ef1d55"
+  },
+  {
+   "path": "media/creatures/Monstrous/Griffon.usd",
+   "size": 1624969,
+   "sha256": "d0391e8ccd553dcfd566cf9b739d69f6ed1e0038b338a6c0d57347347505b87f"
+  },
+  {
+   "path": "media/creatures/Monstrous/Harpy.usd",
+   "size": 1958753,
+   "sha256": "ccf394f15a5d201bd8a5fff9e9f7535da6d7fb998705d802517464d8ebda340c"
+  },
+  {
+   "path": "media/creatures/Monstrous/Hydra.usd",
+   "size": 2581615,
+   "sha256": "618ad8bf20915d35f1cc6100fd54b02565c14ccf27918b7ad6ad60be270e3fe9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__36d67639.usd",
+   "size": 1148239,
+   "sha256": "e350d6064c98d1fd5db39c55ff3ae327bb9740fd6a88223512e1308005797a9e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__75df188c.usd",
+   "size": 1144808,
+   "sha256": "ff2b2a22c40d51c37e6764071ddcef02c77466b5c60a07bd5f955ff55d1c156c"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__a775d8b0.usd",
+   "size": 1148881,
+   "sha256": "93d55bbffd5ea9c1d99eea8fb4635ea6efafbc22ba083092a0d60d0bd8ceb643"
+  },
+  {
+   "path": "media/creatures/Monstrous/Manticore.usd",
+   "size": 918565,
+   "sha256": "5ea4f2cce0e35f4e1b9e1a517ed8d87f22630f235831b1a3c3c0b051f71d2e0e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__2ca6fd1c.usd",
+   "size": 947271,
+   "sha256": "aa43bb4b7b55e6aeed202b54d20667d9b72e8ef76afc1deed71fb3e6fb81c771"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__5c4cc17d.usd",
+   "size": 940263,
+   "sha256": "e2285ccbe1d70605f94eefbf20b2d5229164cb9637918a6d68bbaae681ca7a96"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__1901d976.usd",
+   "size": 201101,
+   "sha256": "009a5036be42ebbc7dee1557d651d434eca50fd8b5b3f8807b6aded5eee1aef7"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__2e039487.usd",
+   "size": 186027,
+   "sha256": "0ce323c3a1bf38758f70c9003308fcc49b5ab4e71b129d77d095a1f8a03947ab"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__a332a9be.usd",
+   "size": 107951,
+   "sha256": "651eb21a9fdb1e2cca1658151ad00162dfe6be57d0b7c1bab2e867b09234c8bb"
+  },
+  {
+   "path": "media/creatures/Monstrous/Reverse Centaur.usd",
+   "size": 889653,
+   "sha256": "73f7205235b9af4c3dafe3e7d6e9f757f04c5b5dbce51a557e2b71e1d0bd3b4e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Rust Eater.usd",
+   "size": 338297,
+   "sha256": "f3b763307cd2d19dd1d55518265efc8fbf77580975e1166b8a8d4a7032300b7d"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sea Monster.usd",
+   "size": 138912,
+   "sha256": "4aec4127695fe5be6745bdeafe2a58da1a3e444f56c97d4b364630c5a63c2133"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Archer.usd",
+   "size": 871351,
+   "sha256": "1ebd92e825ad77beb3828f905ae260c51b0534f979ae0acc8137e39b78d4ba16"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Caster.usd",
+   "size": 905058,
+   "sha256": "652b3061b2329afa879d5fe4208c18a14f26cc520802c41008b786a619972733"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Warrior.usd",
+   "size": 982626,
+   "sha256": "c2856ca36707bf40558fefab386f8a4debd12451135717c20ba9172d0411abdc"
+  },
+  {
+   "path": "media/creatures/Monstrous/Shambler.usd",
+   "size": 1281500,
+   "sha256": "341ddf7dab6e4ee5df4546d964e63e7b1a8ecd52f5aadd652d7a0d6d486aa54a"
+  },
+  {
+   "path": "media/creatures/Monstrous/Slime.usd",
+   "size": 254057,
+   "sha256": "869680b9fd43e487345d29a7dfe22e310664791ce7536cf84bd7c76dcfa67da2"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sphinx__a91b0cce.usd",
+   "size": 1832525,
+   "sha256": "f23a897643bd7e688dae210b0d07c9dd983af172f7cbdc70055bd767342372ba"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sphinx__e2f37589.usd",
+   "size": 1834096,
+   "sha256": "276ebb3c93bb8d9ef210c688ead089b39bc98e9453164e4eb1a0dd6101388291"
+  },
+  {
+   "path": "media/creatures/Monstrous/Stirge.usd",
+   "size": 255760,
+   "sha256": "f587e8896943f116d5a32ce44d73e5a14d39fe3016ac40dc1fb9437ed8511460"
+  },
+  {
+   "path": "media/creatures/Monstrous/Tentacle, Large.usd",
+   "size": 642952,
+   "sha256": "8100a643ec2d600ac7ed4dbd56f5f4f05d4ceca79ed7576575ad3ec2e8df54c5"
+  },
+  {
+   "path": "media/creatures/Monstrous/Troll.usd",
+   "size": 778179,
+   "sha256": "c347bdcbde7cfd90338cb23c502458342de068d99b869e724dcb51a86d0a14ba"
+  },
+  {
+   "path": "media/creatures/Monstrous/Werewolf.usd",
+   "size": 766918,
+   "sha256": "609ee5dc69f5fbac08095e2e95326fd607f120b3cd12c8759ab0b1617fb39c21"
+  },
+  {
+   "path": "media/creatures/Monstrous/Yeti.usd",
+   "size": 882617,
+   "sha256": "4fd78e5afd9294d327f0826e18619d8e4957ac22e44d262b6d7658cc22f6c843"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Bolter.usd",
+   "size": 1051325,
+   "sha256": "48c05c495eb74604b17681774eb42e7b8b4987626736914c2cd20eafa0903eb7"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Spellcaster.usd",
+   "size": 1030208,
+   "sha256": "7f52df0d6e52d5e4c807a9d3151e504b63ec994c8d8ff09699dec34c072288b7"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Warrior.usd",
+   "size": 1050379,
+   "sha256": "ec11abb26f9da384bf7c428ee408872d684789383a1d4a04dc48e1d561c83c50"
+  },
+  {
+   "path": "media/creatures/Undead/Banshee.usd",
+   "size": 794607,
+   "sha256": "648b2966e7f546dd1a85bd9ecffa3ac6981ee08b29fea642cc39c5219252e96b"
+  },
+  {
+   "path": "media/creatures/Undead/Blood Queen.usd",
+   "size": 967119,
+   "sha256": "1904f8570627c177bed4f5db847237a57f3d30aa8cd346a999881ced6272bc85"
+  },
+  {
+   "path": "media/creatures/Undead/Death Knight.usd",
+   "size": 1067352,
+   "sha256": "3902e6fa9102797cb9ae059bba4fbf6a178769c4f9fead5971303d9f8adbd07c"
+  },
+  {
+   "path": "media/creatures/Undead/Evil Spirit.usd",
+   "size": 787977,
+   "sha256": "b8b7a0a8950d6a9747f49e2860ca4ca227a0e9addfb320bac387888262bb599a"
+  },
+  {
+   "path": "media/creatures/Undead/Ghost.usd",
+   "size": 804377,
+   "sha256": "bc19fda8e41550bffa7de3080c53f530df19a6cf72713ebe779d7a9b834b61fa"
+  },
+  {
+   "path": "media/creatures/Undead/Ghoul.usd",
+   "size": 967776,
+   "sha256": "70fe484c8857b70fc2bc301c8433041328bc2955e559accf8b9fc0de5dd537ec"
+  },
+  {
+   "path": "media/creatures/Undead/Haunted Armor.usd",
+   "size": 1351286,
+   "sha256": "a18ee3d2accc4096e70b4017a70bfd56e9ea4380d5a843c11e1845b11d7c32a0"
+  },
+  {
+   "path": "media/creatures/Undead/Lich.usd",
+   "size": 641720,
+   "sha256": "10816a2cef5c86e9f7b1b51b2cd90c5b4b5d72b75730ba2b67980df124d9dacb"
+  },
+  {
+   "path": "media/creatures/Undead/Mummy.usd",
+   "size": 1188809,
+   "sha256": "c90d8c705dc9aa015ce79f46c868caf41e22f91eae4ab27b2d1e046220f62384"
+  },
+  {
+   "path": "media/creatures/Undead/Skeleton Archer.usd",
+   "size": 577458,
+   "sha256": "2c1084c1dd32abdbab4207b12dd364a0ac5b835e0cf8d601ae0f1a149e251070"
+  },
+  {
+   "path": "media/creatures/Undead/Skeleton Lord.usd",
+   "size": 641382,
+   "sha256": "ff4253e7f30c97a144942a5b5691456a528cd45f326f67e930424545332425a6"
+  },
+  {
+   "path": "media/creatures/Undead/Skeleton Warrior__d20324fd.usd",
+   "size": 660581,
+   "sha256": "ccdfee554d2a205fe4d0865376dbe3e033088d03423abd139cf96c95eb4a76d5"
+  },
+  {
+   "path": "media/creatures/Undead/Skeleton Warrior__e7c4802c.usd",
+   "size": 649731,
+   "sha256": "ed4238271a922803d6895628109669a577834b138c000ece75b8352a857e615c"
+  },
+  {
+   "path": "media/creatures/Undead/Vampire.usd",
+   "size": 1072924,
+   "sha256": "8baf9683ceb77c3396bd8697132b73dff1914d84e50e040037f45db36cf2ccb9"
+  },
+  {
+   "path": "media/creatures/Undead/Zombie, Dwarf.usd",
+   "size": 1134446,
+   "sha256": "46e05d7c67406694442e141402eab9a9748dcb20dbbd039f9af19407df1dab17"
+  },
+  {
+   "path": "media/creatures/Undead/Zombie, Elf.usd",
+   "size": 1033275,
+   "sha256": "dddb7200cb00f01a76e602a40de768145e6c8005e651230f4b6b43f46a231e38"
+  },
+  {
+   "path": "media/creatures/Undead/Zombie__6457b863.usd",
+   "size": 1065668,
+   "sha256": "24e871cac6fbfe503b73c615bc5fff6f4c7688a69692beae0db651e378829b39"
+  },
+  {
+   "path": "media/creatures/Undead/Zombie__729c5a08.usd",
+   "size": 1073314,
+   "sha256": "4a1ca252ce92f14f8987e36943be59b87aa2a4afa1c110c363a4761efd51db89"
+  },
+  {
+   "path": "media/creatures/Undead/Zombie__b7b0795e.usd",
+   "size": 1074747,
+   "sha256": "a113b09f62e7e5db462d2c3deb5233d4e3c36504c425dc9a10454a59e3ad4332"
+  },
+  {
+   "path": "media/creatures/Undead/Zombie__c4109b05.usd",
+   "size": 975902,
+   "sha256": "3baefcf3d4e686caac729dd9a6a8fec6ec402a4c97743db0b065b74835247f0d"
+  },
+  {
+   "path": "media/materials/Library.usdc",
+   "size": 19724,
+   "sha256": "c24d21cc536ed131cf8633109bc9ffdf7e045cd0c2da1da90544a18c4fa9d5ba"
+  },
+  {
+   "path": "media/materials/textures/basalt.png",
+   "size": 25957,
+   "sha256": "e7295df0b2356c29812c23d4ee8cfcbbab04ee3eb5f20f52d281a6846c8f2e96"
+  },
+  {
+   "path": "media/materials/textures/basalt_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/blue.png",
+   "size": 29622,
+   "sha256": "bb2482f15178dd7ed1883b5558bae3c5db1e6f63dfb0a562b16da3cffcd80add"
+  },
+  {
+   "path": "media/materials/textures/blue_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bluefire.png",
+   "size": 40884,
+   "sha256": "95947aba8ef1863b10a5ceb035363c014f49bb066a629334e6b9fb0c0b2a2a57"
+  },
+  {
+   "path": "media/materials/textures/bluefire_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bone.png",
+   "size": 52095,
+   "sha256": "60127b0b9d500672ffa4413c2e0331968daf672f9edbbc58e031bd20a24410ce"
+  },
+  {
+   "path": "media/materials/textures/bone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/brass.png",
+   "size": 45700,
+   "sha256": "7653b7e6c813911303d183fd977ca9007540d1f30b8a647ce49a9b4b25479a7e"
+  },
+  {
+   "path": "media/materials/textures/brass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/fur.png",
+   "size": 32075,
+   "sha256": "e6ebdc6bf38121ac2caa3f246dbf760ceb5f618f67a707849f43ac55ee75e56d"
+  },
+  {
+   "path": "media/materials/textures/fur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ghost.png",
+   "size": 46813,
+   "sha256": "6b86f729a542c078e35015b96d3bdf6bb6fd252e59dc931fbd818c4ac61d0809"
+  },
+  {
+   "path": "media/materials/textures/ghost_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/goblinskin.png",
+   "size": 40654,
+   "sha256": "bc088b6cce6935a3e38a4e34d3f8e553b7269a409f04d5892d4bb7bcbb804e7a"
+  },
+  {
+   "path": "media/materials/textures/goblinskin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/grass.png",
+   "size": 37697,
+   "sha256": "f6440b6a238240b171a02d0a9abfa1db6e3b23470ea136796156c95dc85ecb1a"
+  },
+  {
+   "path": "media/materials/textures/grass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ice.png",
+   "size": 54673,
+   "sha256": "1776de4df5a1aa0fd4c24462a5bf2188a02dd0f291b002f76689f64c7401183f"
+  },
+  {
+   "path": "media/materials/textures/ice_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/iron.png",
+   "size": 33226,
+   "sha256": "b819ee206156042e76233baf2e2abdb7f0a4a0ae5bc64a26cfaaec7a6fae6a3b"
+  },
+  {
+   "path": "media/materials/textures/iron_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/jade.png",
+   "size": 33655,
+   "sha256": "449a6862f41cf33514e10aa482f65a2dd957d8accc0e776a061972b2b5323771"
+  },
+  {
+   "path": "media/materials/textures/jade_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/lava.png",
+   "size": 36124,
+   "sha256": "f4f7e6f7c9f527d2c962cacf29c83a795a16ecc66640854685970879a3f94e4c"
+  },
+  {
+   "path": "media/materials/textures/lava_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/leather.png",
+   "size": 22325,
+   "sha256": "5466b2bd41efecafe9089281e6fca4ca93def727a9c16cafc86dadf55d211774"
+  },
+  {
+   "path": "media/materials/textures/leather_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/limestone.png",
+   "size": 49995,
+   "sha256": "bf8ce44b291f665ea0c34f28befb206e92da7202b60d7b8ebdfc5fe801118ee9"
+  },
+  {
+   "path": "media/materials/textures/limestone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/marble.png",
+   "size": 31933,
+   "sha256": "d8c25c02c17e9076c1bb4fb692d360f9fb31c298ca833d8c244e306ff3604ae7"
+  },
+  {
+   "path": "media/materials/textures/marble_normal.png",
+   "size": 29285,
+   "sha256": "d4e5ab67529195c5a5be286a022e1e9c8058b9b614eadb7612942462d083a0ef"
+  },
+  {
+   "path": "media/materials/textures/mortar.png",
+   "size": 30700,
+   "sha256": "0749995c21d077be43c42b8de716a7992549eb89f73ba68253792accc4dc03e9"
+  },
+  {
+   "path": "media/materials/textures/mortar_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/oak.png",
+   "size": 44710,
+   "sha256": "cdf8ce500e0145dddaba5408a7bb6b6013c72e37ae225e23903efb16b6eaebd5"
+  },
+  {
+   "path": "media/materials/textures/oak_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  },
+  {
+   "path": "media/materials/textures/paper.png",
+   "size": 52363,
+   "sha256": "e8344646e132da563f18a9157fbf98bd778a6070ac4443ad6e3f209bb2b04fa6"
+  },
+  {
+   "path": "media/materials/textures/paper_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/plaster.png",
+   "size": 51787,
+   "sha256": "7a4c5f149f38204773143f16e06851f33496c436db368fe8a964a390873bfc2e"
+  },
+  {
+   "path": "media/materials/textures/plaster_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/red.png",
+   "size": 30685,
+   "sha256": "efbdd3cc8b5c72553f9db3b9c26860b5c364c1f321b3aa6012ecb45130633ed4"
+  },
+  {
+   "path": "media/materials/textures/red_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rope.png",
+   "size": 44507,
+   "sha256": "24b4fed56ade7e162aa38fcd54886e3c2730f38af4befb25c843422a278e5bbb"
+  },
+  {
+   "path": "media/materials/textures/rope_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rose.png",
+   "size": 51725,
+   "sha256": "e0e37ae18b6906a144680a1155de6ffad7e2bb083d9999fff0363e5112aee4d2"
+  },
+  {
+   "path": "media/materials/textures/rose_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/sand.png",
+   "size": 36961,
+   "sha256": "85886e8f7b3434815829178445b87ff6158c13e8164a8ffda3993c2f221a24cc"
+  },
+  {
+   "path": "media/materials/textures/sand_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/sandstone.png",
+   "size": 47840,
+   "sha256": "ef16b0605a795be8f93f5af413856bbace96ad202e7236059578339d185c3007"
+  },
+  {
+   "path": "media/materials/textures/sandstone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/scales.png",
+   "size": 35840,
+   "sha256": "b1bed18fc93d1ce569ba48331159220c33f9c0feacf02155e12816a7bcaf1e2d"
+  },
+  {
+   "path": "media/materials/textures/scales_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/skin.png",
+   "size": 46985,
+   "sha256": "5ca6e03744c454380928115d5223e4630134a27767a7b26dcfba204d1c4fcf47"
+  },
+  {
+   "path": "media/materials/textures/skin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/snow.png",
+   "size": 42837,
+   "sha256": "0d8d0cd049935a17e0b71ebea93ac5e8f823a998dd72ba10e283741ead9d4260"
+  },
+  {
+   "path": "media/materials/textures/snow_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/soil.png",
+   "size": 32264,
+   "sha256": "4c90d4c1a131223b16a1e4b20de7aa877cded6e90e932f4df75e0e9ec652f615"
+  },
+  {
+   "path": "media/materials/textures/soil_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/steel.png",
+   "size": 49671,
+   "sha256": "eea5cdd9f65ec98b43afd1f7e80a070c60c40fcb61812c4f3c3d6d16c9d95e38"
+  },
+  {
+   "path": "media/materials/textures/steel_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/stone.png",
+   "size": 42272,
+   "sha256": "e4f23d37e5e6d3a83d836d06089b88547117cb6b8978b3b448796eaa655d2ec9"
+  },
+  {
+   "path": "media/materials/textures/stone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/tanfur.png",
+   "size": 44965,
+   "sha256": "5c21a980f0db8b2fcc14c81ba8f6b487e73dd27d2a4bfe3e5000650534d675a7"
+  },
+  {
+   "path": "media/materials/textures/tanfur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/water.png",
+   "size": 29402,
+   "sha256": "a7861a6a33fa96041dd14a7c2ea61c48bfc767b4fbb3e2a2add4fcc74a347850"
+  },
+  {
+   "path": "media/materials/textures/water_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/wood.png",
+   "size": 36098,
+   "sha256": "93be5dba40fb0504f65177b720e06059d439aaf10c0c215617ba6fe9e55769f9"
+  },
+  {
+   "path": "media/materials/textures/wood_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Dread Observer",
+   "kind": "creature",
+   "thumb": "thumbs/f4b2fa61-71ce-4639-bca7-2644c4ce580f.jpg",
+   "tags": [
+    "aberration",
+    "observer",
+    "eye",
+    "eyes",
+    "tentacle",
+    "tentacles",
+    "flying",
+    "horror"
+   ]
+  },
+  {
+   "name": "Igril",
+   "kind": "creature",
+   "thumb": "thumbs/263de74e-f830-43a8-8eed-ebec473af83e.jpg",
+   "tags": [
+    "aberration",
+    "igril",
+    "flying",
+    "tentacle",
+    "tentacles",
+    "beak",
+    "insect"
+   ]
+  },
+  {
+   "name": "MindCrawler",
+   "kind": "creature",
+   "thumb": "thumbs/32a95c45-7452-41fb-88b3-0eb92edfce0c.jpg",
+   "tags": [
+    "aberration",
+    "brain",
+    "mind",
+    "feeder",
+    "crawler",
+    "skull",
+    "shell"
+   ]
+  },
+  {
+   "name": "Otyugh",
+   "kind": "creature",
+   "thumb": "thumbs/ae31571c-75ae-4d06-9294-acd121f51c92.jpg",
+   "tags": [
+    "aberration",
+    "otyugh",
+    "monster",
+    "monstrous",
+    "monstrosity",
+    "teeth",
+    "tongue"
+   ]
+  },
+  {
+   "name": "Slaagoth",
+   "kind": "creature",
+   "thumb": "thumbs/5a15409a-41fb-4e4c-b8ac-5782dfeb8ed1.jpg",
+   "tags": [
+    "aberration",
+    "slaagoth",
+    "horns",
+    "green",
+    "claws",
+    "toad"
+   ]
+  },
+  {
+   "name": "WritheMind",
+   "kind": "creature",
+   "thumb": "thumbs/bfc512c8-a646-4aec-91e1-8d1c76715cd1.jpg",
+   "tags": [
+    "aberration",
+    "writhemind",
+    "writhe",
+    "mind",
+    "brain",
+    "tentacle",
+    "tentacles"
+   ]
+  },
+  {
+   "name": "Bat, Giant",
+   "kind": "creature",
+   "thumb": "thumbs/62fe21da-003b-4e3b-9b29-a690036b4ea2.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "large",
+    "bat",
+    "flying",
+    "fur",
+    "wings",
+    "chaotic"
+   ]
+  },
+  {
+   "name": "Bear, Cave",
+   "kind": "creature",
+   "thumb": "thumbs/d58ff25c-57ca-418a-975d-a2015d9416b4.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "large",
+    "bear",
+    "fur",
+    "chaotic",
+    "neutral",
+    "claws"
+   ]
+  },
+  {
+   "name": "Beaver",
+   "kind": "creature",
+   "thumb": "thumbs/89afe125-360b-49b2-9b07-757fdbdcf44c.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "fur",
+    "beaver",
+    "mammal",
+    "brown"
+   ]
+  },
+  {
+   "name": "Boar",
+   "kind": "creature",
+   "thumb": "thumbs/5a03d546-df4a-4a7a-a3a0-82e91d5a2f67.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "boar",
+    "pig",
+    "mammal",
+    "quadruped",
+    "medium",
+    "fur"
+   ]
+  },
+  {
+   "name": "Camel",
+   "kind": "creature",
+   "thumb": "thumbs/d86a1177-213b-4e0c-a963-7c69919cd340.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "camel",
+    "large",
+    "fur",
+    "chaotic",
+    "neutral",
+    "tail"
+   ]
+  },
+  {
+   "name": "Cat, Black & White",
+   "kind": "creature",
+   "thumb": "thumbs/feb9d23b-c07a-4e14-ac3b-c88a9c011ee6.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "cat",
+    "tiny",
+    "fur",
+    "chaotic",
+    "neutral",
+    "tail"
+   ]
+  },
+  {
+   "name": "Cat",
+   "kind": "creature",
+   "thumb": "thumbs/20b739bb-8185-4fea-8450-2db0002c8827.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "cat",
+    "orange",
+    "small",
+    "fur"
+   ]
+  },
+  {
+   "name": "Centipede, Giant",
+   "kind": "creature",
+   "thumb": "thumbs/a5dcaa95-3ada-4e0a-9c1c-3e7e8335a35f.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "large",
+    "insect",
+    "chaotic",
+    "neutral",
+    "black",
+    "red"
+   ]
+  },
+  {
+   "name": "Chicken",
+   "kind": "creature",
+   "thumb": "thumbs/910ec555-8660-419c-bac5-5d2333b3375d.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "chicken",
+    "tiny",
+    "feather",
+    "wings",
+    "chaotic",
+    "neutral"
+   ]
+  },
+  {
+   "name": "Cow",
+   "kind": "creature",
+   "thumb": "thumbs/89f83011-89e2-4ad0-973d-522ef4ee03c9.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "cow",
+    "large",
+    "fur",
+    "chaotic",
+    "neutral",
+    "tail"
+   ]
+  },
+  {
+   "name": "Crab, Giant",
+   "kind": "creature",
+   "thumb": "thumbs/57d85e12-b3f9-4370-8bcf-0a356522ffb7.jpg",
+   "tags": [
+    "beast",
+    "giant",
+    "crab",
+    "ocean",
+    "underwater",
+    "wild",
+    "harbor",
+    "orange"
+   ]
+  },
+  {
+   "name": "Crane",
+   "kind": "creature",
+   "thumb": "thumbs/a0aba0f6-5dc3-4991-9e5b-332dd8126a9a.jpg",
+   "tags": [
+    "beast",
+    "crane",
+    "bird",
+    "feather",
+    "feathers",
+    "wings",
+    "beak",
+    "white"
+   ]
+  },
+  {
+   "name": "Crocodile",
+   "kind": "creature",
+   "thumb": "thumbs/28f7710e-9f79-425b-ac6e-216677454ec3.jpg",
+   "tags": [
+    "beast",
+    "crocodile",
+    "animal",
+    "lizard",
+    "alligator",
+    "large",
+    "scales",
+    "chaotic"
+   ]
+  },
+  {
+   "name": "Dog, German Shepherd",
+   "kind": "creature",
+   "thumb": "thumbs/ffb8d506-97c5-4d08-8be3-bbd0f997e215.jpg",
+   "tags": [
+    "beast",
+    "dog",
+    "canine",
+    "german",
+    "shepherd",
+    "fur"
+   ]
+  },
+  {
+   "name": "Dog",
+   "kind": "creature",
+   "thumb": "thumbs/62d50617-d605-4aec-aadf-2c6840ad23d0.jpg",
+   "tags": [
+    "beast",
+    "dog",
+    "animal",
+    "domestic"
+   ]
+  },
+  {
+   "name": "Doplhin",
+   "kind": "creature",
+   "thumb": "thumbs/5ad3cb95-6cc5-4b22-9295-0d5dfce82575.jpg",
+   "tags": [
+    "beast",
+    "dolphin",
+    "fish",
+    "ocean",
+    "fin",
+    "underwater",
+    "wild",
+    "harbor"
+   ]
+  },
+  {
+   "name": "Elk",
+   "kind": "creature",
+   "thumb": "thumbs/4a32bbc4-f31f-4db9-b917-a211c7705e3f.jpg",
+   "tags": [
+    "beast",
+    "deer",
+    "elk",
+    "brown",
+    "gray",
+    "hooves",
+    "large",
+    "wild"
+   ]
+  },
+  {
+   "name": "Ferret",
+   "kind": "creature",
+   "thumb": "thumbs/2ddac550-abba-406a-bf18-7068d1dfaf9b.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "fur",
+    "ferret",
+    "mammal"
+   ]
+  },
+  {
+   "name": "Goat 01",
+   "kind": "creature",
+   "thumb": "thumbs/71a127d8-a437-414d-a845-a39606a8a2fa.jpg",
+   "tags": [
+    "beast",
+    "goat",
+    "animal",
+    "medium",
+    "chaotic",
+    "neutral",
+    "tail",
+    "hooves"
+   ]
+  },
+  {
+   "name": "Goose",
+   "kind": "creature",
+   "thumb": "thumbs/c4f92127-9c5d-476b-a08c-45d25dabe38d.jpg",
+   "tags": [
+    "beast",
+    "pillow",
+    "wings",
+    "evil",
+    "bird",
+    "goose",
+    "white",
+    "feather"
+   ]
+  },
+  {
+   "name": "Horse",
+   "kind": "creature",
+   "thumb": "thumbs/930b9619-5a9a-4e24-aaa2-2366c96c77d5.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "horse",
+    "large",
+    "chaotic",
+    "neutral",
+    "tail",
+    "hooves"
+   ]
+  },
+  {
+   "name": "Hyena",
+   "kind": "creature",
+   "thumb": "thumbs/a0655870-9b3a-4d97-8103-501fbfee067e.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "hyena",
+    "brown",
+    "tan",
+    "medium",
+    "unaligned",
+    "claws"
+   ]
+  },
+  {
+   "name": "Monkey (Snub-nosed)",
+   "kind": "creature",
+   "thumb": "thumbs/40f0564f-a411-4c23-b3cc-27eb0d5b2093.jpg",
+   "tags": [
+    "beast",
+    "monkey",
+    "ape",
+    "animal",
+    "orange",
+    "small",
+    "medium",
+    "fur"
+   ]
+  },
+  {
+   "name": "Mule, Pack",
+   "kind": "creature",
+   "thumb": "thumbs/1393b9a4-8c33-42b5-b3f5-30b8e23cc6dd.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "medium",
+    "donkey",
+    "mule",
+    "grey",
+    "chaotic",
+    "neutral"
+   ]
+  },
+  {
+   "name": "Mule",
+   "kind": "creature",
+   "thumb": "thumbs/83e2e8f8-e0fd-4fd6-92d8-157dc57292d0.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "medium",
+    "donkey",
+    "mule",
+    "chaotic",
+    "neutral",
+    "tail"
+   ]
+  },
+  {
+   "name": "Narwhal",
+   "kind": "creature",
+   "thumb": "thumbs/b2096eca-7204-47a8-86ce-686e82b4363f.jpg",
+   "tags": [
+    "beast",
+    "narwhal",
+    "whale",
+    "fish",
+    "underwater",
+    "wild",
+    "harbor",
+    "swimming"
+   ]
+  },
+  {
+   "name": "Octopus",
+   "kind": "creature",
+   "thumb": "thumbs/c2a8eabc-ede5-459d-b6d2-b81becd82c9b.jpg",
+   "tags": [
+    "beast",
+    "octopus",
+    "ocean",
+    "water",
+    "animal",
+    "underwater",
+    "wild",
+    "harbor"
+   ]
+  },
+  {
+   "name": "Owl",
+   "kind": "creature",
+   "thumb": "thumbs/7e9184d4-5ac1-48ba-8aaa-d4cf2e65f933.jpg",
+   "tags": [
+    "beast",
+    "owl",
+    "animal",
+    "bird",
+    "flying",
+    "tiny",
+    "wings",
+    "chaotic"
+   ]
+  },
+  {
+   "name": "Owlbear",
+   "kind": "creature",
+   "thumb": "thumbs/2c734808-cb4f-4425-a8cc-977c2a1ee5fa.jpg",
+   "tags": [
+    "beast",
+    "owlbear",
+    "owl",
+    "bear",
+    "animal",
+    "claws",
+    "beak",
+    "fur"
+   ]
+  },
+  {
+   "name": "Pig",
+   "kind": "creature",
+   "thumb": "thumbs/9ccc5edb-6bb5-4a82-83aa-e5e5775e8f07.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "pig",
+    "medium",
+    "chaotic",
+    "neutral",
+    "hooves",
+    "tail"
+   ]
+  },
+  {
+   "name": "Pterodactyl",
+   "kind": "creature",
+   "thumb": "thumbs/65c7d0dc-7cbe-4cd9-8592-24a9bfcc4508.jpg",
+   "tags": [
+    "beast",
+    "dinosaur",
+    "pterodactyl",
+    "reptile",
+    "dinosuar",
+    "lizzard",
+    "flying",
+    "wings"
+   ]
+  },
+  {
+   "name": "Rabbit",
+   "kind": "creature",
+   "thumb": "thumbs/f6868f01-cf24-433d-a887-46083a288e69.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "hare",
+    "rabbit",
+    "white",
+    "pink",
+    "wild"
+   ]
+  },
+  {
+   "name": "Raccoon",
+   "kind": "creature",
+   "thumb": "thumbs/b807a78d-b704-4709-acea-4ec37aa03b0e.jpg",
+   "tags": [
+    "beast",
+    "raccoon",
+    "animal",
+    "wild",
+    "trash",
+    "panda"
+   ]
+  },
+  {
+   "name": "Raptor",
+   "kind": "creature",
+   "thumb": "thumbs/8fa8c4bf-aa48-4257-bbfe-6fea5bacdfed.jpg",
+   "tags": [
+    "beast",
+    "dinosuar",
+    "lizzard",
+    "green",
+    "dinosaur",
+    "reptile",
+    "bipedal",
+    "biped"
+   ]
+  },
+  {
+   "name": "Rat, Giant",
+   "kind": "creature",
+   "thumb": "thumbs/d8c8a8e0-c452-48ad-9ecd-aba5e54cf235.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "rat",
+    "small",
+    "fur",
+    "chaotic",
+    "neutral",
+    "tail"
+   ]
+  },
+  {
+   "name": "Raven",
+   "kind": "creature",
+   "thumb": "thumbs/0eccf296-c033-4264-b2c6-2f83e3fc4969.jpg",
+   "tags": [
+    "beast",
+    "crow",
+    "raven",
+    "flying",
+    "feather",
+    "black",
+    "beak"
+   ]
+  },
+  {
+   "name": "Rooster",
+   "kind": "creature",
+   "thumb": "thumbs/8e3155e4-d303-4f5f-ad7a-f1e8a0a223fb.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "rooster",
+    "small",
+    "wings",
+    "feather",
+    "chaotic",
+    "neutral"
+   ]
+  },
+  {
+   "name": "Scorpion, Giant",
+   "kind": "creature",
+   "thumb": "thumbs/cbc7ecbf-5d0d-4177-9914-76ed41f4b114.jpg",
+   "tags": [
+    "beast",
+    "giant",
+    "animal",
+    "scorpion",
+    "large",
+    "exoskeleton",
+    "chaotic",
+    "neutral"
+   ]
+  },
+  {
+   "name": "Shark, Great White",
+   "kind": "creature",
+   "thumb": "thumbs/ac0de4cc-c084-4720-9902-623249d17c91.jpg",
+   "tags": [
+    "beast",
+    "monstrous",
+    "fish",
+    "animal",
+    "shark",
+    "underwater",
+    "ocean",
+    "docks"
+   ]
+  },
+  {
+   "name": "Snake, Giant",
+   "kind": "creature",
+   "thumb": "thumbs/4579458f-77da-48cb-b626-f4e93b10062b.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "large",
+    "snake",
+    "reptile",
+    "chaotic",
+    "neutral",
+    "teeth"
+   ]
+  },
+  {
+   "name": "Snapper, Giant",
+   "kind": "creature",
+   "thumb": "thumbs/3dd48e33-73ef-4e9b-aa61-c7edb454f5e4.jpg",
+   "tags": [
+    "beast",
+    "turtle",
+    "snapper",
+    "animal",
+    "swamp",
+    "reptile",
+    "green",
+    "quadruped"
+   ]
+  },
+  {
+   "name": "Spider, Giant",
+   "kind": "creature",
+   "thumb": "thumbs/e43b9f74-465b-4d6e-bb22-c8074fee2869.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "medium",
+    "spider",
+    "chaotic",
+    "neutral",
+    "black",
+    "grey"
+   ]
+  },
+  {
+   "name": "Swarm, Rats",
+   "kind": "creature",
+   "thumb": "thumbs/9c95cb8d-9551-4065-98cb-4fd1d34917aa.jpg",
+   "tags": [
+    "beast",
+    "rat",
+    "swarm",
+    "vermin",
+    "tide",
+    "tail",
+    "fur",
+    "rats"
+   ]
+  },
+  {
+   "name": "Toad, Giant",
+   "kind": "creature",
+   "thumb": "thumbs/2890b867-71a8-4fe9-9894-4f48fcea3f6b.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "large",
+    "toad",
+    "giant",
+    "chaotic",
+    "neutral",
+    "brown"
+   ]
+  },
+  {
+   "name": "Turkey",
+   "kind": "creature",
+   "thumb": "thumbs/f2c5b70b-154f-4f40-aca9-5e9c1ef53d65.jpg",
+   "tags": [
+    "beast",
+    "bird",
+    "turkey",
+    "feather",
+    "food",
+    "wild",
+    "animal",
+    "beak"
+   ]
+  },
+  {
+   "name": "Wolf, Vicious",
+   "kind": "creature",
+   "thumb": "thumbs/0d8a372c-7d6c-4ef5-9ff2-1559b5021830.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "medium",
+    "wolf",
+    "mammal",
+    "quadruped",
+    "dog",
+    "black"
+   ]
+  },
+  {
+   "name": "Celestial Guardian 2",
+   "kind": "creature",
+   "thumb": "thumbs/dbb9d975-0313-4f9a-a6d4-51d1b8985451.jpg",
+   "tags": [
+    "celestial",
+    "guardian",
+    "plate",
+    "spear",
+    "wings",
+    "angel",
+    "aasimar"
+   ]
+  },
+  {
+   "name": "Celestial Guardian",
+   "kind": "creature",
+   "thumb": "thumbs/0e919ce8-61e4-42cc-b7d1-ce10526f3d5c.jpg",
+   "tags": [
+    "celestial",
+    "guardian",
+    "plate",
+    "shield",
+    "sword",
+    "wings",
+    "angel",
+    "aasimar"
+   ]
+  },
+  {
+   "name": "Unicorn",
+   "kind": "creature",
+   "thumb": "thumbs/da3ee1e4-173e-458c-ac06-536f1053553d.jpg",
+   "tags": [
+    "celestial",
+    "monster",
+    "unicorn",
+    "horse",
+    "white",
+    "magic",
+    "horn",
+    "wild"
+   ]
+  },
+  {
+   "name": "Clay Golem",
+   "kind": "creature",
+   "thumb": "thumbs/e4051457-473b-4dd7-8910-bf3bdf7fed25.jpg",
+   "tags": [
+    "constructs",
+    "large",
+    "golem",
+    "construct",
+    "clay",
+    "bipedal",
+    "biped",
+    "tan"
+   ]
+  },
+  {
+   "name": "Golem, Flesh",
+   "kind": "creature",
+   "thumb": "thumbs/fbbcac23-a5a6-4ffe-8500-0734a87b9f5c.jpg",
+   "tags": [
+    "constructs",
+    "fleshgolem",
+    "golem",
+    "biped",
+    "bipedal",
+    "construct",
+    "humanoid",
+    "monster"
+   ]
+  },
+  {
+   "name": "Homunculus, Buttons",
+   "kind": "creature",
+   "thumb": "thumbs/f47f7e86-bbf2-4995-a452-9a6eb76e9983.jpg",
+   "tags": [
+    "constructs",
+    "alchemy",
+    "homunculus",
+    "monster",
+    "construct",
+    "small",
+    "quadruped",
+    "tan"
+   ]
+  },
+  {
+   "name": "Magic Weapon",
+   "kind": "creature",
+   "thumb": "thumbs/eaceea7a-a5ab-4a39-bbfe-69c20cafb2fe.jpg",
+   "tags": [
+    "constructs",
+    "weapon",
+    "small",
+    "animatedweapon",
+    "animatedobject",
+    "spiritualweapon",
+    "magic",
+    "neutral"
+   ]
+  },
+  {
+   "name": "Scarecrow",
+   "kind": "creature",
+   "thumb": "thumbs/d3cce6b7-92d2-406a-977a-ec16707063f7.jpg",
+   "tags": [
+    "constructs",
+    "monstrous",
+    "medium",
+    "pumpkin",
+    "farm",
+    "scythe",
+    "monster",
+    "chaotic"
+   ]
+  },
+  {
+   "name": "Astronaut 2",
+   "kind": "creature",
+   "thumb": "thumbs/fa0ff88c-557b-4c09-be9f-081ec22afe27.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "astronaut",
+    "space",
+    "explorer",
+    "white",
+    "brown"
+   ]
+  },
+  {
+   "name": "Astronaut",
+   "kind": "creature",
+   "thumb": "thumbs/44237b68-2f39-4c6d-bf5a-546af35ca818.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "astronaut",
+    "space",
+    "explorer",
+    "white",
+    "brown"
+   ]
+  },
+  {
+   "name": "Bio Agent 2",
+   "kind": "creature",
+   "thumb": "thumbs/b1d9968e-bccf-4086-af84-ad0c67041294.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "soldier",
+    "toxic",
+    "bio",
+    "agent",
+    "gun",
+    "law",
+    "government"
+   ]
+  },
+  {
+   "name": "Bio Agent 3",
+   "kind": "creature",
+   "thumb": "thumbs/f140b418-b43a-4769-a688-c00d9ad61db7.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "soldier",
+    "agent",
+    "bio",
+    "toxic",
+    "law",
+    "government",
+    "cyberpunk"
+   ]
+  },
+  {
+   "name": "Bio Agent",
+   "kind": "creature",
+   "thumb": "thumbs/599e0109-038a-463a-b989-f77e8ec7f189.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "soldier",
+    "toxic",
+    "bio",
+    "agent",
+    "gun",
+    "law",
+    "government"
+   ]
+  },
+  {
+   "name": "Citizen 2",
+   "kind": "creature",
+   "thumb": "thumbs/a1bf5476-b5a6-4896-b60e-baed58f98040.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "human",
+    "citizen",
+    "city",
+    "person"
+   ]
+  },
+  {
+   "name": "Citizen",
+   "kind": "creature",
+   "thumb": "thumbs/69c920ea-b1b6-459a-a142-3883b6e30963.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "human",
+    "citizen",
+    "city",
+    "person"
+   ]
+  },
+  {
+   "name": "Corporate Worker 2",
+   "kind": "creature",
+   "thumb": "thumbs/d2d41216-4da7-41ce-8e2f-7867cb308a1e.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "human",
+    "worker",
+    "citizen",
+    "wage",
+    "corporate",
+    "boss",
+    "employee"
+   ]
+  },
+  {
+   "name": "Corporate Worker 3",
+   "kind": "creature",
+   "thumb": "thumbs/de874066-3a19-473d-a40f-971fd12fb5ec.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "human",
+    "worker",
+    "citizen",
+    "wage",
+    "corporate",
+    "employee",
+    "boss"
+   ]
+  },
+  {
+   "name": "Corporate Worker",
+   "kind": "creature",
+   "thumb": "thumbs/95f51fa8-e30f-4ddb-83a6-00b04fc2904a.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "human",
+    "worker",
+    "citizen",
+    "wage",
+    "corporate",
+    "employee",
+    "boss"
+   ]
+  },
+  {
+   "name": "Cyber Soldier",
+   "kind": "creature",
+   "thumb": "thumbs/fd695e82-aa9f-4d1a-94a2-2766ee939633.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "soldier",
+    "cyber",
+    "military",
+    "warrior",
+    "gun",
+    "agent",
+    "law"
+   ]
+  },
+  {
+   "name": "Droid",
+   "kind": "creature",
+   "thumb": "thumbs/6b617d82-603e-42b8-bfb2-0e4336177093.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "droid",
+    "robot",
+    "robotic",
+    "metal",
+    "ai",
+    "cyberpunk"
+   ]
+  },
+  {
+   "name": "Hacker",
+   "kind": "creature",
+   "thumb": "thumbs/a1370982-7b79-48b9-ae51-2aae607ac54e.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "punk",
+    "cyber",
+    "gang",
+    "hacker",
+    "decker",
+    "gun",
+    "computer"
+   ]
+  },
+  {
+   "name": "Law Enforcement 2",
+   "kind": "creature",
+   "thumb": "thumbs/c5392549-a08c-404b-ac68-702cb7a6e81d.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "soldier",
+    "police",
+    "cops",
+    "cop",
+    "gun",
+    "law",
+    "government"
+   ]
+  },
+  {
+   "name": "Law Enforcement 3",
+   "kind": "creature",
+   "thumb": "thumbs/cefe2805-8a46-4ead-935a-4b0c43d37965.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "soldier",
+    "police",
+    "cops",
+    "cop",
+    "gun",
+    "law",
+    "government"
+   ]
+  },
+  {
+   "name": "Law Enforcement 4",
+   "kind": "creature",
+   "thumb": "thumbs/f9ac52c7-d902-4378-8b31-de83c494bf75.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "soldier",
+    "police",
+    "cops",
+    "cop",
+    "gun",
+    "law",
+    "government"
+   ]
+  },
+  {
+   "name": "Law Enforcement",
+   "kind": "creature",
+   "thumb": "thumbs/66a1d89a-b825-4eda-918a-73768684c437.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "soldier",
+    "police",
+    "cops",
+    "cop",
+    "gun",
+    "law",
+    "government"
+   ]
+  },
+  {
+   "name": "Mechanic Worker",
+   "kind": "creature",
+   "thumb": "thumbs/d8af7f41-285c-420e-969a-4671b031c94d.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "human",
+    "citizen",
+    "person"
+   ]
+  },
+  {
+   "name": "Mercenary",
+   "kind": "creature",
+   "thumb": "thumbs/339d1414-b879-4606-ae67-e103c3edf91c.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "gun",
+    "street",
+    "mercenary",
+    "warrior",
+    "person",
+    "cyberpunk"
+   ]
+  },
+  {
+   "name": "Punk 2",
+   "kind": "creature",
+   "thumb": "thumbs/279539b5-95cd-4121-b364-51c59904910c.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "punk",
+    "cyber",
+    "gang",
+    "street",
+    "warrior",
+    "person",
+    "cyberpunk"
+   ]
+  },
+  {
+   "name": "Punk 3",
+   "kind": "creature",
+   "thumb": "thumbs/6f42950d-408c-4be8-9799-35be2de68683.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "punk",
+    "cyber",
+    "gang",
+    "gun",
+    "street",
+    "warrior",
+    "person"
+   ]
+  },
+  {
+   "name": "Punk 4",
+   "kind": "creature",
+   "thumb": "thumbs/7e854cd1-f869-40ae-9a57-86d0755e1767.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "punk",
+    "cyber",
+    "gang",
+    "street",
+    "warrior",
+    "bat",
+    "person"
+   ]
+  },
+  {
+   "name": "Punk 5",
+   "kind": "creature",
+   "thumb": "thumbs/bc1767ca-a31a-4a37-ba8a-8f0676afb4cb.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "punk",
+    "cyber",
+    "gang",
+    "gun",
+    "street",
+    "warrior",
+    "person"
+   ]
+  },
+  {
+   "name": "Punk",
+   "kind": "creature",
+   "thumb": "thumbs/18082f62-6f7a-4b0f-924b-851158333876.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "punk",
+    "cyber",
+    "gang",
+    "gun",
+    "street",
+    "warrior",
+    "person"
+   ]
+  },
+  {
+   "name": "Security Bot",
+   "kind": "creature",
+   "thumb": "thumbs/2a8e17dc-322d-476f-96a7-07982ae09a8d.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "government",
+    "robot",
+    "robotic",
+    "droid",
+    "light",
+    "ai",
+    "cyberpunk"
+   ]
+  },
+  {
+   "name": "Street Doc",
+   "kind": "creature",
+   "thumb": "thumbs/1c9b66fe-8adb-4065-9edc-e531b125868b.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "punk",
+    "cyber",
+    "gang",
+    "hacker",
+    "decker",
+    "computer",
+    "keyboard"
+   ]
+  },
+  {
+   "name": "Street Thug",
+   "kind": "creature",
+   "thumb": "thumbs/9cb5a4d4-8b67-44b7-a9f2-2fc5db6d4a53.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "gun",
+    "street",
+    "mercenary",
+    "warrior",
+    "person",
+    "cyberpunk"
+   ]
+  },
+  {
+   "name": "Street Warrior 2",
+   "kind": "creature",
+   "thumb": "thumbs/ab0616b4-94a8-4623-81d9-93e12b8c8ae2.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "decker",
+    "hacker",
+    "gun",
+    "computer",
+    "keyboard",
+    "street",
+    "mercenary"
+   ]
+  },
+  {
+   "name": "Street Warrior 3",
+   "kind": "creature",
+   "thumb": "thumbs/ae6c5db3-1d5f-45e4-a455-6e9eddbf13ea.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "person",
+    "cyber",
+    "cyberpunk",
+    "street",
+    "warrior"
+   ]
+  },
+  {
+   "name": "Street Warrior 4",
+   "kind": "creature",
+   "thumb": "thumbs/b2af23c2-7068-4549-8cd4-2237247608f4.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "person",
+    "cyber",
+    "blade",
+    "cyberpunk",
+    "street",
+    "warrior"
+   ]
+  },
+  {
+   "name": "Street Warrior 5",
+   "kind": "creature",
+   "thumb": "thumbs/eb7efd24-6f23-42e5-85b0-fac625cc1700.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "street",
+    "mercenary",
+    "warrior",
+    "katana",
+    "sword",
+    "person",
+    "cyberpunk"
+   ]
+  },
+  {
+   "name": "Street Warrior",
+   "kind": "creature",
+   "thumb": "thumbs/66873286-6194-4814-9142-43cfe52cb74c.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "punk",
+    "cyber",
+    "gang",
+    "street",
+    "warrior",
+    "bat",
+    "person"
+   ]
+  },
+  {
+   "name": "Blade Demon",
+   "kind": "creature",
+   "thumb": "thumbs/305acafb-b330-42d6-90be-0eda26e606a9.jpg",
+   "tags": [
+    "demonic",
+    "demon",
+    "fiend",
+    "monster",
+    "monstrous",
+    "monstrosity",
+    "blade",
+    "sword"
+   ]
+  },
+  {
+   "name": "Hell Hound",
+   "kind": "creature",
+   "thumb": "thumbs/dbca8944-99d5-4332-82fc-44c823f7355f.jpg",
+   "tags": [
+    "demonic",
+    "demon",
+    "fiend",
+    "monster",
+    "monstrous",
+    "monstrosity",
+    "dog",
+    "hell"
+   ]
+  },
+  {
+   "name": "Imp",
+   "kind": "creature",
+   "thumb": "thumbs/dcb0695e-7e43-4a9d-8007-b10da7a303e2.jpg",
+   "tags": [
+    "demonic",
+    "demon",
+    "imp",
+    "flying",
+    "tiny",
+    "wings",
+    "bipedal",
+    "biped"
+   ]
+  },
+  {
+   "name": "Kiroterror",
+   "kind": "creature",
+   "thumb": "thumbs/67bc91ec-30a2-48b0-9b8c-fa127c6c0bf0.jpg",
+   "tags": [
+    "demonic",
+    "red",
+    "demon",
+    "monster",
+    "monstrosity",
+    "monstrous",
+    "skull",
+    "wings"
+   ]
+  },
+  {
+   "name": "Klojin",
+   "kind": "creature",
+   "thumb": "thumbs/01f9a41d-a625-4cfd-939d-faade7ac3d64.jpg",
+   "tags": [
+    "demonic",
+    "demon",
+    "fiend",
+    "monster",
+    "monstrous",
+    "monstrosity",
+    "hell",
+    "chaotic"
+   ]
+  },
+  {
+   "name": "Kozra",
+   "kind": "creature",
+   "thumb": "thumbs/b9f9e1a6-807f-4ce8-9ea0-dba821d75bbe.jpg",
+   "tags": [
+    "demonic",
+    "demon",
+    "fiend",
+    "monster",
+    "monstrous",
+    "monstrosity",
+    "goat",
+    "axe"
+   ]
+  },
+  {
+   "name": "Krampus",
+   "kind": "creature",
+   "thumb": "thumbs/2a9544b0-90ae-464d-b67b-18dda05380a2.jpg",
+   "tags": [
+    "demonic",
+    "krampus",
+    "demon",
+    "christmas",
+    "holiday",
+    "hooves",
+    "fur",
+    "wood"
+   ]
+  },
+  {
+   "name": "Razgora",
+   "kind": "creature",
+   "thumb": "thumbs/0dbcc627-9294-40ba-b3b0-315a6e2f73aa.jpg",
+   "tags": [
+    "demonic",
+    "demon",
+    "fiend",
+    "monster",
+    "monstrous",
+    "monstrosity",
+    "trident",
+    "hell"
+   ]
+  },
+  {
+   "name": "Succubus",
+   "kind": "creature",
+   "thumb": "thumbs/ce7bb31f-2c0d-4445-a722-1fcfd706e3ee.jpg",
+   "tags": [
+    "demonic",
+    "demon",
+    "fiend",
+    "monster",
+    "monstrous",
+    "monstrosity",
+    "whip",
+    "hell"
+   ]
+  },
+  {
+   "name": "Dragonfolk Spellcaster 2",
+   "kind": "creature",
+   "thumb": "thumbs/74e4b677-75a5-433e-a9be-99089b3ec1c4.jpg",
+   "tags": [
+    "dragonfolk",
+    "spellcaster",
+    "wizard",
+    "mage",
+    "dragon",
+    "medium",
+    "biped",
+    "bipedal"
+   ]
+  },
+  {
+   "name": "Dragonfolk Spellcaster",
+   "kind": "creature",
+   "thumb": "thumbs/5dd58c82-a4a9-4fef-be31-24b50daedecd.jpg",
+   "tags": [
+    "dragonfolk",
+    "spellcaster",
+    "wizard",
+    "mage",
+    "dragon",
+    "medium",
+    "biped",
+    "bipedal"
+   ]
+  },
+  {
+   "name": "Dragonfolk Warrior 2",
+   "kind": "creature",
+   "thumb": "thumbs/f88981dd-e937-452b-b760-06160bbe512c.jpg",
+   "tags": [
+    "dragonfolk",
+    "fighter",
+    "warrior",
+    "dragon",
+    "medium",
+    "biped",
+    "bipedal",
+    "humanoid"
+   ]
+  },
+  {
+   "name": "Dragonfolk Warrior",
+   "kind": "creature",
+   "thumb": "thumbs/28bfaf42-2119-4543-ad46-4fa7015d126f.jpg",
+   "tags": [
+    "dragonfolk",
+    "fighter",
+    "warrior",
+    "dragon",
+    "medium",
+    "biped",
+    "bipedal",
+    "humanoid"
+   ]
+  },
+  {
+   "name": "Dark Dwarf Warrior",
+   "kind": "creature",
+   "thumb": "thumbs/6513c499-7f1c-434f-8c0c-1f3c76f6b6df.jpg",
+   "tags": [
+    "dwarf",
+    "warrior",
+    "fighter",
+    "medium",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "paladin"
+   ]
+  },
+  {
+   "name": "Dwarf Bard",
+   "kind": "creature",
+   "thumb": "thumbs/e08406cf-4930-46c9-8af9-420e75d8386d.jpg",
+   "tags": [
+    "dwarf",
+    "bard",
+    "medium",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "female",
+    "curvy"
+   ]
+  },
+  {
+   "name": "Dwarf Commoner 2",
+   "kind": "creature",
+   "thumb": "thumbs/d3a0e612-45ca-4609-96ac-17659352f3fe.jpg",
+   "tags": [
+    "dwarf",
+    "npc",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "spear",
+    "plump",
+    "thick"
+   ]
+  },
+  {
+   "name": "Dwarf Commoner 3",
+   "kind": "creature",
+   "thumb": "thumbs/f0aa7361-0cb8-4225-9c78-1764d790d95d.jpg",
+   "tags": [
+    "dwarf",
+    "npc",
+    "hunter",
+    "biped",
+    "bipedal",
+    "beard",
+    "humanoid",
+    "muscular"
+   ]
+  },
+  {
+   "name": "Dwarf Commoner",
+   "kind": "creature",
+   "thumb": "thumbs/4e375f61-bccc-4dc5-a738-08ef557ff89c.jpg",
+   "tags": [
+    "dwarf",
+    "drunk",
+    "patron",
+    "npc",
+    "biped",
+    "bipedal",
+    "beard",
+    "humanoid"
+   ]
+  },
+  {
+   "name": "Dwarf Paladin",
+   "kind": "creature",
+   "thumb": "thumbs/537d21df-3cd7-4873-bd75-3913621e484c.jpg",
+   "tags": [
+    "dwarf",
+    "hammer",
+    "fighter",
+    "halfling",
+    "paladin",
+    "armor",
+    "warrior",
+    "medium"
+   ]
+  },
+  {
+   "name": "Dwarf Warrior 2",
+   "kind": "creature",
+   "thumb": "thumbs/fa90f8c9-0734-43bb-8d51-09e68ca5b114.jpg",
+   "tags": [
+    "dwarf",
+    "axe",
+    "armor",
+    "fighter",
+    "shield",
+    "adventurer",
+    "medium",
+    "biped"
+   ]
+  },
+  {
+   "name": "Dwarf Warrior",
+   "kind": "creature",
+   "thumb": "thumbs/b3dc7d69-6b08-44ab-a348-553959601805.jpg",
+   "tags": [
+    "dwarf",
+    "barbarian",
+    "berzerker",
+    "fighter",
+    "gladiator",
+    "red",
+    "brown",
+    "blunt"
+   ]
+  },
+  {
+   "name": "Pirate (Dwarf)",
+   "kind": "creature",
+   "thumb": "thumbs/258250df-772f-478b-847d-021fd7417e57.jpg",
+   "tags": [
+    "dwarf",
+    "pirate",
+    "buccaneer",
+    "warrior",
+    "sea",
+    "ocean",
+    "ship",
+    "criminal"
+   ]
+  },
+  {
+   "name": "Air Elemental",
+   "kind": "creature",
+   "thumb": "thumbs/53202e70-c49c-4e07-a524-d4ecf3bd0107.jpg",
+   "tags": [
+    "elementals",
+    "elemental",
+    "large",
+    "air",
+    "blue",
+    "white",
+    "neutral"
+   ]
+  },
+  {
+   "name": "Book Swarm",
+   "kind": "creature",
+   "thumb": "thumbs/44978e27-734d-4ab3-8f49-a56021783c7f.jpg",
+   "tags": [
+    "elementals",
+    "book",
+    "magic",
+    "flying",
+    "swarm"
+   ]
+  },
+  {
+   "name": "Djinni",
+   "kind": "creature",
+   "thumb": "thumbs/d8d3a85f-6a53-4525-b5c3-fd39a95c43bf.jpg",
+   "tags": [
+    "elementals",
+    "djinn",
+    "djinni",
+    "genie",
+    "doa",
+    "blue",
+    "scimitar",
+    "sword"
+   ]
+  },
+  {
+   "name": "Earth Elemental",
+   "kind": "creature",
+   "thumb": "thumbs/66495266-e4d9-4ca2-afc7-9548b923dbb4.jpg",
+   "tags": [
+    "elementals",
+    "elemental",
+    "large",
+    "earth",
+    "grey",
+    "rock",
+    "stone",
+    "neutral"
+   ]
+  },
+  {
+   "name": "Fire Elemental",
+   "kind": "creature",
+   "thumb": "thumbs/3b0ef930-6fdb-4272-86c9-77cead4fcf8a.jpg",
+   "tags": [
+    "elementals",
+    "elemental",
+    "large",
+    "fire",
+    "red",
+    "orange",
+    "neutral"
+   ]
+  },
+  {
+   "name": "Water Elemental",
+   "kind": "creature",
+   "thumb": "thumbs/1e8aff88-86c1-45df-bfb6-6dc63eba08b7.jpg",
+   "tags": [
+    "elementals",
+    "elemental",
+    "large",
+    "water",
+    "blue",
+    "white",
+    "wet",
+    "neutral"
+   ]
+  },
+  {
+   "name": "Dark Elf Spellcaster",
+   "kind": "creature",
+   "thumb": "thumbs/0773511c-97db-4cb3-ab36-b44687fe9fcb.jpg",
+   "tags": [
+    "elf",
+    "spellcaster",
+    "wizard",
+    "drow",
+    "evil",
+    "mage",
+    "medium",
+    "biped"
+   ]
+  },
+  {
+   "name": "Dark Elf Warrior",
+   "kind": "creature",
+   "thumb": "thumbs/c80ffab5-b145-4d0a-a58a-00c66e7d2e42.jpg",
+   "tags": [
+    "elf",
+    "drow",
+    "warrior",
+    "medium",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "dagger"
+   ]
+  },
+  {
+   "name": "Elf Commoner 2",
+   "kind": "creature",
+   "thumb": "thumbs/735347cb-77e2-4714-9e0f-17db9838cb4b.jpg",
+   "tags": [
+    "elf",
+    "halfelf",
+    "commoner",
+    "scholar",
+    "npc",
+    "biped",
+    "bipedal",
+    "male"
+   ]
+  },
+  {
+   "name": "Elf Commoner",
+   "kind": "creature",
+   "thumb": "thumbs/1f3ea4bb-62d6-4c70-97da-bf75e3e1537c.jpg",
+   "tags": [
+    "elf",
+    "halfelf",
+    "traveller",
+    "commoner",
+    "npc",
+    "biped",
+    "bipedal",
+    "humanoid"
+   ]
+  },
+  {
+   "name": "Elf Druid",
+   "kind": "creature",
+   "thumb": "thumbs/deb58ea9-4c8e-4cfc-a81c-d9ffc7e37c98.jpg",
+   "tags": [
+    "elf",
+    "staff",
+    "druid",
+    "wildman",
+    "shaman",
+    "medium",
+    "biped",
+    "bipedal"
+   ]
+  },
+  {
+   "name": "Elf Ranger",
+   "kind": "creature",
+   "thumb": "thumbs/2cc5d294-a8d9-4019-b4ab-991d976072b1.jpg",
+   "tags": [
+    "elf",
+    "bow",
+    "archer",
+    "ranger",
+    "adventurer",
+    "medium",
+    "biped",
+    "bipedal"
+   ]
+  },
+  {
+   "name": "Elf Rogue",
+   "kind": "creature",
+   "thumb": "thumbs/c7a800e2-aefe-47f1-9c91-f172c9614123.jpg",
+   "tags": [
+    "elf",
+    "sword",
+    "assassin",
+    "rogue",
+    "medium",
+    "biped",
+    "bipedal",
+    "humanoid"
+   ]
+  },
+  {
+   "name": "Elf Spellcaster 2",
+   "kind": "creature",
+   "thumb": "thumbs/cc8560d3-7472-4c3d-bdf3-06b24b6445e3.jpg",
+   "tags": [
+    "elf",
+    "staff",
+    "summoner",
+    "mage",
+    "sorcerer",
+    "adventurer",
+    "medium",
+    "biped"
+   ]
+  },
+  {
+   "name": "Elf Spellcaster",
+   "kind": "creature",
+   "thumb": "thumbs/7b25890c-244d-462b-9248-17e179d6dbe5.jpg",
+   "tags": [
+    "elf",
+    "wizard",
+    "mage",
+    "medium",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "magic"
+   ]
+  },
+  {
+   "name": "Half-Elf Cleric",
+   "kind": "creature",
+   "thumb": "thumbs/5ae937ab-992f-4bd7-834e-a4aa005767eb.jpg",
+   "tags": [
+    "elf",
+    "sword",
+    "burly",
+    "fighter",
+    "cleric",
+    "halfelf",
+    "healer",
+    "talisman"
+   ]
+  },
+  {
+   "name": "Half-Elf Ranger",
+   "kind": "creature",
+   "thumb": "thumbs/fecfb002-648b-4539-9ba0-e4fe9c3876af.jpg",
+   "tags": [
+    "elf",
+    "human",
+    "bow",
+    "archer",
+    "ranger",
+    "halfelf",
+    "sword",
+    "adventurer"
+   ]
+  },
+  {
+   "name": "Pirate (Elf)",
+   "kind": "creature",
+   "thumb": "thumbs/123859a3-f560-4f55-8abc-b6d90233e7a1.jpg",
+   "tags": [
+    "elf",
+    "pirate",
+    "buccaneer",
+    "warrior",
+    "sea",
+    "ocean",
+    "ship",
+    "criminal"
+   ]
+  },
+  {
+   "name": "Vanessia Genive",
+   "kind": "creature",
+   "thumb": "thumbs/1ae71441-3214-4d3d-b73b-75ee3809fd44.jpg",
+   "tags": [
+    "elf",
+    "medium",
+    "swashbuckler",
+    "cloth",
+    "rapier",
+    "green",
+    "white",
+    "gold"
+   ]
+  },
+  {
+   "name": "Dryad",
+   "kind": "creature",
+   "thumb": "thumbs/56b95260-d19c-4441-b39c-7846c5fabae7.jpg",
+   "tags": [
+    "fey",
+    "dryad",
+    "humanoid",
+    "wood",
+    "forest",
+    "medium",
+    "neutral",
+    "green"
+   ]
+  },
+  {
+   "name": "Forest Fairy",
+   "kind": "creature",
+   "thumb": "thumbs/df1745c8-3f10-4320-87c2-661176055578.jpg",
+   "tags": [
+    "fey",
+    "fairy",
+    "wings",
+    "flying",
+    "tiny",
+    "neutral",
+    "good",
+    "forest"
+   ]
+  },
+  {
+   "name": "Fungus Folk (Tall)",
+   "kind": "creature",
+   "thumb": "thumbs/0c4431a0-154d-4e7b-a369-f7f5caae20d2.jpg",
+   "tags": [
+    "fey",
+    "fungus",
+    "monster",
+    "large",
+    "mushroom",
+    "lawful",
+    "neutral",
+    "cavern"
+   ]
+  },
+  {
+   "name": "Satyr 2",
+   "kind": "creature",
+   "thumb": "thumbs/cb81953a-4d1c-4bab-9715-6c079d619b86.jpg",
+   "tags": [
+    "fey",
+    "horns",
+    "satyr",
+    "goat",
+    "forest",
+    "humanoid",
+    "pan"
+   ]
+  },
+  {
+   "name": "Satyr",
+   "kind": "creature",
+   "thumb": "thumbs/53f1e54f-507b-40fe-85ba-cf3cf6cc5058.jpg",
+   "tags": [
+    "fey",
+    "horns",
+    "satyr",
+    "goat",
+    "forest",
+    "humanoid",
+    "pan"
+   ]
+  },
+  {
+   "name": "Shroomer",
+   "kind": "creature",
+   "thumb": "thumbs/2fecf9d2-a4b2-461c-a75e-84dc62228005.jpg",
+   "tags": [
+    "fey",
+    "tiny",
+    "mushroom",
+    "fungus",
+    "neutral",
+    "cavern",
+    "forest",
+    "purple"
+   ]
+  },
+  {
+   "name": "Tomte",
+   "kind": "creature",
+   "thumb": "thumbs/e4290f36-2764-47b8-9566-3d2e6ac31e7b.jpg",
+   "tags": [
+    "fey",
+    "gnome",
+    "redcap",
+    "tomte",
+    "sickle",
+    "slignshot",
+    "beard",
+    "cloth"
+   ]
+  },
+  {
+   "name": "Treant",
+   "kind": "creature",
+   "thumb": "thumbs/66d82ff5-e23c-4bb4-8eae-67174f4cf494.jpg",
+   "tags": [
+    "fey",
+    "treant",
+    "huge",
+    "wood",
+    "forest",
+    "chaotic",
+    "neutral",
+    "good"
+   ]
+  },
+  {
+   "name": "Ettin",
+   "kind": "creature",
+   "thumb": "thumbs/14fa30bf-23e9-4aa3-8bd8-58bb6f0750ee.jpg",
+   "tags": [
+    "giants",
+    "giant",
+    "large",
+    "orc",
+    "humanoid",
+    "blunt",
+    "hunter",
+    "giantkin"
+   ]
+  },
+  {
+   "name": "Fire Giant",
+   "kind": "creature",
+   "thumb": "thumbs/3e7e0570-19ad-4b7a-a137-ba3ad960b951.jpg",
+   "tags": [
+    "giants",
+    "demon",
+    "demonic",
+    "fiend",
+    "monster",
+    "monstrous",
+    "monstrosity",
+    "hell"
+   ]
+  },
+  {
+   "name": "Frost Giant",
+   "kind": "creature",
+   "thumb": "thumbs/2355c7c4-dee9-4571-a578-074d28f9a1b6.jpg",
+   "tags": [
+    "giants",
+    "giant",
+    "frost",
+    "humanoid",
+    "giantkin",
+    "bracer",
+    "helmet",
+    "hide"
+   ]
+  },
+  {
+   "name": "Giant, Storm",
+   "kind": "creature",
+   "thumb": "thumbs/884ca3fe-af2b-4732-8f44-c7a4205d4631.jpg",
+   "tags": [
+    "giants"
+   ]
+  },
+  {
+   "name": "Ogre Spellcaster",
+   "kind": "creature",
+   "thumb": "thumbs/9ef109da-e202-4b3b-bdeb-4bad0d7627fb.jpg",
+   "tags": [
+    "giants",
+    "ogre",
+    "mage",
+    "spellcaster",
+    "blue",
+    "oni",
+    "sword",
+    "horns"
+   ]
+  },
+  {
+   "name": "Ogre",
+   "kind": "creature",
+   "thumb": "thumbs/e0b83c7a-0419-49ea-a65e-b6f91d9fa067.jpg",
+   "tags": [
+    "giants",
+    "ogre",
+    "hill",
+    "giant",
+    "rock",
+    "boulder",
+    "bones",
+    "leather"
+   ]
+  },
+  {
+   "name": "Dark Gnome Cleric",
+   "kind": "creature",
+   "thumb": "thumbs/95d17db2-80ca-46a8-b1c8-82964c10137d.jpg",
+   "tags": [
+    "gnome",
+    "grey",
+    "bandit",
+    "fighter",
+    "thief",
+    "chainmail",
+    "leather",
+    "small"
+   ]
+  },
+  {
+   "name": "Dark Gnome Warrior",
+   "kind": "creature",
+   "thumb": "thumbs/1769ead7-1eef-44d9-b0d3-33e135a7172f.jpg",
+   "tags": [
+    "gnome",
+    "grey",
+    "assassin",
+    "bandit",
+    "fighter",
+    "rogue",
+    "thief",
+    "chainmail"
+   ]
+  },
+  {
+   "name": "Gnome Alchemist",
+   "kind": "creature",
+   "thumb": "thumbs/9c812c10-db53-4275-bfa3-5a20ea244798.jpg",
+   "tags": [
+    "gnome",
+    "alchemist",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "electromagnetic",
+    "cloth",
+    "leather"
+   ]
+  },
+  {
+   "name": "Gnome Spellcaster",
+   "kind": "creature",
+   "thumb": "thumbs/1287d5dc-5fbd-4587-be8d-bbf2e59ad9b9.jpg",
+   "tags": [
+    "gnome",
+    "wizard",
+    "alchemist",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "cloth",
+    "leather"
+   ]
+  },
+  {
+   "name": "Gnome Tinkerer",
+   "kind": "creature",
+   "thumb": "thumbs/f3a9fb99-2ce4-4f69-96a9-3461cf180cbd.jpg",
+   "tags": [
+    "gnome",
+    "alchemist",
+    "wizard",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "cloth",
+    "leather"
+   ]
+  },
+  {
+   "name": "Yigmond Marbu",
+   "kind": "creature",
+   "thumb": "thumbs/f34e650a-5560-49ed-8bcd-8f3dabb7581e.jpg",
+   "tags": [
+    "gnome",
+    "small",
+    "wizard",
+    "cloth",
+    "rod",
+    "cat",
+    "purple",
+    "white"
+   ]
+  },
+  {
+   "name": "Goblin Archer",
+   "kind": "creature",
+   "thumb": "thumbs/1a62995a-2857-4172-93b2-06a16e8261bf.jpg",
+   "tags": [
+    "goblin",
+    "goblinoid",
+    "small",
+    "archer",
+    "chaotic",
+    "evil",
+    "green",
+    "humanoid"
+   ]
+  },
+  {
+   "name": "Goblin Rogue",
+   "kind": "creature",
+   "thumb": "thumbs/a089d1fb-fe14-44bf-a462-7775e2c419c8.jpg",
+   "tags": [
+    "goblin",
+    "goblinoid",
+    "small",
+    "rogue",
+    "dagger",
+    "chaotic",
+    "evil",
+    "green"
+   ]
+  },
+  {
+   "name": "Goblin Spellcaster",
+   "kind": "creature",
+   "thumb": "thumbs/8880b712-85eb-4adf-91ab-8d8419a173a0.jpg",
+   "tags": [
+    "goblin",
+    "goblinoid",
+    "small",
+    "sorcerer",
+    "chaotic",
+    "evil",
+    "green",
+    "humanoid"
+   ]
+  },
+  {
+   "name": "Goblin Warrior",
+   "kind": "creature",
+   "thumb": "thumbs/02ce1055-843e-411e-b875-97dad7ce9a73.jpg",
+   "tags": [
+    "goblin",
+    "goblinoid",
+    "small",
+    "fighter",
+    "chaotic",
+    "evil",
+    "green",
+    "humanoid"
+   ]
+  },
+  {
+   "name": "Half-Demon Caster",
+   "kind": "creature",
+   "thumb": "thumbs/32fbdb43-e809-4eea-a834-5d120886bd81.jpg",
+   "tags": [
+    "half-demon",
+    "halfdemon",
+    "bard",
+    "wizard",
+    "warlock",
+    "sorcerer",
+    "spellcaster",
+    "blue"
+   ]
+  },
+  {
+   "name": "Half-Demon Commoner 2",
+   "kind": "creature",
+   "thumb": "thumbs/d6cd8dd6-09b2-424c-a383-80a59dd4fac3.jpg",
+   "tags": [
+    "half-demon",
+    "chef",
+    "halfdemon",
+    "biped",
+    "bipedal",
+    "commoner",
+    "beard",
+    "humanoid"
+   ]
+  },
+  {
+   "name": "Half-Demon Commoner 3",
+   "kind": "creature",
+   "thumb": "thumbs/d8fea8f1-7c5e-4f4a-a2c3-deba26b2ac34.jpg",
+   "tags": [
+    "half-demon",
+    "halfdemon",
+    "chef",
+    "biped",
+    "bipedal",
+    "commoner",
+    "humanoid",
+    "horns"
+   ]
+  },
+  {
+   "name": "Half-Demon Commoner",
+   "kind": "creature",
+   "thumb": "thumbs/5edd569d-aa48-4ac0-92bc-64ce8fcb8413.jpg",
+   "tags": [
+    "half-demon",
+    "halfdemon",
+    "commoner",
+    "npc",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "medium"
+   ]
+  },
+  {
+   "name": "Half-Demon Rogue",
+   "kind": "creature",
+   "thumb": "thumbs/2539a0b5-6ca6-4ef2-a98e-9ef7cc99430c.jpg",
+   "tags": [
+    "half-demon",
+    "halfdemon",
+    "thief",
+    "rogue",
+    "medium",
+    "biped",
+    "bipedal",
+    "humanoid"
+   ]
+  },
+  {
+   "name": "Half-Demon Shopkeeper",
+   "kind": "creature",
+   "thumb": "thumbs/67c6b32e-bda3-42b1-91c8-42dac13fc32f.jpg",
+   "tags": [
+    "half-demon",
+    "humanoid",
+    "halfdemon",
+    "unaligned",
+    "neutral",
+    "civilian",
+    "merchant",
+    "shopkeep"
+   ]
+  },
+  {
+   "name": "Half-Demon Spellcaster 2",
+   "kind": "creature",
+   "thumb": "thumbs/f61f4c48-ce60-4bca-8aa4-4c2581cc7582.jpg",
+   "tags": [
+    "half-demon",
+    "halfdemon",
+    "mage",
+    "wizard",
+    "medium",
+    "biped",
+    "bipedal",
+    "humanoid"
+   ]
+  },
+  {
+   "name": "Half Demon Spellcaster",
+   "kind": "creature",
+   "thumb": "thumbs/02a6dea1-2c7b-4c8f-a420-7e73852fd56a.jpg",
+   "tags": [
+    "half-demon",
+    "halfdemon",
+    "warlock",
+    "necromancer",
+    "medium",
+    "biped",
+    "bipedal",
+    "humanoid"
+   ]
+  },
+  {
+   "name": "Half-Demon Warrior",
+   "kind": "creature",
+   "thumb": "thumbs/b341bc85-139c-46da-93fe-519272e15543.jpg",
+   "tags": [
+    "half-demon",
+    "halfdemon",
+    "fighter",
+    "warrior",
+    "medium",
+    "biped",
+    "bipedal",
+    "humanoid"
+   ]
+  },
+  {
+   "name": "Half-Orc Commoner 2",
+   "kind": "creature",
+   "thumb": "thumbs/c7603eda-e3cf-412f-9e6e-c3d6e0885beb.jpg",
+   "tags": [
+    "half-orc",
+    "npc",
+    "halforc",
+    "biped",
+    "bipedal",
+    "beard",
+    "humanoid",
+    "green"
+   ]
+  },
+  {
+   "name": "Half-Orc Commoner",
+   "kind": "creature",
+   "thumb": "thumbs/b735b7c0-5dba-460d-aa14-2832ed0ebea7.jpg",
+   "tags": [
+    "half-orc",
+    "npc",
+    "halforc",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "green",
+    "lime"
+   ]
+  },
+  {
+   "name": "Half-Orc Spellcaster",
+   "kind": "creature",
+   "thumb": "thumbs/710c19c4-bb33-439d-a601-df6cb0198f00.jpg",
+   "tags": [
+    "half-orc",
+    "halforc",
+    "mage",
+    "wizard",
+    "medium",
+    "biped",
+    "bipedal",
+    "humanoid"
+   ]
+  },
+  {
+   "name": "Half-Orc Warrior 2",
+   "kind": "creature",
+   "thumb": "thumbs/bbc30c2c-c784-4d12-8bea-cf9424f5ebcd.jpg",
+   "tags": [
+    "half-orc",
+    "halforc",
+    "warrior",
+    "fighter",
+    "medium",
+    "biped",
+    "bipedal",
+    "humanoid"
+   ]
+  },
+  {
+   "name": "Half-Orc Warrior 3",
+   "kind": "creature",
+   "thumb": "thumbs/bfa05721-75ee-4aa9-aa2d-dce389171d05.jpg",
+   "tags": [
+    "half-orc",
+    "halforc",
+    "sword",
+    "orc",
+    "fighter",
+    "dagger",
+    "warrior",
+    "assassin"
+   ]
+  },
+  {
+   "name": "Half-Orc Warrior",
+   "kind": "creature",
+   "thumb": "thumbs/3c98486a-990e-427c-943d-dc58eba7b3a3.jpg",
+   "tags": [
+    "half-orc",
+    "orc",
+    "medium",
+    "goblinoid",
+    "rogue",
+    "chaotic",
+    "evil",
+    "green"
+   ]
+  },
+  {
+   "name": "Pirate (Half-Orc)",
+   "kind": "creature",
+   "thumb": "thumbs/8db69932-d84e-4d62-a3b5-c51c5bd9de33.jpg",
+   "tags": [
+    "half-orc",
+    "pirate",
+    "buccaneer",
+    "warrior",
+    "sea",
+    "ocean",
+    "ship",
+    "criminal"
+   ]
+  },
+  {
+   "name": "Dark Jester",
+   "kind": "creature",
+   "thumb": "thumbs/eafaf703-9bf1-4c2d-9bf8-077591b155a7.jpg",
+   "tags": [
+    "halfling",
+    "dark",
+    "red",
+    "black",
+    "jester",
+    "bard",
+    "thief",
+    "dagger"
+   ]
+  },
+  {
+   "name": "Halfling Commoner",
+   "kind": "creature",
+   "thumb": "thumbs/0706d271-20bb-4fa7-9b96-5c265b696d80.jpg",
+   "tags": [
+    "halfling",
+    "commoner",
+    "npc",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "bucket",
+    "pale"
+   ]
+  },
+  {
+   "name": "Halfling Rogue 2",
+   "kind": "creature",
+   "thumb": "thumbs/b32df07b-e99f-4e60-ac6c-13d26566d0b6.jpg",
+   "tags": [
+    "halfling",
+    "sword",
+    "dagger",
+    "rogue",
+    "assassin",
+    "fighter",
+    "adventurer",
+    "biped"
+   ]
+  },
+  {
+   "name": "Halfling Rogue",
+   "kind": "creature",
+   "thumb": "thumbs/3b43258f-f723-42ec-b5fc-50a19171362c.jpg",
+   "tags": [
+    "halfling",
+    "rogue",
+    "thief",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "crossbow",
+    "shortsword"
+   ]
+  },
+  {
+   "name": "Halfling Spellcaster 2",
+   "kind": "creature",
+   "thumb": "thumbs/d5a43392-ea2e-4eb8-878b-f7d5302d285c.jpg",
+   "tags": [
+    "halfling",
+    "mage",
+    "wizard",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "small",
+    "lean"
+   ]
+  },
+  {
+   "name": "Halfling Spellcaster",
+   "kind": "creature",
+   "thumb": "thumbs/783e5bae-5136-43bb-810d-f4b34756e764.jpg",
+   "tags": [
+    "halfling",
+    "mage",
+    "wizard",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "small",
+    "lean"
+   ]
+  },
+  {
+   "name": "Halfling Warrior 2",
+   "kind": "creature",
+   "thumb": "thumbs/dbcf4516-fbf4-4a94-808e-63edb65172a3.jpg",
+   "tags": [
+    "halfling",
+    "fighter",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "small",
+    "lean",
+    "slender"
+   ]
+  },
+  {
+   "name": "Halfling Warrior",
+   "kind": "creature",
+   "thumb": "thumbs/983ebc3d-7ad2-4d63-baad-b338fd54550d.jpg",
+   "tags": [
+    "halfling",
+    "fighter",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "warhammer",
+    "maul",
+    "blunt"
+   ]
+  },
+  {
+   "name": "Blacksmith",
+   "kind": "creature",
+   "thumb": "thumbs/8b41f693-e0bd-4050-80de-568e2bf0cc10.jpg",
+   "tags": [
+    "human",
+    "smithy",
+    "blacksmith",
+    "hammer",
+    "biped",
+    "bipedal",
+    "armorsmith",
+    "weaponsmith"
+   ]
+  },
+  {
+   "name": "Commoner 2",
+   "kind": "creature",
+   "thumb": "thumbs/19200b0f-24fc-4424-b1c4-66f0c2de503d.jpg",
+   "tags": [
+    "human",
+    "patron",
+    "npc",
+    "biped",
+    "bipedal",
+    "male",
+    "beard",
+    "humanoid"
+   ]
+  },
+  {
+   "name": "Commoner 3",
+   "kind": "creature",
+   "thumb": "thumbs/389c30a8-e67a-4f6c-9b5d-294fb374cbb4.jpg",
+   "tags": [
+    "human",
+    "village",
+    "peasant",
+    "drink",
+    "drunk",
+    "biped",
+    "bipedal",
+    "beard"
+   ]
+  },
+  {
+   "name": "Commoner 4",
+   "kind": "creature",
+   "thumb": "thumbs/9f64c6ac-15ed-4000-8a99-5ddcba201883.jpg",
+   "tags": [
+    "human",
+    "village",
+    "unarmed",
+    "biped",
+    "bipedal",
+    "red",
+    "yellow",
+    "cloth"
+   ]
+  },
+  {
+   "name": "Commoner 5",
+   "kind": "creature",
+   "thumb": "thumbs/c1ac3102-3307-4dd4-a8be-ec6f0f21e832.jpg",
+   "tags": [
+    "human",
+    "biped",
+    "bipedal",
+    "carpenter",
+    "beard",
+    "humanoid",
+    "hammer",
+    "commoner"
+   ]
+  },
+  {
+   "name": "Commoner 6",
+   "kind": "creature",
+   "thumb": "thumbs/c31cfe74-a969-4b2a-8bac-7ae805cb7a8e.jpg",
+   "tags": [
+    "human",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "red",
+    "commoner"
+   ]
+  },
+  {
+   "name": "Commoner 7",
+   "kind": "creature",
+   "thumb": "thumbs/c794ce90-8ea3-4b31-b897-3ec4da3692c6.jpg",
+   "tags": [
+    "human",
+    "patron",
+    "npc",
+    "drunk",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "medium"
+   ]
+  },
+  {
+   "name": "Commoner 8",
+   "kind": "creature",
+   "thumb": "thumbs/c7b7f271-b602-44f1-a175-17e08967f299.jpg",
+   "tags": [
+    "human",
+    "village",
+    "unarmed",
+    "adventurer",
+    "biped",
+    "bipedal",
+    "cloth",
+    "cloak"
+   ]
+  },
+  {
+   "name": "Commoner 9",
+   "kind": "creature",
+   "thumb": "thumbs/d5614ded-682c-4276-be07-8a095ac8400e.jpg",
+   "tags": [
+    "human",
+    "village",
+    "book",
+    "librarian",
+    "library",
+    "scholar",
+    "teacher",
+    "school"
+   ]
+  },
+  {
+   "name": "Commoner",
+   "kind": "creature",
+   "thumb": "thumbs/03ef1953-e343-455f-bd2f-4d85a52ef186.jpg",
+   "tags": [
+    "human",
+    "village",
+    "peasant",
+    "farm",
+    "pitchfork",
+    "biped",
+    "bipedal",
+    "beard"
+   ]
+  },
+  {
+   "name": "Cultist",
+   "kind": "creature",
+   "thumb": "thumbs/b22a3f99-255f-4963-a3cc-d29657154456.jpg",
+   "tags": [
+    "human",
+    "cult",
+    "cultist",
+    "necromancer",
+    "sorcerer",
+    "summoner",
+    "biped",
+    "bipedal"
+   ]
+  },
+  {
+   "name": "Grave Robber",
+   "kind": "creature",
+   "thumb": "thumbs/0ec820ca-870a-4f3f-b4b4-c926c5188f4f.jpg",
+   "tags": [
+    "human",
+    "body",
+    "dark",
+    "grave",
+    "graveyard",
+    "grim",
+    "assassin",
+    "bandit"
+   ]
+  },
+  {
+   "name": "Human Bandit 2",
+   "kind": "creature",
+   "thumb": "thumbs/f982056e-5c3c-4acb-ba42-7ec035db53c9.jpg",
+   "tags": [
+    "human",
+    "bandit",
+    "npc",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "boots",
+    "bracer"
+   ]
+  },
+  {
+   "name": "Human Bandit",
+   "kind": "creature",
+   "thumb": "thumbs/a0cbec0d-e181-42be-8a27-37afac1f3d91.jpg",
+   "tags": [
+    "human",
+    "bandit",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "boots",
+    "bracer",
+    "leather"
+   ]
+  },
+  {
+   "name": "Human Barbarian",
+   "kind": "creature",
+   "thumb": "thumbs/aba6b475-a026-48dd-9722-c8d7049e2566.jpg",
+   "tags": [
+    "human",
+    "sword",
+    "barbarian",
+    "burly",
+    "male",
+    "greatsword",
+    "loincloth",
+    "bracer"
+   ]
+  },
+  {
+   "name": "Human Bard, Doom",
+   "kind": "creature",
+   "thumb": "thumbs/35c983ff-fd46-4cf1-9292-ed4df639a67b.jpg",
+   "tags": [
+    "human",
+    "bard",
+    "necromancer",
+    "medium",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "sorcerer"
+   ]
+  },
+  {
+   "name": "Human Bard",
+   "kind": "creature",
+   "thumb": "thumbs/b9529862-8d73-4662-ab13-cf9232b1ccf9.jpg",
+   "tags": [
+    "human",
+    "lute",
+    "bard",
+    "musician",
+    "minstrel",
+    "troubadour",
+    "cloth",
+    "leather"
+   ]
+  },
+  {
+   "name": "Human Captain",
+   "kind": "creature",
+   "thumb": "thumbs/1fa08b31-1971-47f6-8d99-a7c8499f5e61.jpg",
+   "tags": [
+    "human",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "medium",
+    "boots",
+    "bracer",
+    "cloak"
+   ]
+  },
+  {
+   "name": "Human Caster",
+   "kind": "creature",
+   "thumb": "thumbs/5395a541-34ab-4de3-a89c-4c16a852b165.jpg",
+   "tags": [
+    "human",
+    "acolyte",
+    "bandit",
+    "druid",
+    "healer",
+    "necromancer",
+    "warlock",
+    "sorcerer"
+   ]
+  },
+  {
+   "name": "Human Druid",
+   "kind": "creature",
+   "thumb": "thumbs/ae4b3999-4028-417d-b5cb-b244363e5481.jpg",
+   "tags": [
+    "human",
+    "staff",
+    "druid",
+    "wildman",
+    "barbarian",
+    "shaman",
+    "medium",
+    "biped"
+   ]
+  },
+  {
+   "name": "Human Explorer",
+   "kind": "creature",
+   "thumb": "thumbs/6850e0c3-e6f8-40aa-8ba9-77e726d9564f.jpg",
+   "tags": [
+    "human",
+    "explorer",
+    "snow",
+    "fighter",
+    "hunter",
+    "warrior",
+    "biped",
+    "bipedal"
+   ]
+  },
+  {
+   "name": "Human Knight",
+   "kind": "creature",
+   "thumb": "thumbs/fb8b4c39-9056-4822-a52a-2a5d3f13f7a2.jpg",
+   "tags": [
+    "human",
+    "knight",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "medium",
+    "black",
+    "blue"
+   ]
+  },
+  {
+   "name": "Human Paladin",
+   "kind": "creature",
+   "thumb": "thumbs/bf88b8aa-9199-4c8f-af56-5e75736d129f.jpg",
+   "tags": [
+    "human",
+    "yellow",
+    "brown",
+    "leather",
+    "knight",
+    "cleric",
+    "paladin",
+    "white"
+   ]
+  },
+  {
+   "name": "Human Soldier 2",
+   "kind": "creature",
+   "thumb": "thumbs/e9117ad2-5947-42cf-8263-c3e92c93c07a.jpg",
+   "tags": [
+    "human",
+    "soldier",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "medium",
+    "boots",
+    "bracer"
+   ]
+  },
+  {
+   "name": "Human Soldier",
+   "kind": "creature",
+   "thumb": "thumbs/c40f5ac6-8816-477f-9616-2dbbf7dd96b7.jpg",
+   "tags": [
+    "human",
+    "soldier",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "medium",
+    "boots",
+    "bracer"
+   ]
+  },
+  {
+   "name": "Human Spellcaster 2",
+   "kind": "creature",
+   "thumb": "thumbs/6e61880c-6e77-4e6e-a41d-6901f472c5a1.jpg",
+   "tags": [
+    "human",
+    "staff",
+    "wizard",
+    "summoner",
+    "sorcerer",
+    "medium",
+    "biped",
+    "bipedal"
+   ]
+  },
+  {
+   "name": "Human Spellcaster 3",
+   "kind": "creature",
+   "thumb": "thumbs/712ffa6e-1eeb-4474-a8b5-437dc0f2684f.jpg",
+   "tags": [
+    "human",
+    "wizard",
+    "sourcerer",
+    "mage",
+    "staff",
+    "cloth",
+    "medium",
+    "biped"
+   ]
+  },
+  {
+   "name": "Human Spellcaster 4",
+   "kind": "creature",
+   "thumb": "thumbs/a7d49bed-8c73-4a7c-877a-bd911a9ccc38.jpg",
+   "tags": [
+    "human",
+    "sword",
+    "wizard",
+    "summoner",
+    "sorcerer",
+    "necromancer",
+    "mage",
+    "elf"
+   ]
+  },
+  {
+   "name": "Human Spellcaster",
+   "kind": "creature",
+   "thumb": "thumbs/2678c6a5-72d8-4cc7-81c6-9b5c9c5bbf1c.jpg",
+   "tags": [
+    "human",
+    "mage",
+    "wizard",
+    "medium",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "magic"
+   ]
+  },
+  {
+   "name": "Human Warrior 2",
+   "kind": "creature",
+   "thumb": "thumbs/80858f64-9dba-40f6-b92d-42c5130c50e0.jpg",
+   "tags": [
+    "human",
+    "unarmed",
+    "monk",
+    "summoner",
+    "medium",
+    "biped",
+    "bipedal",
+    "humanoid"
+   ]
+  },
+  {
+   "name": "Human Warrior 3",
+   "kind": "creature",
+   "thumb": "thumbs/9c9ea41f-d507-4690-8798-7d5b8805f965.jpg",
+   "tags": [
+    "human",
+    "monk",
+    "medium",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "red",
+    "green"
+   ]
+  },
+  {
+   "name": "Human Warrior",
+   "kind": "creature",
+   "thumb": "thumbs/29a3deda-6e42-4635-8295-d639451b4a4a.jpg",
+   "tags": [
+    "human",
+    "axe",
+    "nord",
+    "shield",
+    "medium",
+    "biped",
+    "bipedal",
+    "humanoid"
+   ]
+  },
+  {
+   "name": "Innkeeper",
+   "kind": "creature",
+   "thumb": "thumbs/5444d373-5db6-49e9-8501-6bb0bda16add.jpg",
+   "tags": [
+    "human",
+    "village",
+    "inn",
+    "innkeeper",
+    "biped",
+    "bipedal",
+    "beard",
+    "humanoid"
+   ]
+  },
+  {
+   "name": "Knight 2",
+   "kind": "creature",
+   "thumb": "thumbs/afee4e5c-96c9-497d-a348-55288178811b.jpg",
+   "tags": [
+    "human",
+    "sword",
+    "medium",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "armor",
+    "boots"
+   ]
+  },
+  {
+   "name": "Knight",
+   "kind": "creature",
+   "thumb": "thumbs/7241df8e-f5b7-4ae6-a904-92a1662cab0a.jpg",
+   "tags": [
+    "human",
+    "sword",
+    "medium",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "armor",
+    "boots"
+   ]
+  },
+  {
+   "name": "Merchant 2",
+   "kind": "creature",
+   "thumb": "thumbs/87046ea0-c22b-4a50-8f10-0d8a55885f38.jpg",
+   "tags": [
+    "human",
+    "village",
+    "halfdwarf",
+    "apple",
+    "farm",
+    "biped",
+    "bipedal",
+    "white"
+   ]
+  },
+  {
+   "name": "Merchant",
+   "kind": "creature",
+   "thumb": "thumbs/57c8712e-c26e-4491-8bb7-40c88b2f999b.jpg",
+   "tags": [
+    "human",
+    "village",
+    "merchant",
+    "bottle",
+    "dagger",
+    "biped",
+    "bipedal",
+    "beard"
+   ]
+  },
+  {
+   "name": "Noble",
+   "kind": "creature",
+   "thumb": "thumbs/552af34d-c975-4058-9c0d-8b4d9b3badb8.jpg",
+   "tags": [
+    "human",
+    "village",
+    "walkingstick",
+    "staff",
+    "noble",
+    "fancy",
+    "biped",
+    "bipedal"
+   ]
+  },
+  {
+   "name": "Pirate, Captain 2",
+   "kind": "creature",
+   "thumb": "thumbs/2920dc63-2e63-425a-9d3b-c52a9ac4d881.jpg",
+   "tags": [
+    "human",
+    "pirate",
+    "buccaneer",
+    "warrior",
+    "sea",
+    "ocean",
+    "ship",
+    "criminal"
+   ]
+  },
+  {
+   "name": "Pirate, Captain",
+   "kind": "creature",
+   "thumb": "thumbs/2292f37b-41ee-4cdb-bc45-a24deb0eaf15.jpg",
+   "tags": [
+    "human",
+    "pirate",
+    "buccaneer",
+    "warrior",
+    "sea",
+    "ocean",
+    "ship",
+    "criminal"
+   ]
+  },
+  {
+   "name": "Samurai  2",
+   "kind": "creature",
+   "thumb": "thumbs/6432da38-5b31-4fd8-827f-f78a08a641ca.jpg",
+   "tags": [
+    "human",
+    "samurai",
+    "warrior",
+    "armor",
+    "red",
+    "sword",
+    "katana",
+    "gold"
+   ]
+  },
+  {
+   "name": "Samurai",
+   "kind": "creature",
+   "thumb": "thumbs/290b17f3-e788-48ee-91b9-394c2cb5073b.jpg",
+   "tags": [
+    "human",
+    "samurai",
+    "warrior",
+    "armor",
+    "red",
+    "sword",
+    "katana",
+    "gold"
+   ]
+  },
+  {
+   "name": "Spellcaster",
+   "kind": "creature",
+   "thumb": "thumbs/f5dc6fcf-ba34-4cff-ae88-26166a583eac.jpg",
+   "tags": [
+    "human",
+    "spellcaster",
+    "rod",
+    "staff",
+    "spell",
+    "cloak"
+   ]
+  },
+  {
+   "name": "Warrior",
+   "kind": "creature",
+   "thumb": "thumbs/78613044-17ff-48c1-b1af-cde72052a816.jpg",
+   "tags": [
+    "human",
+    "warrior",
+    "cloak",
+    "sword",
+    "shield"
+   ]
+  },
+  {
+   "name": "Birdfolk 2",
+   "kind": "creature",
+   "thumb": "thumbs/a3234779-04d3-49cc-aa0b-4c15301daf85.jpg",
+   "tags": [
+    "humanoid",
+    "birdfolk",
+    "bird",
+    "flying",
+    "warrior",
+    "feather",
+    "bow",
+    "arrow"
+   ]
+  },
+  {
+   "name": "Birdfolk",
+   "kind": "creature",
+   "thumb": "thumbs/4c2592b2-0b86-4ed3-ad0e-b37ea9cb9dbd.jpg",
+   "tags": [
+    "humanoid",
+    "birdfolk",
+    "bird",
+    "flying",
+    "warrior",
+    "feather",
+    "spear"
+   ]
+  },
+  {
+   "name": "Bugbear 2",
+   "kind": "creature",
+   "thumb": "thumbs/71cdee5c-de52-4091-b81c-f356eefc553e.jpg",
+   "tags": [
+    "humanoid",
+    "bugbear",
+    "warrior",
+    "fur",
+    "sword",
+    "shield"
+   ]
+  },
+  {
+   "name": "Bugbear 3",
+   "kind": "creature",
+   "thumb": "thumbs/dfe0eb06-3316-4c3e-83fa-7248cdcdbbd8.jpg",
+   "tags": [
+    "humanoid",
+    "bugbear",
+    "warrior",
+    "fur",
+    "crossbow"
+   ]
+  },
+  {
+   "name": "Bugbear",
+   "kind": "creature",
+   "thumb": "thumbs/38ce4811-7d66-4f7f-85a4-c639b061b78f.jpg",
+   "tags": [
+    "humanoid",
+    "bugbear",
+    "warrior",
+    "fur",
+    "mace"
+   ]
+  },
+  {
+   "name": "Catfolk Rogue",
+   "kind": "creature",
+   "thumb": "thumbs/d620be7a-5b3b-4f2a-aa3c-2c3565baf91c.jpg",
+   "tags": [
+    "humanoid",
+    "catfolk",
+    "rogue",
+    "thief",
+    "medium",
+    "dagger",
+    "leather",
+    "studded"
+   ]
+  },
+  {
+   "name": "Catfolk Warrior",
+   "kind": "creature",
+   "thumb": "thumbs/e322b9ee-d0ac-4495-8490-1dded73a2e05.jpg",
+   "tags": [
+    "humanoid",
+    "catfolk",
+    "fighter",
+    "medium",
+    "longsword",
+    "scimitar",
+    "sword",
+    "greatsword"
+   ]
+  },
+  {
+   "name": "Clockwork Warrior 2",
+   "kind": "creature",
+   "thumb": "thumbs/d2b8b571-f40b-4461-b817-e711daf2d9cc.jpg",
+   "tags": [
+    "humanoid",
+    "clockwork",
+    "fighter",
+    "medium",
+    "biped",
+    "bipedal",
+    "copper",
+    "metal"
+   ]
+  },
+  {
+   "name": "Clockwork Warrior",
+   "kind": "creature",
+   "thumb": "thumbs/6ba05c81-c310-4125-a696-d93cc0aab1c7.jpg",
+   "tags": [
+    "humanoid",
+    "clockwork",
+    "fighter",
+    "medium",
+    "biped",
+    "bipedal",
+    "fullplate",
+    "metal"
+   ]
+  },
+  {
+   "name": "Croaker Warrior",
+   "kind": "creature",
+   "thumb": "thumbs/be6240de-72e0-4a57-bcaa-f02beb315db5.jpg",
+   "tags": [
+    "humanoid",
+    "croaker",
+    "frog",
+    "toad",
+    "fighter",
+    "swamp",
+    "warrior",
+    "chaotic"
+   ]
+  },
+  {
+   "name": "Fenfolk Shaman",
+   "kind": "creature",
+   "thumb": "thumbs/a3bacecb-0129-4651-b224-d709f86ffc68.jpg",
+   "tags": [
+    "humanoid",
+    "unarmed",
+    "shaman",
+    "wildman",
+    "summoner",
+    "healer",
+    "medium",
+    "biped"
+   ]
+  },
+  {
+   "name": "Fenfolk Spellcaster",
+   "kind": "creature",
+   "thumb": "thumbs/5b33d121-f768-4beb-a73f-8eb530ff8b0f.jpg",
+   "tags": [
+    "humanoid",
+    "fenfolk",
+    "druid",
+    "biped",
+    "bipedal",
+    "shaman",
+    "cape",
+    "cloak"
+   ]
+  },
+  {
+   "name": "Giller Warrior",
+   "kind": "creature",
+   "thumb": "thumbs/0023fc8e-7a8c-42e4-9b2a-ca7e0d5dec1c.jpg",
+   "tags": [
+    "humanoid",
+    "monstrous",
+    "small",
+    "giller",
+    "amphibious",
+    "biped",
+    "bipedal",
+    "fish"
+   ]
+  },
+  {
+   "name": "Gnoll Alchemist",
+   "kind": "creature",
+   "thumb": "thumbs/ae9a74c6-4fc2-487c-a808-2bfb8036872e.jpg",
+   "tags": [
+    "humanoid",
+    "medium",
+    "tan",
+    "brown",
+    "biped",
+    "bipedal",
+    "tail",
+    "wild"
+   ]
+  },
+  {
+   "name": "Gnoll Archer",
+   "kind": "creature",
+   "thumb": "thumbs/0f5ea56d-7f5a-4d07-921a-c026ef59ffd4.jpg",
+   "tags": [
+    "humanoid",
+    "medium",
+    "tan",
+    "brown",
+    "biped",
+    "bipedal",
+    "tail",
+    "wild"
+   ]
+  },
+  {
+   "name": "Gnoll Fighter",
+   "kind": "creature",
+   "thumb": "thumbs/6c7a68a7-95cd-4e32-a9ce-52e07d9c952d.jpg",
+   "tags": [
+    "humanoid",
+    "medium",
+    "tan",
+    "brown",
+    "biped",
+    "bipedal",
+    "tail",
+    "wild"
+   ]
+  },
+  {
+   "name": "Hag",
+   "kind": "creature",
+   "thumb": "thumbs/f73926fd-891f-4888-b6a0-8203691f2dc8.jpg",
+   "tags": [
+    "humanoid",
+    "monstrous",
+    "medium",
+    "hag",
+    "forest",
+    "swamp",
+    "biped",
+    "bipedal"
+   ]
+  },
+  {
+   "name": "Kobold Tinkerer",
+   "kind": "creature",
+   "thumb": "thumbs/0c795229-378c-4a37-82f6-e0801ba2e6dd.jpg",
+   "tags": [
+    "humanoid",
+    "backer",
+    "kobold",
+    "lizardfolk",
+    "claws",
+    "sword",
+    "shortsword",
+    "teeth"
+   ]
+  },
+  {
+   "name": "Kobold Warrior",
+   "kind": "creature",
+   "thumb": "thumbs/923e670f-5c00-457f-9f7d-1a4e457db6f9.jpg",
+   "tags": [
+    "humanoid",
+    "monstrous",
+    "small",
+    "kobold",
+    "slinger",
+    "reptilian",
+    "biped",
+    "bipedal"
+   ]
+  },
+  {
+   "name": "Lizardfolk Warrior",
+   "kind": "creature",
+   "thumb": "thumbs/8b76564c-7f22-413c-84b2-23212abaee59.jpg",
+   "tags": [
+    "humanoid",
+    "monstrous",
+    "medium",
+    "reptilian",
+    "warrior",
+    "club",
+    "shield",
+    "biped"
+   ]
+  },
+  {
+   "name": "Minotaur",
+   "kind": "creature",
+   "thumb": "thumbs/e4faa1b8-b416-44ce-aba6-83b2de06824a.jpg",
+   "tags": [
+    "humanoid",
+    "monstrous",
+    "large",
+    "berzerker",
+    "axe",
+    "minotaur",
+    "monster",
+    "chaotic"
+   ]
+  },
+  {
+   "name": "Ratfolk Warrior",
+   "kind": "creature",
+   "thumb": "thumbs/0eed68d6-0d57-405a-9784-a31b13537a1d.jpg",
+   "tags": [
+    "humanoid",
+    "ratfolk",
+    "warrior",
+    "fighter",
+    "monster",
+    "chaotic",
+    "evil",
+    "brown"
+   ]
+  },
+  {
+   "name": "Ravenfolk Rogue",
+   "kind": "creature",
+   "thumb": "thumbs/bb2a724b-6b00-4799-8b8a-cf5aa81f7de0.jpg",
+   "tags": [
+    "humanoid",
+    "ravenfolk",
+    "rogue",
+    "thief",
+    "crow",
+    "medium",
+    "biped",
+    "bipedal"
+   ]
+  },
+  {
+   "name": "Troglodyte Shaman",
+   "kind": "creature",
+   "thumb": "thumbs/4dba75ea-c41f-4d00-b589-02a57466d7ab.jpg",
+   "tags": [
+    "humanoid",
+    "monster",
+    "troglodyte",
+    "medium",
+    "shaman",
+    "lizard",
+    "staff"
+   ]
+  },
+  {
+   "name": "Troglodyte",
+   "kind": "creature",
+   "thumb": "thumbs/a7d29d90-4efc-49f9-8cb9-028e98243821.jpg",
+   "tags": [
+    "humanoid",
+    "monster",
+    "troglodyte",
+    "medium",
+    "lizard",
+    "spear"
+   ]
+  },
+  {
+   "name": "Black Pudding",
+   "kind": "creature",
+   "thumb": "thumbs/e0451b02-361c-4875-b8a8-b041df49d97e.jpg",
+   "tags": [
+    "monstrous",
+    "black",
+    "pudding",
+    "slime",
+    "monster",
+    "mud",
+    "ooze"
+   ]
+  },
+  {
+   "name": "Burrow Beast",
+   "kind": "creature",
+   "thumb": "thumbs/9be7e43f-f2ba-4307-85e8-632613c9ab21.jpg",
+   "tags": [
+    "monstrous",
+    "burrow",
+    "beast",
+    "burrowbeast",
+    "rock",
+    "stone",
+    "quadruped",
+    "monster"
+   ]
+  },
+  {
+   "name": "Carnivorous Plant",
+   "kind": "creature",
+   "thumb": "thumbs/d799e66c-3897-4eda-b58c-080eca395c64.jpg",
+   "tags": [
+    "monstrous",
+    "plant",
+    "jungle",
+    "nature",
+    "monster",
+    "chaotic",
+    "evil",
+    "monstrosity"
+   ]
+  },
+  {
+   "name": "Cave Horror",
+   "kind": "creature",
+   "thumb": "thumbs/ce5c71fc-6643-47f0-9dee-f796ed9c1ce8.jpg",
+   "tags": [
+    "monstrous",
+    "large",
+    "cave",
+    "cavern",
+    "horror",
+    "tentacle",
+    "monster",
+    "monstrosity"
+   ]
+  },
+  {
+   "name": "Centaur 2",
+   "kind": "creature",
+   "thumb": "thumbs/884c74a1-ad27-4731-b4bf-032c5d2ae883.jpg",
+   "tags": [
+    "monstrous",
+    "centaur",
+    "horse",
+    "human",
+    "warrior",
+    "bow",
+    "archer"
+   ]
+  },
+  {
+   "name": "Centaur",
+   "kind": "creature",
+   "thumb": "thumbs/7be32951-0a2a-44ce-8166-c2c00ec4387f.jpg",
+   "tags": [
+    "monstrous",
+    "centaur",
+    "horse",
+    "human",
+    "warrior",
+    "axe",
+    "shield"
+   ]
+  },
+  {
+   "name": "Chimera",
+   "kind": "creature",
+   "thumb": "thumbs/87b717f0-395b-4de8-9bf0-101a46536d33.jpg",
+   "tags": [
+    "monstrous",
+    "chimera",
+    "goat",
+    "lion",
+    "dragon",
+    "animal",
+    "beast",
+    "monstrosity"
+   ]
+  },
+  {
+   "name": "Cloaked Nightmare",
+   "kind": "creature",
+   "thumb": "thumbs/9a5c4a06-e2c8-45d0-84d7-bac74b2ed6a5.jpg",
+   "tags": [
+    "monstrous",
+    "cloaked",
+    "nightmare",
+    "cloaker",
+    "black",
+    "flying",
+    "wings",
+    "teeth"
+   ]
+  },
+  {
+   "name": "Dracolich",
+   "kind": "creature",
+   "thumb": "thumbs/77f29b74-4eb2-46cf-9cb2-5f6b74d482ad.jpg",
+   "tags": [
+    "monstrous",
+    "dragon",
+    "flying",
+    "horns",
+    "tail",
+    "wings",
+    "huge",
+    "quadruped"
+   ]
+  },
+  {
+   "name": "Dragon 2",
+   "kind": "creature",
+   "thumb": "thumbs/e3c8c0d3-c1bd-4dcf-a892-b88881712950.jpg",
+   "tags": [
+    "monstrous",
+    "dragon",
+    "animal",
+    "flying",
+    "red",
+    "horns",
+    "tail",
+    "scales"
+   ]
+  },
+  {
+   "name": "Dragon, Black",
+   "kind": "creature",
+   "thumb": "thumbs/4d0a542a-62a3-4c6a-8795-115c4fdfddbe.jpg",
+   "tags": [
+    "monstrous",
+    "black",
+    "dragon",
+    "swamp",
+    "wings",
+    "scale",
+    "scales",
+    "acid"
+   ]
+  },
+  {
+   "name": "Dragon, Gold",
+   "kind": "creature",
+   "thumb": "thumbs/48bd3eaa-dd0c-4a67-bb5e-0c22b32cac5c.jpg",
+   "tags": [
+    "monstrous",
+    "gold",
+    "dragon",
+    "wyrm",
+    "monster"
+   ]
+  },
+  {
+   "name": "Dragon",
+   "kind": "creature",
+   "thumb": "thumbs/dc39fae5-7747-47d8-85e9-bb8abab8c2f4.jpg",
+   "tags": [
+    "monstrous",
+    "dragon",
+    "tail",
+    "wings",
+    "tooth",
+    "spine",
+    "wyvern",
+    "scale"
+   ]
+  },
+  {
+   "name": "Drider",
+   "kind": "creature",
+   "thumb": "thumbs/5232cd1a-396f-44cd-8f12-5f0ada3f7aa3.jpg",
+   "tags": [
+    "monstrous",
+    "spider",
+    "drow",
+    "drider",
+    "brown",
+    "dark",
+    "underdark",
+    "spear"
+   ]
+  },
+  {
+   "name": "Gargoyle",
+   "kind": "creature",
+   "thumb": "thumbs/8fe1fe94-0614-421c-b0f5-53ff4ea606ce.jpg",
+   "tags": [
+    "monstrous",
+    "medium",
+    "gargoyle",
+    "flying",
+    "stone",
+    "horns",
+    "statue",
+    "tail"
+   ]
+  },
+  {
+   "name": "Giant Worm",
+   "kind": "creature",
+   "thumb": "thumbs/ca67e7bb-1d98-4ee2-949a-6451ab137e96.jpg",
+   "tags": [
+    "monstrous",
+    "worm",
+    "purple",
+    "giant",
+    "large",
+    "huge",
+    "monster"
+   ]
+  },
+  {
+   "name": "Gorgon",
+   "kind": "creature",
+   "thumb": "thumbs/aeda4891-1dfe-49db-8435-7c256dd909f6.jpg",
+   "tags": [
+    "monstrous",
+    "gorgon",
+    "medusa",
+    "tail",
+    "green",
+    "scale",
+    "scales"
+   ]
+  },
+  {
+   "name": "Grick",
+   "kind": "creature",
+   "thumb": "thumbs/12a3f482-6a86-4552-8660-dcce246bcf61.jpg",
+   "tags": [
+    "monstrous",
+    "grick",
+    "tentacle",
+    "beak",
+    "snake",
+    "monster",
+    "monstrosity"
+   ]
+  },
+  {
+   "name": "Griffon",
+   "kind": "creature",
+   "thumb": "thumbs/c85a3738-ea36-4637-be13-67f5fc31a863.jpg",
+   "tags": [
+    "monstrous",
+    "griffon",
+    "gryphon",
+    "hippogriff",
+    "bird",
+    "eagle",
+    "lion",
+    "beast"
+   ]
+  },
+  {
+   "name": "Harpy",
+   "kind": "creature",
+   "thumb": "thumbs/f98c186f-696d-4334-9dff-25ec03676cb8.jpg",
+   "tags": [
+    "monstrous",
+    "harpy",
+    "flying",
+    "wings",
+    "bird",
+    "brown",
+    "purple",
+    "green"
+   ]
+  },
+  {
+   "name": "Hydra",
+   "kind": "creature",
+   "thumb": "thumbs/174b783b-c07d-4996-bf6f-52aafa2d7d73.jpg",
+   "tags": [
+    "monstrous",
+    "dragon",
+    "hydra",
+    "serpent",
+    "green",
+    "scales",
+    "scale",
+    "large"
+   ]
+  },
+  {
+   "name": "Insectoid 2",
+   "kind": "creature",
+   "thumb": "thumbs/75df188c-67ad-4f9c-813c-766a48ca8a15.jpg",
+   "tags": [
+    "monstrous",
+    "insectoid",
+    "insect",
+    "humanoid",
+    "red",
+    "warrior",
+    "bug"
+   ]
+  },
+  {
+   "name": "Insectoid 3",
+   "kind": "creature",
+   "thumb": "thumbs/a775d8b0-432c-41f1-82fd-e79df6bd7525.jpg",
+   "tags": [
+    "monstrous",
+    "insectoid",
+    "insect",
+    "humanoid",
+    "yellow",
+    "warrior",
+    "bug"
+   ]
+  },
+  {
+   "name": "Insectoid",
+   "kind": "creature",
+   "thumb": "thumbs/36d67639-10b5-44a0-8f4d-34aa1ff810d4.jpg",
+   "tags": [
+    "monstrous",
+    "insectoid",
+    "insect",
+    "humanoid",
+    "purple",
+    "warrior",
+    "bug"
+   ]
+  },
+  {
+   "name": "Manticore",
+   "kind": "creature",
+   "thumb": "thumbs/3a6bfe25-fcb0-4682-81a5-047fc122b1f9.jpg",
+   "tags": [
+    "monstrous",
+    "large",
+    "flying",
+    "monster",
+    "chaotic",
+    "evil",
+    "thick",
+    "strong"
+   ]
+  },
+  {
+   "name": "Merfolk 2",
+   "kind": "creature",
+   "thumb": "thumbs/5c4cc17d-a847-4bfc-81ff-0d0ba87e81d9.jpg",
+   "tags": [
+    "monstrous",
+    "merfolk",
+    "mermaid",
+    "merrow",
+    "ocean"
+   ]
+  },
+  {
+   "name": "Merfolk",
+   "kind": "creature",
+   "thumb": "thumbs/2ca6fd1c-ed4b-41ca-ac00-b67c63ec2015.jpg",
+   "tags": [
+    "monstrous",
+    "merfolk",
+    "mermaid",
+    "merrow",
+    "ocean"
+   ]
+  },
+  {
+   "name": "Mimic 2",
+   "kind": "creature",
+   "thumb": "thumbs/2e039487-d62e-44bf-a9cd-e314b7287725.jpg",
+   "tags": [
+    "monstrous",
+    "medium",
+    "chest",
+    "mimic",
+    "monster",
+    "chaotic",
+    "evil",
+    "teeth"
+   ]
+  },
+  {
+   "name": "Mimic 3",
+   "kind": "creature",
+   "thumb": "thumbs/a332a9be-7181-4573-8d2a-1a4f66d264f1.jpg",
+   "tags": [
+    "monstrous",
+    "monstrosity",
+    "mimic",
+    "apple",
+    "red",
+    "teeth",
+    "food"
+   ]
+  },
+  {
+   "name": "Mimic",
+   "kind": "creature",
+   "thumb": "thumbs/1901d976-f7b9-4514-8500-f21b6c3756cd.jpg",
+   "tags": [
+    "monstrous",
+    "mimic",
+    "gift",
+    "present",
+    "monster",
+    "chaotic",
+    "evil",
+    "container"
+   ]
+  },
+  {
+   "name": "Reverse Centaur",
+   "kind": "creature",
+   "thumb": "thumbs/6ce5f1d5-f37f-4320-b5dc-5988f106d89d.jpg",
+   "tags": [
+    "monstrous",
+    "centaur",
+    "horse",
+    "human",
+    "warrior",
+    "sneaker"
+   ]
+  },
+  {
+   "name": "Rust Eater",
+   "kind": "creature",
+   "thumb": "thumbs/c2790cbf-dfa4-4a25-91c8-4ac4c2e823a9.jpg",
+   "tags": [
+    "monstrous",
+    "scales",
+    "rust",
+    "rustmonster",
+    "animal",
+    "centipede",
+    "rusteater",
+    "quadruped"
+   ]
+  },
+  {
+   "name": "Sea Monster",
+   "kind": "creature",
+   "thumb": "thumbs/43aa6c4a-1327-486d-8883-36564bb75ce6.jpg",
+   "tags": [
+    "monstrous",
+    "sea",
+    "giant",
+    "monster",
+    "unaligned",
+    "neutral",
+    "monstrosity",
+    "kraken"
+   ]
+  },
+  {
+   "name": "Serpentfolk Archer",
+   "kind": "creature",
+   "thumb": "thumbs/86e47097-c86c-45f6-ad77-e9064191792b.jpg",
+   "tags": [
+    "monstrous",
+    "cloth",
+    "bow",
+    "monstrosity",
+    "amphibian",
+    "green",
+    "white",
+    "bracer"
+   ]
+  },
+  {
+   "name": "Serpentfolk Caster",
+   "kind": "creature",
+   "thumb": "thumbs/f7fd7d1c-f98b-4535-8d2d-0773ff7ed77f.jpg",
+   "tags": [
+    "monstrous",
+    "monster",
+    "monstrosity",
+    "reptile",
+    "amphibian",
+    "animal",
+    "green",
+    "snake"
+   ]
+  },
+  {
+   "name": "Serpentfolk Warrior",
+   "kind": "creature",
+   "thumb": "thumbs/88872f42-0a97-487b-a89f-393ee4fe0ef0.jpg",
+   "tags": [
+    "monstrous",
+    "monster",
+    "monstrosity",
+    "reptile",
+    "amphibian",
+    "animal",
+    "green",
+    "snake"
+   ]
+  },
+  {
+   "name": "Shambler",
+   "kind": "creature",
+   "thumb": "thumbs/6d9f4acf-dcca-4f33-9c05-106f77670380.jpg",
+   "tags": [
+    "monstrous",
+    "shambler",
+    "swamp",
+    "moss",
+    "monster",
+    "neutral",
+    "evil",
+    "plant"
+   ]
+  },
+  {
+   "name": "Slime",
+   "kind": "creature",
+   "thumb": "thumbs/62a6d6c0-deab-44b7-a9a4-322b115374a2.jpg",
+   "tags": [
+    "monstrous",
+    "small",
+    "slime",
+    "monster",
+    "slimy",
+    "chaotic",
+    "neutral",
+    "monstrosity"
+   ]
+  },
+  {
+   "name": "Sphinx 2",
+   "kind": "creature",
+   "thumb": "thumbs/e2f37589-b242-47b6-aad2-0e6a941aa128.jpg",
+   "tags": [
+    "monstrous",
+    "wings",
+    "brown",
+    "sphinx",
+    "feather",
+    "flying",
+    "large",
+    "monster"
+   ]
+  },
+  {
+   "name": "Sphinx",
+   "kind": "creature",
+   "thumb": "thumbs/a91b0cce-49f9-4c03-a60e-14ed2cd16d1d.jpg",
+   "tags": [
+    "monstrous",
+    "wings",
+    "brown",
+    "sphinx",
+    "feather",
+    "flying",
+    "large",
+    "monster"
+   ]
+  },
+  {
+   "name": "Stirge",
+   "kind": "creature",
+   "thumb": "thumbs/68afb2eb-4809-4bd1-afd2-fc7c18b033b4.jpg",
+   "tags": [
+    "monstrous",
+    "styrge",
+    "swamp",
+    "flying",
+    "bat",
+    "insect",
+    "stirge",
+    "monster"
+   ]
+  },
+  {
+   "name": "Tentacle, Large",
+   "kind": "creature",
+   "thumb": "thumbs/9dfd67c9-3e74-4079-9c8e-b81d680acc5a.jpg",
+   "tags": [
+    "monstrous",
+    "tentacle",
+    "large",
+    "sea",
+    "monster",
+    "unaligned",
+    "neutral",
+    "monstrosity"
+   ]
+  },
+  {
+   "name": "Troll",
+   "kind": "creature",
+   "thumb": "thumbs/e90923c3-441a-4811-93d0-946f267281f1.jpg",
+   "tags": [
+    "monstrous",
+    "large",
+    "troll",
+    "humanoid",
+    "club",
+    "monster",
+    "slimy",
+    "chaotic"
+   ]
+  },
+  {
+   "name": "Werewolf",
+   "kind": "creature",
+   "thumb": "thumbs/2f07389d-9c10-417f-8e32-88d1551327f1.jpg",
+   "tags": [
+    "monstrous",
+    "werewolf",
+    "wolf",
+    "monster",
+    "fur",
+    "chaotic",
+    "evil",
+    "monstrosity"
+   ]
+  },
+  {
+   "name": "Yeti",
+   "kind": "creature",
+   "thumb": "thumbs/dd10619f-2111-40f2-8d86-4e9407a3003f.jpg",
+   "tags": [
+    "monstrous",
+    "yeti",
+    "snow",
+    "monster",
+    "horns",
+    "fur",
+    "chaotic",
+    "evil"
+   ]
+  },
+  {
+   "name": "Orc Bolter",
+   "kind": "creature",
+   "thumb": "thumbs/74cfb22b-c5f9-4d46-a851-92b6212f777f.jpg",
+   "tags": [
+    "orc",
+    "medium",
+    "archer",
+    "goblinoid",
+    "chaotic",
+    "evil",
+    "green",
+    "humanoid"
+   ]
+  },
+  {
+   "name": "Orc Spellcaster",
+   "kind": "creature",
+   "thumb": "thumbs/4c269c30-e812-4a6e-b314-455d86774e95.jpg",
+   "tags": [
+    "orc",
+    "medium",
+    "goblinoid",
+    "shaman",
+    "chaotic",
+    "evil",
+    "green",
+    "humanoid"
+   ]
+  },
+  {
+   "name": "Orc Warrior",
+   "kind": "creature",
+   "thumb": "thumbs/759516c3-6bbc-480c-b8bb-ae3081509a99.jpg",
+   "tags": [
+    "orc",
+    "medium",
+    "goblinoid",
+    "chaotic",
+    "evil",
+    "green",
+    "humanoid",
+    "blunt"
+   ]
+  },
+  {
+   "name": "Banshee",
+   "kind": "creature",
+   "thumb": "thumbs/05dcdb30-af33-416b-ae01-9ad64619b540.jpg",
+   "tags": [
+    "undead",
+    "banshee",
+    "ghost",
+    "flying",
+    "haunted",
+    "mouth",
+    "ghoul"
+   ]
+  },
+  {
+   "name": "Blood Queen",
+   "kind": "creature",
+   "thumb": "thumbs/841a61fe-4603-4c27-bc4e-424f30dc4fb8.jpg",
+   "tags": [
+    "undead",
+    "vampire",
+    "medium",
+    "moorgoth",
+    "claws",
+    "teeth",
+    "blood",
+    "queen"
+   ]
+  },
+  {
+   "name": "Death Knight",
+   "kind": "creature",
+   "thumb": "thumbs/95c2a590-af1e-48fc-b7e7-73b28558845b.jpg",
+   "tags": [
+    "undead",
+    "death",
+    "knight",
+    "deathknight",
+    "skeleton",
+    "plate",
+    "full",
+    "armor"
+   ]
+  },
+  {
+   "name": "Evil Spirit",
+   "kind": "creature",
+   "thumb": "thumbs/be83b2f6-810b-4980-9bc6-44fcd588dbfc.jpg",
+   "tags": [
+    "undead",
+    "medium",
+    "dead",
+    "graveyard",
+    "lantern",
+    "chains",
+    "chain",
+    "ghast"
+   ]
+  },
+  {
+   "name": "Ghost",
+   "kind": "creature",
+   "thumb": "thumbs/32202aca-89a9-47e1-aeba-89884457b7ec.jpg",
+   "tags": [
+    "undead",
+    "medium",
+    "village",
+    "peasant",
+    "graveyard",
+    "ghost",
+    "dead",
+    "grave"
+   ]
+  },
+  {
+   "name": "Ghoul",
+   "kind": "creature",
+   "thumb": "thumbs/6ea9f17b-5399-4535-8ebf-2da33b1ea517.jpg",
+   "tags": [
+    "undead",
+    "medium",
+    "ghoul",
+    "turquoise",
+    "blue",
+    "ghast",
+    "zombie",
+    "bone"
+   ]
+  },
+  {
+   "name": "Haunted Armor",
+   "kind": "creature",
+   "thumb": "thumbs/e56ebe2a-5400-4a09-8e80-d1506d5532d9.jpg",
+   "tags": [
+    "undead",
+    "armor",
+    "flying",
+    "graveyard",
+    "haunted",
+    "moorgoth",
+    "evil",
+    "fullplate"
+   ]
+  },
+  {
+   "name": "Lich",
+   "kind": "creature",
+   "thumb": "thumbs/7ff2a6e1-2c02-45f5-a30b-4c8f67239661.jpg",
+   "tags": [
+    "undead",
+    "medium",
+    "lich",
+    "summoner",
+    "staff",
+    "sorcerer",
+    "magic",
+    "wand"
+   ]
+  },
+  {
+   "name": "Mummy",
+   "kind": "creature",
+   "thumb": "thumbs/065eb04a-0c5c-4086-abb1-6ef11bf9ab0d.jpg",
+   "tags": [
+    "undead",
+    "medium",
+    "crypt",
+    "graveyard",
+    "dead",
+    "grave"
+   ]
+  },
+  {
+   "name": "Skeleton Archer",
+   "kind": "creature",
+   "thumb": "thumbs/6bc7f4dd-e5ca-4e99-ba6e-d39804fb3663.jpg",
+   "tags": [
+    "undead",
+    "medium",
+    "archer",
+    "bow",
+    "crypt",
+    "graveyard",
+    "bone",
+    "dead"
+   ]
+  },
+  {
+   "name": "Skeleton Lord",
+   "kind": "creature",
+   "thumb": "thumbs/0e96e650-18e2-4007-8277-943e4c16b826.jpg",
+   "tags": [
+    "undead",
+    "medium",
+    "fancy",
+    "noble",
+    "book",
+    "crypt",
+    "graveyard",
+    "library"
+   ]
+  },
+  {
+   "name": "Skeleton Warrior 2",
+   "kind": "creature",
+   "thumb": "thumbs/e7c4802c-8430-4690-b71e-d88627249ee2.jpg",
+   "tags": [
+    "undead",
+    "medium",
+    "warrior",
+    "spear",
+    "graveyard",
+    "crypt",
+    "fighter",
+    "bone"
+   ]
+  },
+  {
+   "name": "Skeleton Warrior",
+   "kind": "creature",
+   "thumb": "thumbs/d20324fd-8951-4f76-bf03-249c19662f80.jpg",
+   "tags": [
+    "undead",
+    "medium",
+    "sword",
+    "warrior",
+    "fighter",
+    "shield",
+    "graveyard",
+    "crypt"
+   ]
+  },
+  {
+   "name": "Vampire",
+   "kind": "creature",
+   "thumb": "thumbs/435c323d-7ab9-47bd-a5a3-d9344c59af5b.jpg",
+   "tags": [
+    "undead",
+    "medium",
+    "vampire",
+    "noble",
+    "walkingstick",
+    "staff",
+    "sorcerer",
+    "crypt"
+   ]
+  },
+  {
+   "name": "Zombie 2",
+   "kind": "creature",
+   "thumb": "thumbs/729c5a08-73fe-4022-aae1-8e89dd784c14.jpg",
+   "tags": [
+    "undead",
+    "monster",
+    "zombie",
+    "biped",
+    "shambling"
+   ]
+  },
+  {
+   "name": "Zombie 3",
+   "kind": "creature",
+   "thumb": "thumbs/b7b0795e-29f1-471a-8dcc-695eaa8cd288.jpg",
+   "tags": [
+    "undead",
+    "monster",
+    "zombie",
+    "biped",
+    "shambling"
+   ]
+  },
+  {
+   "name": "Zombie 4",
+   "kind": "creature",
+   "thumb": "thumbs/c4109b05-0e1c-4b71-b1c3-2c4153b13133.jpg",
+   "tags": [
+    "undead",
+    "medium",
+    "unarmed",
+    "graveyard",
+    "crypt",
+    "zombie",
+    "ghoul",
+    "ghast"
+   ]
+  },
+  {
+   "name": "Zombie, Dwarf",
+   "kind": "creature",
+   "thumb": "thumbs/c2064207-1984-460a-a1b8-5c0f34e590e9.jpg",
+   "tags": [
+    "undead",
+    "monster",
+    "dwarf",
+    "zombie",
+    "red",
+    "green",
+    "tan",
+    "biped"
+   ]
+  },
+  {
+   "name": "Zombie, Elf",
+   "kind": "creature",
+   "thumb": "thumbs/4f123d56-a712-496b-b436-f5f99f2fcde9.jpg",
+   "tags": [
+    "undead",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "monster",
+    "monstrosity",
+    "monstrous",
+    "skeleton"
+   ]
+  },
+  {
+   "name": "Zombie",
+   "kind": "creature",
+   "thumb": "thumbs/6457b863-0258-4149-b552-32d405f366b6.jpg",
+   "tags": [
+    "undead",
+    "monster",
+    "zombie",
+    "biped",
+    "shambling"
+   ]
+  }
+ ]
+}

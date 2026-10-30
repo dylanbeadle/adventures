@@ -1,0 +1,555 @@
+{
+ "id": "3e025b17-9c40-5b7c-8c95-1921d0b225db",
+ "folder": "Library Set Tiles.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 689,
+   "sha256": "7c65dd9def27cb52c275aa06510d9815439efe2cb1fe4ee774d658775cf3d3a1"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 31736,
+   "sha256": "3fc304180915563f7f8e8e99be2cd61a3c58fa79ec6d859e5d40dbcff2ed1552"
+  },
+  {
+   "path": "media/materials/Library.usdc",
+   "size": 19724,
+   "sha256": "c24d21cc536ed131cf8633109bc9ffdf7e045cd0c2da1da90544a18c4fa9d5ba"
+  },
+  {
+   "path": "media/materials/textures/basalt.png",
+   "size": 25957,
+   "sha256": "e7295df0b2356c29812c23d4ee8cfcbbab04ee3eb5f20f52d281a6846c8f2e96"
+  },
+  {
+   "path": "media/materials/textures/basalt_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/blue.png",
+   "size": 29622,
+   "sha256": "bb2482f15178dd7ed1883b5558bae3c5db1e6f63dfb0a562b16da3cffcd80add"
+  },
+  {
+   "path": "media/materials/textures/blue_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bluefire.png",
+   "size": 40884,
+   "sha256": "95947aba8ef1863b10a5ceb035363c014f49bb066a629334e6b9fb0c0b2a2a57"
+  },
+  {
+   "path": "media/materials/textures/bluefire_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bone.png",
+   "size": 52095,
+   "sha256": "60127b0b9d500672ffa4413c2e0331968daf672f9edbbc58e031bd20a24410ce"
+  },
+  {
+   "path": "media/materials/textures/bone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/brass.png",
+   "size": 45700,
+   "sha256": "7653b7e6c813911303d183fd977ca9007540d1f30b8a647ce49a9b4b25479a7e"
+  },
+  {
+   "path": "media/materials/textures/brass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/fur.png",
+   "size": 32075,
+   "sha256": "e6ebdc6bf38121ac2caa3f246dbf760ceb5f618f67a707849f43ac55ee75e56d"
+  },
+  {
+   "path": "media/materials/textures/fur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ghost.png",
+   "size": 46813,
+   "sha256": "6b86f729a542c078e35015b96d3bdf6bb6fd252e59dc931fbd818c4ac61d0809"
+  },
+  {
+   "path": "media/materials/textures/ghost_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/goblinskin.png",
+   "size": 40654,
+   "sha256": "bc088b6cce6935a3e38a4e34d3f8e553b7269a409f04d5892d4bb7bcbb804e7a"
+  },
+  {
+   "path": "media/materials/textures/goblinskin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/grass.png",
+   "size": 37697,
+   "sha256": "f6440b6a238240b171a02d0a9abfa1db6e3b23470ea136796156c95dc85ecb1a"
+  },
+  {
+   "path": "media/materials/textures/grass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ice.png",
+   "size": 54673,
+   "sha256": "1776de4df5a1aa0fd4c24462a5bf2188a02dd0f291b002f76689f64c7401183f"
+  },
+  {
+   "path": "media/materials/textures/ice_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/iron.png",
+   "size": 33226,
+   "sha256": "b819ee206156042e76233baf2e2abdb7f0a4a0ae5bc64a26cfaaec7a6fae6a3b"
+  },
+  {
+   "path": "media/materials/textures/iron_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/jade.png",
+   "size": 33655,
+   "sha256": "449a6862f41cf33514e10aa482f65a2dd957d8accc0e776a061972b2b5323771"
+  },
+  {
+   "path": "media/materials/textures/jade_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/lava.png",
+   "size": 36124,
+   "sha256": "f4f7e6f7c9f527d2c962cacf29c83a795a16ecc66640854685970879a3f94e4c"
+  },
+  {
+   "path": "media/materials/textures/lava_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/leather.png",
+   "size": 22325,
+   "sha256": "5466b2bd41efecafe9089281e6fca4ca93def727a9c16cafc86dadf55d211774"
+  },
+  {
+   "path": "media/materials/textures/leather_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/limestone.png",
+   "size": 49995,
+   "sha256": "bf8ce44b291f665ea0c34f28befb206e92da7202b60d7b8ebdfc5fe801118ee9"
+  },
+  {
+   "path": "media/materials/textures/limestone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/marble.png",
+   "size": 31933,
+   "sha256": "d8c25c02c17e9076c1bb4fb692d360f9fb31c298ca833d8c244e306ff3604ae7"
+  },
+  {
+   "path": "media/materials/textures/marble_normal.png",
+   "size": 29285,
+   "sha256": "d4e5ab67529195c5a5be286a022e1e9c8058b9b614eadb7612942462d083a0ef"
+  },
+  {
+   "path": "media/materials/textures/mortar.png",
+   "size": 30700,
+   "sha256": "0749995c21d077be43c42b8de716a7992549eb89f73ba68253792accc4dc03e9"
+  },
+  {
+   "path": "media/materials/textures/mortar_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/oak.png",
+   "size": 44710,
+   "sha256": "cdf8ce500e0145dddaba5408a7bb6b6013c72e37ae225e23903efb16b6eaebd5"
+  },
+  {
+   "path": "media/materials/textures/oak_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  },
+  {
+   "path": "media/materials/textures/paper.png",
+   "size": 52363,
+   "sha256": "e8344646e132da563f18a9157fbf98bd778a6070ac4443ad6e3f209bb2b04fa6"
+  },
+  {
+   "path": "media/materials/textures/paper_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/plaster.png",
+   "size": 51787,
+   "sha256": "7a4c5f149f38204773143f16e06851f33496c436db368fe8a964a390873bfc2e"
+  },
+  {
+   "path": "media/materials/textures/plaster_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/red.png",
+   "size": 30685,
+   "sha256": "efbdd3cc8b5c72553f9db3b9c26860b5c364c1f321b3aa6012ecb45130633ed4"
+  },
+  {
+   "path": "media/materials/textures/red_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rope.png",
+   "size": 44507,
+   "sha256": "24b4fed56ade7e162aa38fcd54886e3c2730f38af4befb25c843422a278e5bbb"
+  },
+  {
+   "path": "media/materials/textures/rope_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rose.png",
+   "size": 51725,
+   "sha256": "e0e37ae18b6906a144680a1155de6ffad7e2bb083d9999fff0363e5112aee4d2"
+  },
+  {
+   "path": "media/materials/textures/rose_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/sand.png",
+   "size": 36961,
+   "sha256": "85886e8f7b3434815829178445b87ff6158c13e8164a8ffda3993c2f221a24cc"
+  },
+  {
+   "path": "media/materials/textures/sand_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/sandstone.png",
+   "size": 47840,
+   "sha256": "ef16b0605a795be8f93f5af413856bbace96ad202e7236059578339d185c3007"
+  },
+  {
+   "path": "media/materials/textures/sandstone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/scales.png",
+   "size": 35840,
+   "sha256": "b1bed18fc93d1ce569ba48331159220c33f9c0feacf02155e12816a7bcaf1e2d"
+  },
+  {
+   "path": "media/materials/textures/scales_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/skin.png",
+   "size": 46985,
+   "sha256": "5ca6e03744c454380928115d5223e4630134a27767a7b26dcfba204d1c4fcf47"
+  },
+  {
+   "path": "media/materials/textures/skin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/snow.png",
+   "size": 42837,
+   "sha256": "0d8d0cd049935a17e0b71ebea93ac5e8f823a998dd72ba10e283741ead9d4260"
+  },
+  {
+   "path": "media/materials/textures/snow_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/soil.png",
+   "size": 32264,
+   "sha256": "4c90d4c1a131223b16a1e4b20de7aa877cded6e90e932f4df75e0e9ec652f615"
+  },
+  {
+   "path": "media/materials/textures/soil_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/steel.png",
+   "size": 49671,
+   "sha256": "eea5cdd9f65ec98b43afd1f7e80a070c60c40fcb61812c4f3c3d6d16c9d95e38"
+  },
+  {
+   "path": "media/materials/textures/steel_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/stone.png",
+   "size": 42272,
+   "sha256": "e4f23d37e5e6d3a83d836d06089b88547117cb6b8978b3b448796eaa655d2ec9"
+  },
+  {
+   "path": "media/materials/textures/stone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/tanfur.png",
+   "size": 44965,
+   "sha256": "5c21a980f0db8b2fcc14c81ba8f6b487e73dd27d2a4bfe3e5000650534d675a7"
+  },
+  {
+   "path": "media/materials/textures/tanfur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/water.png",
+   "size": 29402,
+   "sha256": "a7861a6a33fa96041dd14a7c2ea61c48bfc767b4fbb3e2a2add4fcc74a347850"
+  },
+  {
+   "path": "media/materials/textures/water_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/wood.png",
+   "size": 36098,
+   "sha256": "93be5dba40fb0504f65177b720e06059d439aaf10c0c215617ba6fe9e55769f9"
+  },
+  {
+   "path": "media/materials/textures/wood_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelf1x2 Filled.usd",
+   "size": 800839,
+   "sha256": "f841a7fa35b2f68f6238033bb6acfb8ee6da6ee8b7c52f6002d5d761f62a2d97"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelf1x2.usd",
+   "size": 37331,
+   "sha256": "852faf15f9e237cc9486caa55063b9df2da08ba70319724a7783c56ec385e0e3"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfCorner Filled.usd",
+   "size": 733984,
+   "sha256": "f83bc18e609074a06328a304b35ad7f4b7fae618903589eda59c10922d194ca3"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfCorner.usd",
+   "size": 71411,
+   "sha256": "f4d1433c63823ec52ad181ba5a92539e5c89d5853231517a83bf844bf83dbd5b"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfTop1x2__56acf51c.usd",
+   "size": 792126,
+   "sha256": "742a98162df221f159f25f4d67de7ef70f7c863a0fd32f8167d86f645551b03b"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfTop1x2__76e771f4.usd",
+   "size": 826080,
+   "sha256": "123956c6e4f739a3c85ab965d117cc1def682b96bb6696c91fc9048661cc9752"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookcase1x1 Filled.usd",
+   "size": 357436,
+   "sha256": "251307ee006ed4178d4e61d365342458cf539af19b13f8ce1d28541990c16f3a"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookcase1x1.usd",
+   "size": 37309,
+   "sha256": "fc4726487f665d34c51ff4527f10f9ee0c7c45704ca663811381ac50b5341fb8"
+  },
+  {
+   "path": "scenery/librarybookcase1x1-filled.md",
+   "size": 269,
+   "sha256": "09bfd1bd2a9e3ebed8d5da2b77a12ed9e792884366df9fdb25e72b4e68207c54"
+  },
+  {
+   "path": "scenery/librarybookcase1x1.md",
+   "size": 255,
+   "sha256": "782a882087589fda55302cc7a5c57021f8dc7d014539a5994de8f5b0ce2a46d5"
+  },
+  {
+   "path": "scenery/librarybookshelf1x2-filled.md",
+   "size": 271,
+   "sha256": "107f2ff7fc3428ecd454e2cf904d06fca4f99a6b0406280605839c2444613737"
+  },
+  {
+   "path": "scenery/librarybookshelf1x2.md",
+   "size": 257,
+   "sha256": "adc56a7e82f42aba739b19dbeaefb0190f72f1edc197b506d9cd699cd88d9634"
+  },
+  {
+   "path": "scenery/librarybookshelfcorner-filled.md",
+   "size": 277,
+   "sha256": "f6ac9bd9f8faaeebc767fa7271e86d38a9cfa5a693225226a78860fde28f00a0"
+  },
+  {
+   "path": "scenery/librarybookshelfcorner.md",
+   "size": 263,
+   "sha256": "342e2b79d05d9e18e42a5ffb14d37305b8d03d273cf3ae5caf00d6c8712aa2a2"
+  },
+  {
+   "path": "scenery/librarybookshelftop1x2-2.md",
+   "size": 275,
+   "sha256": "86267a8bbd4ef7d6f9ee830ccba0ddf9699963ee2f20ffab65e00f9e82fe3432"
+  },
+  {
+   "path": "scenery/librarybookshelftop1x2.md",
+   "size": 273,
+   "sha256": "dbb0f0396d4956e00e1b374f40069f9bfa0c7c58c2b5ee1dc399a02711bc837f"
+  }
+ ],
+ "contents": [
+  {
+   "name": "LibraryBookcase1x1 Filled",
+   "kind": "scenery",
+   "thumb": "thumbs/3dc2ad59-9a58-43b8-a40b-758cf3f2d434.jpg",
+   "tags": [
+    "library-set",
+    "library",
+    "wood",
+    "book",
+    "shelf",
+    "furniture",
+    "brown"
+   ]
+  },
+  {
+   "name": "LibraryBookcase1x1",
+   "kind": "scenery",
+   "thumb": "thumbs/f7e7dcc5-e97d-4399-ae2d-3623b8778680.jpg",
+   "tags": [
+    "library-set",
+    "library",
+    "wood",
+    "book",
+    "shelf",
+    "furniture",
+    "brown"
+   ]
+  },
+  {
+   "name": "LibraryBookShelf1x2 Filled",
+   "kind": "scenery",
+   "thumb": "thumbs/a3d14911-eed7-437a-b80a-abba9193b7f9.jpg",
+   "tags": [
+    "library-set",
+    "library",
+    "wood",
+    "book",
+    "shelf",
+    "furniture",
+    "brown"
+   ]
+  },
+  {
+   "name": "LibraryBookShelf1x2",
+   "kind": "scenery",
+   "thumb": "thumbs/85209676-5287-40a3-9d8f-2a6633cb35fd.jpg",
+   "tags": [
+    "library-set",
+    "library",
+    "wood",
+    "book",
+    "shelf",
+    "furniture",
+    "brown"
+   ]
+  },
+  {
+   "name": "LibraryBookShelfCorner Filled",
+   "kind": "scenery",
+   "thumb": "thumbs/4c6c5bce-436d-4ec1-a5a1-28398667f354.jpg",
+   "tags": [
+    "library-set",
+    "library",
+    "wood",
+    "book",
+    "shelf",
+    "furniture",
+    "brown"
+   ]
+  },
+  {
+   "name": "LibraryBookShelfCorner",
+   "kind": "scenery",
+   "thumb": "thumbs/491a6e49-76dc-4f53-a830-0ce3614a1a83.jpg",
+   "tags": [
+    "library-set",
+    "library",
+    "wood",
+    "book",
+    "shelf",
+    "furniture",
+    "brown"
+   ]
+  },
+  {
+   "name": "LibraryBookShelfTop1x2 2",
+   "kind": "scenery",
+   "thumb": "thumbs/76e771f4-6234-4fea-acf8-2b5516b7db02.jpg",
+   "tags": [
+    "library-set",
+    "library",
+    "wood",
+    "book",
+    "shelf",
+    "furniture",
+    "brown"
+   ]
+  },
+  {
+   "name": "LibraryBookShelfTop1x2",
+   "kind": "scenery",
+   "thumb": "thumbs/56acf51c-237c-42dc-81f2-b5514990f1ff.jpg",
+   "tags": [
+    "library-set",
+    "library",
+    "wood",
+    "book",
+    "shelf",
+    "furniture",
+    "brown"
+   ]
+  }
+ ]
+}

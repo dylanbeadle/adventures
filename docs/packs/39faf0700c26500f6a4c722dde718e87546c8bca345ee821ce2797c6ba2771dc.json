@@ -1,0 +1,845 @@
+{
+ "id": "46d16f9c-2a81-5579-94a2-892cbc2149fb",
+ "folder": "Traps & Treasure Props.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 846,
+   "sha256": "83748b7ef26ac5f4ca11db680680075bbd1058cf61dca726c9af3b521b3b5b9a"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 34001,
+   "sha256": "5befe079b4e478be4ff69a12f383533e5ebe23ef6955093b5ee20539e893141e"
+  },
+  {
+   "path": "media/materials/Library.usdc",
+   "size": 19724,
+   "sha256": "c24d21cc536ed131cf8633109bc9ffdf7e045cd0c2da1da90544a18c4fa9d5ba"
+  },
+  {
+   "path": "media/materials/textures/basalt.png",
+   "size": 25957,
+   "sha256": "e7295df0b2356c29812c23d4ee8cfcbbab04ee3eb5f20f52d281a6846c8f2e96"
+  },
+  {
+   "path": "media/materials/textures/basalt_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/blue.png",
+   "size": 29622,
+   "sha256": "bb2482f15178dd7ed1883b5558bae3c5db1e6f63dfb0a562b16da3cffcd80add"
+  },
+  {
+   "path": "media/materials/textures/blue_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bluefire.png",
+   "size": 40884,
+   "sha256": "95947aba8ef1863b10a5ceb035363c014f49bb066a629334e6b9fb0c0b2a2a57"
+  },
+  {
+   "path": "media/materials/textures/bluefire_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bone.png",
+   "size": 52095,
+   "sha256": "60127b0b9d500672ffa4413c2e0331968daf672f9edbbc58e031bd20a24410ce"
+  },
+  {
+   "path": "media/materials/textures/bone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/brass.png",
+   "size": 45700,
+   "sha256": "7653b7e6c813911303d183fd977ca9007540d1f30b8a647ce49a9b4b25479a7e"
+  },
+  {
+   "path": "media/materials/textures/brass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/fur.png",
+   "size": 32075,
+   "sha256": "e6ebdc6bf38121ac2caa3f246dbf760ceb5f618f67a707849f43ac55ee75e56d"
+  },
+  {
+   "path": "media/materials/textures/fur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ghost.png",
+   "size": 46813,
+   "sha256": "6b86f729a542c078e35015b96d3bdf6bb6fd252e59dc931fbd818c4ac61d0809"
+  },
+  {
+   "path": "media/materials/textures/ghost_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/goblinskin.png",
+   "size": 40654,
+   "sha256": "bc088b6cce6935a3e38a4e34d3f8e553b7269a409f04d5892d4bb7bcbb804e7a"
+  },
+  {
+   "path": "media/materials/textures/goblinskin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/grass.png",
+   "size": 37697,
+   "sha256": "f6440b6a238240b171a02d0a9abfa1db6e3b23470ea136796156c95dc85ecb1a"
+  },
+  {
+   "path": "media/materials/textures/grass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ice.png",
+   "size": 54673,
+   "sha256": "1776de4df5a1aa0fd4c24462a5bf2188a02dd0f291b002f76689f64c7401183f"
+  },
+  {
+   "path": "media/materials/textures/ice_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/iron.png",
+   "size": 33226,
+   "sha256": "b819ee206156042e76233baf2e2abdb7f0a4a0ae5bc64a26cfaaec7a6fae6a3b"
+  },
+  {
+   "path": "media/materials/textures/iron_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/jade.png",
+   "size": 33655,
+   "sha256": "449a6862f41cf33514e10aa482f65a2dd957d8accc0e776a061972b2b5323771"
+  },
+  {
+   "path": "media/materials/textures/jade_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/lava.png",
+   "size": 36124,
+   "sha256": "f4f7e6f7c9f527d2c962cacf29c83a795a16ecc66640854685970879a3f94e4c"
+  },
+  {
+   "path": "media/materials/textures/lava_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/leather.png",
+   "size": 22325,
+   "sha256": "5466b2bd41efecafe9089281e6fca4ca93def727a9c16cafc86dadf55d211774"
+  },
+  {
+   "path": "media/materials/textures/leather_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/limestone.png",
+   "size": 49995,
+   "sha256": "bf8ce44b291f665ea0c34f28befb206e92da7202b60d7b8ebdfc5fe801118ee9"
+  },
+  {
+   "path": "media/materials/textures/limestone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/marble.png",
+   "size": 31933,
+   "sha256": "d8c25c02c17e9076c1bb4fb692d360f9fb31c298ca833d8c244e306ff3604ae7"
+  },
+  {
+   "path": "media/materials/textures/marble_normal.png",
+   "size": 29285,
+   "sha256": "d4e5ab67529195c5a5be286a022e1e9c8058b9b614eadb7612942462d083a0ef"
+  },
+  {
+   "path": "media/materials/textures/mortar.png",
+   "size": 30700,
+   "sha256": "0749995c21d077be43c42b8de716a7992549eb89f73ba68253792accc4dc03e9"
+  },
+  {
+   "path": "media/materials/textures/mortar_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/oak.png",
+   "size": 44710,
+   "sha256": "cdf8ce500e0145dddaba5408a7bb6b6013c72e37ae225e23903efb16b6eaebd5"
+  },
+  {
+   "path": "media/materials/textures/oak_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  },
+  {
+   "path": "media/materials/textures/paper.png",
+   "size": 52363,
+   "sha256": "e8344646e132da563f18a9157fbf98bd778a6070ac4443ad6e3f209bb2b04fa6"
+  },
+  {
+   "path": "media/materials/textures/paper_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/plaster.png",
+   "size": 51787,
+   "sha256": "7a4c5f149f38204773143f16e06851f33496c436db368fe8a964a390873bfc2e"
+  },
+  {
+   "path": "media/materials/textures/plaster_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/red.png",
+   "size": 30685,
+   "sha256": "efbdd3cc8b5c72553f9db3b9c26860b5c364c1f321b3aa6012ecb45130633ed4"
+  },
+  {
+   "path": "media/materials/textures/red_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rope.png",
+   "size": 44507,
+   "sha256": "24b4fed56ade7e162aa38fcd54886e3c2730f38af4befb25c843422a278e5bbb"
+  },
+  {
+   "path": "media/materials/textures/rope_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rose.png",
+   "size": 51725,
+   "sha256": "e0e37ae18b6906a144680a1155de6ffad7e2bb083d9999fff0363e5112aee4d2"
+  },
+  {
+   "path": "media/materials/textures/rose_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/sand.png",
+   "size": 36961,
+   "sha256": "85886e8f7b3434815829178445b87ff6158c13e8164a8ffda3993c2f221a24cc"
+  },
+  {
+   "path": "media/materials/textures/sand_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/sandstone.png",
+   "size": 47840,
+   "sha256": "ef16b0605a795be8f93f5af413856bbace96ad202e7236059578339d185c3007"
+  },
+  {
+   "path": "media/materials/textures/sandstone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/scales.png",
+   "size": 35840,
+   "sha256": "b1bed18fc93d1ce569ba48331159220c33f9c0feacf02155e12816a7bcaf1e2d"
+  },
+  {
+   "path": "media/materials/textures/scales_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/skin.png",
+   "size": 46985,
+   "sha256": "5ca6e03744c454380928115d5223e4630134a27767a7b26dcfba204d1c4fcf47"
+  },
+  {
+   "path": "media/materials/textures/skin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/snow.png",
+   "size": 42837,
+   "sha256": "0d8d0cd049935a17e0b71ebea93ac5e8f823a998dd72ba10e283741ead9d4260"
+  },
+  {
+   "path": "media/materials/textures/snow_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/soil.png",
+   "size": 32264,
+   "sha256": "4c90d4c1a131223b16a1e4b20de7aa877cded6e90e932f4df75e0e9ec652f615"
+  },
+  {
+   "path": "media/materials/textures/soil_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/steel.png",
+   "size": 49671,
+   "sha256": "eea5cdd9f65ec98b43afd1f7e80a070c60c40fcb61812c4f3c3d6d16c9d95e38"
+  },
+  {
+   "path": "media/materials/textures/steel_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/stone.png",
+   "size": 42272,
+   "sha256": "e4f23d37e5e6d3a83d836d06089b88547117cb6b8978b3b448796eaa655d2ec9"
+  },
+  {
+   "path": "media/materials/textures/stone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/tanfur.png",
+   "size": 44965,
+   "sha256": "5c21a980f0db8b2fcc14c81ba8f6b487e73dd27d2a4bfe3e5000650534d675a7"
+  },
+  {
+   "path": "media/materials/textures/tanfur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/water.png",
+   "size": 29402,
+   "sha256": "a7861a6a33fa96041dd14a7c2ea61c48bfc767b4fbb3e2a2add4fcc74a347850"
+  },
+  {
+   "path": "media/materials/textures/water_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/wood.png",
+   "size": 36098,
+   "sha256": "93be5dba40fb0504f65177b720e06059d439aaf10c0c215617ba6fe9e55769f9"
+  },
+  {
+   "path": "media/materials/textures/wood_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  },
+  {
+   "path": "media/props/Traps & Treasure/Bear trap 01.usd",
+   "size": 26511,
+   "sha256": "2d6cc81338708ac5473a886941d84ae1667319f1fb6e9bd7338b62e0595dab31"
+  },
+  {
+   "path": "media/props/Traps & Treasure/Clam Chest.usd",
+   "size": 227208,
+   "sha256": "680bd4b6de0ed3b3f6beb3ccff8ed27caba06c63a57b9264cc3627cb28087f8e"
+  },
+  {
+   "path": "media/props/Traps & Treasure/Crossbow mounted 01.usd",
+   "size": 52308,
+   "sha256": "bf1626e7f449b6951d853299ee0906f1eef535b7604a822567dc300b208c2b1b"
+  },
+  {
+   "path": "media/props/Traps & Treasure/Crystal Owl Chest.usd",
+   "size": 226969,
+   "sha256": "b87ca7baebfd38093475cdc08f01bd9c135674c2ba4f5111cdd0ea356877dc41"
+  },
+  {
+   "path": "media/props/Traps & Treasure/Gold Chest.usd",
+   "size": 175573,
+   "sha256": "d624cf98d76ec834b069531fd30bdf02e80afe369eb1c71c7155086aee4ba1ef"
+  },
+  {
+   "path": "media/props/Traps & Treasure/Leather Chest.usd",
+   "size": 175604,
+   "sha256": "9efcbd250b2d124959cdcb9e5d095afbd0ca94d4c0f066a7e1cbf64d2a0a9807"
+  },
+  {
+   "path": "media/props/Traps & Treasure/Lever floor v1.usd",
+   "size": 12642,
+   "sha256": "5a5c8edb1dec1bc4d5c80587fc376f533884cb2d9f022a838c0bf0ec07b650e9"
+  },
+  {
+   "path": "media/props/Traps & Treasure/Lever floor v2.usd",
+   "size": 12605,
+   "sha256": "2cca1668d4427c0467cd5ae26a50d8815c71c21c55f225b6a52d99169612bea1"
+  },
+  {
+   "path": "media/props/Traps & Treasure/Lever wall v1.usd",
+   "size": 12642,
+   "sha256": "63a7d9802a90572a0550e04546231519407ee674e3643bd1a281b30a9c6230d2"
+  },
+  {
+   "path": "media/props/Traps & Treasure/Lever wall v2.usd",
+   "size": 12602,
+   "sha256": "24a75eddcf041ac4ac477df4b4eb1fdebade362cecdb7193f37a484d3b7740b8"
+  },
+  {
+   "path": "media/props/Traps & Treasure/Pressure Plate trap 01.usd",
+   "size": 9451,
+   "sha256": "0e0dd1acac91bcb797fbaab98b37c21ef57e5d08bf5e0b16459c7bf4d21a81b2"
+  },
+  {
+   "path": "media/props/Traps & Treasure/Prison Grid trap.usd",
+   "size": 16307,
+   "sha256": "2d6706f2c23aed942d04c8c836482293fdf013d9c37e42ab2f90e0a7c5832618"
+  },
+  {
+   "path": "media/props/Traps & Treasure/Skull Chest.usd",
+   "size": 209656,
+   "sha256": "8fdc1f7fb3016011ee6058df07d7e8a29fb76bdabb2146d505f97c49869b18d2"
+  },
+  {
+   "path": "media/props/Traps & Treasure/Spike Trap (Metal) v2.usd",
+   "size": 16599,
+   "sha256": "b1f949ff5dc4f1bf0842563724aa23ea6c415f84e1b98073bbe981c5a486a3ed"
+  },
+  {
+   "path": "media/props/Traps & Treasure/Spike Trap (Metal).usd",
+   "size": 16592,
+   "sha256": "9f7e7a4dba06c44f0339d3c112f6a515994b8b53df2215a021fe765443166352"
+  },
+  {
+   "path": "media/props/Traps & Treasure/Spike Trap (Wood) v2.usd",
+   "size": 16591,
+   "sha256": "8dc490dc163de2203e31c45a691a2057d77d6cdfe977cc6b217e21336b00558e"
+  },
+  {
+   "path": "media/props/Traps & Treasure/Spike Trap (Wood).usd",
+   "size": 16591,
+   "sha256": "5fd28b3c05b1d3d9fe745fa6fc5187d7327440bb32dbc6e19a9c445c4219b4c9"
+  },
+  {
+   "path": "media/props/Traps & Treasure/Treasure Pile Large.usd",
+   "size": 213709,
+   "sha256": "7b85fe64fbb97d026ca05b6549dfd5bc3d6408a04dce72f8697d61015f599102"
+  },
+  {
+   "path": "media/props/Traps & Treasure/Treasure Pile Small.usd",
+   "size": 92896,
+   "sha256": "7133ceb2721e38998ed083520ad149841ef295023e648e719b9d263dede15aed"
+  },
+  {
+   "path": "scenery/bear-trap-01.md",
+   "size": 262,
+   "sha256": "6e9cd6d798da86dd68b63df9549af4e48cc1718ec0f58343af644b6640a346a3"
+  },
+  {
+   "path": "scenery/clam-chest.md",
+   "size": 281,
+   "sha256": "8f6e86c339e9cc395d163eb91066698209ef563c0d9acd5af8acedf33dd0a13c"
+  },
+  {
+   "path": "scenery/crossbow-mounted-01.md",
+   "size": 271,
+   "sha256": "4c98e1734ce56ea1c5e758496ec541e5100db5e6af49a0e0fce508b731780f0c"
+  },
+  {
+   "path": "scenery/crystal-owl-chest.md",
+   "size": 242,
+   "sha256": "706d24ed1eb3affa70c00934ab3b6a4169ba2c30a73ed8db53fd5a236e420faa"
+  },
+  {
+   "path": "scenery/gold-chest.md",
+   "size": 268,
+   "sha256": "1c1f9b1afa5695da0d270c7940e320f11de196e7acf4faa6142de6f8a1ddd948"
+  },
+  {
+   "path": "scenery/leather-chest.md",
+   "size": 277,
+   "sha256": "4f81e886e73304cf3b09ff93f9742e08ff890080a9fb1c5a84cabdb294769c95"
+  },
+  {
+   "path": "scenery/lever-floor-v1.md",
+   "size": 311,
+   "sha256": "d963cbd4e78eaf040dcf525411d9a496f7c88cc7a9448252668cc136ff4fa9de"
+  },
+  {
+   "path": "scenery/lever-floor-v2.md",
+   "size": 319,
+   "sha256": "5fb6adc7204f4085e2ecaf03ca5a90a459b7d75e8b05f7f351c8d9f13b8f3c9d"
+  },
+  {
+   "path": "scenery/lever-wall-v1.md",
+   "size": 306,
+   "sha256": "176d5d1eec83370ab3c3d2d3a4f127548209314cfbb66ab1d6f4f8730f150942"
+  },
+  {
+   "path": "scenery/lever-wall-v2.md",
+   "size": 314,
+   "sha256": "e2de2b1278576d98c6b1043b7a25232ffe4d1eea52cedff26d8202295a8f0c81"
+  },
+  {
+   "path": "scenery/pressure-plate-trap-01.md",
+   "size": 305,
+   "sha256": "0303abd25e9806afaca408fca43ac2d9c91a7eee5ae29bbd545b5471cc522452"
+  },
+  {
+   "path": "scenery/prison-grid-trap.md",
+   "size": 240,
+   "sha256": "fead68955fa260631345d725e36978c2e856f96faae9c494a32aac2aa73956be"
+  },
+  {
+   "path": "scenery/skull-chest.md",
+   "size": 264,
+   "sha256": "64af2489569271dc16fe17675a04b554b418657dc593873c7fa3d37cfbfa55e2"
+  },
+  {
+   "path": "scenery/spike-trap-metal-v2.md",
+   "size": 261,
+   "sha256": "416ec0a0e777f5ca154ceef02978ec240c54af5a3b3b4f814d31913757a18d52"
+  },
+  {
+   "path": "scenery/spike-trap-metal.md",
+   "size": 256,
+   "sha256": "7dc0ba6d17daf5a01380eed41361f2ae3e3ae5247d5dd8fd3c71174d8ddd5cea"
+  },
+  {
+   "path": "scenery/spike-trap-wood-v2.md",
+   "size": 259,
+   "sha256": "5ea2e9e31276296362abab1b911ad772ce9800eee90a0c3379fce422226efdd0"
+  },
+  {
+   "path": "scenery/spike-trap-wood.md",
+   "size": 253,
+   "sha256": "b0cedac6b47a263d8e194f167687b1acd04eb48287aabf873287e969e41b80bf"
+  },
+  {
+   "path": "scenery/treasure-pile-large.md",
+   "size": 255,
+   "sha256": "fe67a3158a02038c32e5be95d54ae6cf4c5b38a9f8185f8c711c1c7e21dc78cc"
+  },
+  {
+   "path": "scenery/treasure-pile-small.md",
+   "size": 262,
+   "sha256": "acc9f882774ce50e8c44706e026ff92853bc8e74c7889a80fb451698566d4e34"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Bear trap 01",
+   "kind": "scenery",
+   "thumb": "thumbs/1e78d5e0-c832-4270-995f-d56d8e51ba85.jpg",
+   "tags": [
+    "traps-treasure",
+    "bear",
+    "metal",
+    "trap",
+    "technology",
+    "tiny",
+    "switch",
+    "floor"
+   ]
+  },
+  {
+   "name": "Clam Chest",
+   "kind": "scenery",
+   "thumb": "thumbs/3f887c93-6887-4393-bfe9-0ecca64d5113.jpg",
+   "tags": [
+    "traps-treasure",
+    "clam",
+    "chest",
+    "sea",
+    "container",
+    "treasure",
+    "shell",
+    "pearl",
+    "ocean",
+    "closed",
+    "small"
+   ]
+  },
+  {
+   "name": "Crossbow mounted 01",
+   "kind": "scenery",
+   "thumb": "thumbs/f99a6b7d-4ef0-43c0-8380-52c5ca5b96dc.jpg",
+   "tags": [
+    "traps-treasure",
+    "crossbow",
+    "wood",
+    "trap",
+    "technology",
+    "tiny",
+    "floor"
+   ]
+  },
+  {
+   "name": "Crystal Owl Chest",
+   "kind": "scenery",
+   "thumb": "thumbs/cba687a8-5363-4857-9ca6-2f8ad4c7c187.jpg",
+   "tags": [
+    "traps-treasure",
+    "crystal",
+    "chest",
+    "wood"
+   ]
+  },
+  {
+   "name": "Gold Chest",
+   "kind": "scenery",
+   "thumb": "thumbs/52ecc349-a6dd-4d78-8b3f-7b7089df788e.jpg",
+   "tags": [
+    "traps-treasure",
+    "chest",
+    "gold",
+    "wood",
+    "container",
+    "treasure",
+    "brown",
+    "closed",
+    "small"
+   ]
+  },
+  {
+   "name": "Leather Chest",
+   "kind": "scenery",
+   "thumb": "thumbs/6a46f937-44a4-43b1-9864-f7d1c11514ca.jpg",
+   "tags": [
+    "traps-treasure",
+    "chest",
+    "leather",
+    "wood",
+    "container",
+    "treasure",
+    "brown",
+    "closed",
+    "small"
+   ]
+  },
+  {
+   "name": "Lever floor v1",
+   "kind": "scenery",
+   "thumb": "thumbs/a2c9f08d-8f55-46db-94a6-1105092b7449.jpg",
+   "tags": [
+    "traps-treasure",
+    "pressureplate",
+    "tiny",
+    "clasp",
+    "hinge",
+    "metal",
+    "trap",
+    "technology",
+    "black",
+    "medium",
+    "switch",
+    "lever",
+    "floor"
+   ]
+  },
+  {
+   "name": "Lever floor v2",
+   "kind": "scenery",
+   "thumb": "thumbs/02004bda-b106-4068-88bd-e190852f7a1f.jpg",
+   "tags": [
+    "traps-treasure",
+    "pressureplate",
+    "tiny",
+    "clasp",
+    "hinge",
+    "metal",
+    "trap",
+    "technology",
+    "orange",
+    "brown",
+    "medium",
+    "switch",
+    "lever",
+    "floor"
+   ]
+  },
+  {
+   "name": "Lever wall v1",
+   "kind": "scenery",
+   "thumb": "thumbs/5bb3d346-3839-42e8-9ba3-c3e39201772f.jpg",
+   "tags": [
+    "traps-treasure",
+    "pressureplate",
+    "clasp",
+    "hinge",
+    "metal",
+    "trap",
+    "technology",
+    "brown",
+    "gray",
+    "tiny",
+    "switch",
+    "lever",
+    "wall"
+   ]
+  },
+  {
+   "name": "Lever wall v2",
+   "kind": "scenery",
+   "thumb": "thumbs/39c8f3f7-b929-46ab-86a7-6678b0d5c2a4.jpg",
+   "tags": [
+    "traps-treasure",
+    "pressureplate",
+    "clasp",
+    "hinge",
+    "metal",
+    "trap",
+    "technology",
+    "brown",
+    "grey",
+    "orange",
+    "tiny",
+    "switch",
+    "lever",
+    "wall"
+   ]
+  },
+  {
+   "name": "Pressure Plate trap 01",
+   "kind": "scenery",
+   "thumb": "thumbs/8b3a0531-ea08-4560-abeb-f7220bc99b68.jpg",
+   "tags": [
+    "traps-treasure",
+    "pressureplate",
+    "clasp",
+    "hinge",
+    "metal",
+    "trap",
+    "technology",
+    "tiny",
+    "switch",
+    "floor"
+   ]
+  },
+  {
+   "name": "Prison Grid trap",
+   "kind": "scenery",
+   "thumb": "thumbs/d9c0844b-f189-4060-ae29-1dd4a484bd79.jpg",
+   "tags": [
+    "traps-treasure",
+    "dungeon",
+    "trap",
+    "spike"
+   ]
+  },
+  {
+   "name": "Skull Chest",
+   "kind": "scenery",
+   "thumb": "thumbs/126b1c4a-51fe-46a2-9f68-d807913ba7e7.jpg",
+   "tags": [
+    "traps-treasure",
+    "chest",
+    "skull",
+    "wood",
+    "container",
+    "treasure",
+    "closed",
+    "small"
+   ]
+  },
+  {
+   "name": "Spike Trap (Metal) v2",
+   "kind": "scenery",
+   "thumb": "thumbs/0588e8cc-4f3e-492d-89b4-86713ab67fc1.jpg",
+   "tags": [
+    "traps-treasure",
+    "spike",
+    "metal",
+    "small",
+    "trap",
+    "wall"
+   ]
+  },
+  {
+   "name": "Spike Trap (Metal)",
+   "kind": "scenery",
+   "thumb": "thumbs/6a0b8fde-ad88-4785-8b18-68513afe3313.jpg",
+   "tags": [
+    "traps-treasure",
+    "spike",
+    "metal",
+    "small",
+    "trap",
+    "floor"
+   ]
+  },
+  {
+   "name": "Spike Trap (Wood) v2",
+   "kind": "scenery",
+   "thumb": "thumbs/450b8d97-146d-44cd-a86c-6d0e3ce7de80.jpg",
+   "tags": [
+    "traps-treasure",
+    "spike",
+    "metal",
+    "small",
+    "trap",
+    "wall"
+   ]
+  },
+  {
+   "name": "Spike Trap (Wood)",
+   "kind": "scenery",
+   "thumb": "thumbs/291d6157-9397-4bc8-b93f-6f84b3974816.jpg",
+   "tags": [
+    "traps-treasure",
+    "spike",
+    "wood",
+    "small",
+    "trap",
+    "floor"
+   ]
+  },
+  {
+   "name": "Treasure Pile Large",
+   "kind": "scenery",
+   "thumb": "thumbs/13ef4d0c-66dc-49e5-8685-88379aff59a2.jpg",
+   "tags": [
+    "traps-treasure",
+    "treasure",
+    "gold",
+    "medium",
+    "floor"
+   ]
+  },
+  {
+   "name": "Treasure Pile Small",
+   "kind": "scenery",
+   "thumb": "thumbs/af3cea36-cfc5-45e8-a13a-34aa223d6543.jpg",
+   "tags": [
+    "traps-treasure",
+    "treasure",
+    "gold",
+    "chest",
+    "medium",
+    "floor"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "id": "5a1e7ab1-0000-4000-8000-000000000103",
+ "folder": "Wick Underbough.spatialhero",
+ "files": [
+  {
+   "path": "cover.jpg",
+   "size": 27177,
+   "sha256": "d569800ff6b5ff2c1fa8909b91daeb187cc854cbb5ff448becc96feb3752109c"
+  },
+  {
+   "path": "creatures/wick.md",
+   "size": 414,
+   "sha256": "98516b9be34b8934f28fb5181fa6326fbfebf123620d28330cd64430fa591fce"
+  },
+  {
+   "path": "hero.md",
+   "size": 410,
+   "sha256": "a1f24d028516b33e430ec900e1ca2a5c87bb63c589832f14c505465980a47467"
+  },
+  {
+   "path": "items/thieves-tools.md",
+   "size": 128,
+   "sha256": "8f88f01dd8fc67d4a4a95825a030c2c2ceaecec315a323f3492b920e1d82f208"
+  },
+  {
+   "path": "media/wick.usdz",
+   "size": 3618042,
+   "sha256": "688bbc61e1bc92c5c9295ab71a6a54b4a1111dfe12df37ed2a0c00cea8af1a03"
+  }
+ ]
+}

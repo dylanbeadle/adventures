@@ -1,0 +1,1143 @@
+{
+ "id": "ffde0b89-b8a5-57ae-88e8-f6c1096b8c9e",
+ "folder": "Cyberpunk and Sci-fi Creatures.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 986,
+   "sha256": "16ad78a9d14eabb11eb411dd7c8d744ad53cdf18fc77f8acb756b47368f28a3c"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 23087,
+   "sha256": "172ef03353d3d3c2c788f9e8caa242ec8fd8067ab5d53c149afa7ea256d9c104"
+  },
+  {
+   "path": "creatures/astronaut-2.md",
+   "size": 325,
+   "sha256": "35e360e3bed89c89dcca178c0bd479a47fdad5fda916838608af3c1b632a6874"
+  },
+  {
+   "path": "creatures/astronaut.md",
+   "size": 323,
+   "sha256": "22aa6f29423bddc7058a87e854c069518e82350cd287b06ac7fed2ddd47a0026"
+  },
+  {
+   "path": "creatures/bio-agent-2.md",
+   "size": 333,
+   "sha256": "f58d552b77a14a8e01eb0c1818b8fef957cc342bb0d4e6cabe8b1cb74c5b2c8b"
+  },
+  {
+   "path": "creatures/bio-agent-3.md",
+   "size": 339,
+   "sha256": "960c8a2fe4785b0f4307bc033a7df327d5838a9926d2d59885d1c8348dc4bb2c"
+  },
+  {
+   "path": "creatures/bio-agent.md",
+   "size": 331,
+   "sha256": "30d66221c8fb1fcc5d3153d32e6232738c0549d8f555358ecbf36bb3c6a5a6af"
+  },
+  {
+   "path": "creatures/citizen-2.md",
+   "size": 309,
+   "sha256": "5d3638049684e16bf7599b0fcb15e86fed02e7a070505db3a96bb001880f39c7"
+  },
+  {
+   "path": "creatures/citizen.md",
+   "size": 307,
+   "sha256": "d8abd3f694078cc72eedba6ecc0d5ab2542b6c2a2ba88341d5c27a0c33fc5a69"
+  },
+  {
+   "path": "creatures/corporate-worker-2.md",
+   "size": 354,
+   "sha256": "bbed4139ed8fcd8d253f4bb0fdf4973ca4519a0ec16d9c69ced9f6823ab35307"
+  },
+  {
+   "path": "creatures/corporate-worker-3.md",
+   "size": 354,
+   "sha256": "a7be0588ffae88e3287fde722537b1ee3dadba0969882921d07d207cd61310f1"
+  },
+  {
+   "path": "creatures/corporate-worker.md",
+   "size": 352,
+   "sha256": "6fd14ef61af057dc7fb3b6b15e1516ae58c872580131e52e94f7f3999284ccb6"
+  },
+  {
+   "path": "creatures/cyber-soldier.md",
+   "size": 331,
+   "sha256": "4995de88bea9756d7ae56155764f34a73ab76ce9e3994da0e5c402fedfc45896"
+  },
+  {
+   "path": "creatures/droid.md",
+   "size": 308,
+   "sha256": "da407ef1b5d47cc06e17bf577d340573ca8105a858aeac4ac481b271ab3496dc"
+  },
+  {
+   "path": "creatures/hacker.md",
+   "size": 315,
+   "sha256": "59e07c6bec1b864641c93a571739964a4539c39b0e9f9789e1e61bf2f2e06dd4"
+  },
+  {
+   "path": "creatures/law-enforcement-2.md",
+   "size": 345,
+   "sha256": "2c279886a93770ba2d732b77ee098818e7adf4909cb3d775baa53ab0ba5407c6"
+  },
+  {
+   "path": "creatures/law-enforcement-3.md",
+   "size": 345,
+   "sha256": "b964b444e2359b83984d1c6e69fcc09e0f277aa06544ca406cda4b7d7a1d94e5"
+  },
+  {
+   "path": "creatures/law-enforcement-4.md",
+   "size": 345,
+   "sha256": "0100e9ddd3cd2aacb3eb2247dc81b9e713eb40f8286245bd4656055a8a84e11e"
+  },
+  {
+   "path": "creatures/law-enforcement.md",
+   "size": 343,
+   "sha256": "cbc21922fece68fbe184b056880eec14feb6b2ec84cc0cf01985c92a3de242cb"
+  },
+  {
+   "path": "creatures/mechanic-worker.md",
+   "size": 307,
+   "sha256": "5918d821aefec4cd4b892a5d92dd88c46e4c09c43dd34f51db78b19054bc6aa5"
+  },
+  {
+   "path": "creatures/mercenary.md",
+   "size": 323,
+   "sha256": "8cffd5c15bdbb173d1e6b074493d2e55c5a39865d3f401db5a99d233a27bf77f"
+  },
+  {
+   "path": "creatures/punk-2.md",
+   "size": 328,
+   "sha256": "2f61d02ca02397da53ef22fc048fce8a3f0637a8a01a7f3a8039d1e632ad6559"
+  },
+  {
+   "path": "creatures/punk-3.md",
+   "size": 322,
+   "sha256": "c35ecec7ec05b90e59360ee2b8bb06a1cd8249269672a0114e8a976e1251a9d4"
+  },
+  {
+   "path": "creatures/punk-4.md",
+   "size": 322,
+   "sha256": "5c346a9f5b1d7b8ea157970842577423409b86c1173743bb3c90a559632d798a"
+  },
+  {
+   "path": "creatures/punk-5.md",
+   "size": 322,
+   "sha256": "ac56cff1cba8fe591f89a3eddcc14113fefaee70eaf261f4ec095bd4dcf862d0"
+  },
+  {
+   "path": "creatures/punk.md",
+   "size": 320,
+   "sha256": "c940dcddd45ed0a7295483b86523afcfda1c63fc73fa78706e81277e47e062b0"
+  },
+  {
+   "path": "creatures/security-bot.md",
+   "size": 334,
+   "sha256": "50beac1e9f43766b7558f35a93944b6bcba6a3c33e3d30daf54c1991f4927509"
+  },
+  {
+   "path": "creatures/street-doc.md",
+   "size": 328,
+   "sha256": "0ca153cbdf3326e730a2a3856a9591ee525e21f6e7272ec8eccbe080f3161ffc"
+  },
+  {
+   "path": "creatures/street-thug.md",
+   "size": 327,
+   "sha256": "514091b6b5506823ac820c73b6462efe214a11cc11241d386f33463590132a8e"
+  },
+  {
+   "path": "creatures/street-warrior-2.md",
+   "size": 353,
+   "sha256": "32792b140106086a5a6c841f6d26b693b9e556833c5cf898e328d94e42c9b9c9"
+  },
+  {
+   "path": "creatures/street-warrior-3.md",
+   "size": 336,
+   "sha256": "f7ffc095c0e17597d1c3f6be783855f8e1626965cbe45090dd0143e080b85990"
+  },
+  {
+   "path": "creatures/street-warrior-4.md",
+   "size": 343,
+   "sha256": "68f5a53f1ca0a73051c7f592466606c80c6e3f591894d9052ae2f0537f197c91"
+  },
+  {
+   "path": "creatures/street-warrior-5.md",
+   "size": 355,
+   "sha256": "974cb13a4e163c941d7b002e0431f8acbb8714594e048e9f4867f55778ef0155"
+  },
+  {
+   "path": "creatures/street-warrior.md",
+   "size": 340,
+   "sha256": "46829cbe169956bdaeee951bbaeca3d2e17583aa3d1b4fa77d634391558121a5"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__44237b68.usd",
+   "size": 448184,
+   "sha256": "001a64c758527bb0b23f6c91b391b990825911832bd6731e06e941b29fc96f2f"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__fa0ff88c.usd",
+   "size": 448222,
+   "sha256": "5d59e65dd971d0ffb465e9fe334140940885c6741a72bb57060d6dc0d4fca391"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__599e0109.usd",
+   "size": 381145,
+   "sha256": "e565fdcb5788739d1fb540f1321251ce3e1893e670e2612515ff54294482160c"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__b1d9968e.usd",
+   "size": 381749,
+   "sha256": "8c1f7f788fc03ef1791baa374cb4195ae1554149c7e9f423ca11bfc44938338f"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__f140b418.usd",
+   "size": 369952,
+   "sha256": "95776ad3a1019ec0a85b8eee685ad0284359462b34808f788776263afb9499f8"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Citizen__69c920ea.usd",
+   "size": 629445,
+   "sha256": "62d90abd03958d4ee352cd9e30dfc85bd455e4ca1f3da3ad2b60c97ce82cdbb8"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Citizen__a1bf5476.usd",
+   "size": 672308,
+   "sha256": "75563c475201113a1a3aae5c7e3357d79278e5d299f77c96c0fdd8fcd47ca4f9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__95f51fa8.usd",
+   "size": 760965,
+   "sha256": "db93f8f32de08dcaef391e1465903fcd051d09d5deab2c5efae8d81eb7cda311"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__d2d41216.usd",
+   "size": 726439,
+   "sha256": "088a94a56c4b3b8c7c7d0dec602909f42ab57e2b9632cf050e3f19570dcd0c00"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__de874066.usd",
+   "size": 728624,
+   "sha256": "9323b7d7c11815d27ceb54e033ca99dd778b6d44629969b24627c63d9ea0a2df"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Cyber Soldier.usd",
+   "size": 434806,
+   "sha256": "6f0d36561acaca4f9f679176b09e4b07f7fad6da71ebfb195a79cc0e50bcb6ca"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Droid.usd",
+   "size": 166575,
+   "sha256": "4eb253ac3f637b628318bddcf71d815da315f01a286af60f55ab3c519f2fa354"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Hacker.usd",
+   "size": 692601,
+   "sha256": "8a2bcf1a2712f6815a0cdd1e19e42d526b65d264009af408153eaf1317ce7db2"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__66a1d89a.usd",
+   "size": 423830,
+   "sha256": "a1bd36269d96f22ce4b73d7fc9cd6fff29623beef02216d7d1028cda042e2b84"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__c5392549.usd",
+   "size": 426612,
+   "sha256": "35eda23ea5b8363824ce4bde151058e687a6f2903bc64c2bf1e0cab7d3dd491d"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__cefe2805.usd",
+   "size": 415244,
+   "sha256": "9f83ad396400184f43f301c571b5780ee303ce04e895f28336db3194dba4eff2"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__f9ac52c7.usd",
+   "size": 422300,
+   "sha256": "0f17e01189ba44612bac8e90ddf30d27a09062bf01139d7a8e376bdd8399b3b8"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Mechanic Worker.usd",
+   "size": 727338,
+   "sha256": "b21b1f39f59e3fa684dab0d96ff113da1aa72506ebe65f1a2a64ed7c78d0e8e4"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Mercenary.usd",
+   "size": 693298,
+   "sha256": "9c0e3216c32cd43f1ef09090225e623c55bac80ecf6dc36d5a9fd2c159c9a4b5"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__18082f62.usd",
+   "size": 701698,
+   "sha256": "82be34952520c5f32c7339988428cfbc984ac399d0810c1fcc197b2de6ae5a53"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__279539b5.usd",
+   "size": 684764,
+   "sha256": "f54d9805cdb79c4255917ed548d06ceb538e27e6e11a5001ca8be0b3af92fccf"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__6f42950d.usd",
+   "size": 666141,
+   "sha256": "d71ec534b4ccc83918407aec6913278caff34eac2aa508cf43290bece3e212a5"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__7e854cd1.usd",
+   "size": 635239,
+   "sha256": "19eba0ce406126880e7512e023c627525d313fc25d34739793a011905bd0617a"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__bc1767ca.usd",
+   "size": 656686,
+   "sha256": "0565929d82a26d1783167c5526b1e37eb5a16f7928ea19fcf1d63dd0a8b3169c"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Security Bot.usd",
+   "size": 124725,
+   "sha256": "f5d27e8e1d44f4b219c6faaddfc6144883fe884f5d8cd69c4bdae7210284c1e7"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Doc.usd",
+   "size": 717581,
+   "sha256": "ea866eaefb8d1c31ce9a3af2229924c488e3c5fe9a5942a33408caa82ccf0da1"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Thug.usd",
+   "size": 664058,
+   "sha256": "ff350b8ff0bf06d854261f9af60750c6161b53fe621eb750f8dd5e831fac9327"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__66873286.usd",
+   "size": 684438,
+   "sha256": "548e06f3e99baa10bfe12e530bfd1f0a7257b3ed42ba3af355bbabd18684e92e"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__ab0616b4.usd",
+   "size": 375408,
+   "sha256": "3b4a2c86fcd19faa303f467a0d7402961fb57e3d3fa5a212502b5546b67fe57a"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__ae6c5db3.usd",
+   "size": 684292,
+   "sha256": "41de79eee2bc3193634d96a4ffa5158a386ec74720d24725eb7d1dff1ba6bb40"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__b2af23c2.usd",
+   "size": 454656,
+   "sha256": "5286637b5e82f835c60d55e868365f98671441cc94a2296d7f20d19df7a17728"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__eb7efd24.usd",
+   "size": 459629,
+   "sha256": "56240128f1943207a92f29eed918a4fed59f9a81404cc78552c8cdd7afb8d923"
+  },
+  {
+   "path": "media/materials/Library.usdc",
+   "size": 19724,
+   "sha256": "c24d21cc536ed131cf8633109bc9ffdf7e045cd0c2da1da90544a18c4fa9d5ba"
+  },
+  {
+   "path": "media/materials/textures/basalt.png",
+   "size": 25957,
+   "sha256": "e7295df0b2356c29812c23d4ee8cfcbbab04ee3eb5f20f52d281a6846c8f2e96"
+  },
+  {
+   "path": "media/materials/textures/basalt_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/blue.png",
+   "size": 29622,
+   "sha256": "bb2482f15178dd7ed1883b5558bae3c5db1e6f63dfb0a562b16da3cffcd80add"
+  },
+  {
+   "path": "media/materials/textures/blue_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bluefire.png",
+   "size": 40884,
+   "sha256": "95947aba8ef1863b10a5ceb035363c014f49bb066a629334e6b9fb0c0b2a2a57"
+  },
+  {
+   "path": "media/materials/textures/bluefire_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bone.png",
+   "size": 52095,
+   "sha256": "60127b0b9d500672ffa4413c2e0331968daf672f9edbbc58e031bd20a24410ce"
+  },
+  {
+   "path": "media/materials/textures/bone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/brass.png",
+   "size": 45700,
+   "sha256": "7653b7e6c813911303d183fd977ca9007540d1f30b8a647ce49a9b4b25479a7e"
+  },
+  {
+   "path": "media/materials/textures/brass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/fur.png",
+   "size": 32075,
+   "sha256": "e6ebdc6bf38121ac2caa3f246dbf760ceb5f618f67a707849f43ac55ee75e56d"
+  },
+  {
+   "path": "media/materials/textures/fur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ghost.png",
+   "size": 46813,
+   "sha256": "6b86f729a542c078e35015b96d3bdf6bb6fd252e59dc931fbd818c4ac61d0809"
+  },
+  {
+   "path": "media/materials/textures/ghost_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/goblinskin.png",
+   "size": 40654,
+   "sha256": "bc088b6cce6935a3e38a4e34d3f8e553b7269a409f04d5892d4bb7bcbb804e7a"
+  },
+  {
+   "path": "media/materials/textures/goblinskin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/grass.png",
+   "size": 37697,
+   "sha256": "f6440b6a238240b171a02d0a9abfa1db6e3b23470ea136796156c95dc85ecb1a"
+  },
+  {
+   "path": "media/materials/textures/grass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ice.png",
+   "size": 54673,
+   "sha256": "1776de4df5a1aa0fd4c24462a5bf2188a02dd0f291b002f76689f64c7401183f"
+  },
+  {
+   "path": "media/materials/textures/ice_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/iron.png",
+   "size": 33226,
+   "sha256": "b819ee206156042e76233baf2e2abdb7f0a4a0ae5bc64a26cfaaec7a6fae6a3b"
+  },
+  {
+   "path": "media/materials/textures/iron_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/jade.png",
+   "size": 33655,
+   "sha256": "449a6862f41cf33514e10aa482f65a2dd957d8accc0e776a061972b2b5323771"
+  },
+  {
+   "path": "media/materials/textures/jade_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/lava.png",
+   "size": 36124,
+   "sha256": "f4f7e6f7c9f527d2c962cacf29c83a795a16ecc66640854685970879a3f94e4c"
+  },
+  {
+   "path": "media/materials/textures/lava_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/leather.png",
+   "size": 22325,
+   "sha256": "5466b2bd41efecafe9089281e6fca4ca93def727a9c16cafc86dadf55d211774"
+  },
+  {
+   "path": "media/materials/textures/leather_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/limestone.png",
+   "size": 49995,
+   "sha256": "bf8ce44b291f665ea0c34f28befb206e92da7202b60d7b8ebdfc5fe801118ee9"
+  },
+  {
+   "path": "media/materials/textures/limestone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/marble.png",
+   "size": 31933,
+   "sha256": "d8c25c02c17e9076c1bb4fb692d360f9fb31c298ca833d8c244e306ff3604ae7"
+  },
+  {
+   "path": "media/materials/textures/marble_normal.png",
+   "size": 29285,
+   "sha256": "d4e5ab67529195c5a5be286a022e1e9c8058b9b614eadb7612942462d083a0ef"
+  },
+  {
+   "path": "media/materials/textures/mortar.png",
+   "size": 30700,
+   "sha256": "0749995c21d077be43c42b8de716a7992549eb89f73ba68253792accc4dc03e9"
+  },
+  {
+   "path": "media/materials/textures/mortar_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/oak.png",
+   "size": 44710,
+   "sha256": "cdf8ce500e0145dddaba5408a7bb6b6013c72e37ae225e23903efb16b6eaebd5"
+  },
+  {
+   "path": "media/materials/textures/oak_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  },
+  {
+   "path": "media/materials/textures/paper.png",
+   "size": 52363,
+   "sha256": "e8344646e132da563f18a9157fbf98bd778a6070ac4443ad6e3f209bb2b04fa6"
+  },
+  {
+   "path": "media/materials/textures/paper_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/plaster.png",
+   "size": 51787,
+   "sha256": "7a4c5f149f38204773143f16e06851f33496c436db368fe8a964a390873bfc2e"
+  },
+  {
+   "path": "media/materials/textures/plaster_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/red.png",
+   "size": 30685,
+   "sha256": "efbdd3cc8b5c72553f9db3b9c26860b5c364c1f321b3aa6012ecb45130633ed4"
+  },
+  {
+   "path": "media/materials/textures/red_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rope.png",
+   "size": 44507,
+   "sha256": "24b4fed56ade7e162aa38fcd54886e3c2730f38af4befb25c843422a278e5bbb"
+  },
+  {
+   "path": "media/materials/textures/rope_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rose.png",
+   "size": 51725,
+   "sha256": "e0e37ae18b6906a144680a1155de6ffad7e2bb083d9999fff0363e5112aee4d2"
+  },
+  {
+   "path": "media/materials/textures/rose_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/sand.png",
+   "size": 36961,
+   "sha256": "85886e8f7b3434815829178445b87ff6158c13e8164a8ffda3993c2f221a24cc"
+  },
+  {
+   "path": "media/materials/textures/sand_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/sandstone.png",
+   "size": 47840,
+   "sha256": "ef16b0605a795be8f93f5af413856bbace96ad202e7236059578339d185c3007"
+  },
+  {
+   "path": "media/materials/textures/sandstone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/scales.png",
+   "size": 35840,
+   "sha256": "b1bed18fc93d1ce569ba48331159220c33f9c0feacf02155e12816a7bcaf1e2d"
+  },
+  {
+   "path": "media/materials/textures/scales_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/skin.png",
+   "size": 46985,
+   "sha256": "5ca6e03744c454380928115d5223e4630134a27767a7b26dcfba204d1c4fcf47"
+  },
+  {
+   "path": "media/materials/textures/skin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/snow.png",
+   "size": 42837,
+   "sha256": "0d8d0cd049935a17e0b71ebea93ac5e8f823a998dd72ba10e283741ead9d4260"
+  },
+  {
+   "path": "media/materials/textures/snow_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/soil.png",
+   "size": 32264,
+   "sha256": "4c90d4c1a131223b16a1e4b20de7aa877cded6e90e932f4df75e0e9ec652f615"
+  },
+  {
+   "path": "media/materials/textures/soil_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/steel.png",
+   "size": 49671,
+   "sha256": "eea5cdd9f65ec98b43afd1f7e80a070c60c40fcb61812c4f3c3d6d16c9d95e38"
+  },
+  {
+   "path": "media/materials/textures/steel_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/stone.png",
+   "size": 42272,
+   "sha256": "e4f23d37e5e6d3a83d836d06089b88547117cb6b8978b3b448796eaa655d2ec9"
+  },
+  {
+   "path": "media/materials/textures/stone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/tanfur.png",
+   "size": 44965,
+   "sha256": "5c21a980f0db8b2fcc14c81ba8f6b487e73dd27d2a4bfe3e5000650534d675a7"
+  },
+  {
+   "path": "media/materials/textures/tanfur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/water.png",
+   "size": 29402,
+   "sha256": "a7861a6a33fa96041dd14a7c2ea61c48bfc767b4fbb3e2a2add4fcc74a347850"
+  },
+  {
+   "path": "media/materials/textures/water_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/wood.png",
+   "size": 36098,
+   "sha256": "93be5dba40fb0504f65177b720e06059d439aaf10c0c215617ba6fe9e55769f9"
+  },
+  {
+   "path": "media/materials/textures/wood_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Astronaut 2",
+   "kind": "creature",
+   "thumb": "thumbs/fa0ff88c-557b-4c09-be9f-081ec22afe27.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "astronaut",
+    "space",
+    "explorer",
+    "white",
+    "brown"
+   ]
+  },
+  {
+   "name": "Astronaut",
+   "kind": "creature",
+   "thumb": "thumbs/44237b68-2f39-4c6d-bf5a-546af35ca818.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "astronaut",
+    "space",
+    "explorer",
+    "white",
+    "brown"
+   ]
+  },
+  {
+   "name": "Bio Agent 2",
+   "kind": "creature",
+   "thumb": "thumbs/b1d9968e-bccf-4086-af84-ad0c67041294.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "soldier",
+    "toxic",
+    "bio",
+    "agent",
+    "gun",
+    "law",
+    "government"
+   ]
+  },
+  {
+   "name": "Bio Agent 3",
+   "kind": "creature",
+   "thumb": "thumbs/f140b418-b43a-4769-a688-c00d9ad61db7.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "soldier",
+    "agent",
+    "bio",
+    "toxic",
+    "law",
+    "government",
+    "cyberpunk"
+   ]
+  },
+  {
+   "name": "Bio Agent",
+   "kind": "creature",
+   "thumb": "thumbs/599e0109-038a-463a-b989-f77e8ec7f189.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "soldier",
+    "toxic",
+    "bio",
+    "agent",
+    "gun",
+    "law",
+    "government"
+   ]
+  },
+  {
+   "name": "Citizen 2",
+   "kind": "creature",
+   "thumb": "thumbs/a1bf5476-b5a6-4896-b60e-baed58f98040.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "human",
+    "citizen",
+    "city",
+    "person"
+   ]
+  },
+  {
+   "name": "Citizen",
+   "kind": "creature",
+   "thumb": "thumbs/69c920ea-b1b6-459a-a142-3883b6e30963.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "human",
+    "citizen",
+    "city",
+    "person"
+   ]
+  },
+  {
+   "name": "Corporate Worker 2",
+   "kind": "creature",
+   "thumb": "thumbs/d2d41216-4da7-41ce-8e2f-7867cb308a1e.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "human",
+    "worker",
+    "citizen",
+    "wage",
+    "corporate",
+    "boss",
+    "employee"
+   ]
+  },
+  {
+   "name": "Corporate Worker 3",
+   "kind": "creature",
+   "thumb": "thumbs/de874066-3a19-473d-a40f-971fd12fb5ec.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "human",
+    "worker",
+    "citizen",
+    "wage",
+    "corporate",
+    "employee",
+    "boss"
+   ]
+  },
+  {
+   "name": "Corporate Worker",
+   "kind": "creature",
+   "thumb": "thumbs/95f51fa8-e30f-4ddb-83a6-00b04fc2904a.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "human",
+    "worker",
+    "citizen",
+    "wage",
+    "corporate",
+    "employee",
+    "boss"
+   ]
+  },
+  {
+   "name": "Cyber Soldier",
+   "kind": "creature",
+   "thumb": "thumbs/fd695e82-aa9f-4d1a-94a2-2766ee939633.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "soldier",
+    "cyber",
+    "military",
+    "warrior",
+    "gun",
+    "agent",
+    "law"
+   ]
+  },
+  {
+   "name": "Droid",
+   "kind": "creature",
+   "thumb": "thumbs/6b617d82-603e-42b8-bfb2-0e4336177093.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "droid",
+    "robot",
+    "robotic",
+    "metal",
+    "ai",
+    "cyberpunk"
+   ]
+  },
+  {
+   "name": "Hacker",
+   "kind": "creature",
+   "thumb": "thumbs/a1370982-7b79-48b9-ae51-2aae607ac54e.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "punk",
+    "cyber",
+    "gang",
+    "hacker",
+    "decker",
+    "gun",
+    "computer"
+   ]
+  },
+  {
+   "name": "Law Enforcement 2",
+   "kind": "creature",
+   "thumb": "thumbs/c5392549-a08c-404b-ac68-702cb7a6e81d.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "soldier",
+    "police",
+    "cops",
+    "cop",
+    "gun",
+    "law",
+    "government"
+   ]
+  },
+  {
+   "name": "Law Enforcement 3",
+   "kind": "creature",
+   "thumb": "thumbs/cefe2805-8a46-4ead-935a-4b0c43d37965.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "soldier",
+    "police",
+    "cops",
+    "cop",
+    "gun",
+    "law",
+    "government"
+   ]
+  },
+  {
+   "name": "Law Enforcement 4",
+   "kind": "creature",
+   "thumb": "thumbs/f9ac52c7-d902-4378-8b31-de83c494bf75.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "soldier",
+    "police",
+    "cops",
+    "cop",
+    "gun",
+    "law",
+    "government"
+   ]
+  },
+  {
+   "name": "Law Enforcement",
+   "kind": "creature",
+   "thumb": "thumbs/66a1d89a-b825-4eda-918a-73768684c437.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "soldier",
+    "police",
+    "cops",
+    "cop",
+    "gun",
+    "law",
+    "government"
+   ]
+  },
+  {
+   "name": "Mechanic Worker",
+   "kind": "creature",
+   "thumb": "thumbs/d8af7f41-285c-420e-969a-4671b031c94d.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "human",
+    "citizen",
+    "person"
+   ]
+  },
+  {
+   "name": "Mercenary",
+   "kind": "creature",
+   "thumb": "thumbs/339d1414-b879-4606-ae67-e103c3edf91c.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "gun",
+    "street",
+    "mercenary",
+    "warrior",
+    "person",
+    "cyberpunk"
+   ]
+  },
+  {
+   "name": "Punk 2",
+   "kind": "creature",
+   "thumb": "thumbs/279539b5-95cd-4121-b364-51c59904910c.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "punk",
+    "cyber",
+    "gang",
+    "street",
+    "warrior",
+    "person",
+    "cyberpunk"
+   ]
+  },
+  {
+   "name": "Punk 3",
+   "kind": "creature",
+   "thumb": "thumbs/6f42950d-408c-4be8-9799-35be2de68683.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "punk",
+    "cyber",
+    "gang",
+    "gun",
+    "street",
+    "warrior",
+    "person"
+   ]
+  },
+  {
+   "name": "Punk 4",
+   "kind": "creature",
+   "thumb": "thumbs/7e854cd1-f869-40ae-9a57-86d0755e1767.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "punk",
+    "cyber",
+    "gang",
+    "street",
+    "warrior",
+    "bat",
+    "person"
+   ]
+  },
+  {
+   "name": "Punk 5",
+   "kind": "creature",
+   "thumb": "thumbs/bc1767ca-a31a-4a37-ba8a-8f0676afb4cb.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "punk",
+    "cyber",
+    "gang",
+    "gun",
+    "street",
+    "warrior",
+    "person"
+   ]
+  },
+  {
+   "name": "Punk",
+   "kind": "creature",
+   "thumb": "thumbs/18082f62-6f7a-4b0f-924b-851158333876.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "punk",
+    "cyber",
+    "gang",
+    "gun",
+    "street",
+    "warrior",
+    "person"
+   ]
+  },
+  {
+   "name": "Security Bot",
+   "kind": "creature",
+   "thumb": "thumbs/2a8e17dc-322d-476f-96a7-07982ae09a8d.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "government",
+    "robot",
+    "robotic",
+    "droid",
+    "light",
+    "ai",
+    "cyberpunk"
+   ]
+  },
+  {
+   "name": "Street Doc",
+   "kind": "creature",
+   "thumb": "thumbs/1c9b66fe-8adb-4065-9edc-e531b125868b.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "punk",
+    "cyber",
+    "gang",
+    "hacker",
+    "decker",
+    "computer",
+    "keyboard"
+   ]
+  },
+  {
+   "name": "Street Thug",
+   "kind": "creature",
+   "thumb": "thumbs/9cb5a4d4-8b67-44b7-a9f2-2fc5db6d4a53.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "gun",
+    "street",
+    "mercenary",
+    "warrior",
+    "person",
+    "cyberpunk"
+   ]
+  },
+  {
+   "name": "Street Warrior 2",
+   "kind": "creature",
+   "thumb": "thumbs/ab0616b4-94a8-4623-81d9-93e12b8c8ae2.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "decker",
+    "hacker",
+    "gun",
+    "computer",
+    "keyboard",
+    "street",
+    "mercenary"
+   ]
+  },
+  {
+   "name": "Street Warrior 3",
+   "kind": "creature",
+   "thumb": "thumbs/ae6c5db3-1d5f-45e4-a455-6e9eddbf13ea.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "person",
+    "cyber",
+    "cyberpunk",
+    "street",
+    "warrior"
+   ]
+  },
+  {
+   "name": "Street Warrior 4",
+   "kind": "creature",
+   "thumb": "thumbs/b2af23c2-7068-4549-8cd4-2237247608f4.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "person",
+    "cyber",
+    "blade",
+    "cyberpunk",
+    "street",
+    "warrior"
+   ]
+  },
+  {
+   "name": "Street Warrior 5",
+   "kind": "creature",
+   "thumb": "thumbs/eb7efd24-6f23-42e5-85b0-fac625cc1700.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "street",
+    "mercenary",
+    "warrior",
+    "katana",
+    "sword",
+    "person",
+    "cyberpunk"
+   ]
+  },
+  {
+   "name": "Street Warrior",
+   "kind": "creature",
+   "thumb": "thumbs/66873286-6194-4814-9142-43cfe52cb74c.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "punk",
+    "cyber",
+    "gang",
+    "street",
+    "warrior",
+    "bat",
+    "person"
+   ]
+  }
+ ]
+}

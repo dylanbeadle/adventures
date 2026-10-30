@@ -1,0 +1,31 @@
+{
+ "id": "5a1e7ab1-0000-4000-8000-000000000102",
+ "folder": "Ilyra Venn.spatialhero",
+ "files": [
+  {
+   "path": "cover.jpg",
+   "size": 33124,
+   "sha256": "f5b90fcc2323ae8ad0ff01d7ec0ca0fd80741e76a1e472909a14f957f0613c42"
+  },
+  {
+   "path": "creatures/ilyra.md",
+   "size": 385,
+   "sha256": "b05cd58f1aceb49da4e6b42af7c9ca98ecb02e02d20af6b01bab1091c71a79ce"
+  },
+  {
+   "path": "hero.md",
+   "size": 378,
+   "sha256": "a5b5818bdf47198f47d54436f5fc7d06ebba70ec9d6339a395b03ea93ad5a239"
+  },
+  {
+   "path": "items/spellbook.md",
+   "size": 151,
+   "sha256": "9870e499431ef55854f929c030a567b82577d88a60251f6faa7552e65df47d80"
+  },
+  {
+   "path": "media/ilyra.usdz",
+   "size": 6690001,
+   "sha256": "3d62077c4750bde5b8b3c2f820a3e326164fa916f34e051b8011a74c6cdb33d3"
+  }
+ ]
+}

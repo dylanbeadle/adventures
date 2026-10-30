@@ -1,0 +1,915 @@
+{
+ "id": "f7d84516-6830-5005-8e5a-147df2cdfb8f",
+ "folder": "Sewers Tiles.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 1035,
+   "sha256": "cbdd5e4cfdd6f4a6bf7b11e0d61b7f8100076719ef2ac345c261d514ffb58f6b"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 35615,
+   "sha256": "059c1047cb6e3aae794e0f637f04cfdc8e1d0c4012ab95423a124c9ba27aa5fe"
+  },
+  {
+   "path": "media/materials/Library.usdc",
+   "size": 19724,
+   "sha256": "c24d21cc536ed131cf8633109bc9ffdf7e045cd0c2da1da90544a18c4fa9d5ba"
+  },
+  {
+   "path": "media/materials/textures/basalt.png",
+   "size": 25957,
+   "sha256": "e7295df0b2356c29812c23d4ee8cfcbbab04ee3eb5f20f52d281a6846c8f2e96"
+  },
+  {
+   "path": "media/materials/textures/basalt_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/blue.png",
+   "size": 29622,
+   "sha256": "bb2482f15178dd7ed1883b5558bae3c5db1e6f63dfb0a562b16da3cffcd80add"
+  },
+  {
+   "path": "media/materials/textures/blue_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bluefire.png",
+   "size": 40884,
+   "sha256": "95947aba8ef1863b10a5ceb035363c014f49bb066a629334e6b9fb0c0b2a2a57"
+  },
+  {
+   "path": "media/materials/textures/bluefire_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bone.png",
+   "size": 52095,
+   "sha256": "60127b0b9d500672ffa4413c2e0331968daf672f9edbbc58e031bd20a24410ce"
+  },
+  {
+   "path": "media/materials/textures/bone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/brass.png",
+   "size": 45700,
+   "sha256": "7653b7e6c813911303d183fd977ca9007540d1f30b8a647ce49a9b4b25479a7e"
+  },
+  {
+   "path": "media/materials/textures/brass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/fur.png",
+   "size": 32075,
+   "sha256": "e6ebdc6bf38121ac2caa3f246dbf760ceb5f618f67a707849f43ac55ee75e56d"
+  },
+  {
+   "path": "media/materials/textures/fur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ghost.png",
+   "size": 46813,
+   "sha256": "6b86f729a542c078e35015b96d3bdf6bb6fd252e59dc931fbd818c4ac61d0809"
+  },
+  {
+   "path": "media/materials/textures/ghost_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/goblinskin.png",
+   "size": 40654,
+   "sha256": "bc088b6cce6935a3e38a4e34d3f8e553b7269a409f04d5892d4bb7bcbb804e7a"
+  },
+  {
+   "path": "media/materials/textures/goblinskin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/grass.png",
+   "size": 37697,
+   "sha256": "f6440b6a238240b171a02d0a9abfa1db6e3b23470ea136796156c95dc85ecb1a"
+  },
+  {
+   "path": "media/materials/textures/grass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ice.png",
+   "size": 54673,
+   "sha256": "1776de4df5a1aa0fd4c24462a5bf2188a02dd0f291b002f76689f64c7401183f"
+  },
+  {
+   "path": "media/materials/textures/ice_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/iron.png",
+   "size": 33226,
+   "sha256": "b819ee206156042e76233baf2e2abdb7f0a4a0ae5bc64a26cfaaec7a6fae6a3b"
+  },
+  {
+   "path": "media/materials/textures/iron_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/jade.png",
+   "size": 33655,
+   "sha256": "449a6862f41cf33514e10aa482f65a2dd957d8accc0e776a061972b2b5323771"
+  },
+  {
+   "path": "media/materials/textures/jade_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/lava.png",
+   "size": 36124,
+   "sha256": "f4f7e6f7c9f527d2c962cacf29c83a795a16ecc66640854685970879a3f94e4c"
+  },
+  {
+   "path": "media/materials/textures/lava_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/leather.png",
+   "size": 22325,
+   "sha256": "5466b2bd41efecafe9089281e6fca4ca93def727a9c16cafc86dadf55d211774"
+  },
+  {
+   "path": "media/materials/textures/leather_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/limestone.png",
+   "size": 49995,
+   "sha256": "bf8ce44b291f665ea0c34f28befb206e92da7202b60d7b8ebdfc5fe801118ee9"
+  },
+  {
+   "path": "media/materials/textures/limestone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/marble.png",
+   "size": 31933,
+   "sha256": "d8c25c02c17e9076c1bb4fb692d360f9fb31c298ca833d8c244e306ff3604ae7"
+  },
+  {
+   "path": "media/materials/textures/marble_normal.png",
+   "size": 29285,
+   "sha256": "d4e5ab67529195c5a5be286a022e1e9c8058b9b614eadb7612942462d083a0ef"
+  },
+  {
+   "path": "media/materials/textures/mortar.png",
+   "size": 30700,
+   "sha256": "0749995c21d077be43c42b8de716a7992549eb89f73ba68253792accc4dc03e9"
+  },
+  {
+   "path": "media/materials/textures/mortar_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/oak.png",
+   "size": 44710,
+   "sha256": "cdf8ce500e0145dddaba5408a7bb6b6013c72e37ae225e23903efb16b6eaebd5"
+  },
+  {
+   "path": "media/materials/textures/oak_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  },
+  {
+   "path": "media/materials/textures/paper.png",
+   "size": 52363,
+   "sha256": "e8344646e132da563f18a9157fbf98bd778a6070ac4443ad6e3f209bb2b04fa6"
+  },
+  {
+   "path": "media/materials/textures/paper_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/plaster.png",
+   "size": 51787,
+   "sha256": "7a4c5f149f38204773143f16e06851f33496c436db368fe8a964a390873bfc2e"
+  },
+  {
+   "path": "media/materials/textures/plaster_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/red.png",
+   "size": 30685,
+   "sha256": "efbdd3cc8b5c72553f9db3b9c26860b5c364c1f321b3aa6012ecb45130633ed4"
+  },
+  {
+   "path": "media/materials/textures/red_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rope.png",
+   "size": 44507,
+   "sha256": "24b4fed56ade7e162aa38fcd54886e3c2730f38af4befb25c843422a278e5bbb"
+  },
+  {
+   "path": "media/materials/textures/rope_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rose.png",
+   "size": 51725,
+   "sha256": "e0e37ae18b6906a144680a1155de6ffad7e2bb083d9999fff0363e5112aee4d2"
+  },
+  {
+   "path": "media/materials/textures/rose_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/sand.png",
+   "size": 36961,
+   "sha256": "85886e8f7b3434815829178445b87ff6158c13e8164a8ffda3993c2f221a24cc"
+  },
+  {
+   "path": "media/materials/textures/sand_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/sandstone.png",
+   "size": 47840,
+   "sha256": "ef16b0605a795be8f93f5af413856bbace96ad202e7236059578339d185c3007"
+  },
+  {
+   "path": "media/materials/textures/sandstone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/scales.png",
+   "size": 35840,
+   "sha256": "b1bed18fc93d1ce569ba48331159220c33f9c0feacf02155e12816a7bcaf1e2d"
+  },
+  {
+   "path": "media/materials/textures/scales_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/skin.png",
+   "size": 46985,
+   "sha256": "5ca6e03744c454380928115d5223e4630134a27767a7b26dcfba204d1c4fcf47"
+  },
+  {
+   "path": "media/materials/textures/skin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/snow.png",
+   "size": 42837,
+   "sha256": "0d8d0cd049935a17e0b71ebea93ac5e8f823a998dd72ba10e283741ead9d4260"
+  },
+  {
+   "path": "media/materials/textures/snow_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/soil.png",
+   "size": 32264,
+   "sha256": "4c90d4c1a131223b16a1e4b20de7aa877cded6e90e932f4df75e0e9ec652f615"
+  },
+  {
+   "path": "media/materials/textures/soil_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/steel.png",
+   "size": 49671,
+   "sha256": "eea5cdd9f65ec98b43afd1f7e80a070c60c40fcb61812c4f3c3d6d16c9d95e38"
+  },
+  {
+   "path": "media/materials/textures/steel_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/stone.png",
+   "size": 42272,
+   "sha256": "e4f23d37e5e6d3a83d836d06089b88547117cb6b8978b3b448796eaa655d2ec9"
+  },
+  {
+   "path": "media/materials/textures/stone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/tanfur.png",
+   "size": 44965,
+   "sha256": "5c21a980f0db8b2fcc14c81ba8f6b487e73dd27d2a4bfe3e5000650534d675a7"
+  },
+  {
+   "path": "media/materials/textures/tanfur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/water.png",
+   "size": 29402,
+   "sha256": "a7861a6a33fa96041dd14a7c2ea61c48bfc767b4fbb3e2a2add4fcc74a347850"
+  },
+  {
+   "path": "media/materials/textures/water_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/wood.png",
+   "size": 36098,
+   "sha256": "93be5dba40fb0504f65177b720e06059d439aaf10c0c215617ba6fe9e55769f9"
+  },
+  {
+   "path": "media/materials/textures/wood_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  },
+  {
+   "path": "media/tiles/Sewers/Sewer Corner Filler - Small.usd",
+   "size": 117214,
+   "sha256": "5f3b0706fe1dfdf29b16ca75fda50ec0a365091141e5793a5db2fbe68ce1f940"
+  },
+  {
+   "path": "media/tiles/Sewers/Sewer Floor - Sluice 01.usd",
+   "size": 47430,
+   "sha256": "8dfdc8fd41afc6aaca0e1a84f93b3baf929ca184bbe42b593b87641e05656eb7"
+  },
+  {
+   "path": "media/tiles/Sewers/Sewer Floor - Sluice 02.usd",
+   "size": 104582,
+   "sha256": "280ac97a0791a3a81fd497d24ee2a72352168006929dc2bca796313a8325c7cb"
+  },
+  {
+   "path": "media/tiles/Sewers/Sewer Floor - Sluice End.usd",
+   "size": 110347,
+   "sha256": "7b85a68e594aa5e01fea4f7686d1ba2e6d348a9b9e463f1d95ced9733695235d"
+  },
+  {
+   "path": "media/tiles/Sewers/Sewer Floor 01.usd",
+   "size": 16989,
+   "sha256": "29a14327dfd5425b19f5ffe4745130fc95a2b02aa027183a1fb010f90f64a18e"
+  },
+  {
+   "path": "media/tiles/Sewers/Sewer Floor 02.usd",
+   "size": 24308,
+   "sha256": "03c67c5f121a5f222580353de8b4de67c7ba50b48c22bdb3920ff0887e40b8ba"
+  },
+  {
+   "path": "media/tiles/Sewers/Sewer Floor 03.usd",
+   "size": 51099,
+   "sha256": "ef63c278db68ee37b1c75cf9360cce3e552a6be989d93f4981fe87fde4d45cce"
+  },
+  {
+   "path": "media/tiles/Sewers/Sewer Floor Grate.usd",
+   "size": 110523,
+   "sha256": "87143c7046d3829305909535ea9cab7dcb249a88b6dd81b753ee766591bd60ab"
+  },
+  {
+   "path": "media/tiles/Sewers/Sewer Wall - Floor 01.usd",
+   "size": 78965,
+   "sha256": "e843cd2f36d8cbce952fbef28a2e3206c45538fd2e8d376d1cfff00e0fef5408"
+  },
+  {
+   "path": "media/tiles/Sewers/Sewer Wall - Floor 02.usd",
+   "size": 134673,
+   "sha256": "0ac91b0d33af159569e83106c8824a7c7ac9c4de6c47cd543738e41c906289cd"
+  },
+  {
+   "path": "media/tiles/Sewers/Sewer Wall - Floor 03.usd",
+   "size": 156936,
+   "sha256": "4946efa3312366815c05650c56d1ed4e50655636dc3fe9d48cc6cd67485cb065"
+  },
+  {
+   "path": "media/tiles/Sewers/Sewer Wall - Floor Corner - Small.usd",
+   "size": 131522,
+   "sha256": "79dc5aed28d94f7ae91eeb839e71c4e99e22b7ffd1dbc75f715a10dc772bfea0"
+  },
+  {
+   "path": "media/tiles/Sewers/Sewer Wall - Floor Corner.usd",
+   "size": 254048,
+   "sha256": "64e11a8d702d9d5379ee44f3a6077204537a61ad1ecb79a4cd2629e80cc98607"
+  },
+  {
+   "path": "media/tiles/Sewers/Sewer Wall - Floor With Door 01.usd",
+   "size": 142162,
+   "sha256": "e0ceee061910e5c17c1c92bfdfa46e3ea28897cec15934d3b3a676d7fbe13f66"
+  },
+  {
+   "path": "media/tiles/Sewers/Sewer Wall - Floor With Door 02.usd",
+   "size": 164413,
+   "sha256": "d574572c503dda4e2f23168554b3a2b27f170874c000a9dbd0c9c5b0b9e8dfe8"
+  },
+  {
+   "path": "media/tiles/Sewers/Sewer Wall - Floor With Ladder 01.usd",
+   "size": 154494,
+   "sha256": "7a74817ee745f41df408ac336ff86322bf70b513e202e759923c6ec59a538bad"
+  },
+  {
+   "path": "media/tiles/Sewers/Sewer Wall - Floor With Ladder 02.usd",
+   "size": 176555,
+   "sha256": "8405f029088d1a5273a4d673f41dfa9732d4fa5d4ff7ab1f115d47b8dad4670c"
+  },
+  {
+   "path": "media/tiles/Sewers/Sewer Wall - Small.usd",
+   "size": 64698,
+   "sha256": "d2ffaa88686adc218a39e0e395d6bec040c409f39196916044febdddcb723070"
+  },
+  {
+   "path": "media/tiles/Sewers/Sewer Wall 01.usd",
+   "size": 109260,
+   "sha256": "bd57210b6cc26fbf21546b2dcb6870eaec432895e2b0c896f081d85adcaead71"
+  },
+  {
+   "path": "media/tiles/Sewers/Sewer Wall 02.usd",
+   "size": 109044,
+   "sha256": "c5597ffd90b849221cab2794eab0b40ee9b280637b2f61f6d4082108d19b8b56"
+  },
+  {
+   "path": "media/tiles/Sewers/Sewer Wall Corner - Small.usd",
+   "size": 117255,
+   "sha256": "421559b5dced6dbcf2bbba51439d56c520e359b50c8bd0499dcf5df44c98052f"
+  },
+  {
+   "path": "media/tiles/Sewers/Sewer Wall Corner.usd",
+   "size": 206371,
+   "sha256": "296c9572653d9f5cedd32d9150c1ca7741a7ee4a51c4b36831e93c980e4f2ee5"
+  },
+  {
+   "path": "media/tiles/Sewers/Sewer Wall With Door.usd",
+   "size": 116771,
+   "sha256": "a368194a3da30ea20ab5f549b512a4f95444c59e1511fb1a6dba177d2ee5a4dd"
+  },
+  {
+   "path": "media/tiles/Sewers/Sewer Wall With Ladder.usd",
+   "size": 128969,
+   "sha256": "a943d1b4c0c2f0ac2a9592c744ded429a0e0cfa82c18f8322da8b420e6e1c28a"
+  },
+  {
+   "path": "scenery/sewer-corner-filler-small.md",
+   "size": 255,
+   "sha256": "4ec14da9c90c3f365fef86c9ac63efc49d3c6ab83035e8382e4cb6ae64fd63c3"
+  },
+  {
+   "path": "scenery/sewer-floor-01.md",
+   "size": 207,
+   "sha256": "9a50888cf68936e776b1de406f9db1741f184730f0d7d3a338e62278aefc7fc0"
+  },
+  {
+   "path": "scenery/sewer-floor-02.md",
+   "size": 215,
+   "sha256": "d0590b8b53695c7ce2f8b918018cd2b650d669a13ebba40def153bfae4400647"
+  },
+  {
+   "path": "scenery/sewer-floor-03.md",
+   "size": 214,
+   "sha256": "4a88abf03faed6bc632d37c7747db62fd802caa6cafb18b760c71e4e2f98511b"
+  },
+  {
+   "path": "scenery/sewer-floor-grate.md",
+   "size": 227,
+   "sha256": "f5ee0d231115aad1d974e7f7b790c0e97da875a29cf33e6cdfacc16480e846e5"
+  },
+  {
+   "path": "scenery/sewer-floor-sluice-01.md",
+   "size": 232,
+   "sha256": "6d4fd343456ceadf17fa324db6033425fc8cbf13ee2d051f62e638dcd379ac3b"
+  },
+  {
+   "path": "scenery/sewer-floor-sluice-02.md",
+   "size": 232,
+   "sha256": "5088c9dc169007667364c89c7585659ef3d55dabd3b82b4963228b4b73ee1108"
+  },
+  {
+   "path": "scenery/sewer-floor-sluice-end.md",
+   "size": 234,
+   "sha256": "c1382087945f5128c053678da681e68f13e04bf753e0e6d8655227333ccf9dc3"
+  },
+  {
+   "path": "scenery/sewer-wall-01.md",
+   "size": 212,
+   "sha256": "33d9f7ec024a701bc1d56aac14d846ad89de157bbac32052a785184e297e498e"
+  },
+  {
+   "path": "scenery/sewer-wall-02.md",
+   "size": 211,
+   "sha256": "23a7df5b26770777b933a04418100d33f022060207a09b4451ff0ca6ffe735f7"
+  },
+  {
+   "path": "scenery/sewer-wall-corner-small.md",
+   "size": 244,
+   "sha256": "2ec270492ae7e272e6b4674405e64c85133f470b9cd4414f269a66aace2c43f4"
+  },
+  {
+   "path": "scenery/sewer-wall-corner.md",
+   "size": 227,
+   "sha256": "5194ec7c545253ed9368f1d32ada30becec31ad16d63ff69c658d8c02258812d"
+  },
+  {
+   "path": "scenery/sewer-wall-floor-01.md",
+   "size": 233,
+   "sha256": "bf598536521e44bf377285ff84830aa5a10b4ba838ea66f980dbaf5ccf7785c0"
+  },
+  {
+   "path": "scenery/sewer-wall-floor-02.md",
+   "size": 232,
+   "sha256": "30660c7a4f9d0eb9bcac8cdedc64f3fc5580fe2842e0aec18ef0e36e682c9306"
+  },
+  {
+   "path": "scenery/sewer-wall-floor-03.md",
+   "size": 232,
+   "sha256": "5d9645794e98936c65e81de9187441b848d0b20505f923c47d76458efea3d681"
+  },
+  {
+   "path": "scenery/sewer-wall-floor-corner-small.md",
+   "size": 265,
+   "sha256": "90e8cbcd210b810b5b1537c173e2fac02c0833c7052619f346accb0351585be5"
+  },
+  {
+   "path": "scenery/sewer-wall-floor-corner.md",
+   "size": 248,
+   "sha256": "bf230f006a8ec7489835ba35c49195677a65164c0b5ab5dad4ae2fc15b0b09b5"
+  },
+  {
+   "path": "scenery/sewer-wall-floor-with-door-01.md",
+   "size": 264,
+   "sha256": "c02f4218416f0107ae18d4bf1b423869180c0dc0582d9f785081857155744e68"
+  },
+  {
+   "path": "scenery/sewer-wall-floor-with-door-02.md",
+   "size": 264,
+   "sha256": "18aefea37e501338f49983bb607ac8b0e6923a5eeb62aa701c6b440ad2070c05"
+  },
+  {
+   "path": "scenery/sewer-wall-floor-with-ladder-01.md",
+   "size": 264,
+   "sha256": "118aca942d4d9fe4e50980039b875a61947371da19db08211d80c5a1a653c584"
+  },
+  {
+   "path": "scenery/sewer-wall-floor-with-ladder-02.md",
+   "size": 264,
+   "sha256": "b8f1fb6e6db5dac436e76ecb9b0064d31bb511387becfaf855cf120d9ac39981"
+  },
+  {
+   "path": "scenery/sewer-wall-small.md",
+   "size": 222,
+   "sha256": "cadcbd181f4654c7edf7d188fa96b9fd89f5bc2bce0e493dafa53b0338e9eeba"
+  },
+  {
+   "path": "scenery/sewer-wall-with-door.md",
+   "size": 237,
+   "sha256": "9f1a73dfaadf9d107144d72ce8989776ce1cd762e54d1358736488346ccc7d1f"
+  },
+  {
+   "path": "scenery/sewer-wall-with-ladder.md",
+   "size": 238,
+   "sha256": "fd296dad6125140e461a7b5a109185f12716bdbce0eaa37bd5abb05263925571"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Sewer Corner Filler - Small",
+   "kind": "scenery",
+   "thumb": "thumbs/d172bb08-175b-495a-bd50-22f4135d5209.jpg",
+   "tags": [
+    "sewers",
+    "wall",
+    "floor",
+    "sewer",
+    "corner",
+    "stone",
+    "medium"
+   ]
+  },
+  {
+   "name": "Sewer Floor 01",
+   "kind": "scenery",
+   "thumb": "thumbs/81a8acd3-0685-44ce-b185-cb70c58ae68f.jpg",
+   "tags": [
+    "sewers",
+    "floor",
+    "sewer",
+    "stone"
+   ]
+  },
+  {
+   "name": "Sewer Floor 02",
+   "kind": "scenery",
+   "thumb": "thumbs/90c20786-15b5-4198-ab79-0f965a4d2f76.jpg",
+   "tags": [
+    "sewers",
+    "floor",
+    "sewer",
+    "stone",
+    "medium"
+   ]
+  },
+  {
+   "name": "Sewer Floor 03",
+   "kind": "scenery",
+   "thumb": "thumbs/ae36eac0-dfb2-4d98-9236-03c5c1db4a07.jpg",
+   "tags": [
+    "sewers",
+    "floor",
+    "sewer",
+    "stone",
+    "large"
+   ]
+  },
+  {
+   "name": "Sewer Floor Grate",
+   "kind": "scenery",
+   "thumb": "thumbs/7da789a6-80f8-4620-9ea8-52280e129810.jpg",
+   "tags": [
+    "sewers",
+    "floor",
+    "grate",
+    "sewer",
+    "stone",
+    "large"
+   ]
+  },
+  {
+   "name": "Sewer Floor - Sluice 01",
+   "kind": "scenery",
+   "thumb": "thumbs/ddc632b8-18cb-451d-8397-c5c9a07fe92b.jpg",
+   "tags": [
+    "sewers",
+    "floor",
+    "sewer",
+    "stone",
+    "small"
+   ]
+  },
+  {
+   "name": "Sewer Floor - Sluice 02",
+   "kind": "scenery",
+   "thumb": "thumbs/187552c3-45de-406c-8108-84faaaaaf76e.jpg",
+   "tags": [
+    "sewers",
+    "sewer",
+    "floor",
+    "stone",
+    "large"
+   ]
+  },
+  {
+   "name": "Sewer Floor - Sluice End",
+   "kind": "scenery",
+   "thumb": "thumbs/7a9396d8-1976-4cb6-a4a8-b5c2f35012e0.jpg",
+   "tags": [
+    "sewers",
+    "floor",
+    "sewer",
+    "stone",
+    "large"
+   ]
+  },
+  {
+   "name": "Sewer Wall  01",
+   "kind": "scenery",
+   "thumb": "thumbs/de0e954c-cf6b-49cf-b75c-dec87c5f9145.jpg",
+   "tags": [
+    "sewers",
+    "wall",
+    "sewer",
+    "stone",
+    "large"
+   ]
+  },
+  {
+   "name": "Sewer Wall 02",
+   "kind": "scenery",
+   "thumb": "thumbs/3d63fd95-d8b1-452a-ac7a-4ee4e6fe1670.jpg",
+   "tags": [
+    "sewers",
+    "wall",
+    "sewer",
+    "stone",
+    "large"
+   ]
+  },
+  {
+   "name": "Sewer Wall Corner - Small",
+   "kind": "scenery",
+   "thumb": "thumbs/ff2d6f8f-03f6-4fd6-a1f6-c4093e7b4a1b.jpg",
+   "tags": [
+    "sewers",
+    "wall",
+    "corner",
+    "sewer",
+    "stone",
+    "medium"
+   ]
+  },
+  {
+   "name": "Sewer Wall Corner",
+   "kind": "scenery",
+   "thumb": "thumbs/e916ebce-f240-4f4a-b039-99f3647d9987.jpg",
+   "tags": [
+    "sewers",
+    "wall",
+    "corner",
+    "sewer",
+    "stone",
+    "large"
+   ]
+  },
+  {
+   "name": "Sewer Wall/Floor 01",
+   "kind": "scenery",
+   "thumb": "thumbs/887d5410-4c59-40a3-b338-8d8c2efaafd3.jpg",
+   "tags": [
+    "sewers",
+    "wall",
+    "floor",
+    "sewer",
+    "stone",
+    "medium"
+   ]
+  },
+  {
+   "name": "Sewer Wall/Floor 02",
+   "kind": "scenery",
+   "thumb": "thumbs/5cf67f4c-2ace-4845-94cf-e7ce53dbd50e.jpg",
+   "tags": [
+    "sewers",
+    "wall",
+    "floor",
+    "sewer",
+    "stone",
+    "large"
+   ]
+  },
+  {
+   "name": "Sewer Wall/Floor 03",
+   "kind": "scenery",
+   "thumb": "thumbs/145e42e4-7668-4526-a93e-58b429bbe590.jpg",
+   "tags": [
+    "sewers",
+    "wall",
+    "floor",
+    "sewer",
+    "stone",
+    "large"
+   ]
+  },
+  {
+   "name": "Sewer Wall/Floor Corner - Small",
+   "kind": "scenery",
+   "thumb": "thumbs/180105d6-8c75-4da0-85ae-251aa3145e98.jpg",
+   "tags": [
+    "sewers",
+    "wall",
+    "floor",
+    "sewer",
+    "corner",
+    "stone",
+    "medium"
+   ]
+  },
+  {
+   "name": "Sewer Wall/Floor Corner",
+   "kind": "scenery",
+   "thumb": "thumbs/240523d7-5154-4bb6-8a05-85f20a19eb44.jpg",
+   "tags": [
+    "sewers",
+    "wall",
+    "floor",
+    "sewer",
+    "stone",
+    "corner",
+    "large"
+   ]
+  },
+  {
+   "name": "Sewer Wall/Floor With Door 01",
+   "kind": "scenery",
+   "thumb": "thumbs/9c703622-dc6c-49d2-8f4f-c95498f66612.jpg",
+   "tags": [
+    "sewers",
+    "wall",
+    "floor",
+    "sewer",
+    "stone",
+    "door",
+    "arch",
+    "large"
+   ]
+  },
+  {
+   "name": "Sewer Wall/Floor With Door 02",
+   "kind": "scenery",
+   "thumb": "thumbs/b51a404c-54c7-4f93-be46-a236e06fa353.jpg",
+   "tags": [
+    "sewers",
+    "wall",
+    "floor",
+    "sewer",
+    "stone",
+    "door",
+    "arch",
+    "large"
+   ]
+  },
+  {
+   "name": "Sewer Wall/Floor With Ladder 01",
+   "kind": "scenery",
+   "thumb": "thumbs/7e307597-48d3-4c6d-9f1c-ac53830f74ac.jpg",
+   "tags": [
+    "sewers",
+    "wall",
+    "floor",
+    "sewer",
+    "stone",
+    "ladder",
+    "large"
+   ]
+  },
+  {
+   "name": "Sewer Wall/Floor With Ladder 02",
+   "kind": "scenery",
+   "thumb": "thumbs/a017f55f-1c5a-44a4-9b2e-16d54144c28b.jpg",
+   "tags": [
+    "sewers",
+    "wall",
+    "floor",
+    "sewer",
+    "stone",
+    "ladder",
+    "large"
+   ]
+  },
+  {
+   "name": "Sewer Wall - Small",
+   "kind": "scenery",
+   "thumb": "thumbs/f6e3f1cd-5071-48e9-a545-13eb521e3151.jpg",
+   "tags": [
+    "sewers",
+    "wall",
+    "sewer",
+    "stone",
+    "medium"
+   ]
+  },
+  {
+   "name": "Sewer Wall With Door",
+   "kind": "scenery",
+   "thumb": "thumbs/c902ef04-d6a4-4b83-9328-5d274fbec3c0.jpg",
+   "tags": [
+    "sewers",
+    "wall",
+    "door",
+    "sewer",
+    "stone",
+    "arch",
+    "large"
+   ]
+  },
+  {
+   "name": "Sewer Wall  With Ladder",
+   "kind": "scenery",
+   "thumb": "thumbs/c186e84f-be6d-4df7-a4b7-64b00d65ccec.jpg",
+   "tags": [
+    "sewers",
+    "wall",
+    "ladder",
+    "sewer",
+    "stone",
+    "large"
+   ]
+  }
+ ]
+}

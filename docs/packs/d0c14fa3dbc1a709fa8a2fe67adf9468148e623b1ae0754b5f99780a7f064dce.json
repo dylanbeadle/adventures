@@ -1,0 +1,491 @@
+{
+ "id": "5a1e7ab1-0000-4000-8000-000000000001",
+ "folder": "Demo.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 2392,
+   "sha256": "00628fc836993110d0342af2c56b11650de2f6d1451f2e3195b05d0158d0ca0a"
+  },
+  {
+   "path": "cover.png",
+   "size": 673340,
+   "sha256": "fb78f684511bf1e9aa0a14bcfa38ab75678583708ea09d5ff0ddf5a35886419a"
+  },
+  {
+   "path": "creatures/cleric.md",
+   "size": 295,
+   "sha256": "35e56496ec18899955cf6c4dbe5534bc0747c0158d86b0a827e8acb3210e9646"
+  },
+  {
+   "path": "creatures/fighter.md",
+   "size": 473,
+   "sha256": "7d9e1586636aeef03eff89eb0f2e146e464c6488575c1437eb36af2fb4895103"
+  },
+  {
+   "path": "creatures/goblin-archer.md",
+   "size": 545,
+   "sha256": "3ee0e8396dde06a074c6e58afb671ada6cd29f095158e0654301d8b72bed769f"
+  },
+  {
+   "path": "creatures/goblin-boss.md",
+   "size": 509,
+   "sha256": "f52925a58ce8ed53c650c28ddcdeb3d21d1cc2ef1f46d45261b7f44d53f3463c"
+  },
+  {
+   "path": "creatures/goblin.md",
+   "size": 545,
+   "sha256": "f12e6efca7d67f5c567b8965808e7255561c4777a7e7e44f0d2de15055e15c68"
+  },
+  {
+   "path": "creatures/orc.md",
+   "size": 284,
+   "sha256": "d59ca8e3989b8c8c5c08095baad3789bd59607e00a35dd469914a4bd3a9d87a8"
+  },
+  {
+   "path": "creatures/rogue.md",
+   "size": 312,
+   "sha256": "6f554cc2b708422f75fd69b91668ad133c98ebd5d032819f5ccc3f26c4d07fa7"
+  },
+  {
+   "path": "creatures/skeleton.md",
+   "size": 281,
+   "sha256": "5b3414c0d5f8ca6c606492f4665e4f9c262feae6c2bdce05f6af8aec036b3b7b"
+  },
+  {
+   "path": "creatures/wizard.md",
+   "size": 299,
+   "sha256": "f19178a931abd697eb2fa016db87ed3cde0c2d209fac63150a55f9e0bd638ea3"
+  },
+  {
+   "path": "creatures/wolf.md",
+   "size": 333,
+   "sha256": "be7dca8dab6d9415c195ada79d8ab8264f862603434bd5c267b69b0b1c4e12fc"
+  },
+  {
+   "path": "creatures/young-dragon.md",
+   "size": 526,
+   "sha256": "d3ea2aec247b04803a071a139c33c365b94002bd6da119ff1eb039903eb80060"
+  },
+  {
+   "path": "cutscenes/the-boss-awakens.md",
+   "size": 426,
+   "sha256": "7071fccbb17535a31c567b85be69fb59e2a53ed98dc7db70c8b3c3944ed868e4"
+  },
+  {
+   "path": "effects/beast-growl.md",
+   "size": 467,
+   "sha256": "d9841b63151db1d34867a18069f32a245d5fc5b59f9eeb308d97741d2962957e"
+  },
+  {
+   "path": "effects/coins.md",
+   "size": 425,
+   "sha256": "9a997f89909f495db4b45c3f08efe2cf3b735df12b370922869c169180c3cf9f"
+  },
+  {
+   "path": "effects/door-creak.md",
+   "size": 376,
+   "sha256": "9498fb25a782f76a1bae35a644215c29a26e236d89e82fd34d075758f1b32df9"
+  },
+  {
+   "path": "effects/draw-sword.md",
+   "size": 403,
+   "sha256": "2de9531790b287969b0f87945802fa90e4dcd0c9edafadea34c79d7226b116e8"
+  },
+  {
+   "path": "effects/footsteps.md",
+   "size": 393,
+   "sha256": "589343e00667261c04352b75d09200e28f9a16239080c04038442e04821eb550"
+  },
+  {
+   "path": "effects/giant.md",
+   "size": 397,
+   "sha256": "bc9d0fe476f1796cf030a085a1db3b24dac2c13607e9fb02e3ff2c4df30fa982"
+  },
+  {
+   "path": "effects/rockfall.md",
+   "size": 385,
+   "sha256": "6e588fa9c61578f150002102e35167de3eed7c35dcd6818c156cb616354b3362"
+  },
+  {
+   "path": "effects/shade.md",
+   "size": 419,
+   "sha256": "bcc3a4a9bdef39eda5cfc9c891d73ecd4a7e72fce9e7ddcbeeff62097697623b"
+  },
+  {
+   "path": "effects/spell.md",
+   "size": 378,
+   "sha256": "9b702740a0a54cdaeadb6672cbc8cbcbdb76ea9e4a5f552aa1d4669143f99cee"
+  },
+  {
+   "path": "effects/sword-clash.md",
+   "size": 418,
+   "sha256": "2ae2ac49699c0a216519d68c7bf62a58beaa61d4847660b8972155b7e0943106"
+  },
+  {
+   "path": "effects/sword-swing.md",
+   "size": 435,
+   "sha256": "cd352a37ee8a575edb04531e92d4b7998b8c97e3d2e9ddaf7abcac1479468839"
+  },
+  {
+   "path": "effects/thunder.md",
+   "size": 356,
+   "sha256": "9961eca4cf2df50bdba5a115b581153c1bf137944080e6b5f82d712ca2431bb0"
+  },
+  {
+   "path": "encounters/01-goblin-warren.md",
+   "size": 2255,
+   "sha256": "2d9f064a47e6d2414481a02e3b6e82b1d485a84f284d4c09a13da6b6ca22bd53"
+  },
+  {
+   "path": "encounters/02-forest-road.md",
+   "size": 510,
+   "sha256": "ac8bc9bb7b9586b0c289b98f4679551a6944e8606797b7c525284004bd3fbdc6"
+  },
+  {
+   "path": "handouts/merchant-letter.md",
+   "size": 330,
+   "sha256": "c12d6ad43da0f40f26dafa6141e26e81457d69f934a95caf76d34b11bbdc6758"
+  },
+  {
+   "path": "media/instruments/GeneralUser-GS-LICENSE.txt",
+   "size": 2317,
+   "sha256": "7b32efefdf95ce38a043799f0659853ddc00fbaa14d8c50f0aca16b9b8b405be"
+  },
+  {
+   "path": "media/instruments/orchestra.sf2",
+   "size": 7588136,
+   "sha256": "bf121175fb99cc2f361155b837e52480226f26ddb15b8605a98f908483f50e2a"
+  },
+  {
+   "path": "media/painted-wilderness.png",
+   "size": 673340,
+   "sha256": "fb78f684511bf1e9aa0a14bcfa38ab75678583708ea09d5ff0ddf5a35886419a"
+  },
+  {
+   "path": "media/sounds/PROVENANCE.md",
+   "size": 2857,
+   "sha256": "c702250fbd2dc065fa29b3673954124f85fa5c83b5057f5cb2adad2cf6378131"
+  },
+  {
+   "path": "media/sounds/beast-growl-1.m4a",
+   "size": 10544,
+   "sha256": "32b66e060fd19c814a40e8839b07b4c51d0d2ac61fdf0e78ce8940eaf4fcf459"
+  },
+  {
+   "path": "media/sounds/beast-growl-2.m4a",
+   "size": 9506,
+   "sha256": "adf4f2b797079bcfa194b9a3e00695393118f9fdc56f3a620592e28e3f3c8f37"
+  },
+  {
+   "path": "media/sounds/beast-growl-3.m4a",
+   "size": 9560,
+   "sha256": "ff3947805b10d507d37b56b7d798eb7871d1433ec671da0b77f7ce7fa36f2b85"
+  },
+  {
+   "path": "media/sounds/coins-1.m4a",
+   "size": 9535,
+   "sha256": "c3a78e105360d174db33d92ffc6491916593be5a28aa201fd5057f819c544b63"
+  },
+  {
+   "path": "media/sounds/coins-2.m4a",
+   "size": 12310,
+   "sha256": "98464b66da30996287c1c6e199cb21934af5de4122e166f77ec86456698dd089"
+  },
+  {
+   "path": "media/sounds/coins-3.m4a",
+   "size": 6853,
+   "sha256": "bdb398817483353e6a055c3e01f5329d4e37252d094a00f74b55694c6ef7f1ab"
+  },
+  {
+   "path": "media/sounds/door-creak-1.m4a",
+   "size": 10490,
+   "sha256": "23e6d45b7bd112e7b3b0ff776e5065e4be01299f22a97b7b8a194f34404f12f8"
+  },
+  {
+   "path": "media/sounds/draw-sword-1.m4a",
+   "size": 7426,
+   "sha256": "e0c205e51c56cbd9e7f8473c15c5c3d2191ce1ef7ef61e7411a3609aebcb4097"
+  },
+  {
+   "path": "media/sounds/draw-sword-2.m4a",
+   "size": 7257,
+   "sha256": "eaa7701454b3742445cb3b86f38158c35754d6a76feee2c1f37aec3b462a50b9"
+  },
+  {
+   "path": "media/sounds/footsteps-1.m4a",
+   "size": 6563,
+   "sha256": "4d2547699de6923b3176790daa6f867ac18ce18ce35b413a8bbfab4e68ef9aee"
+  },
+  {
+   "path": "media/sounds/footsteps-2.m4a",
+   "size": 6953,
+   "sha256": "324b0fa393db488d76a5b21f92f26cbe578f32e942ac1610523d2d52696a7ac9"
+  },
+  {
+   "path": "media/sounds/giant-1.m4a",
+   "size": 9432,
+   "sha256": "dd62447354bdacc81d4ee88a92071315c2b17efd470a4beefefbfad59bf4a941"
+  },
+  {
+   "path": "media/sounds/giant-2.m4a",
+   "size": 8891,
+   "sha256": "12672b1bd07650d492944182ed9227847c3c9b223a4bf720413d9166b313413a"
+  },
+  {
+   "path": "media/sounds/rockfall-1.m4a",
+   "size": 8155,
+   "sha256": "90fd412b8373108c8d2a94fa5a54f85c9bd01990a4bfe0895126adb3781a0150"
+  },
+  {
+   "path": "media/sounds/rockfall-2.m4a",
+   "size": 7712,
+   "sha256": "7a8283aadd8bb7df7a927572428065e6b2dd62365339c8faa925304b1f707450"
+  },
+  {
+   "path": "media/sounds/shade-1.m4a",
+   "size": 10370,
+   "sha256": "7107fe2173d835d0e51caa6d41885932ab6c69b727f3db0e5e7257fcea1d3e2d"
+  },
+  {
+   "path": "media/sounds/shade-2.m4a",
+   "size": 13277,
+   "sha256": "365460633cba8adbfc6e83d759b1f2101dbbda705eea22e3f9b182a72c5ca283"
+  },
+  {
+   "path": "media/sounds/spell-1.m4a",
+   "size": 8877,
+   "sha256": "e43b8deaba9fc2bb90b20346c36b1322baa97cae743a5e98dfefc01efc2983f0"
+  },
+  {
+   "path": "media/sounds/spell-2.m4a",
+   "size": 25763,
+   "sha256": "1951fe210ec2b4bbf3f884b7c3af5a2da7752260e044e7cb0cf88b8de2946c42"
+  },
+  {
+   "path": "media/sounds/sword-clash-1.m4a",
+   "size": 5821,
+   "sha256": "1b08e836a1c6002d92c1c4dcb74ccdbf0e9852feec13fc7d4c7a505ce5b0b522"
+  },
+  {
+   "path": "media/sounds/sword-clash-2.m4a",
+   "size": 7175,
+   "sha256": "4c5a7cda4b7ea3016be42451d70fd9ceb5be47549778b9d8293cd6ae794d3230"
+  },
+  {
+   "path": "media/sounds/sword-clash-3.m4a",
+   "size": 9766,
+   "sha256": "edcd527d96ba7daad581403f971e72f80fa2f175707cae62baef1444ba224a4d"
+  },
+  {
+   "path": "media/sounds/sword-swing-1.m4a",
+   "size": 5684,
+   "sha256": "4d25fa813c2c5d28ee9dd30e583a6e8ff0e96f9ce39f25d8bbcc50a81b19a5b3"
+  },
+  {
+   "path": "media/sounds/sword-swing-2.m4a",
+   "size": 5162,
+   "sha256": "604090222c97b0bb35364b3868f97a4ac096de4970ac33b0520ccebeab02d41d"
+  },
+  {
+   "path": "media/sounds/sword-swing-3.m4a",
+   "size": 5324,
+   "sha256": "6be6ef586e9b5ffb40fb1b0713210069aeb8e934e64c46e53b134fde24630a5f"
+  },
+  {
+   "path": "media/sounds/thunder-1.m4a",
+   "size": 38808,
+   "sha256": "17a4ba9c44c7d3d10c06eed0dc43148d41367622e2e36c1f85e6caa0f94a64a4"
+  },
+  {
+   "path": "music/slow-dread.md",
+   "size": 215,
+   "sha256": "01596f0eb0802a590a74a2a6fa18fc610a3e9f5f1566e1d3085adaf88cea4f39"
+  },
+  {
+   "path": "nodes/01-the-letter.md",
+   "size": 652,
+   "sha256": "349bec6b2f19c6c29971a541ca65c2c8287d0805dd7db2fe6841c546c32de7af"
+  },
+  {
+   "path": "nodes/barracks.md",
+   "size": 493,
+   "sha256": "3e17d5a233042e56dfbabf7aba4fe0b989ab6d9a2fd32542931b6f31fdf78fc0"
+  },
+  {
+   "path": "nodes/boss-door.md",
+   "size": 301,
+   "sha256": "e30eac6c93885abf40afb21b1a82b9a893acdc8a30d7719f2f7c568ee977ef83"
+  },
+  {
+   "path": "nodes/captured.md",
+   "size": 154,
+   "sha256": "929f488e07162fb58bd75788f4c27131c1d0966a7de330e46d8da991c64d76e9"
+  },
+  {
+   "path": "nodes/escape.md",
+   "size": 197,
+   "sha256": "9beab3395686521b44d88db67821f4b1993d2f63e72921b8a9810d4c8127d6b2"
+  },
+  {
+   "path": "nodes/guard-post.md",
+   "size": 736,
+   "sha256": "43584c13aa262485f4168b2b3726441db425a39142ce6df74b8bf9e80f05f466"
+  },
+  {
+   "path": "nodes/hillside.md",
+   "size": 796,
+   "sha256": "b4d90c0244f02039e8dbf9cd3790634c1b0b6b1682374b9b0929a6f595904555"
+  },
+  {
+   "path": "nodes/locked.md",
+   "size": 152,
+   "sha256": "0c9844b338eb9cbf1fda2c7f8aebc3de4130e3a1c3751ecb6fff1d3b9b59df4b"
+  },
+  {
+   "path": "nodes/showdown.md",
+   "size": 336,
+   "sha256": "0111ceb6b48d64cee9e3be4c31afb3c993835102448fac2ae37590415353b52a"
+  },
+  {
+   "path": "nodes/storeroom.md",
+   "size": 512,
+   "sha256": "3daae13cc1cb6a306b136078802783068494198bf7bd5f53edc682e1f8d7cd0f"
+  },
+  {
+   "path": "nodes/strongbox.md",
+   "size": 242,
+   "sha256": "abe2753ad38e88962f9e8deb48f1d8b18b81ef51ce02c82b61d6046b8588c401"
+  },
+  {
+   "path": "nodes/the-warren-wakes.md",
+   "size": 483,
+   "sha256": "a44ccb849282206b69780d7d5ab8a1659f378fb08d1b0ef57235c12b2c7cc5db"
+  },
+  {
+   "path": "nodes/victory.md",
+   "size": 194,
+   "sha256": "cd360d4ada6bd1127d1c97e7076541f498e54768f739ba77ffad870330797e10"
+  },
+  {
+   "path": "oracles/simple-oracle.md",
+   "size": 2590,
+   "sha256": "0969e99cb24fbb02d2e4fd8858d21ded13cac891c9bf611f4ac659971f0665c4"
+  },
+  {
+   "path": "rule-sets/fantasy.md",
+   "size": 3332,
+   "sha256": "b9db217b4a872b2871b08ccee8b857ab23feac1dc5d1d740459d10cccd999e23"
+  },
+  {
+   "path": "rule-sets/horror.md",
+   "size": 680,
+   "sha256": "70c3a906b590a178a5c15dca060d050d804adaa2063472bbc959055693889b56"
+  },
+  {
+   "path": "rule-sets/scifi.md",
+   "size": 652,
+   "sha256": "7da5d3743202c6f5e8722997c1c56b0b8946e36483a328c0fe1b7bab243dd321"
+  },
+  {
+   "path": "rule-sets/srd-5.2.1.md",
+   "size": 1071,
+   "sha256": "e03d5f321c4cb971a99fa7e437b11e8aa92cf15b1a90537abdca03526ad3c982"
+  },
+  {
+   "path": "scenery/barrel.md",
+   "size": 68,
+   "sha256": "7bc4e6330631e8c506ee9854904c6d5f01fb6bbe475f348bcd8ab379e763ef2d"
+  },
+  {
+   "path": "scenery/bedroll.md",
+   "size": 59,
+   "sha256": "95417f9375dd513d9235a40b474f9e9aedc8e174052fe36cd43a715afeb3e735"
+  },
+  {
+   "path": "scenery/brazier.md",
+   "size": 278,
+   "sha256": "9ced74bb7e7f9e4110ff6247b4596f7a45f356fed20073c1652fc09a513fca68"
+  },
+  {
+   "path": "scenery/chest.md",
+   "size": 54,
+   "sha256": "bad48ba53f911069de042670db3ba0215aca4c1fe4a5c010b6715e62923b0211"
+  },
+  {
+   "path": "scenery/crate.md",
+   "size": 87,
+   "sha256": "0d07739373bc832d114bec8395c445d7effe5ad7880ceeb60228cb7f4cf203ef"
+  },
+  {
+   "path": "scenery/rubble.md",
+   "size": 63,
+   "sha256": "221760b2037b6ac9a2595efaa13aedd456ab34e85bd9f77e84b24565aaea6aa1"
+  },
+  {
+   "path": "scenery/throne.md",
+   "size": 69,
+   "sha256": "fc7ae8a2108f9fa6a398dbd64893eeccddba400d381743e91a4c3307d9752a96"
+  },
+  {
+   "path": "soundscapes/cave.md",
+   "size": 246,
+   "sha256": "4d4bc9e83ef7dce41476c219c61616c1280f1707b46bfc2c553af5ca3e7364d2"
+  },
+  {
+   "path": "soundscapes/drums.md",
+   "size": 93,
+   "sha256": "77df229cf4dc61a436198396d3bcb50b35654e26b7b6ad51d3bb6deaa3c5b6ba"
+  },
+  {
+   "path": "soundscapes/fire.md",
+   "size": 65,
+   "sha256": "fdb5eeaf53ebfa18008c60b9917dbed66afcb878157231e451fb86b4b57bd87c"
+  },
+  {
+   "path": "soundscapes/night.md",
+   "size": 85,
+   "sha256": "e4499fa78b46c116bfcb2c263afec9cf5e916ffd66ee47d8464de1d27c3bcbc8"
+  },
+  {
+   "path": "soundscapes/rain.md",
+   "size": 81,
+   "sha256": "ee110150a11c9b852239d42b93f171cfab933b4573e8069d138ea4951acfcfda"
+  },
+  {
+   "path": "soundscapes/storm.md",
+   "size": 100,
+   "sha256": "f0099bfecdf842989a5ef8c16afc7b1cfe2b39cae3ce7deda79ddc080c1d0995"
+  },
+  {
+   "path": "soundscapes/wind.md",
+   "size": 66,
+   "sha256": "78b3dd74a988c7fef110642bc387489bb2fc6706ef798b63a824bcd6d8806c74"
+  },
+  {
+   "path": "tables/event-focus.md",
+   "size": 634,
+   "sha256": "2709754d631c6170db5e3948e860d4a072bf1307a2b6879bee4efcbab475adbf"
+  },
+  {
+   "path": "tables/goblin-loot.md",
+   "size": 197,
+   "sha256": "555e706f16aeb1cf535698f5f631c32bb484520b19940b8f138002d3116dfc2b"
+  },
+  {
+   "path": "tables/wandering-goblins.md",
+   "size": 443,
+   "sha256": "6a0bf718a75293fa5a8297f5d396cc7ae80a67209ee79febb4cc5416c1b52a6d"
+  },
+  {
+   "path": "tables/warren-noises.md",
+   "size": 471,
+   "sha256": "3ace48e6215693324921f9286dc918db27b29eaee0f98221221ddc9e0b26f853"
+  },
+  {
+   "path": "theme.md",
+   "size": 434,
+   "sha256": "72f2622473d042f11c8e05d341309b66c53513e0ef39842339d1b014598fe7a0"
+  }
+ ]
+}

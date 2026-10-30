@@ -1,0 +1,588 @@
+{
+ "id": "e2f146dc-7278-5e19-a8d0-78e7aa7e4f5c",
+ "folder": "Dwarf Creatures.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 635,
+   "sha256": "212868d579a00145832cc06bbcd90441dd801bae1e19fb2444d3d6d627f43351"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 27065,
+   "sha256": "687c1ecf72e3f8fd572028049ec5f9a204e1b6330d50342e929672dbdc9ddc8a"
+  },
+  {
+   "path": "creatures/dark-dwarf-warrior.md",
+   "size": 305,
+   "sha256": "13fdb52477617e29082f895fda01a57e8dd95ac3bdff4df194d79c8eaf1db46d"
+  },
+  {
+   "path": "creatures/dwarf-bard.md",
+   "size": 283,
+   "sha256": "3ce8729d8d090077defd29d072b08d19920a09a9bb5b81fee22f230448329de9"
+  },
+  {
+   "path": "creatures/dwarf-commoner-2.md",
+   "size": 312,
+   "sha256": "7e53a463fb9ec293257098a7cd78e67294cb4ccebe4efbe016462ac72e26476a"
+  },
+  {
+   "path": "creatures/dwarf-commoner-3.md",
+   "size": 316,
+   "sha256": "5c57e996c50506f203ad496c12c4e4fbbb39308138d764a0c3704c8e84fb2756"
+  },
+  {
+   "path": "creatures/dwarf-commoner.md",
+   "size": 299,
+   "sha256": "51ca68531153a44fdce0bde0fec58911b073abcffe82ba6f846afbad72458bb0"
+  },
+  {
+   "path": "creatures/dwarf-paladin.md",
+   "size": 294,
+   "sha256": "47f3c6984424962c33dd7eb35b38f5dd72f82668e94a183b96360ac8512a369a"
+  },
+  {
+   "path": "creatures/dwarf-warrior-2.md",
+   "size": 302,
+   "sha256": "a318f40816d2b585f2b904cdf37db33f73a7e315940238f4a0465b2f0f1bd6c2"
+  },
+  {
+   "path": "creatures/dwarf-warrior.md",
+   "size": 305,
+   "sha256": "3e932dee7a754cea351eefe6ff7e0c385e166b3578870500a6df171e7c41053a"
+  },
+  {
+   "path": "creatures/pirate-dwarf.md",
+   "size": 284,
+   "sha256": "86503bf9c86852783dd3f0fc18fb393da38de9058e63b23756ddde6c3b488bc3"
+  },
+  {
+   "path": "media/creatures/Dwarf/Dark Dwarf Warrior.usd",
+   "size": 1302448,
+   "sha256": "57909c67adec8d2a875033399428c73b64516778f37a320842013378fe6fdf37"
+  },
+  {
+   "path": "media/creatures/Dwarf/Dwarf Bard.usd",
+   "size": 1065047,
+   "sha256": "9c6b62f84963e463a021bab3a0d8d0dd79ae4824e24804b009c249f5d9bfa526"
+  },
+  {
+   "path": "media/creatures/Dwarf/Dwarf Commoner__4e375f61.usd",
+   "size": 1059469,
+   "sha256": "b2f775170f6eab6712354730b2052af4a3bdf7ab566b080ab716896a9f15e16f"
+  },
+  {
+   "path": "media/creatures/Dwarf/Dwarf Commoner__d3a0e612.usd",
+   "size": 1000430,
+   "sha256": "a1077216931fba06b1a6bdc69a1e8044701a9f3cfe2ae53943ac715f2bcbabc4"
+  },
+  {
+   "path": "media/creatures/Dwarf/Dwarf Commoner__f0aa7361.usd",
+   "size": 993341,
+   "sha256": "2bf8fa7f19671704d62f27538929ef490985ba98aeb2163b0f6a00b84e855642"
+  },
+  {
+   "path": "media/creatures/Dwarf/Dwarf Paladin.usd",
+   "size": 1296354,
+   "sha256": "663bfeccf69abc6df87e46e9a2711baf79cda66d6744cec1410bb54211252a16"
+  },
+  {
+   "path": "media/creatures/Dwarf/Dwarf Warrior__b3dc7d69.usd",
+   "size": 1100725,
+   "sha256": "c4ed4310261e452012eb09b234f566a5be613afc66a622c2062c1249dd1973fe"
+  },
+  {
+   "path": "media/creatures/Dwarf/Dwarf Warrior__fa90f8c9.usd",
+   "size": 1297617,
+   "sha256": "6affaa271e2e4ea23637f109c4b42921a2b00eeae2cdf9d82973e36e0989355d"
+  },
+  {
+   "path": "media/creatures/Dwarf/Pirate.usd",
+   "size": 1116653,
+   "sha256": "d033cee0ab6ecce6a9439bf61f4d2083854163727a8f3b93a4fa1db70f2a75df"
+  },
+  {
+   "path": "media/materials/Library.usdc",
+   "size": 19724,
+   "sha256": "c24d21cc536ed131cf8633109bc9ffdf7e045cd0c2da1da90544a18c4fa9d5ba"
+  },
+  {
+   "path": "media/materials/textures/basalt.png",
+   "size": 25957,
+   "sha256": "e7295df0b2356c29812c23d4ee8cfcbbab04ee3eb5f20f52d281a6846c8f2e96"
+  },
+  {
+   "path": "media/materials/textures/basalt_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/blue.png",
+   "size": 29622,
+   "sha256": "bb2482f15178dd7ed1883b5558bae3c5db1e6f63dfb0a562b16da3cffcd80add"
+  },
+  {
+   "path": "media/materials/textures/blue_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bluefire.png",
+   "size": 40884,
+   "sha256": "95947aba8ef1863b10a5ceb035363c014f49bb066a629334e6b9fb0c0b2a2a57"
+  },
+  {
+   "path": "media/materials/textures/bluefire_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bone.png",
+   "size": 52095,
+   "sha256": "60127b0b9d500672ffa4413c2e0331968daf672f9edbbc58e031bd20a24410ce"
+  },
+  {
+   "path": "media/materials/textures/bone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/brass.png",
+   "size": 45700,
+   "sha256": "7653b7e6c813911303d183fd977ca9007540d1f30b8a647ce49a9b4b25479a7e"
+  },
+  {
+   "path": "media/materials/textures/brass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/fur.png",
+   "size": 32075,
+   "sha256": "e6ebdc6bf38121ac2caa3f246dbf760ceb5f618f67a707849f43ac55ee75e56d"
+  },
+  {
+   "path": "media/materials/textures/fur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ghost.png",
+   "size": 46813,
+   "sha256": "6b86f729a542c078e35015b96d3bdf6bb6fd252e59dc931fbd818c4ac61d0809"
+  },
+  {
+   "path": "media/materials/textures/ghost_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/goblinskin.png",
+   "size": 40654,
+   "sha256": "bc088b6cce6935a3e38a4e34d3f8e553b7269a409f04d5892d4bb7bcbb804e7a"
+  },
+  {
+   "path": "media/materials/textures/goblinskin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/grass.png",
+   "size": 37697,
+   "sha256": "f6440b6a238240b171a02d0a9abfa1db6e3b23470ea136796156c95dc85ecb1a"
+  },
+  {
+   "path": "media/materials/textures/grass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ice.png",
+   "size": 54673,
+   "sha256": "1776de4df5a1aa0fd4c24462a5bf2188a02dd0f291b002f76689f64c7401183f"
+  },
+  {
+   "path": "media/materials/textures/ice_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/iron.png",
+   "size": 33226,
+   "sha256": "b819ee206156042e76233baf2e2abdb7f0a4a0ae5bc64a26cfaaec7a6fae6a3b"
+  },
+  {
+   "path": "media/materials/textures/iron_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/jade.png",
+   "size": 33655,
+   "sha256": "449a6862f41cf33514e10aa482f65a2dd957d8accc0e776a061972b2b5323771"
+  },
+  {
+   "path": "media/materials/textures/jade_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/lava.png",
+   "size": 36124,
+   "sha256": "f4f7e6f7c9f527d2c962cacf29c83a795a16ecc66640854685970879a3f94e4c"
+  },
+  {
+   "path": "media/materials/textures/lava_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/leather.png",
+   "size": 22325,
+   "sha256": "5466b2bd41efecafe9089281e6fca4ca93def727a9c16cafc86dadf55d211774"
+  },
+  {
+   "path": "media/materials/textures/leather_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/limestone.png",
+   "size": 49995,
+   "sha256": "bf8ce44b291f665ea0c34f28befb206e92da7202b60d7b8ebdfc5fe801118ee9"
+  },
+  {
+   "path": "media/materials/textures/limestone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/marble.png",
+   "size": 31933,
+   "sha256": "d8c25c02c17e9076c1bb4fb692d360f9fb31c298ca833d8c244e306ff3604ae7"
+  },
+  {
+   "path": "media/materials/textures/marble_normal.png",
+   "size": 29285,
+   "sha256": "d4e5ab67529195c5a5be286a022e1e9c8058b9b614eadb7612942462d083a0ef"
+  },
+  {
+   "path": "media/materials/textures/mortar.png",
+   "size": 30700,
+   "sha256": "0749995c21d077be43c42b8de716a7992549eb89f73ba68253792accc4dc03e9"
+  },
+  {
+   "path": "media/materials/textures/mortar_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/oak.png",
+   "size": 44710,
+   "sha256": "cdf8ce500e0145dddaba5408a7bb6b6013c72e37ae225e23903efb16b6eaebd5"
+  },
+  {
+   "path": "media/materials/textures/oak_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  },
+  {
+   "path": "media/materials/textures/paper.png",
+   "size": 52363,
+   "sha256": "e8344646e132da563f18a9157fbf98bd778a6070ac4443ad6e3f209bb2b04fa6"
+  },
+  {
+   "path": "media/materials/textures/paper_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/plaster.png",
+   "size": 51787,
+   "sha256": "7a4c5f149f38204773143f16e06851f33496c436db368fe8a964a390873bfc2e"
+  },
+  {
+   "path": "media/materials/textures/plaster_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/red.png",
+   "size": 30685,
+   "sha256": "efbdd3cc8b5c72553f9db3b9c26860b5c364c1f321b3aa6012ecb45130633ed4"
+  },
+  {
+   "path": "media/materials/textures/red_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rope.png",
+   "size": 44507,
+   "sha256": "24b4fed56ade7e162aa38fcd54886e3c2730f38af4befb25c843422a278e5bbb"
+  },
+  {
+   "path": "media/materials/textures/rope_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rose.png",
+   "size": 51725,
+   "sha256": "e0e37ae18b6906a144680a1155de6ffad7e2bb083d9999fff0363e5112aee4d2"
+  },
+  {
+   "path": "media/materials/textures/rose_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/sand.png",
+   "size": 36961,
+   "sha256": "85886e8f7b3434815829178445b87ff6158c13e8164a8ffda3993c2f221a24cc"
+  },
+  {
+   "path": "media/materials/textures/sand_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/sandstone.png",
+   "size": 47840,
+   "sha256": "ef16b0605a795be8f93f5af413856bbace96ad202e7236059578339d185c3007"
+  },
+  {
+   "path": "media/materials/textures/sandstone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/scales.png",
+   "size": 35840,
+   "sha256": "b1bed18fc93d1ce569ba48331159220c33f9c0feacf02155e12816a7bcaf1e2d"
+  },
+  {
+   "path": "media/materials/textures/scales_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/skin.png",
+   "size": 46985,
+   "sha256": "5ca6e03744c454380928115d5223e4630134a27767a7b26dcfba204d1c4fcf47"
+  },
+  {
+   "path": "media/materials/textures/skin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/snow.png",
+   "size": 42837,
+   "sha256": "0d8d0cd049935a17e0b71ebea93ac5e8f823a998dd72ba10e283741ead9d4260"
+  },
+  {
+   "path": "media/materials/textures/snow_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/soil.png",
+   "size": 32264,
+   "sha256": "4c90d4c1a131223b16a1e4b20de7aa877cded6e90e932f4df75e0e9ec652f615"
+  },
+  {
+   "path": "media/materials/textures/soil_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/steel.png",
+   "size": 49671,
+   "sha256": "eea5cdd9f65ec98b43afd1f7e80a070c60c40fcb61812c4f3c3d6d16c9d95e38"
+  },
+  {
+   "path": "media/materials/textures/steel_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/stone.png",
+   "size": 42272,
+   "sha256": "e4f23d37e5e6d3a83d836d06089b88547117cb6b8978b3b448796eaa655d2ec9"
+  },
+  {
+   "path": "media/materials/textures/stone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/tanfur.png",
+   "size": 44965,
+   "sha256": "5c21a980f0db8b2fcc14c81ba8f6b487e73dd27d2a4bfe3e5000650534d675a7"
+  },
+  {
+   "path": "media/materials/textures/tanfur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/water.png",
+   "size": 29402,
+   "sha256": "a7861a6a33fa96041dd14a7c2ea61c48bfc767b4fbb3e2a2add4fcc74a347850"
+  },
+  {
+   "path": "media/materials/textures/water_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/wood.png",
+   "size": 36098,
+   "sha256": "93be5dba40fb0504f65177b720e06059d439aaf10c0c215617ba6fe9e55769f9"
+  },
+  {
+   "path": "media/materials/textures/wood_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Dark Dwarf Warrior",
+   "kind": "creature",
+   "thumb": "thumbs/6513c499-7f1c-434f-8c0c-1f3c76f6b6df.jpg",
+   "tags": [
+    "dwarf",
+    "warrior",
+    "fighter",
+    "medium",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "paladin"
+   ]
+  },
+  {
+   "name": "Dwarf Bard",
+   "kind": "creature",
+   "thumb": "thumbs/e08406cf-4930-46c9-8af9-420e75d8386d.jpg",
+   "tags": [
+    "dwarf",
+    "bard",
+    "medium",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "female",
+    "curvy"
+   ]
+  },
+  {
+   "name": "Dwarf Commoner 2",
+   "kind": "creature",
+   "thumb": "thumbs/d3a0e612-45ca-4609-96ac-17659352f3fe.jpg",
+   "tags": [
+    "dwarf",
+    "npc",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "spear",
+    "plump",
+    "thick"
+   ]
+  },
+  {
+   "name": "Dwarf Commoner 3",
+   "kind": "creature",
+   "thumb": "thumbs/f0aa7361-0cb8-4225-9c78-1764d790d95d.jpg",
+   "tags": [
+    "dwarf",
+    "npc",
+    "hunter",
+    "biped",
+    "bipedal",
+    "beard",
+    "humanoid",
+    "muscular"
+   ]
+  },
+  {
+   "name": "Dwarf Commoner",
+   "kind": "creature",
+   "thumb": "thumbs/4e375f61-bccc-4dc5-a738-08ef557ff89c.jpg",
+   "tags": [
+    "dwarf",
+    "drunk",
+    "patron",
+    "npc",
+    "biped",
+    "bipedal",
+    "beard",
+    "humanoid"
+   ]
+  },
+  {
+   "name": "Dwarf Paladin",
+   "kind": "creature",
+   "thumb": "thumbs/537d21df-3cd7-4873-bd75-3913621e484c.jpg",
+   "tags": [
+    "dwarf",
+    "hammer",
+    "fighter",
+    "halfling",
+    "paladin",
+    "armor",
+    "warrior",
+    "medium"
+   ]
+  },
+  {
+   "name": "Dwarf Warrior 2",
+   "kind": "creature",
+   "thumb": "thumbs/fa90f8c9-0734-43bb-8d51-09e68ca5b114.jpg",
+   "tags": [
+    "dwarf",
+    "axe",
+    "armor",
+    "fighter",
+    "shield",
+    "adventurer",
+    "medium",
+    "biped"
+   ]
+  },
+  {
+   "name": "Dwarf Warrior",
+   "kind": "creature",
+   "thumb": "thumbs/b3dc7d69-6b08-44ab-a348-553959601805.jpg",
+   "tags": [
+    "dwarf",
+    "barbarian",
+    "berzerker",
+    "fighter",
+    "gladiator",
+    "red",
+    "brown",
+    "blunt"
+   ]
+  },
+  {
+   "name": "Pirate (Dwarf)",
+   "kind": "creature",
+   "thumb": "thumbs/258250df-772f-478b-847d-021fd7417e57.jpg",
+   "tags": [
+    "dwarf",
+    "pirate",
+    "buccaneer",
+    "warrior",
+    "sea",
+    "ocean",
+    "ship",
+    "criminal"
+   ]
+  }
+ ]
+}

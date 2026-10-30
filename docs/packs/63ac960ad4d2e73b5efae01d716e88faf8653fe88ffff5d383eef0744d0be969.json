@@ -1,0 +1,708 @@
+{
+ "id": "d4c07722-4efe-5876-81d3-bded5de619de",
+ "folder": "Cavern Tiles.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 707,
+   "sha256": "2e8fe902f1ef502707986e94522d8f509d93d63efb1c9378db39c686318e9cf6"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 37111,
+   "sha256": "e8c1fb1bb3e53d4f520694d6e207242dc51aa6de817519394d217b9f3930d537"
+  },
+  {
+   "path": "media/materials/Library.usdc",
+   "size": 19724,
+   "sha256": "c24d21cc536ed131cf8633109bc9ffdf7e045cd0c2da1da90544a18c4fa9d5ba"
+  },
+  {
+   "path": "media/materials/textures/basalt.png",
+   "size": 25957,
+   "sha256": "e7295df0b2356c29812c23d4ee8cfcbbab04ee3eb5f20f52d281a6846c8f2e96"
+  },
+  {
+   "path": "media/materials/textures/basalt_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/blue.png",
+   "size": 29622,
+   "sha256": "bb2482f15178dd7ed1883b5558bae3c5db1e6f63dfb0a562b16da3cffcd80add"
+  },
+  {
+   "path": "media/materials/textures/blue_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bluefire.png",
+   "size": 40884,
+   "sha256": "95947aba8ef1863b10a5ceb035363c014f49bb066a629334e6b9fb0c0b2a2a57"
+  },
+  {
+   "path": "media/materials/textures/bluefire_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bone.png",
+   "size": 52095,
+   "sha256": "60127b0b9d500672ffa4413c2e0331968daf672f9edbbc58e031bd20a24410ce"
+  },
+  {
+   "path": "media/materials/textures/bone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/brass.png",
+   "size": 45700,
+   "sha256": "7653b7e6c813911303d183fd977ca9007540d1f30b8a647ce49a9b4b25479a7e"
+  },
+  {
+   "path": "media/materials/textures/brass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/fur.png",
+   "size": 32075,
+   "sha256": "e6ebdc6bf38121ac2caa3f246dbf760ceb5f618f67a707849f43ac55ee75e56d"
+  },
+  {
+   "path": "media/materials/textures/fur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ghost.png",
+   "size": 46813,
+   "sha256": "6b86f729a542c078e35015b96d3bdf6bb6fd252e59dc931fbd818c4ac61d0809"
+  },
+  {
+   "path": "media/materials/textures/ghost_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/goblinskin.png",
+   "size": 40654,
+   "sha256": "bc088b6cce6935a3e38a4e34d3f8e553b7269a409f04d5892d4bb7bcbb804e7a"
+  },
+  {
+   "path": "media/materials/textures/goblinskin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/grass.png",
+   "size": 37697,
+   "sha256": "f6440b6a238240b171a02d0a9abfa1db6e3b23470ea136796156c95dc85ecb1a"
+  },
+  {
+   "path": "media/materials/textures/grass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ice.png",
+   "size": 54673,
+   "sha256": "1776de4df5a1aa0fd4c24462a5bf2188a02dd0f291b002f76689f64c7401183f"
+  },
+  {
+   "path": "media/materials/textures/ice_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/iron.png",
+   "size": 33226,
+   "sha256": "b819ee206156042e76233baf2e2abdb7f0a4a0ae5bc64a26cfaaec7a6fae6a3b"
+  },
+  {
+   "path": "media/materials/textures/iron_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/jade.png",
+   "size": 33655,
+   "sha256": "449a6862f41cf33514e10aa482f65a2dd957d8accc0e776a061972b2b5323771"
+  },
+  {
+   "path": "media/materials/textures/jade_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/lava.png",
+   "size": 36124,
+   "sha256": "f4f7e6f7c9f527d2c962cacf29c83a795a16ecc66640854685970879a3f94e4c"
+  },
+  {
+   "path": "media/materials/textures/lava_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/leather.png",
+   "size": 22325,
+   "sha256": "5466b2bd41efecafe9089281e6fca4ca93def727a9c16cafc86dadf55d211774"
+  },
+  {
+   "path": "media/materials/textures/leather_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/limestone.png",
+   "size": 49995,
+   "sha256": "bf8ce44b291f665ea0c34f28befb206e92da7202b60d7b8ebdfc5fe801118ee9"
+  },
+  {
+   "path": "media/materials/textures/limestone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/marble.png",
+   "size": 31933,
+   "sha256": "d8c25c02c17e9076c1bb4fb692d360f9fb31c298ca833d8c244e306ff3604ae7"
+  },
+  {
+   "path": "media/materials/textures/marble_normal.png",
+   "size": 29285,
+   "sha256": "d4e5ab67529195c5a5be286a022e1e9c8058b9b614eadb7612942462d083a0ef"
+  },
+  {
+   "path": "media/materials/textures/mortar.png",
+   "size": 30700,
+   "sha256": "0749995c21d077be43c42b8de716a7992549eb89f73ba68253792accc4dc03e9"
+  },
+  {
+   "path": "media/materials/textures/mortar_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/oak.png",
+   "size": 44710,
+   "sha256": "cdf8ce500e0145dddaba5408a7bb6b6013c72e37ae225e23903efb16b6eaebd5"
+  },
+  {
+   "path": "media/materials/textures/oak_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  },
+  {
+   "path": "media/materials/textures/paper.png",
+   "size": 52363,
+   "sha256": "e8344646e132da563f18a9157fbf98bd778a6070ac4443ad6e3f209bb2b04fa6"
+  },
+  {
+   "path": "media/materials/textures/paper_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/plaster.png",
+   "size": 51787,
+   "sha256": "7a4c5f149f38204773143f16e06851f33496c436db368fe8a964a390873bfc2e"
+  },
+  {
+   "path": "media/materials/textures/plaster_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/red.png",
+   "size": 30685,
+   "sha256": "efbdd3cc8b5c72553f9db3b9c26860b5c364c1f321b3aa6012ecb45130633ed4"
+  },
+  {
+   "path": "media/materials/textures/red_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rope.png",
+   "size": 44507,
+   "sha256": "24b4fed56ade7e162aa38fcd54886e3c2730f38af4befb25c843422a278e5bbb"
+  },
+  {
+   "path": "media/materials/textures/rope_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rose.png",
+   "size": 51725,
+   "sha256": "e0e37ae18b6906a144680a1155de6ffad7e2bb083d9999fff0363e5112aee4d2"
+  },
+  {
+   "path": "media/materials/textures/rose_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/sand.png",
+   "size": 36961,
+   "sha256": "85886e8f7b3434815829178445b87ff6158c13e8164a8ffda3993c2f221a24cc"
+  },
+  {
+   "path": "media/materials/textures/sand_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/sandstone.png",
+   "size": 47840,
+   "sha256": "ef16b0605a795be8f93f5af413856bbace96ad202e7236059578339d185c3007"
+  },
+  {
+   "path": "media/materials/textures/sandstone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/scales.png",
+   "size": 35840,
+   "sha256": "b1bed18fc93d1ce569ba48331159220c33f9c0feacf02155e12816a7bcaf1e2d"
+  },
+  {
+   "path": "media/materials/textures/scales_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/skin.png",
+   "size": 46985,
+   "sha256": "5ca6e03744c454380928115d5223e4630134a27767a7b26dcfba204d1c4fcf47"
+  },
+  {
+   "path": "media/materials/textures/skin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/snow.png",
+   "size": 42837,
+   "sha256": "0d8d0cd049935a17e0b71ebea93ac5e8f823a998dd72ba10e283741ead9d4260"
+  },
+  {
+   "path": "media/materials/textures/snow_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/soil.png",
+   "size": 32264,
+   "sha256": "4c90d4c1a131223b16a1e4b20de7aa877cded6e90e932f4df75e0e9ec652f615"
+  },
+  {
+   "path": "media/materials/textures/soil_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/steel.png",
+   "size": 49671,
+   "sha256": "eea5cdd9f65ec98b43afd1f7e80a070c60c40fcb61812c4f3c3d6d16c9d95e38"
+  },
+  {
+   "path": "media/materials/textures/steel_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/stone.png",
+   "size": 42272,
+   "sha256": "e4f23d37e5e6d3a83d836d06089b88547117cb6b8978b3b448796eaa655d2ec9"
+  },
+  {
+   "path": "media/materials/textures/stone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/tanfur.png",
+   "size": 44965,
+   "sha256": "5c21a980f0db8b2fcc14c81ba8f6b487e73dd27d2a4bfe3e5000650534d675a7"
+  },
+  {
+   "path": "media/materials/textures/tanfur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/water.png",
+   "size": 29402,
+   "sha256": "a7861a6a33fa96041dd14a7c2ea61c48bfc767b4fbb3e2a2add4fcc74a347850"
+  },
+  {
+   "path": "media/materials/textures/water_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/wood.png",
+   "size": 36098,
+   "sha256": "93be5dba40fb0504f65177b720e06059d439aaf10c0c215617ba6fe9e55769f9"
+  },
+  {
+   "path": "media/materials/textures/wood_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Corner 01.usd",
+   "size": 149872,
+   "sha256": "25684a78010afd6b639c49045353f309a79d50e186e39552790cd8a0b4d70520"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Corner 02.usd",
+   "size": 150082,
+   "sha256": "ca7adbdaa96751f8c34204682b8da790af2974f853c21aba7efbe2f012aab98c"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Floor - Rock 01.usd",
+   "size": 88992,
+   "sha256": "6e74bade9a113e5a9963627d85f38f6f3f2800571df7900ecb62b2b76a21255c"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Floor - Rock 03.usd",
+   "size": 27315,
+   "sha256": "be150a7da78a9bdbc4a4c51a96cf1640bdf3c0d9b4f196b8b701ea7f40c3594b"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Floor - Rock 04.usd",
+   "size": 47882,
+   "sha256": "7989bc9b0fbdb7769f5de2e34ce2718d3450791f0bfb92b38bde1869ff5016d8"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Floor - Rock 2.usd",
+   "size": 27190,
+   "sha256": "3bf0485a723418b2987d494f783760cc68b77e829c3e95089e69caa4f0f8ea9d"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Rock 01.usd",
+   "size": 22002,
+   "sha256": "35f7d969ae6516d9a4b9a271b613b7737f28e7963702f730075524e2f8613090"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Wall - Floor 01.usd",
+   "size": 114965,
+   "sha256": "f235a50b72ce03a7ce0825b19715e88bc55f9a48337478d52a7f328832c1c7dd"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Wall 01.usd",
+   "size": 22336,
+   "sha256": "68df96ca0fb8f1a6a4dbf1ea95b866ea23d0b1fa9705ae48cff0c30b2de87597"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Wall 02.usd",
+   "size": 22334,
+   "sha256": "1f3ec28c32ff800ea1358054c7e0df2812dae8c90ee492b135547fc3fb535c94"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Wall 03.usd",
+   "size": 38344,
+   "sha256": "430705ac5290612eace03c1e1563cbe77fae04f42e0fd3bd7dcba4ed5dd44fc9"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Wall Corner 01.usd",
+   "size": 73656,
+   "sha256": "1c80473157aea0a69878a04662fdbf2527c116ff247cea225a96fa96f7cbbe85"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Wall Corner 02.usd",
+   "size": 73567,
+   "sha256": "e263cdfa58067c087fdf5ed07fbda26f084140a5fd9200aa220f699e80a01f67"
+  },
+  {
+   "path": "scenery/cave-corner-01.md",
+   "size": 251,
+   "sha256": "fc0123e9be107b52a37414dd367fb3721ebeab1cba17f253d30fb810b89277f5"
+  },
+  {
+   "path": "scenery/cave-corner-02.md",
+   "size": 251,
+   "sha256": "dcba07aea6860e2be5e6aace82147f3f94e1ffb074a2186e6b84d86167b0caa0"
+  },
+  {
+   "path": "scenery/cave-floor-rock-01.md",
+   "size": 250,
+   "sha256": "8fece243b63c5d4a2806d3aedd45663600ee0d65490577efa9543825dfe76525"
+  },
+  {
+   "path": "scenery/cave-floor-rock-03.md",
+   "size": 249,
+   "sha256": "cca8288996eec78d88b914d3ffae5f998df46046ad9e9d81999804e9352a05a9"
+  },
+  {
+   "path": "scenery/cave-floor-rock-04.md",
+   "size": 249,
+   "sha256": "ce4fe5bcf43f088efe8a579beb8e642dc2498b4f04467f91e9fbd8019c8704ae"
+  },
+  {
+   "path": "scenery/cave-floor-rock-2.md",
+   "size": 247,
+   "sha256": "e22b2422df9aeeb083760afdcc7e501ef8c1fdaaa9edfe40e0889ea84a845692"
+  },
+  {
+   "path": "scenery/cave-rock-01.md",
+   "size": 232,
+   "sha256": "5b3fa6f191aa56a9f7711e8a0cb293c6acdb1c36664c757b64f285449a3024df"
+  },
+  {
+   "path": "scenery/cave-wall-01.md",
+   "size": 233,
+   "sha256": "18449525d9f97b854e69f3e9a85d93d847b78b9a5f90d60ecc19fa7a25f39c07"
+  },
+  {
+   "path": "scenery/cave-wall-02.md",
+   "size": 233,
+   "sha256": "df4a01feecca454786a96f1a29115ef409b46c7445342197d9f34647ec1a3159"
+  },
+  {
+   "path": "scenery/cave-wall-03.md",
+   "size": 232,
+   "sha256": "eebc745f38ae6af2ea3c63647dad434fef203f16911cb90f716b15eb1bd541fa"
+  },
+  {
+   "path": "scenery/cave-wall-corner-01.md",
+   "size": 254,
+   "sha256": "48aa9831e8afce1d1791e092321ee25c12142fc8e0d9d2c03c15afc7f34dc77e"
+  },
+  {
+   "path": "scenery/cave-wall-corner-02.md",
+   "size": 254,
+   "sha256": "783864a0245ad89993c2f4d0583c6fbcbca46106529d8fb6f78473cfc77026cb"
+  },
+  {
+   "path": "scenery/cave-wall-floor-01.md",
+   "size": 253,
+   "sha256": "b403b590e7ba1914c8eaf23dfc0d976ccd00a758d10654dfdc9b5662a44cdf7c"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Cave Corner 01",
+   "kind": "scenery",
+   "thumb": "thumbs/f16eaf8d-7e01-486b-be6d-1fa261569cd4.jpg",
+   "tags": [
+    "floor",
+    "wall",
+    "corner",
+    "cavern",
+    "large",
+    "rock",
+    "stone",
+    "cave",
+    "mine",
+    "gray",
+    "grey"
+   ]
+  },
+  {
+   "name": "Cave Corner 02",
+   "kind": "scenery",
+   "thumb": "thumbs/6707437b-a990-4216-a017-197744cf750c.jpg",
+   "tags": [
+    "floor",
+    "wall",
+    "cavern",
+    "corner",
+    "large",
+    "rock",
+    "stone",
+    "cave",
+    "mine",
+    "gray",
+    "grey"
+   ]
+  },
+  {
+   "name": "Cave Floor - Rock 01",
+   "kind": "scenery",
+   "thumb": "thumbs/b83392b1-8833-43c9-a97f-2ac3df659e66.jpg",
+   "tags": [
+    "floor",
+    "cavern",
+    "medium",
+    "rock",
+    "stone",
+    "cave",
+    "mine",
+    "gray",
+    "grey"
+   ]
+  },
+  {
+   "name": "Cave Floor - Rock 03",
+   "kind": "scenery",
+   "thumb": "thumbs/ea5589dc-507a-4e0d-bf48-b097c8318a38.jpg",
+   "tags": [
+    "cavern",
+    "floor",
+    "small",
+    "rock",
+    "stone",
+    "cave",
+    "mine",
+    "gray",
+    "grey"
+   ]
+  },
+  {
+   "name": "Cave Floor - Rock 04",
+   "kind": "scenery",
+   "thumb": "thumbs/0207e67f-6bba-4eb3-a343-54bf2d4d35d3.jpg",
+   "tags": [
+    "cavern",
+    "floor",
+    "small",
+    "rock",
+    "stone",
+    "cave",
+    "mine",
+    "gray",
+    "grey"
+   ]
+  },
+  {
+   "name": "Cave Floor - Rock 2",
+   "kind": "scenery",
+   "thumb": "thumbs/ce6a2235-664f-43e8-a744-d5743623701d.jpg",
+   "tags": [
+    "cavern",
+    "floor",
+    "small",
+    "rock",
+    "stone",
+    "cave",
+    "mine",
+    "gray",
+    "grey"
+   ]
+  },
+  {
+   "name": "Cave Rock 01",
+   "kind": "scenery",
+   "thumb": "thumbs/67731edb-9e8d-4b7b-8485-17173b6a2fc4.jpg",
+   "tags": [
+    "cavern",
+    "small",
+    "misc",
+    "rock",
+    "stone",
+    "cave",
+    "mine",
+    "gray",
+    "grey"
+   ]
+  },
+  {
+   "name": "Cave Wall 01",
+   "kind": "scenery",
+   "thumb": "thumbs/c06fdfb8-bf24-4234-99c7-3a72a5aacb02.jpg",
+   "tags": [
+    "cavern",
+    "medium",
+    "wall",
+    "rock",
+    "stone",
+    "cave",
+    "mine",
+    "gray",
+    "grey"
+   ]
+  },
+  {
+   "name": "Cave Wall 02",
+   "kind": "scenery",
+   "thumb": "thumbs/8405574e-c75b-4146-b08d-ff9007ac95ac.jpg",
+   "tags": [
+    "cavern",
+    "medium",
+    "wall",
+    "rock",
+    "stone",
+    "cave",
+    "mine",
+    "gray",
+    "grey"
+   ]
+  },
+  {
+   "name": "Cave Wall 03",
+   "kind": "scenery",
+   "thumb": "thumbs/39f5b1a9-6316-4d13-90d6-12a0bac9c38e.jpg",
+   "tags": [
+    "cavern",
+    "large",
+    "wall",
+    "rock",
+    "stone",
+    "cave",
+    "mine",
+    "gray",
+    "grey"
+   ]
+  },
+  {
+   "name": "Cave Wall Corner 01",
+   "kind": "scenery",
+   "thumb": "thumbs/283fe136-1ac3-4025-b9bf-90612c464c52.jpg",
+   "tags": [
+    "wall",
+    "cavern",
+    "corner",
+    "large",
+    "rock",
+    "stone",
+    "cave",
+    "mine",
+    "gray",
+    "grey"
+   ]
+  },
+  {
+   "name": "Cave Wall Corner 02",
+   "kind": "scenery",
+   "thumb": "thumbs/620e2184-6489-4411-86b9-223ac358c64b.jpg",
+   "tags": [
+    "wall",
+    "cavern",
+    "corner",
+    "large",
+    "rock",
+    "stone",
+    "cave",
+    "mine",
+    "gray",
+    "grey"
+   ]
+  },
+  {
+   "name": "Cave Wall/Floor 01",
+   "kind": "scenery",
+   "thumb": "thumbs/e972de17-0cfc-4b42-8906-879193ea96e9.jpg",
+   "tags": [
+    "floor",
+    "cavern",
+    "large",
+    "wall",
+    "rock",
+    "stone",
+    "cave",
+    "mine",
+    "gray",
+    "grey"
+   ]
+  }
+ ]
+}

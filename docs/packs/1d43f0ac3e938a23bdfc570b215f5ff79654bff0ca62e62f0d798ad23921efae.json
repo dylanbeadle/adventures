@@ -1,0 +1,928 @@
+{
+ "id": "63bdd478-f698-5a6f-a6c4-aa836422f10b",
+ "folder": "CastleRuins Tiles.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 1040,
+   "sha256": "4d5787ecfebed08a9495f4017eb69d19958638a484fd2aed6796e88396b6cf64"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 32113,
+   "sha256": "b2dc95128f5eb6b10587ebd2828e0f946eee9a230547edbd95d750a0676a0e7a"
+  },
+  {
+   "path": "media/materials/Library.usdc",
+   "size": 19724,
+   "sha256": "c24d21cc536ed131cf8633109bc9ffdf7e045cd0c2da1da90544a18c4fa9d5ba"
+  },
+  {
+   "path": "media/materials/textures/basalt.png",
+   "size": 25957,
+   "sha256": "e7295df0b2356c29812c23d4ee8cfcbbab04ee3eb5f20f52d281a6846c8f2e96"
+  },
+  {
+   "path": "media/materials/textures/basalt_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/blue.png",
+   "size": 29622,
+   "sha256": "bb2482f15178dd7ed1883b5558bae3c5db1e6f63dfb0a562b16da3cffcd80add"
+  },
+  {
+   "path": "media/materials/textures/blue_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bluefire.png",
+   "size": 40884,
+   "sha256": "95947aba8ef1863b10a5ceb035363c014f49bb066a629334e6b9fb0c0b2a2a57"
+  },
+  {
+   "path": "media/materials/textures/bluefire_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bone.png",
+   "size": 52095,
+   "sha256": "60127b0b9d500672ffa4413c2e0331968daf672f9edbbc58e031bd20a24410ce"
+  },
+  {
+   "path": "media/materials/textures/bone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/brass.png",
+   "size": 45700,
+   "sha256": "7653b7e6c813911303d183fd977ca9007540d1f30b8a647ce49a9b4b25479a7e"
+  },
+  {
+   "path": "media/materials/textures/brass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/fur.png",
+   "size": 32075,
+   "sha256": "e6ebdc6bf38121ac2caa3f246dbf760ceb5f618f67a707849f43ac55ee75e56d"
+  },
+  {
+   "path": "media/materials/textures/fur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ghost.png",
+   "size": 46813,
+   "sha256": "6b86f729a542c078e35015b96d3bdf6bb6fd252e59dc931fbd818c4ac61d0809"
+  },
+  {
+   "path": "media/materials/textures/ghost_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/goblinskin.png",
+   "size": 40654,
+   "sha256": "bc088b6cce6935a3e38a4e34d3f8e553b7269a409f04d5892d4bb7bcbb804e7a"
+  },
+  {
+   "path": "media/materials/textures/goblinskin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/grass.png",
+   "size": 37697,
+   "sha256": "f6440b6a238240b171a02d0a9abfa1db6e3b23470ea136796156c95dc85ecb1a"
+  },
+  {
+   "path": "media/materials/textures/grass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ice.png",
+   "size": 54673,
+   "sha256": "1776de4df5a1aa0fd4c24462a5bf2188a02dd0f291b002f76689f64c7401183f"
+  },
+  {
+   "path": "media/materials/textures/ice_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/iron.png",
+   "size": 33226,
+   "sha256": "b819ee206156042e76233baf2e2abdb7f0a4a0ae5bc64a26cfaaec7a6fae6a3b"
+  },
+  {
+   "path": "media/materials/textures/iron_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/jade.png",
+   "size": 33655,
+   "sha256": "449a6862f41cf33514e10aa482f65a2dd957d8accc0e776a061972b2b5323771"
+  },
+  {
+   "path": "media/materials/textures/jade_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/lava.png",
+   "size": 36124,
+   "sha256": "f4f7e6f7c9f527d2c962cacf29c83a795a16ecc66640854685970879a3f94e4c"
+  },
+  {
+   "path": "media/materials/textures/lava_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/leather.png",
+   "size": 22325,
+   "sha256": "5466b2bd41efecafe9089281e6fca4ca93def727a9c16cafc86dadf55d211774"
+  },
+  {
+   "path": "media/materials/textures/leather_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/limestone.png",
+   "size": 49995,
+   "sha256": "bf8ce44b291f665ea0c34f28befb206e92da7202b60d7b8ebdfc5fe801118ee9"
+  },
+  {
+   "path": "media/materials/textures/limestone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/marble.png",
+   "size": 31933,
+   "sha256": "d8c25c02c17e9076c1bb4fb692d360f9fb31c298ca833d8c244e306ff3604ae7"
+  },
+  {
+   "path": "media/materials/textures/marble_normal.png",
+   "size": 29285,
+   "sha256": "d4e5ab67529195c5a5be286a022e1e9c8058b9b614eadb7612942462d083a0ef"
+  },
+  {
+   "path": "media/materials/textures/mortar.png",
+   "size": 30700,
+   "sha256": "0749995c21d077be43c42b8de716a7992549eb89f73ba68253792accc4dc03e9"
+  },
+  {
+   "path": "media/materials/textures/mortar_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/oak.png",
+   "size": 44710,
+   "sha256": "cdf8ce500e0145dddaba5408a7bb6b6013c72e37ae225e23903efb16b6eaebd5"
+  },
+  {
+   "path": "media/materials/textures/oak_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  },
+  {
+   "path": "media/materials/textures/paper.png",
+   "size": 52363,
+   "sha256": "e8344646e132da563f18a9157fbf98bd778a6070ac4443ad6e3f209bb2b04fa6"
+  },
+  {
+   "path": "media/materials/textures/paper_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/plaster.png",
+   "size": 51787,
+   "sha256": "7a4c5f149f38204773143f16e06851f33496c436db368fe8a964a390873bfc2e"
+  },
+  {
+   "path": "media/materials/textures/plaster_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/red.png",
+   "size": 30685,
+   "sha256": "efbdd3cc8b5c72553f9db3b9c26860b5c364c1f321b3aa6012ecb45130633ed4"
+  },
+  {
+   "path": "media/materials/textures/red_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rope.png",
+   "size": 44507,
+   "sha256": "24b4fed56ade7e162aa38fcd54886e3c2730f38af4befb25c843422a278e5bbb"
+  },
+  {
+   "path": "media/materials/textures/rope_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rose.png",
+   "size": 51725,
+   "sha256": "e0e37ae18b6906a144680a1155de6ffad7e2bb083d9999fff0363e5112aee4d2"
+  },
+  {
+   "path": "media/materials/textures/rose_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/sand.png",
+   "size": 36961,
+   "sha256": "85886e8f7b3434815829178445b87ff6158c13e8164a8ffda3993c2f221a24cc"
+  },
+  {
+   "path": "media/materials/textures/sand_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/sandstone.png",
+   "size": 47840,
+   "sha256": "ef16b0605a795be8f93f5af413856bbace96ad202e7236059578339d185c3007"
+  },
+  {
+   "path": "media/materials/textures/sandstone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/scales.png",
+   "size": 35840,
+   "sha256": "b1bed18fc93d1ce569ba48331159220c33f9c0feacf02155e12816a7bcaf1e2d"
+  },
+  {
+   "path": "media/materials/textures/scales_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/skin.png",
+   "size": 46985,
+   "sha256": "5ca6e03744c454380928115d5223e4630134a27767a7b26dcfba204d1c4fcf47"
+  },
+  {
+   "path": "media/materials/textures/skin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/snow.png",
+   "size": 42837,
+   "sha256": "0d8d0cd049935a17e0b71ebea93ac5e8f823a998dd72ba10e283741ead9d4260"
+  },
+  {
+   "path": "media/materials/textures/snow_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/soil.png",
+   "size": 32264,
+   "sha256": "4c90d4c1a131223b16a1e4b20de7aa877cded6e90e932f4df75e0e9ec652f615"
+  },
+  {
+   "path": "media/materials/textures/soil_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/steel.png",
+   "size": 49671,
+   "sha256": "eea5cdd9f65ec98b43afd1f7e80a070c60c40fcb61812c4f3c3d6d16c9d95e38"
+  },
+  {
+   "path": "media/materials/textures/steel_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/stone.png",
+   "size": 42272,
+   "sha256": "e4f23d37e5e6d3a83d836d06089b88547117cb6b8978b3b448796eaa655d2ec9"
+  },
+  {
+   "path": "media/materials/textures/stone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/tanfur.png",
+   "size": 44965,
+   "sha256": "5c21a980f0db8b2fcc14c81ba8f6b487e73dd27d2a4bfe3e5000650534d675a7"
+  },
+  {
+   "path": "media/materials/textures/tanfur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/water.png",
+   "size": 29402,
+   "sha256": "a7861a6a33fa96041dd14a7c2ea61c48bfc767b4fbb3e2a2add4fcc74a347850"
+  },
+  {
+   "path": "media/materials/textures/water_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/wood.png",
+   "size": 36098,
+   "sha256": "93be5dba40fb0504f65177b720e06059d439aaf10c0c215617ba6fe9e55769f9"
+  },
+  {
+   "path": "media/materials/textures/wood_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  },
+  {
+   "path": "media/tiles/CastleRuins/Castle Ruins Crenellation - Large.usd",
+   "size": 31202,
+   "sha256": "abafad7758c8560fe9df1cb4dc2f99439c864b67b1ae986ce45932cc6c7eb49a"
+  },
+  {
+   "path": "media/tiles/CastleRuins/Castle Ruins Crenellation - Small.usd",
+   "size": 31400,
+   "sha256": "9506365d1f2ce189b8e1a21fd549b3e7633fa4227f66d04bb8648ee1b4dfbf76"
+  },
+  {
+   "path": "media/tiles/CastleRuins/Castle Ruins Floor - Small.usd",
+   "size": 42686,
+   "sha256": "2f0c542397bf6b50e2e8f708a7ab60c908bf2f5207d177463cbe52332cc3521d"
+  },
+  {
+   "path": "media/tiles/CastleRuins/Castle Ruins Floor 01.usd",
+   "size": 72100,
+   "sha256": "07d6576688ed146a628c14e329b91d5dc77ee374eb1e4944c42c3003106a255b"
+  },
+  {
+   "path": "media/tiles/CastleRuins/Castle Ruins Pillar - Base.usd",
+   "size": 23002,
+   "sha256": "7b11a8094b39b9a2745c0f4deac782bcfac7953282e08403733e1cef461f127b"
+  },
+  {
+   "path": "media/tiles/CastleRuins/Castle Ruins Pillar - Mid.usd",
+   "size": 22792,
+   "sha256": "c884dbcf8170b087dc203cb3a87ee0707e536b6f42aa638fa7104f7ef219b5e0"
+  },
+  {
+   "path": "media/tiles/CastleRuins/Castle Ruins Pillar - Top.usd",
+   "size": 23001,
+   "sha256": "fa1587a84f9d8fc9ac2e1bc82d0d4264b68fbf20fb5c0132d46bcf2fde2ac962"
+  },
+  {
+   "path": "media/tiles/CastleRuins/Castle Ruins Rockpile.usd",
+   "size": 22175,
+   "sha256": "2931ffa0a8d7db47aec149001f428e11da8021f1661c0bf4948d39ee414a4338"
+  },
+  {
+   "path": "media/tiles/CastleRuins/Castle Ruins Stair.usd",
+   "size": 14440,
+   "sha256": "ec1a5d9f9215dccc3d63cd987ba52bed567ec9035e5887d083f50504fcd00571"
+  },
+  {
+   "path": "media/tiles/CastleRuins/Castle Ruins Stairbox.usd",
+   "size": 14444,
+   "sha256": "c526e754ead88d5ce9c09f399b921c8a05ae0135787bb2b37adea749a8ec16a9"
+  },
+  {
+   "path": "media/tiles/CastleRuins/Castle Ruins Stone Floor 2.usd",
+   "size": 44452,
+   "sha256": "ae1a1af29d088afe365f569e6843a66f050db273c0e123a9f9e432cb02c04c95"
+  },
+  {
+   "path": "media/tiles/CastleRuins/Castle Ruins Wall - Floor Corner - Small.usd",
+   "size": 108861,
+   "sha256": "8db7d190d5a961b557ebdc27fde8820a317828e5d5a32849197a96b197ff6701"
+  },
+  {
+   "path": "media/tiles/CastleRuins/Castle Ruins Wall 01.usd",
+   "size": 36933,
+   "sha256": "ba75efda56e449843ce9f68d78f8ac8c7ae49f31c0223403814505efbc888d18"
+  },
+  {
+   "path": "media/tiles/CastleRuins/Castle Ruins Wall 02.usd",
+   "size": 36939,
+   "sha256": "6d52a30d11d5b4daa3a482ac741d21ecb219ffbeaa876456f571ded706eb3ac7"
+  },
+  {
+   "path": "media/tiles/CastleRuins/Castle Ruins Wall Corner.usd",
+   "size": 66027,
+   "sha256": "02bcf375a8d67a4ea655bcaf915c9cba1ed4e9f1983523eca8e9658076cba9f3"
+  },
+  {
+   "path": "media/tiles/CastleRuins/Castle Ruins Wallbase - Large.usd",
+   "size": 25611,
+   "sha256": "e5efb537bb8934e1ea07818a9a1882135f4de129a309927abb54acfe3826f5f5"
+  },
+  {
+   "path": "media/tiles/CastleRuins/Castle Ruins Wallbase 01.usd",
+   "size": 25781,
+   "sha256": "e994eeead18ec53c1118c1c15e2e558c3825dd27ff46cf4879b9ea58eae3565d"
+  },
+  {
+   "path": "media/tiles/CastleRuins/Castle Ruins Wallbase 02.usd",
+   "size": 25598,
+   "sha256": "83a151936873d4bc33a89752fae054d4cab8e547be1dda5da170c9db2f38e6e6"
+  },
+  {
+   "path": "media/tiles/CastleRuins/Castle Ruins floor stone 1x1.usd",
+   "size": 45519,
+   "sha256": "105a6e210a8469bce5494b64ede9c536c0dd1a08c02db7c4c5e8ff2e972c3ed2"
+  },
+  {
+   "path": "media/tiles/CastleRuins/Castle Ruins floor stone 2x2.usd",
+   "size": 79306,
+   "sha256": "4f912fb1cfea041cd4e35ef25813328efdf995639fbade7624bf36c71eb66772"
+  },
+  {
+   "path": "scenery/castle-ruins-crenellation-large.md",
+   "size": 318,
+   "sha256": "6b518ba9aa61d2d46559decefb6d6a70bbb8c954d5f49e643e55cf2fc63e4009"
+  },
+  {
+   "path": "scenery/castle-ruins-crenellation-small.md",
+   "size": 318,
+   "sha256": "78b542fb45ea4bb16158e6f0aaba7cd2434dbc66073c80ce2933e8b1ada0448c"
+  },
+  {
+   "path": "scenery/castle-ruins-floor-01.md",
+   "size": 282,
+   "sha256": "1c3a18f9f505605821d28183642f0126f961c8e1aecc204454262216d869b5aa"
+  },
+  {
+   "path": "scenery/castle-ruins-floor-small.md",
+   "size": 291,
+   "sha256": "738a0815910c09a507c7293bfd9a8c001df24f2d6ebd311513e2d8226c1d58a3"
+  },
+  {
+   "path": "scenery/castle-ruins-floor-stone-1x1.md",
+   "size": 277,
+   "sha256": "15df0565fff9951bd0ef35b36c127a3206263e5f29ebf99d23bb6d58c83f64fb"
+  },
+  {
+   "path": "scenery/castle-ruins-floor-stone-2x2.md",
+   "size": 296,
+   "sha256": "0cdfda6094e197490019ae75f731e937cab6d70072954e5b9a1c1c87363f2f53"
+  },
+  {
+   "path": "scenery/castle-ruins-pillar-base.md",
+   "size": 292,
+   "sha256": "c001b10f6f09edeab42036344ff9d5aeb3ba9e66f47c2ccf93c58b30fbc710e9"
+  },
+  {
+   "path": "scenery/castle-ruins-pillar-mid.md",
+   "size": 290,
+   "sha256": "b648c5c7b6e6be57096d1162ff68cc45a9f8006b9428562b4ea8dbcecf35729b"
+  },
+  {
+   "path": "scenery/castle-ruins-pillar-top.md",
+   "size": 290,
+   "sha256": "264c20165a9060f4f9111c5a3e6f179979ac9ff83cfcd351c7f1545d4d340485"
+  },
+  {
+   "path": "scenery/castle-ruins-rockpile.md",
+   "size": 295,
+   "sha256": "9538f30c19614bf9dd8f6e033f58e427e7fa5cbb95a47c7bab5aa7c95179ce08"
+  },
+  {
+   "path": "scenery/castle-ruins-stair.md",
+   "size": 283,
+   "sha256": "b31b277c33af76c36b643e04f74232adc3f7e0a1754db78ba9ac46c053c8d1bf"
+  },
+  {
+   "path": "scenery/castle-ruins-stairbox.md",
+   "size": 289,
+   "sha256": "fdba95ffaa0a64ceffb0592cd1e54db705f71555c9df0669f0b82cf44169b90f"
+  },
+  {
+   "path": "scenery/castle-ruins-stone-floor-2.md",
+   "size": 284,
+   "sha256": "3d5dcab9bea2c8c2ce2d72c02974a81c0610c07effad529476f113a8baad4b07"
+  },
+  {
+   "path": "scenery/castle-ruins-wall-01.md",
+   "size": 279,
+   "sha256": "cbcae42a1e2b72aa81c96eb96eb00a75f07cf7da41baf284e69de2aac5500e28"
+  },
+  {
+   "path": "scenery/castle-ruins-wall-02.md",
+   "size": 279,
+   "sha256": "bf54a2f5f31c5ea6cac2800499fe8639b363f63870854127dd4a0b2c021fa205"
+  },
+  {
+   "path": "scenery/castle-ruins-wall-corner.md",
+   "size": 295,
+   "sha256": "8261dd8c8e8148b393a2381e584abf7462dfe99aec7a2f25c0e0147c656ffe21"
+  },
+  {
+   "path": "scenery/castle-ruins-wall-floor-corner-small.md",
+   "size": 332,
+   "sha256": "bba63e95d4950937026f8012147e99ed2c1c88fb79e1be6a731b82cc23cddd94"
+  },
+  {
+   "path": "scenery/castle-ruins-wallbase-01.md",
+   "size": 286,
+   "sha256": "95e1d898b61ce193533cca2e5d14193d9443af5dd243986401a95356fbfff342"
+  },
+  {
+   "path": "scenery/castle-ruins-wallbase-02.md",
+   "size": 287,
+   "sha256": "fd1ffabf184d5a268942ae6c8098c1ad8a73766e5e1402fdd5fbf993e4c78bf2"
+  },
+  {
+   "path": "scenery/castle-ruins-wallbase-large.md",
+   "size": 297,
+   "sha256": "b7b7792d78ee10736d6341a5f70d3d4293f71dd20949eed3c8d0e37ae377704d"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Castle Ruins Crenellation - Large",
+   "kind": "scenery",
+   "thumb": "thumbs/0c919dc2-7dff-477b-8957-cdc6abc283ab.jpg",
+   "tags": [
+    "castleruins",
+    "crenellation",
+    "castle",
+    "small",
+    "misc",
+    "rock",
+    "stone",
+    "grey",
+    "gray",
+    "ruins",
+    "ruin",
+    "keep"
+   ]
+  },
+  {
+   "name": "Castle Ruins Crenellation - Small",
+   "kind": "scenery",
+   "thumb": "thumbs/d5949877-7a48-4420-b211-7fcf95ac4d89.jpg",
+   "tags": [
+    "castleruins",
+    "crenellation",
+    "castle",
+    "small",
+    "misc",
+    "rock",
+    "stone",
+    "grey",
+    "gray",
+    "ruins",
+    "ruin",
+    "keep"
+   ]
+  },
+  {
+   "name": "Castle Ruins Floor 01",
+   "kind": "scenery",
+   "thumb": "thumbs/8c1eaebe-c5a5-44d6-86bd-154ce9dd811d.jpg",
+   "tags": [
+    "castleruins",
+    "castle",
+    "medium",
+    "floor",
+    "rock",
+    "stone",
+    "grey",
+    "gray",
+    "ruins",
+    "ruin",
+    "keep"
+   ]
+  },
+  {
+   "name": "Castle Ruins Floor - Small",
+   "kind": "scenery",
+   "thumb": "thumbs/ecbac309-1ed3-4aa9-884d-cebb1ec19030.jpg",
+   "tags": [
+    "castleruins",
+    "castle",
+    "small",
+    "floor",
+    "rock",
+    "stone",
+    "grey",
+    "gray",
+    "ruins",
+    "ruin",
+    "keep"
+   ]
+  },
+  {
+   "name": "Castle Ruins floor stone 1x1",
+   "kind": "scenery",
+   "thumb": "thumbs/5e38122e-f09c-47aa-8cb0-d9e122a894e9.jpg",
+   "tags": [
+    "castleruins",
+    "castle",
+    "stone",
+    "small",
+    "floor",
+    "ruins",
+    "ruin",
+    "keep"
+   ]
+  },
+  {
+   "name": "Castle Ruins floor stone 2x2",
+   "kind": "scenery",
+   "thumb": "thumbs/074f33e5-bf55-47cc-802a-11542f510e5e.jpg",
+   "tags": [
+    "castleruins",
+    "castle",
+    "medium",
+    "floor",
+    "rock",
+    "stone",
+    "grey",
+    "gray",
+    "ruins",
+    "ruin",
+    "keep"
+   ]
+  },
+  {
+   "name": "Castle Ruins Pillar - Base",
+   "kind": "scenery",
+   "thumb": "thumbs/c538277b-6116-4ff8-a493-2525d80055bb.jpg",
+   "tags": [
+    "castleruins",
+    "pillar",
+    "castle",
+    "small",
+    "rock",
+    "stone",
+    "grey",
+    "gray",
+    "ruins",
+    "ruin",
+    "keep"
+   ]
+  },
+  {
+   "name": "Castle Ruins Pillar - Mid",
+   "kind": "scenery",
+   "thumb": "thumbs/40a7e9b8-d7f2-4e2b-92af-b0fff3021368.jpg",
+   "tags": [
+    "castleruins",
+    "pillar",
+    "castle",
+    "small",
+    "rock",
+    "stone",
+    "grey",
+    "gray",
+    "ruins",
+    "ruin",
+    "keep"
+   ]
+  },
+  {
+   "name": "Castle Ruins Pillar - Top",
+   "kind": "scenery",
+   "thumb": "thumbs/ed127e54-5d15-409f-b2d6-96e3d8dd67fc.jpg",
+   "tags": [
+    "castleruins",
+    "pillar",
+    "castle",
+    "small",
+    "rock",
+    "stone",
+    "grey",
+    "gray",
+    "ruins",
+    "ruin",
+    "keep"
+   ]
+  },
+  {
+   "name": "Castle Ruins Rockpile",
+   "kind": "scenery",
+   "thumb": "thumbs/26457fc1-ce6a-4a40-b4e4-2e2b86184b86.jpg",
+   "tags": [
+    "castleruins",
+    "rockpile",
+    "castle",
+    "tiny",
+    "misc",
+    "rock",
+    "stone",
+    "grey",
+    "gray",
+    "pile",
+    "ruins",
+    "ruin",
+    "keep"
+   ]
+  },
+  {
+   "name": "Castle Ruins Stair",
+   "kind": "scenery",
+   "thumb": "thumbs/ed33edd1-f8b9-44b0-9d0c-bb1f601cbac4.jpg",
+   "tags": [
+    "castleruins",
+    "stair",
+    "castle",
+    "small",
+    "stairs",
+    "rock",
+    "stone",
+    "grey",
+    "gray",
+    "ruins",
+    "ruin",
+    "keep"
+   ]
+  },
+  {
+   "name": "Castle Ruins Stairbox",
+   "kind": "scenery",
+   "thumb": "thumbs/eb32a5e7-d3ed-414b-91a4-1095edac7a20.jpg",
+   "tags": [
+    "castleruins",
+    "stair",
+    "castle",
+    "small",
+    "stairs",
+    "rock",
+    "stone",
+    "grey",
+    "gray",
+    "ruins",
+    "ruin",
+    "keep"
+   ]
+  },
+  {
+   "name": "Castle Ruins Stone Floor 2",
+   "kind": "scenery",
+   "thumb": "thumbs/181ecfa9-bfc4-43bd-aae2-bca84d7233e1.jpg",
+   "tags": [
+    "castleruins",
+    "castle",
+    "floor",
+    "rock",
+    "stone",
+    "grey",
+    "gray",
+    "ruins",
+    "ruin",
+    "keep"
+   ]
+  },
+  {
+   "name": "Castle Ruins Wall 01",
+   "kind": "scenery",
+   "thumb": "thumbs/a30334dd-40ab-4bb7-8030-43fa3b5b33cf.jpg",
+   "tags": [
+    "castleruins",
+    "wall",
+    "castle",
+    "medium",
+    "rock",
+    "stone",
+    "grey",
+    "gray",
+    "ruins",
+    "ruin",
+    "keep"
+   ]
+  },
+  {
+   "name": "Castle Ruins Wall 02",
+   "kind": "scenery",
+   "thumb": "thumbs/b0a5ef8b-a9e6-48fa-8f56-f43d1cff2442.jpg",
+   "tags": [
+    "castleruins",
+    "wall",
+    "castle",
+    "medium",
+    "rock",
+    "stone",
+    "grey",
+    "gray",
+    "ruins",
+    "ruin",
+    "keep"
+   ]
+  },
+  {
+   "name": "Castle Ruins Wall Corner",
+   "kind": "scenery",
+   "thumb": "thumbs/6f03159b-1c19-4aa1-8762-67418dc0f4b0.jpg",
+   "tags": [
+    "castleruins",
+    "wall",
+    "castle",
+    "corner",
+    "medium",
+    "rock",
+    "stone",
+    "grey",
+    "gray",
+    "ruins",
+    "ruin",
+    "keep"
+   ]
+  },
+  {
+   "name": "Castle Ruins Wall/Floor Corner - Small",
+   "kind": "scenery",
+   "thumb": "thumbs/3fb39e0a-bb63-41e7-ab1e-7be7a06b5d8c.jpg",
+   "tags": [
+    "castleruins",
+    "floor",
+    "wall",
+    "castle",
+    "corner",
+    "medium",
+    "rock",
+    "stone",
+    "grey",
+    "gray",
+    "ruins",
+    "ruin",
+    "keep"
+   ]
+  },
+  {
+   "name": "Castle Ruins Wallbase 01",
+   "kind": "scenery",
+   "thumb": "thumbs/310a6c14-cab8-429d-bfb2-6a9aeed27f35.jpg",
+   "tags": [
+    "castleruins",
+    "wall",
+    "castle",
+    "small",
+    "rock",
+    "stone",
+    "grey",
+    "gray",
+    "ruins",
+    "ruin",
+    "keep"
+   ]
+  },
+  {
+   "name": "Castle Ruins Wallbase 02",
+   "kind": "scenery",
+   "thumb": "thumbs/b303b449-3d35-4b4c-8739-44f9a1e7d110.jpg",
+   "tags": [
+    "castleruins",
+    "wall",
+    "castle",
+    "medium",
+    "rock",
+    "stone",
+    "grey",
+    "gray",
+    "ruins",
+    "ruin",
+    "keep"
+   ]
+  },
+  {
+   "name": "Castle Ruins Wallbase - Large",
+   "kind": "scenery",
+   "thumb": "thumbs/89c04719-ce1a-43fc-86e5-2371be806733.jpg",
+   "tags": [
+    "castleruins",
+    "wall",
+    "castle",
+    "medium",
+    "rock",
+    "stone",
+    "grey",
+    "gray",
+    "ruins",
+    "ruin",
+    "keep"
+   ]
+  }
+ ]
+}

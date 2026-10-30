@@ -1,0 +1,883 @@
+{
+ "id": "5a6a8311-bfbb-5c65-8230-9ad10e0c1a3a",
+ "folder": "Tavern Tiles.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 964,
+   "sha256": "fad6ee94208a596b22f95a7f4a506662a5aa8794fcd63479f2f498f8364e8611"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 45694,
+   "sha256": "86d7b0a7c0779a0c7d76f538450a821f196ed4be13e3f3d0a2efc3ee4dbb8de9"
+  },
+  {
+   "path": "media/materials/Library.usdc",
+   "size": 19724,
+   "sha256": "c24d21cc536ed131cf8633109bc9ffdf7e045cd0c2da1da90544a18c4fa9d5ba"
+  },
+  {
+   "path": "media/materials/textures/basalt.png",
+   "size": 25957,
+   "sha256": "e7295df0b2356c29812c23d4ee8cfcbbab04ee3eb5f20f52d281a6846c8f2e96"
+  },
+  {
+   "path": "media/materials/textures/basalt_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/blue.png",
+   "size": 29622,
+   "sha256": "bb2482f15178dd7ed1883b5558bae3c5db1e6f63dfb0a562b16da3cffcd80add"
+  },
+  {
+   "path": "media/materials/textures/blue_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bluefire.png",
+   "size": 40884,
+   "sha256": "95947aba8ef1863b10a5ceb035363c014f49bb066a629334e6b9fb0c0b2a2a57"
+  },
+  {
+   "path": "media/materials/textures/bluefire_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bone.png",
+   "size": 52095,
+   "sha256": "60127b0b9d500672ffa4413c2e0331968daf672f9edbbc58e031bd20a24410ce"
+  },
+  {
+   "path": "media/materials/textures/bone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/brass.png",
+   "size": 45700,
+   "sha256": "7653b7e6c813911303d183fd977ca9007540d1f30b8a647ce49a9b4b25479a7e"
+  },
+  {
+   "path": "media/materials/textures/brass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/fur.png",
+   "size": 32075,
+   "sha256": "e6ebdc6bf38121ac2caa3f246dbf760ceb5f618f67a707849f43ac55ee75e56d"
+  },
+  {
+   "path": "media/materials/textures/fur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ghost.png",
+   "size": 46813,
+   "sha256": "6b86f729a542c078e35015b96d3bdf6bb6fd252e59dc931fbd818c4ac61d0809"
+  },
+  {
+   "path": "media/materials/textures/ghost_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/goblinskin.png",
+   "size": 40654,
+   "sha256": "bc088b6cce6935a3e38a4e34d3f8e553b7269a409f04d5892d4bb7bcbb804e7a"
+  },
+  {
+   "path": "media/materials/textures/goblinskin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/grass.png",
+   "size": 37697,
+   "sha256": "f6440b6a238240b171a02d0a9abfa1db6e3b23470ea136796156c95dc85ecb1a"
+  },
+  {
+   "path": "media/materials/textures/grass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ice.png",
+   "size": 54673,
+   "sha256": "1776de4df5a1aa0fd4c24462a5bf2188a02dd0f291b002f76689f64c7401183f"
+  },
+  {
+   "path": "media/materials/textures/ice_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/iron.png",
+   "size": 33226,
+   "sha256": "b819ee206156042e76233baf2e2abdb7f0a4a0ae5bc64a26cfaaec7a6fae6a3b"
+  },
+  {
+   "path": "media/materials/textures/iron_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/jade.png",
+   "size": 33655,
+   "sha256": "449a6862f41cf33514e10aa482f65a2dd957d8accc0e776a061972b2b5323771"
+  },
+  {
+   "path": "media/materials/textures/jade_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/lava.png",
+   "size": 36124,
+   "sha256": "f4f7e6f7c9f527d2c962cacf29c83a795a16ecc66640854685970879a3f94e4c"
+  },
+  {
+   "path": "media/materials/textures/lava_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/leather.png",
+   "size": 22325,
+   "sha256": "5466b2bd41efecafe9089281e6fca4ca93def727a9c16cafc86dadf55d211774"
+  },
+  {
+   "path": "media/materials/textures/leather_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/limestone.png",
+   "size": 49995,
+   "sha256": "bf8ce44b291f665ea0c34f28befb206e92da7202b60d7b8ebdfc5fe801118ee9"
+  },
+  {
+   "path": "media/materials/textures/limestone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/marble.png",
+   "size": 31933,
+   "sha256": "d8c25c02c17e9076c1bb4fb692d360f9fb31c298ca833d8c244e306ff3604ae7"
+  },
+  {
+   "path": "media/materials/textures/marble_normal.png",
+   "size": 29285,
+   "sha256": "d4e5ab67529195c5a5be286a022e1e9c8058b9b614eadb7612942462d083a0ef"
+  },
+  {
+   "path": "media/materials/textures/mortar.png",
+   "size": 30700,
+   "sha256": "0749995c21d077be43c42b8de716a7992549eb89f73ba68253792accc4dc03e9"
+  },
+  {
+   "path": "media/materials/textures/mortar_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/oak.png",
+   "size": 44710,
+   "sha256": "cdf8ce500e0145dddaba5408a7bb6b6013c72e37ae225e23903efb16b6eaebd5"
+  },
+  {
+   "path": "media/materials/textures/oak_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  },
+  {
+   "path": "media/materials/textures/paper.png",
+   "size": 52363,
+   "sha256": "e8344646e132da563f18a9157fbf98bd778a6070ac4443ad6e3f209bb2b04fa6"
+  },
+  {
+   "path": "media/materials/textures/paper_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/plaster.png",
+   "size": 51787,
+   "sha256": "7a4c5f149f38204773143f16e06851f33496c436db368fe8a964a390873bfc2e"
+  },
+  {
+   "path": "media/materials/textures/plaster_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/red.png",
+   "size": 30685,
+   "sha256": "efbdd3cc8b5c72553f9db3b9c26860b5c364c1f321b3aa6012ecb45130633ed4"
+  },
+  {
+   "path": "media/materials/textures/red_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rope.png",
+   "size": 44507,
+   "sha256": "24b4fed56ade7e162aa38fcd54886e3c2730f38af4befb25c843422a278e5bbb"
+  },
+  {
+   "path": "media/materials/textures/rope_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rose.png",
+   "size": 51725,
+   "sha256": "e0e37ae18b6906a144680a1155de6ffad7e2bb083d9999fff0363e5112aee4d2"
+  },
+  {
+   "path": "media/materials/textures/rose_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/sand.png",
+   "size": 36961,
+   "sha256": "85886e8f7b3434815829178445b87ff6158c13e8164a8ffda3993c2f221a24cc"
+  },
+  {
+   "path": "media/materials/textures/sand_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/sandstone.png",
+   "size": 47840,
+   "sha256": "ef16b0605a795be8f93f5af413856bbace96ad202e7236059578339d185c3007"
+  },
+  {
+   "path": "media/materials/textures/sandstone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/scales.png",
+   "size": 35840,
+   "sha256": "b1bed18fc93d1ce569ba48331159220c33f9c0feacf02155e12816a7bcaf1e2d"
+  },
+  {
+   "path": "media/materials/textures/scales_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/skin.png",
+   "size": 46985,
+   "sha256": "5ca6e03744c454380928115d5223e4630134a27767a7b26dcfba204d1c4fcf47"
+  },
+  {
+   "path": "media/materials/textures/skin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/snow.png",
+   "size": 42837,
+   "sha256": "0d8d0cd049935a17e0b71ebea93ac5e8f823a998dd72ba10e283741ead9d4260"
+  },
+  {
+   "path": "media/materials/textures/snow_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/soil.png",
+   "size": 32264,
+   "sha256": "4c90d4c1a131223b16a1e4b20de7aa877cded6e90e932f4df75e0e9ec652f615"
+  },
+  {
+   "path": "media/materials/textures/soil_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/steel.png",
+   "size": 49671,
+   "sha256": "eea5cdd9f65ec98b43afd1f7e80a070c60c40fcb61812c4f3c3d6d16c9d95e38"
+  },
+  {
+   "path": "media/materials/textures/steel_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/stone.png",
+   "size": 42272,
+   "sha256": "e4f23d37e5e6d3a83d836d06089b88547117cb6b8978b3b448796eaa655d2ec9"
+  },
+  {
+   "path": "media/materials/textures/stone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/tanfur.png",
+   "size": 44965,
+   "sha256": "5c21a980f0db8b2fcc14c81ba8f6b487e73dd27d2a4bfe3e5000650534d675a7"
+  },
+  {
+   "path": "media/materials/textures/tanfur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/water.png",
+   "size": 29402,
+   "sha256": "a7861a6a33fa96041dd14a7c2ea61c48bfc767b4fbb3e2a2add4fcc74a347850"
+  },
+  {
+   "path": "media/materials/textures/water_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/wood.png",
+   "size": 36098,
+   "sha256": "93be5dba40fb0504f65177b720e06059d439aaf10c0c215617ba6fe9e55769f9"
+  },
+  {
+   "path": "media/materials/textures/wood_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  },
+  {
+   "path": "media/tiles/Tavern/Bar Counter - Corner.usd",
+   "size": 31586,
+   "sha256": "18c6aa5083b97f7f9a8498ed57609f03b7c55af87199f6f9628363cc1d940d2b"
+  },
+  {
+   "path": "media/tiles/Tavern/Bar Counter.usd",
+   "size": 31711,
+   "sha256": "5df89b5779cdf3d839455d7133bd3172b9ff746322f719f88a0851b5b700eb96"
+  },
+  {
+   "path": "media/tiles/Tavern/Taven Fireplace Wall - Floor.usd",
+   "size": 102831,
+   "sha256": "8e65de651c51f518594276c7369e5f72d697c2622aa51af8ef83a99121707d43"
+  },
+  {
+   "path": "media/tiles/Tavern/Tavern Floor 01.usd",
+   "size": 37408,
+   "sha256": "ed7f32d2bca7bda4bac6477a167745374f395d60400873b769979b9d346209dd"
+  },
+  {
+   "path": "media/tiles/Tavern/Tavern Floor 02.usd",
+   "size": 37317,
+   "sha256": "c6144a8b2822a61bda75fb1bd9f09e47aed6318a25b5b7f51bc7ea6e518d2830"
+  },
+  {
+   "path": "media/tiles/Tavern/Tavern Floor 03.usd",
+   "size": 62942,
+   "sha256": "d4eb112bf3123556b7e23b7995f4f808bcfccfed3d5bfbe7a6269fe348d3bb55"
+  },
+  {
+   "path": "media/tiles/Tavern/Tavern Inner Corner 2.usd",
+   "size": 52721,
+   "sha256": "b8b00a2a3e8070e222f7a5628adbc7e5dbe2718f48357ee18474635b12eaf957"
+  },
+  {
+   "path": "media/tiles/Tavern/Tavern Inner Corner.usd",
+   "size": 52839,
+   "sha256": "fa3a07f40e15fd37c69fa8b13e9bc97bb4ce2ba7d647a05b6aee274a9ac61065"
+  },
+  {
+   "path": "media/tiles/Tavern/Tavern Stair.usd",
+   "size": 14191,
+   "sha256": "b71bca1f82347d287b717d907c9a1ea8e952580b80dad909b2681089d5a9b519"
+  },
+  {
+   "path": "media/tiles/Tavern/Tavern Stairs Block.usd",
+   "size": 8433,
+   "sha256": "95ac4363fd2e0ee2a5bf622492e01367c222396dc64b56010b5d050f300d1b0a"
+  },
+  {
+   "path": "media/tiles/Tavern/Tavern Wall - Floor 01.usd",
+   "size": 62411,
+   "sha256": "8c4736109e71bb82e1eed2a2de182b1a447564c777216aa6ed92da7ffeae1f6a"
+  },
+  {
+   "path": "media/tiles/Tavern/Tavern Wall - Floor Corner 01.usd",
+   "size": 86615,
+   "sha256": "6b29891359a5a201c54b3b88fc4a52e43a7108018cc649efbd53d6b65d164191"
+  },
+  {
+   "path": "media/tiles/Tavern/Tavern Wall - Floor Corner With Decor.usd",
+   "size": 112241,
+   "sha256": "8868a04dded3ea54496f82f2d84998310fbaadf508325b51917c6d8b44e355d6"
+  },
+  {
+   "path": "media/tiles/Tavern/Tavern Wall - Floor Corner.usd",
+   "size": 112509,
+   "sha256": "c01a7d223a09feeb3b62da1c9a492041ead86e0f11ed68ff7b0ba2513111d1d2"
+  },
+  {
+   "path": "media/tiles/Tavern/Tavern Wall - Floor With Tools.usd",
+   "size": 99555,
+   "sha256": "d682e6f4aba42709637d3b127cf07c9cdb24f90dbbf9d9e3cc6628974163254f"
+  },
+  {
+   "path": "media/tiles/Tavern/Tavern Wall - Floor With Window.usd",
+   "size": 102262,
+   "sha256": "ef55f6e99a32d20dddecb9cb9a6b13edf1c4288f23da5bb20769714c0a8b7a16"
+  },
+  {
+   "path": "media/tiles/Tavern/Tavern Wall - Small 01.usd",
+   "size": 28228,
+   "sha256": "64ff231ccf6a83324ce72c6373e0d06d449f9cd284b8d546d0817a304012bf01"
+  },
+  {
+   "path": "media/tiles/Tavern/Tavern Wall 01.usd",
+   "size": 28385,
+   "sha256": "2af96118b44b59b0538cf3e4ec615407ee972909a12a6291ebd34d20bce68e97"
+  },
+  {
+   "path": "media/tiles/Tavern/Tavern Wall Corner.usd",
+   "size": 53059,
+   "sha256": "64d98219a31f13f790fe5fd2cd8bc790c01de353bdc2fb59335da4383a470db8"
+  },
+  {
+   "path": "media/tiles/Tavern/Tavern no floor (1x1 a).usd",
+   "size": 28411,
+   "sha256": "e47fea513b4e98592ed0b0d93b2dcac29346588f35999d0b2bb2ecbb03d7eb2b"
+  },
+  {
+   "path": "media/tiles/Tavern/Wall 00.usd",
+   "size": 28081,
+   "sha256": "91ef39c4ab8533db73896218ca0ce46204bda5e7c90ba07c5529f01d1a7c32f9"
+  },
+  {
+   "path": "media/tiles/Tavern/Wall 02.usd",
+   "size": 28302,
+   "sha256": "3c5eb0e1b1a129e047e9bcd875574f401c03eec8a9cebb452e20d76b0622872b"
+  },
+  {
+   "path": "media/tiles/Tavern/Wall Only With Window.usd",
+   "size": 42534,
+   "sha256": "fa6c060b1f4a52b0576744aebbd50eecf5990059df61eac9cc6fa0477b042715"
+  },
+  {
+   "path": "scenery/bar-counter-corner.md",
+   "size": 241,
+   "sha256": "eb0e2269d10df4a4d5e9ccb221859e40b054aedb005ba014097ca4f4173c21e1"
+  },
+  {
+   "path": "scenery/bar-counter.md",
+   "size": 215,
+   "sha256": "6d2fbe97d6b306fd65986318aa60253e4d55f19f49128074deec6350f87fd168"
+  },
+  {
+   "path": "scenery/taven-fireplace-wall-floor.md",
+   "size": 287,
+   "sha256": "1f456ec4037c272d8803858c7abf42c116eef806faea44ee831fedf6c37e8d8d"
+  },
+  {
+   "path": "scenery/tavern-floor-01.md",
+   "size": 208,
+   "sha256": "d2c2cae2ada491e00656eb6a3ca31ea20c9b21ae85bfcf1e4530ab4d803ee9c8"
+  },
+  {
+   "path": "scenery/tavern-floor-02.md",
+   "size": 208,
+   "sha256": "da6c1c81ddbdc0d3663fb20a1f481c69d6c642db7c4194e0007e3c4bc295377d"
+  },
+  {
+   "path": "scenery/tavern-floor-03.md",
+   "size": 209,
+   "sha256": "8c93498f8ee20bcc0c861a1c6fb9e030cf25148acb1fde32804583b601687657"
+  },
+  {
+   "path": "scenery/tavern-inner-corner-2.md",
+   "size": 236,
+   "sha256": "1a59e4b02bd6e3a0485de534320c57fc41b30d81eda59d95d70147bbcef9f9f1"
+  },
+  {
+   "path": "scenery/tavern-inner-corner.md",
+   "size": 232,
+   "sha256": "31dbdbfca2ffbc59bf0e957a398b003a7dac1104c1a24625483377715f11bbdd"
+  },
+  {
+   "path": "scenery/tavern-no-floor-1x1-a.md",
+   "size": 239,
+   "sha256": "554b7c52b561c0cce10e368ceaeebe182301c1af5b201eea1e6b476c32b54e4e"
+  },
+  {
+   "path": "scenery/tavern-stair.md",
+   "size": 204,
+   "sha256": "a1bda3dd45d2abda9707a256039ba849875d0795ba0654f24a09f342a947d395"
+  },
+  {
+   "path": "scenery/tavern-stairs-block.md",
+   "size": 225,
+   "sha256": "c4fdfd6806c550cf0c31ebe8b8e70a864e249396fbabbbe239cacf3ccab8b71a"
+  },
+  {
+   "path": "scenery/tavern-wall-01.md",
+   "size": 199,
+   "sha256": "df11923af22c483eb2e7d2a80a78c6b2c75df16b73548f43003a2d3dde13e54f"
+  },
+  {
+   "path": "scenery/tavern-wall-corner.md",
+   "size": 215,
+   "sha256": "3460fe30d097de3868bbcb3086e2aacf26aa3436071c1eb6e42338debb55ca17"
+  },
+  {
+   "path": "scenery/tavern-wall-floor-01.md",
+   "size": 227,
+   "sha256": "5855dd8e2ecca3f43294d5fd98e079798532e81f9cf0ef07b865ac50affd2086"
+  },
+  {
+   "path": "scenery/tavern-wall-floor-corner-01.md",
+   "size": 249,
+   "sha256": "bc004f0a080677f2add5855ee70eb42aaf28edd2d101bd0d61f57741e746184f"
+  },
+  {
+   "path": "scenery/tavern-wall-floor-corner-with-decor.md",
+   "size": 298,
+   "sha256": "5f814de8acfccc26c1c970f5f9e0f8205d3ca8bdf0e6e4a27fe4904f3a9ec919"
+  },
+  {
+   "path": "scenery/tavern-wall-floor-corner.md",
+   "size": 242,
+   "sha256": "daf3f28b6e720adcfa0de3934f1340b43e522061afe57e1d54ca12769c09b119"
+  },
+  {
+   "path": "scenery/tavern-wall-floor-with-tools.md",
+   "size": 242,
+   "sha256": "f71af496fb1cbe01557f2c986a315d4849aca88f4d2eec690c56dfaecc9e4021"
+  },
+  {
+   "path": "scenery/tavern-wall-floor-with-window.md",
+   "size": 252,
+   "sha256": "f34e79f245d1008b2bcc0e9cd0774812c8de1da77b1dbfdc94ff5ab425df7e5b"
+  },
+  {
+   "path": "scenery/tavern-wall-small-01.md",
+   "size": 216,
+   "sha256": "8fac7e381133526886e2162416d7f103bcf4527320fdb605ef81264a7daa9307"
+  },
+  {
+   "path": "scenery/wall-00.md",
+   "size": 198,
+   "sha256": "8c7dcd87362e19c97bc2563488d96aa4bec65bd6222814bb521be31517278c27"
+  },
+  {
+   "path": "scenery/wall-02.md",
+   "size": 230,
+   "sha256": "0b8d3efffe4fd7fee1afb321d915735d842c64187b1884b02bdc529aa4b12103"
+  },
+  {
+   "path": "scenery/wall-only-with-window.md",
+   "size": 221,
+   "sha256": "d5d507587d1e24c3b4b11ddfc8965e9348049cdbdc8db296a3a493b71fe852cd"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Bar Counter - Corner",
+   "kind": "scenery",
+   "thumb": "thumbs/1562e769-bb4d-437f-b2f0-748a1ce9eeab.jpg",
+   "tags": [
+    "table",
+    "counter",
+    "tavern",
+    "corner",
+    "wood",
+    "bar",
+    "medium"
+   ]
+  },
+  {
+   "name": "Bar Counter",
+   "kind": "scenery",
+   "thumb": "thumbs/cab8254d-0aa0-40b4-af4a-0896c5600346.jpg",
+   "tags": [
+    "counter",
+    "table",
+    "tavern",
+    "wood",
+    "bar",
+    "medium"
+   ]
+  },
+  {
+   "name": "Taven Fireplace Wall/Floor",
+   "kind": "scenery",
+   "thumb": "thumbs/d3ec0216-95e4-44cc-b076-74f39504166e.jpg",
+   "tags": [
+    "fireplace",
+    "wall",
+    "fire",
+    "light",
+    "lit",
+    "illuminated",
+    "tavern",
+    "floor",
+    "wood",
+    "stone",
+    "large"
+   ]
+  },
+  {
+   "name": "Tavern Floor 01",
+   "kind": "scenery",
+   "thumb": "thumbs/cf6063bb-5c6e-4107-b3e9-9c0c5ac75768.jpg",
+   "tags": [
+    "floor",
+    "tavern",
+    "wood",
+    "small"
+   ]
+  },
+  {
+   "name": "Tavern Floor 02",
+   "kind": "scenery",
+   "thumb": "thumbs/680a8f4e-6a4b-4194-beda-416be3c4ac47.jpg",
+   "tags": [
+    "floor",
+    "tavern",
+    "wood",
+    "small"
+   ]
+  },
+  {
+   "name": "Tavern Floor 03",
+   "kind": "scenery",
+   "thumb": "thumbs/e62c6746-cecf-46bf-8b20-f81738f1d220.jpg",
+   "tags": [
+    "floor",
+    "tavern",
+    "wood",
+    "medium"
+   ]
+  },
+  {
+   "name": "Tavern Inner Corner 2",
+   "kind": "scenery",
+   "thumb": "thumbs/fb04f74e-fd7a-4243-92ba-30cdaba18574.jpg",
+   "tags": [
+    "floor",
+    "pillar",
+    "tavern",
+    "wood",
+    "corner",
+    "small"
+   ]
+  },
+  {
+   "name": "Tavern Inner Corner",
+   "kind": "scenery",
+   "thumb": "thumbs/ea0c2824-9848-49a7-924e-9f21fd302367.jpg",
+   "tags": [
+    "floor",
+    "pillar",
+    "tavern",
+    "wood",
+    "corner",
+    "small"
+   ]
+  },
+  {
+   "name": "Tavern no floor (1x1 a)",
+   "kind": "scenery",
+   "thumb": "thumbs/b89c61fb-16a2-4d3d-a43a-a659272a323c.jpg",
+   "tags": [
+    "tavern",
+    "wall",
+    "floor",
+    "corner",
+    "wood",
+    "medium"
+   ]
+  },
+  {
+   "name": "Tavern Stair",
+   "kind": "scenery",
+   "thumb": "thumbs/8a77baef-61e9-4a59-9591-70d5b0c6f1d6.jpg",
+   "tags": [
+    "stairs",
+    "tavern",
+    "stone",
+    "small"
+   ]
+  },
+  {
+   "name": "Tavern Stairs Block",
+   "kind": "scenery",
+   "thumb": "thumbs/fd2a3ed0-531f-4341-9931-6bb991f42f2b.jpg",
+   "tags": [
+    "stairs",
+    "block",
+    "tavern",
+    "stone",
+    "small"
+   ]
+  },
+  {
+   "name": "Tavern Wall 01",
+   "kind": "scenery",
+   "thumb": "thumbs/55421077-5672-492d-9609-89befbf9eb9d.jpg",
+   "tags": [
+    "wall",
+    "tavern",
+    "large"
+   ]
+  },
+  {
+   "name": "Tavern Wall Corner",
+   "kind": "scenery",
+   "thumb": "thumbs/ce1e617e-f031-4011-b64e-ba262082b20f.jpg",
+   "tags": [
+    "wall",
+    "corner",
+    "tavern",
+    "large"
+   ]
+  },
+  {
+   "name": "Tavern Wall/Floor 01",
+   "kind": "scenery",
+   "thumb": "thumbs/05b8b832-e457-4ea7-88d5-25fa44037f39.jpg",
+   "tags": [
+    "wall",
+    "floor",
+    "tavern",
+    "wood",
+    "medium"
+   ]
+  },
+  {
+   "name": "Tavern Wall/Floor Corner 01",
+   "kind": "scenery",
+   "thumb": "thumbs/ff6b5a27-a041-4ba1-ad33-01d82c77bb34.jpg",
+   "tags": [
+    "wall",
+    "floor",
+    "tavern",
+    "corner",
+    "wood",
+    "medium"
+   ]
+  },
+  {
+   "name": "Tavern Wall/Floor Corner With Decor",
+   "kind": "scenery",
+   "thumb": "thumbs/8240e82c-c665-4f5d-a391-c3f0d6176fe8.jpg",
+   "tags": [
+    "floor",
+    "wall",
+    "tavern",
+    "corner",
+    "wood",
+    "light",
+    "lit",
+    "illuminated",
+    "lantern",
+    "large"
+   ]
+  },
+  {
+   "name": "Tavern Wall/Floor Corner",
+   "kind": "scenery",
+   "thumb": "thumbs/db822c28-e616-42b8-99c1-e848906fbc9c.jpg",
+   "tags": [
+    "floor",
+    "wall",
+    "tavern",
+    "corner",
+    "wood",
+    "large"
+   ]
+  },
+  {
+   "name": "Tavern Wall/Floor With Tools",
+   "kind": "scenery",
+   "thumb": "thumbs/f8fdaf2d-3b5b-47d8-8e1d-077994535798.jpg",
+   "tags": [
+    "floor",
+    "tavern",
+    "wall",
+    "wood",
+    "large"
+   ]
+  },
+  {
+   "name": "Tavern Wall/Floor With Window",
+   "kind": "scenery",
+   "thumb": "thumbs/f12afdd6-a171-4a24-b3db-935c05e7aaf9.jpg",
+   "tags": [
+    "floor",
+    "wall",
+    "window",
+    "tavern",
+    "wood",
+    "large"
+   ]
+  },
+  {
+   "name": "Tavern Wall - Small 01",
+   "kind": "scenery",
+   "thumb": "thumbs/82b03fd9-1afb-463f-a3f8-2f30204d6561.jpg",
+   "tags": [
+    "wall",
+    "tavern",
+    "medium"
+   ]
+  },
+  {
+   "name": "Wall 00",
+   "kind": "scenery",
+   "thumb": "thumbs/2fc1f203-3702-4126-8777-5f94067a0c9d.jpg",
+   "tags": [
+    "tavern",
+    "wall",
+    "floor",
+    "wood",
+    "large"
+   ]
+  },
+  {
+   "name": "Wall 02",
+   "kind": "scenery",
+   "thumb": "thumbs/910bdbf7-1cdf-4601-929a-9c89c5eaa8be.jpg",
+   "tags": [
+    "tavern",
+    "wall",
+    "floor",
+    "wood",
+    "shelf",
+    "light",
+    "lit",
+    "illuminated",
+    "large"
+   ]
+  },
+  {
+   "name": "Wall Only With Window",
+   "kind": "scenery",
+   "thumb": "thumbs/7c5edd5b-38fa-4c1a-aa39-99b5720a9171.jpg",
+   "tags": [
+    "tavern",
+    "window",
+    "wall",
+    "large"
+   ]
+  }
+ ]
+}

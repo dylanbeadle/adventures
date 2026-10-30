@@ -1,0 +1,31 @@
+{
+ "id": "5a1e7ab1-0000-4000-8000-000000000104",
+ "folder": "Sister Elowen.spatialhero",
+ "files": [
+  {
+   "path": "cover.jpg",
+   "size": 32735,
+   "sha256": "3a0e86450ca6a1064b6a75fa05cf496a194f59d36cf5d6fff19467e3c2be6803"
+  },
+  {
+   "path": "creatures/elowen.md",
+   "size": 344,
+   "sha256": "87267b15b58562e2731b9488b443b8d02b2d75b4e49d064b0d7de6435de69857"
+  },
+  {
+   "path": "hero.md",
+   "size": 401,
+   "sha256": "61ebd277cf085fbea7b95e1c3bacb5ef9a43d1d0b80ca623a698002dc0f10eeb"
+  },
+  {
+   "path": "items/holy-symbol.md",
+   "size": 120,
+   "sha256": "81dbd36502337578d70ca8acb770e4de378c1dcfca94e0af5463c456c602a7a2"
+  },
+  {
+   "path": "media/elowen.usdz",
+   "size": 5563940,
+   "sha256": "bdf398ae56a63f17c611b8b1ae23a508c1647b0579cb840857bff7f1103a1982"
+  }
+ ]
+}

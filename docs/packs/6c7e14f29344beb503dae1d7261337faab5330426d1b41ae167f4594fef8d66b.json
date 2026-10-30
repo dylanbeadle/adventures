@@ -1,0 +1,1190 @@
+{
+ "id": "be1afeac-16a6-59b9-a917-c7691c3bf0d7",
+ "folder": "Weapons Props.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 1033,
+   "sha256": "c084f09cac6bd7b5e4ddef4411f67abe400ba60b61b0514bf32e396ed2e05c7f"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 14738,
+   "sha256": "cbb7e8e0d83d67cd2f346637bde74a41159adaf4502d00a04d39be84f441f62c"
+  },
+  {
+   "path": "media/materials/Library.usdc",
+   "size": 19724,
+   "sha256": "c24d21cc536ed131cf8633109bc9ffdf7e045cd0c2da1da90544a18c4fa9d5ba"
+  },
+  {
+   "path": "media/materials/textures/basalt.png",
+   "size": 25957,
+   "sha256": "e7295df0b2356c29812c23d4ee8cfcbbab04ee3eb5f20f52d281a6846c8f2e96"
+  },
+  {
+   "path": "media/materials/textures/basalt_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/blue.png",
+   "size": 29622,
+   "sha256": "bb2482f15178dd7ed1883b5558bae3c5db1e6f63dfb0a562b16da3cffcd80add"
+  },
+  {
+   "path": "media/materials/textures/blue_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bluefire.png",
+   "size": 40884,
+   "sha256": "95947aba8ef1863b10a5ceb035363c014f49bb066a629334e6b9fb0c0b2a2a57"
+  },
+  {
+   "path": "media/materials/textures/bluefire_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/bone.png",
+   "size": 52095,
+   "sha256": "60127b0b9d500672ffa4413c2e0331968daf672f9edbbc58e031bd20a24410ce"
+  },
+  {
+   "path": "media/materials/textures/bone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/brass.png",
+   "size": 45700,
+   "sha256": "7653b7e6c813911303d183fd977ca9007540d1f30b8a647ce49a9b4b25479a7e"
+  },
+  {
+   "path": "media/materials/textures/brass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/fur.png",
+   "size": 32075,
+   "sha256": "e6ebdc6bf38121ac2caa3f246dbf760ceb5f618f67a707849f43ac55ee75e56d"
+  },
+  {
+   "path": "media/materials/textures/fur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ghost.png",
+   "size": 46813,
+   "sha256": "6b86f729a542c078e35015b96d3bdf6bb6fd252e59dc931fbd818c4ac61d0809"
+  },
+  {
+   "path": "media/materials/textures/ghost_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/goblinskin.png",
+   "size": 40654,
+   "sha256": "bc088b6cce6935a3e38a4e34d3f8e553b7269a409f04d5892d4bb7bcbb804e7a"
+  },
+  {
+   "path": "media/materials/textures/goblinskin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/grass.png",
+   "size": 37697,
+   "sha256": "f6440b6a238240b171a02d0a9abfa1db6e3b23470ea136796156c95dc85ecb1a"
+  },
+  {
+   "path": "media/materials/textures/grass_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/ice.png",
+   "size": 54673,
+   "sha256": "1776de4df5a1aa0fd4c24462a5bf2188a02dd0f291b002f76689f64c7401183f"
+  },
+  {
+   "path": "media/materials/textures/ice_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/iron.png",
+   "size": 33226,
+   "sha256": "b819ee206156042e76233baf2e2abdb7f0a4a0ae5bc64a26cfaaec7a6fae6a3b"
+  },
+  {
+   "path": "media/materials/textures/iron_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/jade.png",
+   "size": 33655,
+   "sha256": "449a6862f41cf33514e10aa482f65a2dd957d8accc0e776a061972b2b5323771"
+  },
+  {
+   "path": "media/materials/textures/jade_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/lava.png",
+   "size": 36124,
+   "sha256": "f4f7e6f7c9f527d2c962cacf29c83a795a16ecc66640854685970879a3f94e4c"
+  },
+  {
+   "path": "media/materials/textures/lava_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/leather.png",
+   "size": 22325,
+   "sha256": "5466b2bd41efecafe9089281e6fca4ca93def727a9c16cafc86dadf55d211774"
+  },
+  {
+   "path": "media/materials/textures/leather_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/limestone.png",
+   "size": 49995,
+   "sha256": "bf8ce44b291f665ea0c34f28befb206e92da7202b60d7b8ebdfc5fe801118ee9"
+  },
+  {
+   "path": "media/materials/textures/limestone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/marble.png",
+   "size": 31933,
+   "sha256": "d8c25c02c17e9076c1bb4fb692d360f9fb31c298ca833d8c244e306ff3604ae7"
+  },
+  {
+   "path": "media/materials/textures/marble_normal.png",
+   "size": 29285,
+   "sha256": "d4e5ab67529195c5a5be286a022e1e9c8058b9b614eadb7612942462d083a0ef"
+  },
+  {
+   "path": "media/materials/textures/mortar.png",
+   "size": 30700,
+   "sha256": "0749995c21d077be43c42b8de716a7992549eb89f73ba68253792accc4dc03e9"
+  },
+  {
+   "path": "media/materials/textures/mortar_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/oak.png",
+   "size": 44710,
+   "sha256": "cdf8ce500e0145dddaba5408a7bb6b6013c72e37ae225e23903efb16b6eaebd5"
+  },
+  {
+   "path": "media/materials/textures/oak_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  },
+  {
+   "path": "media/materials/textures/paper.png",
+   "size": 52363,
+   "sha256": "e8344646e132da563f18a9157fbf98bd778a6070ac4443ad6e3f209bb2b04fa6"
+  },
+  {
+   "path": "media/materials/textures/paper_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/plaster.png",
+   "size": 51787,
+   "sha256": "7a4c5f149f38204773143f16e06851f33496c436db368fe8a964a390873bfc2e"
+  },
+  {
+   "path": "media/materials/textures/plaster_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/red.png",
+   "size": 30685,
+   "sha256": "efbdd3cc8b5c72553f9db3b9c26860b5c364c1f321b3aa6012ecb45130633ed4"
+  },
+  {
+   "path": "media/materials/textures/red_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rope.png",
+   "size": 44507,
+   "sha256": "24b4fed56ade7e162aa38fcd54886e3c2730f38af4befb25c843422a278e5bbb"
+  },
+  {
+   "path": "media/materials/textures/rope_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/rose.png",
+   "size": 51725,
+   "sha256": "e0e37ae18b6906a144680a1155de6ffad7e2bb083d9999fff0363e5112aee4d2"
+  },
+  {
+   "path": "media/materials/textures/rose_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/sand.png",
+   "size": 36961,
+   "sha256": "85886e8f7b3434815829178445b87ff6158c13e8164a8ffda3993c2f221a24cc"
+  },
+  {
+   "path": "media/materials/textures/sand_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/sandstone.png",
+   "size": 47840,
+   "sha256": "ef16b0605a795be8f93f5af413856bbace96ad202e7236059578339d185c3007"
+  },
+  {
+   "path": "media/materials/textures/sandstone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/scales.png",
+   "size": 35840,
+   "sha256": "b1bed18fc93d1ce569ba48331159220c33f9c0feacf02155e12816a7bcaf1e2d"
+  },
+  {
+   "path": "media/materials/textures/scales_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/skin.png",
+   "size": 46985,
+   "sha256": "5ca6e03744c454380928115d5223e4630134a27767a7b26dcfba204d1c4fcf47"
+  },
+  {
+   "path": "media/materials/textures/skin_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/snow.png",
+   "size": 42837,
+   "sha256": "0d8d0cd049935a17e0b71ebea93ac5e8f823a998dd72ba10e283741ead9d4260"
+  },
+  {
+   "path": "media/materials/textures/snow_normal.png",
+   "size": 35022,
+   "sha256": "82851ccfe982157c4dc06954241182485d5d17c92097fc46c5512ff52af10cfa"
+  },
+  {
+   "path": "media/materials/textures/soil.png",
+   "size": 32264,
+   "sha256": "4c90d4c1a131223b16a1e4b20de7aa877cded6e90e932f4df75e0e9ec652f615"
+  },
+  {
+   "path": "media/materials/textures/soil_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/steel.png",
+   "size": 49671,
+   "sha256": "eea5cdd9f65ec98b43afd1f7e80a070c60c40fcb61812c4f3c3d6d16c9d95e38"
+  },
+  {
+   "path": "media/materials/textures/steel_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/stone.png",
+   "size": 42272,
+   "sha256": "e4f23d37e5e6d3a83d836d06089b88547117cb6b8978b3b448796eaa655d2ec9"
+  },
+  {
+   "path": "media/materials/textures/stone_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/tanfur.png",
+   "size": 44965,
+   "sha256": "5c21a980f0db8b2fcc14c81ba8f6b487e73dd27d2a4bfe3e5000650534d675a7"
+  },
+  {
+   "path": "media/materials/textures/tanfur_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/water.png",
+   "size": 29402,
+   "sha256": "a7861a6a33fa96041dd14a7c2ea61c48bfc767b4fbb3e2a2add4fcc74a347850"
+  },
+  {
+   "path": "media/materials/textures/water_normal.png",
+   "size": 59132,
+   "sha256": "622d7893eec4aba6d10215cf1216d8d61f0ff685670221a6ee08acbb4d9e04cf"
+  },
+  {
+   "path": "media/materials/textures/wood.png",
+   "size": 36098,
+   "sha256": "93be5dba40fb0504f65177b720e06059d439aaf10c0c215617ba6fe9e55769f9"
+  },
+  {
+   "path": "media/materials/textures/wood_normal.png",
+   "size": 62043,
+   "sha256": "a6d7e508eddd8e1523de58138d0292f4f8c0f047bfc099620a52765a22bc8de4"
+  },
+  {
+   "path": "media/props/Weapons/Axe battle floor.usd",
+   "size": 99062,
+   "sha256": "37cf782b3b84055b17740a999079f63151dd0da641ae79c0aeb77cea3f7db092"
+  },
+  {
+   "path": "media/props/Weapons/Axe battle.usd",
+   "size": 87398,
+   "sha256": "100b0dd4fe073a56183ca8e2a2b70deb121a11d76c4a1d780866d9d50d46222b"
+  },
+  {
+   "path": "media/props/Weapons/Axe halberd floor.usd",
+   "size": 98882,
+   "sha256": "eb261387609fc16dd2fe1e90f015b174de21b18c71dcb4ed57724dd45d8dee0b"
+  },
+  {
+   "path": "media/props/Weapons/Shovel, Horizontal.usd",
+   "size": 129034,
+   "sha256": "7a545cede13e18713d0955923e834f2527e4f31b3532b6f480b747e9cce40417"
+  },
+  {
+   "path": "media/props/Weapons/Shovel, Vertical.usd",
+   "size": 111603,
+   "sha256": "123c0d36bf80721e7571e0eb7550b788ba42ad69c0b2160358a9fbfdabeb22bf"
+  },
+  {
+   "path": "media/props/Weapons/axe halberd.usd",
+   "size": 98797,
+   "sha256": "90559944722b577f6b0dd4e633cfaab6d0892d0a8399576d91db459f957d517e"
+  },
+  {
+   "path": "media/props/Weapons/dagger floor.usd",
+   "size": 101918,
+   "sha256": "fb4e6a9db1864833c39b7b5631710c5f2aa65f850e23a68a0a4c297fcec30863"
+  },
+  {
+   "path": "media/props/Weapons/dagger.usd",
+   "size": 102153,
+   "sha256": "3d4e863e1a493d4d8ed8f3faf3e78464ead5abcaa96be0caed016720a02ff4a9"
+  },
+  {
+   "path": "media/props/Weapons/mace floor.usd",
+   "size": 112702,
+   "sha256": "41091bc4a913d07fb200be9290e1841fb6b65ec2227bb720d6697ab4f21ee48d"
+  },
+  {
+   "path": "media/props/Weapons/mace.usd",
+   "size": 124037,
+   "sha256": "944eea0c4ae0dc7f412362b5d42a66322376bdcab39b84d4c69b04a7df13ad58"
+  },
+  {
+   "path": "media/props/Weapons/prop_bow_01.usd",
+   "size": 34060,
+   "sha256": "d9eefcccfed1395d48f282faaeb87ed6e01656bb4a6baae380af4e40f4508903"
+  },
+  {
+   "path": "media/props/Weapons/prop_crossbow_01.usd",
+   "size": 49661,
+   "sha256": "87d55ee042793167e87e8200ba5ade3e5937dfb423105bb3a59a1fd172b2cbc9"
+  },
+  {
+   "path": "media/props/Weapons/prop_dagger_02.usd",
+   "size": 102097,
+   "sha256": "9192e7c3219380a1d673bada3b23caf23ea6600e440084ad73ee651c2ae399d5"
+  },
+  {
+   "path": "media/props/Weapons/prop_hammer_01.usd",
+   "size": 87339,
+   "sha256": "ffc8bf392c220aa28e1b78b89a574d1220e2c424ffc1ca91701c5ddb11f950b2"
+  },
+  {
+   "path": "media/props/Weapons/prop_lute_01.usd",
+   "size": 48757,
+   "sha256": "debc5d898642be004951d48f12fef51f9586079c05b583d7f9fc492e284af005"
+  },
+  {
+   "path": "media/props/Weapons/prop_pickaxe_01.usd",
+   "size": 100847,
+   "sha256": "c723390dd2c7564de30687022c3fb5b639f39a5675c6983d78b7dc50353ea54f"
+  },
+  {
+   "path": "media/props/Weapons/prop_quiver_01.usd",
+   "size": 45927,
+   "sha256": "9a0ac3240565ebcc387a335aed7671bec157c69f46c97549334e99054f67a305"
+  },
+  {
+   "path": "media/props/Weapons/prop_scepter_01.usd",
+   "size": 143324,
+   "sha256": "d5dc5a56e3a52a7b4e94310e529c2b5e0563e3d7814feed748d989107108c871"
+  },
+  {
+   "path": "media/props/Weapons/prop_sword_sheathed_01.usd",
+   "size": 93647,
+   "sha256": "272908c72eabf76ae288f44c310af18af8b65f59cdbb9bce7b6ffd75b0d8b265"
+  },
+  {
+   "path": "media/props/Weapons/prop_whip_01.usd",
+   "size": 120262,
+   "sha256": "bf34c22a132608a3ec5881b8346e08540f0385c81d52627cbfa2908d48a3546d"
+  },
+  {
+   "path": "media/props/Weapons/shield basic round.usd",
+   "size": 40615,
+   "sha256": "c54a4163ff742ad78ec31207a6679895623d25604e5ff8efdeee319ecb48ebb8"
+  },
+  {
+   "path": "media/props/Weapons/shield basic.usd",
+   "size": 22990,
+   "sha256": "0a3a78ba9885c4bcda5adacbe908b03ccfb7fc9b6796b138194ee3c503cb0039"
+  },
+  {
+   "path": "media/props/Weapons/sword claymore floor.usd",
+   "size": 84990,
+   "sha256": "fb0227484f7ecce6880f5e56b0a9bc53656c1075a7411f320de408587c44739a"
+  },
+  {
+   "path": "media/props/Weapons/sword claymore.usd",
+   "size": 102409,
+   "sha256": "9abbd10b0d99cff59aa459d4e5160cdb7a4c043fcf375a70443b59aa55324b6e"
+  },
+  {
+   "path": "media/props/Weapons/sword floor.usd",
+   "size": 102119,
+   "sha256": "3ca834f3467c0d78ac55fbc2d6589a8dc27eb9c53a28875157f1e8183f3510a0"
+  },
+  {
+   "path": "media/props/Weapons/sword katana floor.usd",
+   "size": 102158,
+   "sha256": "78a17ab3f44a680c63a2e043308653dcfcec3d8502108c1536cf55c4658126cf"
+  },
+  {
+   "path": "media/props/Weapons/sword katana.usd",
+   "size": 90757,
+   "sha256": "b4d74603a61e882a343a349ac1b2957ea72949b932a36a0bb28c5ea0e6c1f4cf"
+  },
+  {
+   "path": "media/props/Weapons/sword rapier floor.usd",
+   "size": 113218,
+   "sha256": "9334bbe4fce7573f1f09b9023b477dd006c7085e36e33136839fd175bd4d20d6"
+  },
+  {
+   "path": "media/props/Weapons/sword rapier.usd",
+   "size": 95962,
+   "sha256": "5e7e8c918d49d11e5a7293f3f27f8493b63b015009a2ef4de225ff944a1fc6c1"
+  },
+  {
+   "path": "media/props/Weapons/sword sabre floor.usd",
+   "size": 90771,
+   "sha256": "e1d1595af3c186165c37f12f913e5c0d0f2652ced0dc4aca5685e1fea37dab4d"
+  },
+  {
+   "path": "media/props/Weapons/sword sabre.usd",
+   "size": 102151,
+   "sha256": "845fdee25cb61bfb195770752a82bd30146d8b7d2755c58130be6a6106909830"
+  },
+  {
+   "path": "media/props/Weapons/sword short floor.usd",
+   "size": 102399,
+   "sha256": "044ac7502e183504fb39eed529542c38dbbd51be2be93dad8ce21e400e0ec450"
+  },
+  {
+   "path": "media/props/Weapons/sword short.usd",
+   "size": 102402,
+   "sha256": "6e18311d9c72cc4f3b76aad6991faeccb4bfc1f27926c951f951a6117dc84358"
+  },
+  {
+   "path": "media/props/Weapons/sword.usd",
+   "size": 102376,
+   "sha256": "18734de1e5277c5998cdccb05d3138d9e646841812c30b427d94cca6a889e755"
+  },
+  {
+   "path": "media/props/Weapons/wand rainbow__4b04a842.usd",
+   "size": 149053,
+   "sha256": "59dc56635b27008be44d13052432b75b225e0ca846b274d37ea8ece61580bfd4"
+  },
+  {
+   "path": "media/props/Weapons/wand rainbow__8064f5cb.usd",
+   "size": 154979,
+   "sha256": "c94934806e075576838b3243646d504fa126840ca4d0b6b231d6b9752631b8b2"
+  },
+  {
+   "path": "scenery/axe-battle-floor.md",
+   "size": 246,
+   "sha256": "bab8e0b2fc72062b77b254544204dc87dc0ffafaf1ed0274cbcfb81eb8189104"
+  },
+  {
+   "path": "scenery/axe-battle.md",
+   "size": 234,
+   "sha256": "d8d6f5ec318556294bad6aa61849648b4da6332ed2fe67051ccc8e8c3ee690e7"
+  },
+  {
+   "path": "scenery/axe-halberd-floor.md",
+   "size": 248,
+   "sha256": "cc655b19890d9b3dbf82ef17165c5a5ec3ae3304344c6acaba2d619cb583a97d"
+  },
+  {
+   "path": "scenery/axe-halberd.md",
+   "size": 236,
+   "sha256": "780ae00b83399f99703a866f4feaa6ccf39657404e1d44e520afbb920d41b502"
+  },
+  {
+   "path": "scenery/dagger-floor.md",
+   "size": 214,
+   "sha256": "f0416380892ee3146a4bb7f2d659ad20e54357f88dfb55f5838df5e526d22ab4"
+  },
+  {
+   "path": "scenery/dagger.md",
+   "size": 202,
+   "sha256": "71e90110f60d88531c517c72768fb8770482b13ac2fd862aa6cd2b9ec0578655"
+  },
+  {
+   "path": "scenery/mace-floor.md",
+   "size": 215,
+   "sha256": "7c35500ca7db6302ac14b6ad9b7b989895085daa5c781cb439c994f7e9a1fa1b"
+  },
+  {
+   "path": "scenery/mace.md",
+   "size": 203,
+   "sha256": "e7a18f84c9b82e63d24177fc77c04d87a607fa0133f362710d1602b128bdf8ee"
+  },
+  {
+   "path": "scenery/prop-bow-01.md",
+   "size": 210,
+   "sha256": "606d64856d93c13036fa15023f352831e2cf657f0ea66284ef3e8017f2082099"
+  },
+  {
+   "path": "scenery/prop-crossbow-01.md",
+   "size": 225,
+   "sha256": "a6e94ddeeafacb111bbd86d6da59f38971d4bd17b5bf79793a8b9bb172034a0a"
+  },
+  {
+   "path": "scenery/prop-dagger-02.md",
+   "size": 205,
+   "sha256": "3bc4c3b7c62a97cb7a94125693b19f66c854a77379ff94ec0a82bd97c163c9dc"
+  },
+  {
+   "path": "scenery/prop-hammer-01.md",
+   "size": 223,
+   "sha256": "27721ff18814435712ea431cc8c4d4baf77c9a47282f148e9d2ecd3d7be016c4"
+  },
+  {
+   "path": "scenery/prop-lute-01.md",
+   "size": 221,
+   "sha256": "529b62012071dfa5f9982f3e62d4812f6aea621f044304b5025d3f6c5a48c7ca"
+  },
+  {
+   "path": "scenery/prop-pickaxe-01.md",
+   "size": 216,
+   "sha256": "c63729c4f720bff6fe7df2397916fa6a3bedab94c39dea4c1a4f609c69ad601a"
+  },
+  {
+   "path": "scenery/prop-quiver-01.md",
+   "size": 221,
+   "sha256": "b1fff0bbc1e27a8fa52ba402995024498335bd1e87ea397a79203e4ad3af83f1"
+  },
+  {
+   "path": "scenery/prop-scepter-01.md",
+   "size": 220,
+   "sha256": "7bb02829f8ccdd5dfe7fecc3bdfa9d4564c214ff6c71afb1ec082a1b8b6f0967"
+  },
+  {
+   "path": "scenery/prop-sword-sheathed-01.md",
+   "size": 237,
+   "sha256": "9182373b7c463136a46b7169eec0063f53d5632b6cb2c07f7efe0f890b5fe206"
+  },
+  {
+   "path": "scenery/prop-whip-01.md",
+   "size": 208,
+   "sha256": "ef59b8fbe34bf65e1a4e531b49154b672a9c43b5d12fe5de649b647a34580a62"
+  },
+  {
+   "path": "scenery/shield-basic-round.md",
+   "size": 241,
+   "sha256": "14b1c24d289d15a1f0d3c337a1b981a2dfbae0484a4ac0cdc65f43698f1ef11b"
+  },
+  {
+   "path": "scenery/shield-basic.md",
+   "size": 222,
+   "sha256": "b9d773f01ba2bbff34fa7b970356f7d39358d9037d7545387171b2082180bdaf"
+  },
+  {
+   "path": "scenery/shovel-horizontal.md",
+   "size": 250,
+   "sha256": "99f273515a78bdcc731470aee9aeeff286d6fb78387db3f591023c5177fdd340"
+  },
+  {
+   "path": "scenery/shovel-vertical.md",
+   "size": 246,
+   "sha256": "b536c32390cf8cdd756eed4d1cf34d7bd8743e98b8eeb3a8e5712eed4d6a8bb1"
+  },
+  {
+   "path": "scenery/sword-claymore-floor.md",
+   "size": 249,
+   "sha256": "f053a3e280768ecd56133ac03caed71b31c90b2cd99002f22c40152cc3fcf19e"
+  },
+  {
+   "path": "scenery/sword-claymore.md",
+   "size": 237,
+   "sha256": "5e4429eff44522f4cd962c41695476bc5fa7cbb3a66927383dabba8c26c93908"
+  },
+  {
+   "path": "scenery/sword-floor.md",
+   "size": 213,
+   "sha256": "f4fb416120f86a7ca0bb9bb31c3ad0ed9070211f50b1a1ee656d1ec92a886c1d"
+  },
+  {
+   "path": "scenery/sword-katana-floor.md",
+   "size": 235,
+   "sha256": "7c00fe8ff57ad772a6e474fe0ce6acd4fd989f34627a77e33fcddede5e657743"
+  },
+  {
+   "path": "scenery/sword-katana.md",
+   "size": 223,
+   "sha256": "495ba8acac5f5a9ede14c3307fca927672756506b56513584f2b0d726743d6be"
+  },
+  {
+   "path": "scenery/sword-rapier-floor.md",
+   "size": 235,
+   "sha256": "4525ae71921711754a6864f6994536c15b80a74a1d8f8ccebd77a36ac94b0f5c"
+  },
+  {
+   "path": "scenery/sword-rapier.md",
+   "size": 223,
+   "sha256": "c5417367fd452d88e3f2a4d6bbb995491878137e23ae73fe1a2a361df6f30032"
+  },
+  {
+   "path": "scenery/sword-sabre-floor.md",
+   "size": 239,
+   "sha256": "26d2231fd0639198d75c470621cbee0a0fa563f2d4d6172307ff7120e28a05f0"
+  },
+  {
+   "path": "scenery/sword-sabre.md",
+   "size": 227,
+   "sha256": "8689a1cf3260cf96899be7729d4237d540a17292c10cf02a653d4d21cb9dde77"
+  },
+  {
+   "path": "scenery/sword-short-floor.md",
+   "size": 231,
+   "sha256": "ccf58743a8be777f387d3f011e3ce116a6e4f530f86356578ecb76b4195ffbda"
+  },
+  {
+   "path": "scenery/sword-short.md",
+   "size": 219,
+   "sha256": "128137d14ecbc033146798f367bcc9903e79eb0d67650630b390475e3637956e"
+  },
+  {
+   "path": "scenery/sword.md",
+   "size": 201,
+   "sha256": "f23e1d7ced8a048101d00cbe52f2c2e97805f80071e9b876284472b95bf8aae2"
+  },
+  {
+   "path": "scenery/wand-rainbow-2.md",
+   "size": 231,
+   "sha256": "4108221d951f4c69de5de8077d17c394bc0f407b137567e5c7b6d19691e2a5ad"
+  },
+  {
+   "path": "scenery/wand-rainbow.md",
+   "size": 229,
+   "sha256": "6fb8cdf533ddd2d5e06e67c95595949e340071d925bf4cf9e15e972f1be99c63"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Axe battle floor",
+   "kind": "scenery",
+   "thumb": "thumbs/bf6b58d1-9ed3-4174-9eab-d0222d8976e4.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "axe",
+    "battleaxe",
+    "halberd",
+    "wood",
+    "metal",
+    "small"
+   ]
+  },
+  {
+   "name": "Axe battle",
+   "kind": "scenery",
+   "thumb": "thumbs/e9df03e3-4801-4eb3-8787-2c500e856314.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "axe",
+    "battleaxe",
+    "halberd",
+    "wood",
+    "metal",
+    "small"
+   ]
+  },
+  {
+   "name": "Axe halberd floor",
+   "kind": "scenery",
+   "thumb": "thumbs/0b113871-181a-47a8-877a-fd5f8258558e.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "axe",
+    "battleaxe",
+    "halberd",
+    "wood",
+    "metal",
+    "small"
+   ]
+  },
+  {
+   "name": "axe halberd",
+   "kind": "scenery",
+   "thumb": "thumbs/7ee98a73-42c9-4c68-8205-5367c8aefdeb.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "axe",
+    "battleaxe",
+    "halberd",
+    "wood",
+    "metal",
+    "small"
+   ]
+  },
+  {
+   "name": "dagger floor",
+   "kind": "scenery",
+   "thumb": "thumbs/d12565a5-0724-4dd9-8a2d-5b66b20af4dd.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "dagger",
+    "metal",
+    "tiny"
+   ]
+  },
+  {
+   "name": "dagger",
+   "kind": "scenery",
+   "thumb": "thumbs/3e8aeb7e-3d25-42f7-8a56-83e9118d9188.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "dagger",
+    "metal",
+    "tiny"
+   ]
+  },
+  {
+   "name": "mace floor",
+   "kind": "scenery",
+   "thumb": "thumbs/97301a63-2246-4fb5-8eb7-8bd384c1c4ad.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "mace",
+    "wood",
+    "metal",
+    "small"
+   ]
+  },
+  {
+   "name": "mace",
+   "kind": "scenery",
+   "thumb": "thumbs/f809f76a-5ba6-4173-817e-8799cde42831.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "mace",
+    "wood",
+    "metal",
+    "small"
+   ]
+  },
+  {
+   "name": "prop_bow_01",
+   "kind": "scenery",
+   "thumb": "thumbs/d8c7dec1-b989-414f-8021-39cbf131e410.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "bow",
+    "ranged",
+    "wood"
+   ]
+  },
+  {
+   "name": "prop_crossbow_01",
+   "kind": "scenery",
+   "thumb": "thumbs/683ccc10-ac59-472c-af92-98142a588686.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "crossbow",
+    "ranged",
+    "wood"
+   ]
+  },
+  {
+   "name": "prop_dagger_02",
+   "kind": "scenery",
+   "thumb": "thumbs/248f5720-0f74-4311-b81f-61e92798a407.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "dagger"
+   ]
+  },
+  {
+   "name": "prop_hammer_01",
+   "kind": "scenery",
+   "thumb": "thumbs/7cf4c83f-7ee1-434a-bc0b-24439f3e0abb.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "warhammer",
+    "hammer",
+    "metal"
+   ]
+  },
+  {
+   "name": "prop_lute_01",
+   "kind": "scenery",
+   "thumb": "thumbs/16d51182-611a-41f9-a213-a566d5d04748.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "lute",
+    "instrument",
+    "musician"
+   ]
+  },
+  {
+   "name": "prop_pickaxe_01",
+   "kind": "scenery",
+   "thumb": "thumbs/b3207a10-1d25-4872-a1bb-c742975a25df.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "pickaxe",
+    "mining"
+   ]
+  },
+  {
+   "name": "prop_quiver_01",
+   "kind": "scenery",
+   "thumb": "thumbs/f6356739-3cf4-4e5b-bfe1-6fbaa49665aa.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "quiver",
+    "leather",
+    "arrow"
+   ]
+  },
+  {
+   "name": "prop_scepter_01",
+   "kind": "scenery",
+   "thumb": "thumbs/8f61447e-dcbc-4180-8695-3752237f9fcf.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "scepter",
+    "magic",
+    "rod"
+   ]
+  },
+  {
+   "name": "prop_sword_sheathed_01",
+   "kind": "scenery",
+   "thumb": "thumbs/f4be8132-1c8d-4a2c-9ca0-f0b16e0b36dd.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "sword",
+    "sheath",
+    "leather"
+   ]
+  },
+  {
+   "name": "prop_whip_01",
+   "kind": "scenery",
+   "thumb": "thumbs/adca7ff9-724b-406d-8aec-1ac440af6f72.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "whip",
+    "leather"
+   ]
+  },
+  {
+   "name": "shield basic round",
+   "kind": "scenery",
+   "thumb": "thumbs/8b8891ec-6b72-4e7e-9f41-f7e96258841d.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "shield",
+    "wood",
+    "metal",
+    "medium",
+    "large"
+   ]
+  },
+  {
+   "name": "shield basic",
+   "kind": "scenery",
+   "thumb": "thumbs/98af3e79-0ecb-4f32-a55f-9f8cba1d5c79.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "shield",
+    "wood",
+    "medium",
+    "large"
+   ]
+  },
+  {
+   "name": "Shovel, Horizontal",
+   "kind": "scenery",
+   "thumb": "thumbs/49c12726-ab03-4e92-a317-f8fa6d609407.jpg",
+   "tags": [
+    "weapons",
+    "shovel",
+    "handle",
+    "leather",
+    "metal",
+    "wood",
+    "blunt",
+    "weapon"
+   ]
+  },
+  {
+   "name": "Shovel, Vertical",
+   "kind": "scenery",
+   "thumb": "thumbs/d638b0a5-69ac-4ff2-a52e-8e6592d9156b.jpg",
+   "tags": [
+    "weapons",
+    "shovel",
+    "handle",
+    "leather",
+    "metal",
+    "wood",
+    "blunt",
+    "weapon"
+   ]
+  },
+  {
+   "name": "sword claymore floor",
+   "kind": "scenery",
+   "thumb": "thumbs/ccd7158e-015d-45a5-99e9-5ba9ae5c3dee.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "shield",
+    "sword",
+    "claymore",
+    "metal",
+    "medium"
+   ]
+  },
+  {
+   "name": "sword claymore",
+   "kind": "scenery",
+   "thumb": "thumbs/c2559673-944e-4ecf-93fd-33af9eb36ba2.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "shield",
+    "sword",
+    "claymore",
+    "metal",
+    "medium"
+   ]
+  },
+  {
+   "name": "sword floor",
+   "kind": "scenery",
+   "thumb": "thumbs/09ebbf56-66a3-4c33-a6db-6441e6d30c9e.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "shield",
+    "sword",
+    "metal"
+   ]
+  },
+  {
+   "name": "sword katana floor",
+   "kind": "scenery",
+   "thumb": "thumbs/de885662-76d0-4af4-8ae1-34737b847e65.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "shield",
+    "sword",
+    "katana",
+    "metal"
+   ]
+  },
+  {
+   "name": "sword katana",
+   "kind": "scenery",
+   "thumb": "thumbs/a3a3a24b-2cbe-41bd-aa9d-29621b49d498.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "shield",
+    "sword",
+    "katana",
+    "metal"
+   ]
+  },
+  {
+   "name": "sword rapier floor",
+   "kind": "scenery",
+   "thumb": "thumbs/e260af43-1456-4fee-b3c6-60403d3f86af.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "shield",
+    "sword",
+    "rapier",
+    "metal"
+   ]
+  },
+  {
+   "name": "sword rapier",
+   "kind": "scenery",
+   "thumb": "thumbs/4d387fcf-8a87-42e3-b9d6-5ec4eb58c7ed.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "shield",
+    "sword",
+    "rapier",
+    "metal"
+   ]
+  },
+  {
+   "name": "sword sabre floor",
+   "kind": "scenery",
+   "thumb": "thumbs/935725b9-969e-40df-aeb5-1987439cac28.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "shield",
+    "sword",
+    "sabre",
+    "metal",
+    "small"
+   ]
+  },
+  {
+   "name": "sword sabre",
+   "kind": "scenery",
+   "thumb": "thumbs/bef86398-7d87-447d-b7b8-0cd42c02b278.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "shield",
+    "sword",
+    "sabre",
+    "metal",
+    "small"
+   ]
+  },
+  {
+   "name": "sword short floor",
+   "kind": "scenery",
+   "thumb": "thumbs/43497110-74ba-49dd-8539-0d4d149577b9.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "shield",
+    "sword",
+    "metal",
+    "tiny"
+   ]
+  },
+  {
+   "name": "sword short",
+   "kind": "scenery",
+   "thumb": "thumbs/ae57659a-7c90-4cf6-9baf-4f40ba16ef2a.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "shield",
+    "sword",
+    "metal",
+    "tiny"
+   ]
+  },
+  {
+   "name": "sword",
+   "kind": "scenery",
+   "thumb": "thumbs/b40250cd-b0e4-44f2-adaa-2962cb02e659.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "shield",
+    "sword",
+    "metal"
+   ]
+  },
+  {
+   "name": "wand rainbow 2",
+   "kind": "scenery",
+   "thumb": "thumbs/8064f5cb-59d6-4ad7-8e33-2fc92b5ca487.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "wand",
+    "shield",
+    "wood",
+    "tiny"
+   ]
+  },
+  {
+   "name": "wand rainbow",
+   "kind": "scenery",
+   "thumb": "thumbs/4b04a842-8672-43e3-b638-ff33735e75fe.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "wand",
+    "shield",
+    "wood",
+    "tiny"
+   ]
+  }
+ ]
+}
