@@ -11,7 +11,7 @@ The official catalogue for **Spatial GM**: adventures, kits and heroes, publishe
 | `kits/` | Tiles, Props and Creatures Kit (`.spatialgm`): the 3DAssets library's USD files sharing one material library; the app packages a piece when it's used (D146). Made with 3DAssets' `scripts/export_spatialgm_kit.py --kit <kind> --sources`. | one pack each, and one per group (52: Tavern Tiles, Furniture Props, Undead Creatures…) |
 | `heroes/` | Pre-made heroes (`.spatialhero`), idle animation only, textures compressed (`scripts/make-hero-model.swift`). | one pack each, and the All Heroes bundle |
 | `catalogue/` | Each kit piece's thumbnail (`thumbs/`) and each group's cover (`covers/`), made by `scripts/make-images.py`. | the site and the app's browser |
-| `docs/` | GitHub Pages, written by the Action: `manifest.json`, `packs/`, `covers/`, `thumbs/`, `index.html`. | |
+| `docs/` | GitHub Pages, written by the Action: `manifest.json`, `index/`, `packs/`, `covers/`, `thumbs/`, `index.html`. | |
 | `scripts/` | Everything that builds the catalogue (below). | |
 
 A kit's groups are the rows of the `| Group | Tag | Pieces |` table in its `campaign.md`; a piece belongs to the group its model's folder names (`media/tiles/Tavern/…`). A group pack is a complete kit of its own: its pieces, their models, the shared material library, a generated `campaign.md` and its cover.
@@ -24,6 +24,8 @@ Every pack is a self-contained folder; nothing refers to another pack. Sharing h
 - Files are grouped by the set of packs that use them, into archives named by their contents (`<id>.aar`, LZFSE Apple Archive, each file stored flat under its hash). The Tavern Tiles group needs three: its own `campaign.md` and cover, the Tavern models it shares with the Tiles Kit, and the material library every kit and group shares.
 - The app keeps one store of files by hash, downloads only the archives holding files it lacks, verifies every file, and builds the pack's folder from the store. Downloading Tavern Tiles and then the Tiles Kit fetches only what's new; deleting one keeps what the other uses.
 - An archive is published once and keeps its URL: a release uploads only archives whose contents are new.
+
+`index/<sha256>.json` (named in the manifest's `index`) lists every pack's metadata and every kit piece (tags, TaleSpire id, size, footprint, packs, files) and where each piece's files are in the blobs (`<sha256>.blob`: files DEFLATEd one by one and laid end to end; each release's blob holds only new files). The app searches with it and fetches single pieces with HTTP Range requests.
 
 `manifest.json` (version 2) lists `collections` (Adventures, Heroes, Kits › Tiles, Props, Creatures), `packs` (id, kind `campaign` or `hero`, collection, name, folder, hash, files, bytes, cover, summary, tags, `partOf` for a group's kit), `bundles` (All Heroes, Every Kit) and `archives` (id, url, bytes, sha256, contains). Every URL is relative to the manifest, except archives published in releases.
 

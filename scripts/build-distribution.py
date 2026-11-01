@@ -15,10 +15,18 @@ thumbs/ and index.html. Point the app at that folder (or a copy in iCloud Drive)
 Release mode (RELEASE_TAG set) writes docs/ for GitHub Pages: the same files without the archives,
 whose URLs point at releases. An archive already in the previous docs/manifest.json keeps its URL
 and isn't rebuilt; only new archives are built, into dist/release/, for the Action to upload.
+
+The index (`index/<sha256>.json`, named in the manifest's `index`) lists every kit piece with its
+metadata (tags, TaleSpire id, size, footprint, packs) and every pack's summary, for searching the
+whole catalogue at once, and the files each piece needs. Those files are also published in blobs
+(`<sha256>.blob`): each file deflated on its own (or stored, when that doesn't help) and laid end to
+end, a piece's files together, so the app fetches one piece with an HTTP Range request. A blob holds
+only files no earlier blob has; the index says where each file is (blob, offset, length).
 """
 import hashlib
 import html
 import json
+import zlib
 import os
 import shutil
 import subprocess
@@ -31,6 +39,7 @@ import catalogue  # noqa: E402
 
 ROOT = catalogue.ROOT
 MANIFEST_VERSION = 2
+INDEX_VERSION = 1
 
 
 def sha256_file(path: Path) -> str:
@@ -43,6 +52,9 @@ def sha256_file(path: Path) -> str:
 
 def sha256_text(text: str) -> str:
     return hashlib.sha256(text.encode()).hexdigest()
+
+
+HASHES = {}   # file on disk → SHA-256
 
 
 class Pack:
@@ -176,6 +188,90 @@ def make_archive(archive_id, hashes, files_by_hash, out: Path):
         subprocess.run(["/usr/bin/aa", "archive", "-d", str(stage), "-o", str(out), "-a", "lzfse"], check=True)
 
 
+def deflated(data: bytes):
+    """Raw DEFLATE (what Apple's Compression calls zlib), when it saves at least a tenth."""
+    packer = zlib.compressobj(9, zlib.DEFLATED, -15)
+    packed = packer.compress(data) + packer.flush()
+    return (packed, 1) if len(packed) < len(data) * 0.9 else (data, 0)
+
+
+def build_index(kits, packs, manifest_packs, files_by_hash, previous_at, blob_target, blob_url):
+    """The catalogue's index: every pack's metadata, every kit piece and the files it needs, and where
+    each of those files is in the blobs. Files no earlier blob has go into a new blob at blob_target."""
+    pack_ids = [p["id"] for p in manifest_packs]
+    bytes_of = {p["id"]: p["bytes"] for p in manifest_packs}
+    by_id = {p.id: p for p in packs}
+    files, file_index = [], {}
+
+    def file(pack, path):
+        sha = HASHES[by_id[pack].sources[path]]
+        key = (path, sha)
+        if key not in file_index:
+            file_index[key] = len(files)
+            files.append({"path": path, "size": by_id[pack].sources[path].stat().st_size, "sha256": sha})
+        return file_index[key]
+
+    pieces, commons, order = [], [], []
+    for kit in kits:
+        common = [file(kit.id, p) for p in sorted(by_id[kit.id].sources)
+                  if p == "campaign.md" or p.startswith("media/materials/")]
+        commons.append(common)
+        for group in kit.groups:
+            for piece in group.pieces:
+                own = [file(kit.id, piece.file)] + ([file(kit.id, piece.model)] if piece.model in by_id[kit.id].sources else [])
+                order += own
+                entry = {"name": piece.name, "kind": "creature" if piece.file.startswith("creatures/") else "scenery",
+                         "path": piece.file, "files": own, "common": len(commons) - 1,
+                         "packs": sorted((pack_ids.index(i) for i in (group.id, kit.id)), key=lambda i: bytes_of[pack_ids[i]]),
+                         "thumb": f"thumbs/{piece.thumb}.jpg", "tags": piece.tags}
+                if piece.talespire: entry["talespire"] = piece.talespire
+                for key in ("kind", "size", "footprint"):
+                    if piece.meta.get(key): entry["category" if key == "kind" else key] = piece.meta[key]
+                if piece.meta.get("overhang") == "true": entry["overhang"] = True
+                pieces.append(entry)
+        order += common
+
+    # Where each file is: an earlier blob, or the new one (a piece's files side by side).
+    blobs = list(previous_at.get("blobs", []))
+    at = {f["sha256"]: f["at"] for f in previous_at.get("files", []) if "at" in f}
+    fresh, seen = [], set()
+    for i in order:
+        sha = files[i]["sha256"]
+        if sha not in at and sha not in seen:
+            seen.add(sha)
+            fresh.append(sha)
+    if fresh:
+        blob_target.parent.mkdir(parents=True, exist_ok=True)
+        spots, offset = {}, 0
+        temp = blob_target.with_suffix(".partial")
+        hasher = hashlib.sha256()
+        with open(temp, "wb") as out:
+            for sha in fresh:
+                data, method = deflated(files_by_hash[sha].read_bytes())
+                out.write(data)
+                hasher.update(data)
+                spots[sha] = [offset, len(data), method]
+                offset += len(data)
+        blob_hash = hasher.hexdigest()
+        final = blob_target.parent / f"{blob_hash}.blob"
+        temp.replace(final)
+        blobs.append({"url": blob_url(blob_hash), "bytes": offset, "sha256": blob_hash})
+        for sha, (off, length, method) in spots.items():
+            at[sha] = [len(blobs) - 1, off, length, method]
+    for f in files:
+        f["at"] = at[f["sha256"]]   # [blob, offset, length, method: 0 stored, 1 raw DEFLATE]
+
+    index_packs = []
+    for p in manifest_packs:
+        entry = {k: p[k] for k in ("id", "kind", "collection", "name", "bytes") if k in p}
+        for k in ("summary", "author", "tags", "pieces", "cover", "partOf"):
+            if p.get(k): entry[k] = p[k]
+        index_packs.append(entry)
+    body = {"version": INDEX_VERSION, "packs": index_packs, "pieces": pieces, "commons": commons,
+            "files": files, "blobs": blobs}
+    return body, (final if fresh else None)
+
+
 def size_text(n: int) -> str:
     return f"{n / 1e6:.1f} MB" if n >= 1e6 else f"{max(1, round(n / 1e3))} KB"
 
@@ -226,18 +322,22 @@ def main():
     version = (ROOT / "VERSION").read_text().strip() if (ROOT / "VERSION").exists() else "1.0.0"
 
     previous = {}
+    previous_at = {}
     old_manifest = ROOT / "docs" / "manifest.json"
     if release and old_manifest.exists():
         old = json.loads(old_manifest.read_text())
         if old.get("version") == MANIFEST_VERSION:
             previous = {a["id"]: a for a in old.get("archives", [])}
+            old_index = ROOT / "docs" / old.get("index", {}).get("url", "-")
+            if old.get("index") and old_index.exists():
+                previous_at = json.loads(old_index.read_text())
 
     with tempfile.TemporaryDirectory() as temp:
         work = Path(temp)
         packs = collect_packs(work / "generated")
 
         # Every file's hash, once.
-        hashes, files_by_hash = {}, {}
+        hashes, files_by_hash = HASHES, {}
         for pack in packs:
             for path in pack.sources.values():
                 if path not in hashes:
@@ -280,7 +380,7 @@ def main():
             archives.append(entry)
 
         # Pack listings, covers and thumbnails beside the manifest.
-        for sub in ("packs", "covers", "thumbs"):
+        for sub in ("packs", "covers", "thumbs", "index"):
             if (out / sub).exists():
                 shutil.rmtree(out / sub)
             (out / sub).mkdir(parents=True)
@@ -321,14 +421,31 @@ def main():
                 subprocess.run([str(images), "cover", "480", str(out / name)] + members, check=True)
                 bundle["cover"] = name
 
+        if release:
+            blob_target = dist / "release" / "new.blob"
+            blob_url = lambda h: f"https://github.com/{repository}/releases/download/{release}/{h}.blob"
+        else:
+            shutil.rmtree(dist / "blobs", ignore_errors=True)   # local: one blob of everything, rebuilt
+            blob_target = dist / "blobs" / "new.blob"
+            blob_url = lambda h: f"blobs/{h}.blob"
+        index, blob = build_index(catalogue.kits(), packs, manifest_packs, files_by_hash, previous_at, blob_target, blob_url)
+        index_text = json.dumps(index, separators=(",", ":"), ensure_ascii=False)
+        index_hash = sha256_text(index_text)
+        (out / "index" / f"{index_hash}.json").write_text(index_text, encoding="utf-8")
+        if blob:
+            new.append(blob)
+
         manifest = {"version": MANIFEST_VERSION, "catalogue": version, "name": "Spatial GM Adventures",
                     "collections": catalogue.COLLECTIONS, "packs": manifest_packs, "bundles": manifest_bundles,
-                    "archives": archives}
+                    "archives": archives,
+                    "index": {"url": f"index/{index_hash}.json", "sha256": index_hash, "bytes": len(index_text.encode())}}
         (out / "manifest.json").write_text(json.dumps(manifest, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
         write_index(out, manifest, "Spatial GM Adventures")
 
     total = sum(a["bytes"] for a in archives)
     print(f"{len(packs)} packs, {len(archives)} archives ({size_text(total)}), {len(new)} new → {out.relative_to(ROOT)}/")
+    print(f"index: {len(index['pieces'])} pieces, {len(index['files'])} files, {size_text(manifest['index']['bytes'])};"
+          f" {len(index['blobs'])} blobs" + (f", new {blob.name} ({size_text(blob.stat().st_size)})" if blob else ""))
     for pack in manifest_packs:
         if pack["collection"] in ("adventures", "kits", "heroes"):
             print(f"  {pack['name']}: {pack['fileCount']} files, {size_text(pack['bytes'])}")

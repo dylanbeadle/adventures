@@ -80,6 +80,7 @@ class Piece:
     model: str          # "media/tiles/Tavern/Bar Counter.usd"
     tags: list
     talespire: str      # the TaleSpire catalogue id ("" if none)
+    meta: dict = field(default_factory=dict)   # its front matter (kind, size, footprint, overhang)
 
     @property
     def thumb(self) -> str:
@@ -150,7 +151,7 @@ def read_kit(folder: Path) -> Kit:
             model = meta.get("model", "")
             parts = model.split("/")
             piece = Piece(file=f"{sub}/{path.name}", name=meta.get("name", path.stem), model=model, tags=tags(meta),
-                          talespire=meta.get("same-as", "").removeprefix("talespire:"))
+                          talespire=meta.get("same-as", "").removeprefix("talespire:"), meta=meta)
             # The model's group folder names its group; failing that, the first tag that is a group's.
             group = by_name.get(parts[2]) if len(parts) > 3 and parts[1] != "roof-door" else None
             group = group or next((by_tag[t] for t in piece.tags if t in by_tag), None)
