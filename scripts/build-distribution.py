@@ -54,9 +54,6 @@ def sha256_text(text: str) -> str:
     return hashlib.sha256(text.encode()).hexdigest()
 
 
-HASHES = {}   # file on disk → SHA-256
-
-
 class Pack:
     """One pack: its folder name when installed, and where each of its files comes from."""
 
@@ -195,20 +192,21 @@ def deflated(data: bytes):
     return (packed, 1) if len(packed) < len(data) * 0.9 else (data, 0)
 
 
-def build_index(kits, packs, manifest_packs, files_by_hash, previous_at, blob_target, blob_url):
+def build_index(kits, packs, manifest_packs, hashes, files_by_hash, previous, blob_folder, blob_url):
     """The catalogue's index: every pack's metadata, every kit piece and the files it needs, and where
-    each of those files is in the blobs. Files no earlier blob has go into a new blob at blob_target."""
-    pack_ids = [p["id"] for p in manifest_packs]
+    each of those files is in the blobs. Files no earlier blob has (`previous`: the last index) go into
+    a new blob in blob_folder. Returns the index and the new blob, if any."""
+    position = {p["id"]: i for i, p in enumerate(manifest_packs)}
     bytes_of = {p["id"]: p["bytes"] for p in manifest_packs}
     by_id = {p.id: p for p in packs}
     files, file_index = [], {}
 
     def file(pack, path):
-        sha = HASHES[by_id[pack].sources[path]]
-        key = (path, sha)
+        source = by_id[pack].sources[path]
+        key = (path, hashes[source])
         if key not in file_index:
             file_index[key] = len(files)
-            files.append({"path": path, "size": by_id[pack].sources[path].stat().st_size, "sha256": sha})
+            files.append({"path": path, "size": source.stat().st_size, "sha256": hashes[source]})
         return file_index[key]
 
     pieces, commons, order = [], [], []
@@ -222,7 +220,7 @@ def build_index(kits, packs, manifest_packs, files_by_hash, previous_at, blob_ta
                 order += own
                 entry = {"name": piece.name, "kind": "creature" if piece.file.startswith("creatures/") else "scenery",
                          "path": piece.file, "files": own, "common": len(commons) - 1,
-                         "packs": sorted((pack_ids.index(i) for i in (group.id, kit.id)), key=lambda i: bytes_of[pack_ids[i]]),
+                         "packs": [position[i] for i in sorted((group.id, kit.id), key=bytes_of.get)],
                          "thumb": f"thumbs/{piece.thumb}.jpg", "tags": piece.tags}
                 if piece.talespire: entry["talespire"] = piece.talespire
                 for key in ("kind", "size", "footprint"):
@@ -232,18 +230,14 @@ def build_index(kits, packs, manifest_packs, files_by_hash, previous_at, blob_ta
         order += common
 
     # Where each file is: an earlier blob, or the new one (a piece's files side by side).
-    blobs = list(previous_at.get("blobs", []))
-    at = {f["sha256"]: f["at"] for f in previous_at.get("files", []) if "at" in f}
-    fresh, seen = [], set()
-    for i in order:
-        sha = files[i]["sha256"]
-        if sha not in at and sha not in seen:
-            seen.add(sha)
-            fresh.append(sha)
+    blobs = list(previous.get("blobs", []))
+    at = {f["sha256"]: f["at"] for f in previous.get("files", []) if "at" in f}
+    fresh = list(dict.fromkeys(files[i]["sha256"] for i in order if files[i]["sha256"] not in at))
+    final = None
     if fresh:
-        blob_target.parent.mkdir(parents=True, exist_ok=True)
+        blob_folder.mkdir(parents=True, exist_ok=True)
         spots, offset = {}, 0
-        temp = blob_target.with_suffix(".partial")
+        temp = blob_folder / "new.partial"
         hasher = hashlib.sha256()
         with open(temp, "wb") as out:
             for sha in fresh:
@@ -253,7 +247,7 @@ def build_index(kits, packs, manifest_packs, files_by_hash, previous_at, blob_ta
                 spots[sha] = [offset, len(data), method]
                 offset += len(data)
         blob_hash = hasher.hexdigest()
-        final = blob_target.parent / f"{blob_hash}.blob"
+        final = blob_folder / f"{blob_hash}.blob"
         temp.replace(final)
         blobs.append({"url": blob_url(blob_hash), "bytes": offset, "sha256": blob_hash})
         for sha, (off, length, method) in spots.items():
@@ -269,7 +263,23 @@ def build_index(kits, packs, manifest_packs, files_by_hash, previous_at, blob_ta
         index_packs.append(entry)
     body = {"version": INDEX_VERSION, "packs": index_packs, "pieces": pieces, "commons": commons,
             "files": files, "blobs": blobs}
-    return body, (final if fresh else None)
+    return body, final
+
+
+def previous_index_in(folder: Path, blobs_here=None) -> dict:
+    """The index a catalogue folder's manifest names ({} if none). With blobs_here (a local build's dist/),
+    only when every blob it lists is still there."""
+    manifest = folder / "manifest.json"
+    if not manifest.exists():
+        return {}
+    reference = json.loads(manifest.read_text()).get("index")
+    path = folder / reference["url"] if reference else None
+    if not path or not path.exists():
+        return {}
+    index = json.loads(path.read_text())
+    if blobs_here and not all((blobs_here / b["url"]).exists() for b in index.get("blobs", [])):
+        return {}
+    return index
 
 
 def size_text(n: int) -> str:
@@ -322,22 +332,21 @@ def main():
     version = (ROOT / "VERSION").read_text().strip() if (ROOT / "VERSION").exists() else "1.0.0"
 
     previous = {}
-    previous_at = {}
     old_manifest = ROOT / "docs" / "manifest.json"
     if release and old_manifest.exists():
         old = json.loads(old_manifest.read_text())
         if old.get("version") == MANIFEST_VERSION:
             previous = {a["id"]: a for a in old.get("archives", [])}
-            old_index = ROOT / "docs" / old.get("index", {}).get("url", "-")
-            if old.get("index") and old_index.exists():
-                previous_at = json.loads(old_index.read_text())
+    # The last index, so files already in a blob keep their place: the published one for a release; locally
+    # dist/'s own, while its blobs are still there (nothing is compressed again).
+    previous_index = previous_index_in(ROOT / ("docs" if release else "dist"), blobs_here=None if release else dist)
 
     with tempfile.TemporaryDirectory() as temp:
         work = Path(temp)
         packs = collect_packs(work / "generated")
 
         # Every file's hash, once.
-        hashes, files_by_hash = HASHES, {}
+        hashes, files_by_hash = {}, {}
         for pack in packs:
             for path in pack.sources.values():
                 if path not in hashes:
@@ -422,13 +431,12 @@ def main():
                 bundle["cover"] = name
 
         if release:
-            blob_target = dist / "release" / "new.blob"
+            blob_folder = dist / "release"
             blob_url = lambda h: f"https://github.com/{repository}/releases/download/{release}/{h}.blob"
         else:
-            shutil.rmtree(dist / "blobs", ignore_errors=True)   # local: one blob of everything, rebuilt
-            blob_target = dist / "blobs" / "new.blob"
+            blob_folder = dist / "blobs"
             blob_url = lambda h: f"blobs/{h}.blob"
-        index, blob = build_index(catalogue.kits(), packs, manifest_packs, files_by_hash, previous_at, blob_target, blob_url)
+        index, blob = build_index(catalogue.kits(), packs, manifest_packs, hashes, files_by_hash, previous_index, blob_folder, blob_url)
         index_text = json.dumps(index, separators=(",", ":"), ensure_ascii=False)
         index_hash = sha256_text(index_text)
         (out / "index" / f"{index_hash}.json").write_text(index_text, encoding="utf-8")
