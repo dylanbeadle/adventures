@@ -3,7 +3,7 @@
 
   python3 scripts/make-images.py [--assets <3DAssets folder>] [--force]
 
-- With --assets: each kit piece's thumbnail, `catalogue/thumbs/<TaleSpire id>.jpg` (160 px), from
+- With --assets: each kit piece's thumbnail, `catalogue/thumbs/<piece id>.jpg` (160 px), from
   3DAssets' `previews/<tiles|props|creatures>/<id>.png`.
 - Each kit group's cover, `catalogue/covers/<group slug>.jpg`, and each big kit's `cover.jpg`
   (480 px, nine of its pieces), from the thumbnails.
@@ -40,8 +40,8 @@ def main():
         if args.assets:
             for kit in kits:
                 previews = args.assets / "previews" / KIND_FOLDERS[kit.name]
-                # A piece's preview: by TaleSpire id, or (the original roof and door) by model name in its kit's folder.
-                wanted = [(previews / f"{p.talespire}.png" if p.talespire else
+                # A piece's preview: by its id, or (the original roof and door) by model name in its kit's folder.
+                wanted = [(previews / f"{p.piece_id}.png" if p.piece_id else
                            args.assets / "kits" / p.model.split("/")[1] / "previews" / f"{Path(p.model).stem}.png", p.thumb)
                           for g in kit.groups for p in g.pieces]
                 todo = [(src, name) for src, name in wanted

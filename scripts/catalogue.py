@@ -15,7 +15,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 CATALOGUE = ROOT / "catalogue"          # thumbnails and group covers (committed; 3DAssets will go away)
-THUMBS = CATALOGUE / "thumbs"           # <talespire uuid>.jpg, 160 px
+THUMBS = CATALOGUE / "thumbs"           # <piece id>.jpg, 160 px
 COVERS = CATALOGUE / "covers"           # <pack slug>.jpg for generated group packs
 
 # Where each kind of pack lives, and the collection it's listed under.
@@ -79,13 +79,18 @@ class Piece:
     name: str
     model: str          # "media/tiles/Tavern/Bar Counter.usd"
     tags: list
-    talespire: str      # the TaleSpire catalogue id ("" if none)
+    same_as: str        # its `same-as:` value, namespace:id ("" if none)
     meta: dict = field(default_factory=dict)   # its front matter (kind, size, footprint, overhang)
 
     @property
+    def piece_id(self) -> str:
+        """The id part of its `same-as:` value."""
+        return self.same_as.split(":", 1)[-1].strip()
+
+    @property
     def thumb(self) -> str:
-        """Its thumbnail's name in catalogue/thumbs: the TaleSpire id, else the kit folder and model ("roof-door-doorframe")."""
-        return self.talespire or slug(self.model.split("/")[1] + "-" + Path(self.model).stem)
+        """Its thumbnail's name in catalogue/thumbs: its id, else the kit folder and model ("roof-door-doorframe")."""
+        return self.piece_id or slug(self.model.split("/")[1] + "-" + Path(self.model).stem)
 
 
 @dataclass
@@ -151,7 +156,7 @@ def read_kit(folder: Path) -> Kit:
             model = meta.get("model", "")
             parts = model.split("/")
             piece = Piece(file=f"{sub}/{path.name}", name=meta.get("name", path.stem), model=model, tags=tags(meta),
-                          talespire=meta.get("same-as", "").removeprefix("talespire:"), meta=meta)
+                          same_as=meta.get("same-as", ""), meta=meta)
             # The model's group folder names its group; failing that, the first tag that is a group's.
             group = by_name.get(parts[2]) if len(parts) > 3 and parts[1] != "roof-door" else None
             group = group or next((by_tag[t] for t in piece.tags if t in by_tag), None)

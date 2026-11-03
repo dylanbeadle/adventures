@@ -25,7 +25,7 @@ Every pack is a self-contained folder; nothing refers to another pack. Sharing h
 - The app keeps one store of files by hash, downloads only the archives holding files it lacks, verifies every file, and builds the pack's folder from the store. Downloading Tavern Tiles and then the Tiles Kit fetches only what's new; deleting one keeps what the other uses.
 - An archive is published once and keeps its URL: a release uploads only archives whose contents are new.
 
-`index/<sha256>.json` (named in the manifest's `index`) lists every pack's metadata and every kit piece (tags, TaleSpire id, size, footprint, packs, files) and where each piece's files are in the blobs (`<sha256>.blob`: files DEFLATEd one by one and laid end to end; each release's blob holds only new files). The app searches with it and fetches single pieces with HTTP Range requests.
+`index/<sha256>.json` (named in the manifest's `index`) lists every pack's metadata and every kit piece (tags, `same-as` id, size, footprint, packs, files) and where each piece's files are in the blobs (`<sha256>.blob`: files DEFLATEd one by one and laid end to end; each release's blob holds only new files). The app searches with it and fetches single pieces with HTTP Range requests.
 
 `manifest.json` (version 2) lists `collections` (Adventures, Heroes, Kits › Tiles, Props, Creatures), `packs` (id, kind `campaign` or `hero`, collection, name, folder, hash, files, bytes, cover, summary, tags, `partOf` for a group's kit), `bundles` (All Heroes, Every Kit) and `archives` (id, url, bytes, sha256, contains). Every URL is relative to the manifest, except archives published in releases.
 

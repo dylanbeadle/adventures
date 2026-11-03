@@ -17,7 +17,7 @@ whose URLs point at releases. An archive already in the previous docs/manifest.j
 and isn't rebuilt; only new archives are built, into dist/release/, for the Action to upload.
 
 The index (`index/<sha256>.json`, named in the manifest's `index`) lists every kit piece with its
-metadata (tags, TaleSpire id, size, footprint, packs) and every pack's summary, for searching the
+metadata (tags, `same-as` id, size, footprint, packs) and every pack's summary, for searching the
 whole catalogue at once, and the files each piece needs. Those files are also published in blobs
 (`<sha256>.blob`): each file deflated on its own (or stored, when that doesn't help) and laid end to
 end, a piece's files together, so the app fetches one piece with an HTTP Range request. A blob holds
@@ -222,7 +222,9 @@ def build_index(kits, packs, manifest_packs, hashes, files_by_hash, previous, bl
                          "path": piece.file, "files": own, "common": len(commons) - 1,
                          "packs": [position[i] for i in sorted((group.id, kit.id), key=bytes_of.get)],
                          "thumb": f"thumbs/{piece.thumb}.jpg", "tags": piece.tags}
-                if piece.talespire: entry["talespire"] = piece.talespire
+                if piece.same_as:
+                    entry["sameAs"] = piece.same_as
+                    entry["talespire"] = piece.piece_id   # for app builds from before D151; drop at the next content update
                 for key in ("kind", "size", "footprint"):
                     if piece.meta.get(key): entry["category" if key == "kind" else key] = piece.meta[key]
                 if piece.meta.get("overhang") == "true": entry["overhang"] = True
@@ -332,11 +334,13 @@ def main():
     version = (ROOT / "VERSION").read_text().strip() if (ROOT / "VERSION").exists() else "1.0.0"
 
     previous = {}
-    old_manifest = ROOT / "docs" / "manifest.json"
-    if release and old_manifest.exists():
+    # Archives the last manifest lists keep their entry: the published ones for a release; locally dist/'s own
+    # while their files are still there (nothing is read again, and dist/ may be in iCloud Drive).
+    old_manifest = out / "manifest.json"
+    if old_manifest.exists():
         old = json.loads(old_manifest.read_text())
         if old.get("version") == MANIFEST_VERSION:
-            previous = {a["id"]: a for a in old.get("archives", [])}
+            previous = {a["id"]: a for a in old.get("archives", []) if release or (dist / a["url"]).exists()}
     # The last index, so files already in a blob keep their place: the published one for a release; locally
     # dist/'s own, while its blobs are still there (nothing is compressed again).
     previous_index = previous_index_in(ROOT / ("docs" if release else "dist"), blobs_here=None if release else dist)
