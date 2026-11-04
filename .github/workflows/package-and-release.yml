@@ -23,7 +23,7 @@ concurrency:
 
 jobs:
   build-and-release:
-    runs-on: macos-14
+    runs-on: xcode-27
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -45,11 +45,20 @@ jobs:
       - name: Pull LFS objects
         run: git lfs pull
 
+      # Cooked models (D154), kept by what went into them: a release only cooks what changed.
+      - name: Restore cooked models
+        uses: actions/cache@v4
+        with:
+          path: .cook-cache
+          key: cook-${{ hashFiles('.lfs-objects', 'scripts/model-cook.swift') }}
+          restore-keys: cook-
+
       # Packs, content-named archives (only new ones are built) and the catalogue for Pages (D147).
       - name: Build catalogue
         run: |
           python3 scripts/build-distribution.py
         env:
+          COOK_CACHE: ${{ github.workspace }}/.cook-cache
           RELEASE_TAG: v1.0.${{ github.run_number }}
           GITHUB_REPOSITORY: ${{ github.repository }}
 

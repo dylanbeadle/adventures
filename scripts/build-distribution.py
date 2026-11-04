@@ -22,6 +22,11 @@ whole catalogue at once, and the files each piece needs. Those files are also pu
 (`<sha256>.blob`): each file deflated on its own (or stored, when that doesn't help) and laid end to
 end, a piece's files together, so the app fetches one piece with an HTTP Range request. A blob holds
 only files no earlier blob has; the index says where each file is (blob, offset, length).
+
+Kit models are cooked first (Spatial GM D154): `scripts/model-cook.swift`, generated from the app's own cook code, turns
+each source layer and its material library into a flattened layer and its compressed textures, in a cache (`COOK_CACHE`)
+keyed by what went in, so only what changed is cooked. Packs publish those in place of the sources: the layer at its
+`model:` path, and `<name>.cooked/` beside it. Needs macOS 27 (USDKit).
 """
 import hashlib
 import html
@@ -82,6 +87,57 @@ class Pack:
         return sha256_text(identity), body
 
 
+COOK_CACHE = Path(os.environ.get("COOK_CACHE", Path.home() / "Library/Caches/SpatialGM-Cook"))
+
+
+def cook_kits(kits, work: Path) -> dict:
+    """Cooks every kit piece's model not already cached. Returns {kit folder: {model path: (layer, cooked folder)}}."""
+    tool_source = ROOT / "scripts/model-cook.swift"
+    tool_hash = sha256_file(tool_source)
+    found, jobs = {}, []
+    for kit in kits:
+        models = {p.model for g in kit.groups for p in g.pieces if Path(p.model).suffix in (".usd", ".usda", ".usdc")}
+        library = sorted(f for f in (kit.folder / "media").rglob("*")
+                         if f.is_file() and catalogue.included(f.relative_to(kit.folder))
+                         and str(f.relative_to(kit.folder)) not in models)
+        library_hash = sha256_text("\n".join(f"{f.relative_to(kit.folder)} {sha256_file(f)}" for f in library))
+        found[kit.folder] = {}
+        for model in sorted(models):
+            key = sha256_text(f"{tool_hash} {library_hash} {sha256_file(kit.folder / model)}")
+            place = COOK_CACHE / key[:2] / key
+            found[kit.folder][model] = (place / "layer.usd", place / "cooked")
+            if not (place / "cooked/cooked.txt").exists():
+                jobs.append((kit.folder / model, place))
+    print(f"cooking {len(jobs)} of {sum(map(len, found.values()))} models", flush=True)
+    if jobs:
+        tool = work / "model-cook"
+        subprocess.run(["xcrun", "swiftc", "-O", "-enable-bare-slash-regex", str(tool_source), "-o", str(tool)], check=True)
+        # A process per core: a USD stage isn't to be shared between threads, and one crash loses one batch only.
+        width = max(1, min(os.cpu_count() or 1, 8))
+        running = []
+        for i in range(width):
+            lines = "".join(f"{source}\t{place / 'layer.usd'}\t{place / 'cooked'}\n" for source, place in jobs[i::width])
+            process = subprocess.Popen([str(tool)], stdin=subprocess.PIPE, text=True)
+            process.stdin.write(lines)
+            process.stdin.close()
+            running.append(process)
+        if any([p.wait() != 0 for p in running]):
+            raise SystemExit("cooking failed (see above)")
+    return found
+
+
+def use_cooked(pack, cooked: dict):
+    """A kit pack's models as cooked: nothing else under media/, since the layers no longer read a library."""
+    for path in [p for p in pack.sources if p.startswith("media/") and p not in cooked]:
+        del pack.sources[path]
+    for path in [p for p in pack.sources if p in cooked]:
+        layer, folder = cooked[path]
+        pack.sources[path] = layer
+        for file in sorted(folder.rglob("*")):
+            if file.is_file():
+                pack.sources[str(Path(path).with_suffix(".cooked") / file.relative_to(folder))] = file
+
+
 def piece_contents(pieces):
     return [{"name": p.name, "kind": "creature" if p.file.startswith("creatures/") else "scenery",
              "thumb": f"thumbs/{p.thumb}.jpg", "tags": p.tags} for p in pieces]
@@ -111,7 +167,7 @@ Models are procedural reconstructions; see the 3DAssets repository's RIGHTS_PROV
 """
 
 
-def collect_packs(generated: Path):
+def collect_packs(generated: Path, cooked: dict):
     packs = []
     for folder in sorted((ROOT / "adventures").glob("*.spatialgm")):
         meta = catalogue.front_matter(folder / "campaign.md")
@@ -128,6 +184,7 @@ def collect_packs(generated: Path):
                     summary=meta.get("summary", ""), author=meta.get("author", ""), tags=[collection],
                     cover=kit.folder / meta["cover"] if meta.get("cover") else None)
         pack.add_folder(kit.folder)
+        use_cooked(pack, cooked[kit.folder])
         pack.contents = piece_contents([p for g in kit.groups for p in g.pieces])
         packs.append(pack)
         for group in kit.groups:
@@ -140,6 +197,7 @@ def collect_packs(generated: Path):
                         author="3DAssets", tags=[collection, group.tag], part_of=kit.id,
                         cover=cover if cover.exists() else None)
             pack.add_folder(kit.folder, only=set(group.files()) - {"campaign.md", "cover.jpg"})
+            use_cooked(pack, cooked[kit.folder])
             pack.sources["campaign.md"] = made / "campaign.md"
             if pack.cover:
                 pack.sources["cover.jpg"] = pack.cover
@@ -210,13 +268,20 @@ def build_index(kits, packs, manifest_packs, hashes, files_by_hash, previous, bl
         return file_index[key]
 
     pieces, commons, order = [], [], []
+    # Each cooked folder's files, without going through every file for every piece.
+    cooked_files = {}
+    for pack_id in (kit.id for kit in kits):
+        for p in sorted(by_id[pack_id].sources):
+            if ".cooked/" in p:
+                cooked_files.setdefault(p[:p.index(".cooked/") + len(".cooked/")], []).append(p)
     for kit in kits:
-        common = [file(kit.id, p) for p in sorted(by_id[kit.id].sources)
-                  if p == "campaign.md" or p.startswith("media/materials/")]
+        common = [file(kit.id, "campaign.md")]
         commons.append(common)
         for group in kit.groups:
             for piece in group.pieces:
                 own = [file(kit.id, piece.file)] + ([file(kit.id, piece.model)] if piece.model in by_id[kit.id].sources else [])
+                textures = str(Path(piece.model).with_suffix(".cooked")) + "/"
+                own += [file(kit.id, p) for p in cooked_files.get(textures, [])]
                 order += own
                 entry = {"name": piece.name, "kind": "creature" if piece.file.startswith("creatures/") else "scenery",
                          "path": piece.file, "files": own, "common": len(commons) - 1,
@@ -224,7 +289,6 @@ def build_index(kits, packs, manifest_packs, hashes, files_by_hash, previous, bl
                          "thumb": f"thumbs/{piece.thumb}.jpg", "tags": piece.tags}
                 if piece.same_as:
                     entry["sameAs"] = piece.same_as
-                    entry["talespire"] = piece.piece_id   # for app builds from before D151; drop at the next content update
                 for key in ("kind", "size", "footprint"):
                     if piece.meta.get(key): entry["category" if key == "kind" else key] = piece.meta[key]
                 if piece.meta.get("overhang") == "true": entry["overhang"] = True
@@ -347,7 +411,7 @@ def main():
 
     with tempfile.TemporaryDirectory() as temp:
         work = Path(temp)
-        packs = collect_packs(work / "generated")
+        packs = collect_packs(work / "generated", cook_kits(catalogue.kits(), work))
 
         # Every file's hash, once.
         hashes, files_by_hash = {}, {}
