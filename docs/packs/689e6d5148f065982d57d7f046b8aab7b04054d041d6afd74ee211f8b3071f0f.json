@@ -1,0 +1,1273 @@
+{
+ "id": "19954e34-ffb1-5fab-9ca4-ecbf66a718a0",
+ "folder": "Camping Props.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 752,
+   "sha256": "dd6593c379d71d560fe254ee5b5ba1a6df70ef76ae60662b275dcc86f1d58d7c"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 26742,
+   "sha256": "6a98c7049c05ba6363f4921c9dc15572bf35a9f9beb9e04cbc9650cbda1e268f"
+  },
+  {
+   "path": "media/props/Camping/Bed floor 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Camping/Bed floor 01.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Camping/Bed floor 01.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/Bed floor 01.cooked/textures/paper.avif",
+   "size": 1729,
+   "sha256": "700bd99d1997a1a20d90a673a4e698cf36fb4f8ffedafff69a6c93b3d8c7ad70"
+  },
+  {
+   "path": "media/props/Camping/Bed floor 01.cooked/textures/paper_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/Bed floor 01.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Camping/Bed floor 01.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/Bed floor 01.usd",
+   "size": 35189,
+   "sha256": "87ad1f9a7eb4697e73f263cc6ab4215729a888df1886f424926c5412534b39c6"
+  },
+  {
+   "path": "media/props/Camping/Bed floor maple leaves.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Camping/Bed floor maple leaves.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Camping/Bed floor maple leaves.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/Bed floor maple leaves.cooked/textures/paper.avif",
+   "size": 1729,
+   "sha256": "700bd99d1997a1a20d90a673a4e698cf36fb4f8ffedafff69a6c93b3d8c7ad70"
+  },
+  {
+   "path": "media/props/Camping/Bed floor maple leaves.cooked/textures/paper_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/Bed floor maple leaves.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/props/Camping/Bed floor maple leaves.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/Bed floor maple leaves.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Camping/Bed floor maple leaves.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/Bed floor maple leaves.usd",
+   "size": 313908,
+   "sha256": "54cd18f90a6fa20ee8a538ae65164320f1b7cfa79207d336c070dc22a36b2b18"
+  },
+  {
+   "path": "media/props/Camping/Bed fur 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Camping/Bed fur 01.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Camping/Bed fur 01.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/Bed fur 01.cooked/textures/paper.avif",
+   "size": 1729,
+   "sha256": "700bd99d1997a1a20d90a673a4e698cf36fb4f8ffedafff69a6c93b3d8c7ad70"
+  },
+  {
+   "path": "media/props/Camping/Bed fur 01.cooked/textures/paper_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/Bed fur 01.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/props/Camping/Bed fur 01.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/Bed fur 01.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Camping/Bed fur 01.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/Bed fur 01.usd",
+   "size": 313880,
+   "sha256": "06fc16927b84587965ed4036aada9becbb659b87ae817e7251ec847e8f297d5d"
+  },
+  {
+   "path": "media/props/Camping/Bed straw 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Camping/Bed straw 01.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Camping/Bed straw 01.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/Bed straw 01.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/props/Camping/Bed straw 01.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Camping/Bed straw 01.cooked/textures/paper.avif",
+   "size": 1729,
+   "sha256": "700bd99d1997a1a20d90a673a4e698cf36fb4f8ffedafff69a6c93b3d8c7ad70"
+  },
+  {
+   "path": "media/props/Camping/Bed straw 01.cooked/textures/paper_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/Bed straw 01.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Camping/Bed straw 01.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/Bed straw 01.usd",
+   "size": 313638,
+   "sha256": "ab4a01f3eb37d5ba88543b3fbeb982cb8dc1628669aab85c81a2d7d7a6852b76"
+  },
+  {
+   "path": "media/props/Camping/Bed wrapped 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Camping/Bed wrapped 01.cooked/textures/grass.avif",
+   "size": 852,
+   "sha256": "9dcc6896f4054bb5a3911e06d27ea275aa7858e33e9fa46ab96a5c8244755a69"
+  },
+  {
+   "path": "media/props/Camping/Bed wrapped 01.cooked/textures/grass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/Bed wrapped 01.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Camping/Bed wrapped 01.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Camping/Bed wrapped 01.usd",
+   "size": 64083,
+   "sha256": "ef3c75f45eddc171452388f14eac554f99bc49ac4090e3915ecddb42277de784"
+  },
+  {
+   "path": "media/props/Camping/Camp Pit Fire 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Camping/Camp Pit Fire 01.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/props/Camping/Camp Pit Fire 01.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/Camp Pit Fire 01.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/props/Camping/Camp Pit Fire 01.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/Camp Pit Fire 01.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Camping/Camp Pit Fire 01.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Camping/Camp Pit Fire 01.usd",
+   "size": 97909,
+   "sha256": "31af8feba0d679f71bcce0fe8d41363274907da746444d40fadc11398f81c5a5"
+  },
+  {
+   "path": "media/props/Camping/Camp Pit Fire 02.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Camping/Camp Pit Fire 02.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/props/Camping/Camp Pit Fire 02.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/Camp Pit Fire 02.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Camping/Camp Pit Fire 02.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Camping/Camp Pit Fire 02.usd",
+   "size": 24955,
+   "sha256": "080a8e469e6c5b608e90eb0eb8d2a38fad933d8bd165d6417a369e1a694f62a7"
+  },
+  {
+   "path": "media/props/Camping/Campfire.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Camping/Campfire.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/props/Camping/Campfire.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/Campfire.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/props/Camping/Campfire.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/Campfire.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Camping/Campfire.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Camping/Campfire.usd",
+   "size": 97823,
+   "sha256": "d42eb730f074b64dd95553e67148df12f432492eaf71170c9a949ef543a3082a"
+  },
+  {
+   "path": "media/props/Camping/Cooker (Spit).cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Camping/Cooker (Spit).cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Camping/Cooker (Spit).cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/Cooker (Spit).cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/props/Camping/Cooker (Spit).cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/Cooker (Spit).cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/props/Camping/Cooker (Spit).cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/Cooker (Spit).cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/props/Camping/Cooker (Spit).cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/Cooker (Spit).cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Camping/Cooker (Spit).cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Camping/Cooker (Spit).usd",
+   "size": 129068,
+   "sha256": "205d4a98a2a009a7f7f90d1e525c3dc814c679ea1d7a069de59bcedba792791e"
+  },
+  {
+   "path": "media/props/Camping/Cooker (Tripod).cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Camping/Cooker (Tripod).cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Camping/Cooker (Tripod).cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/Cooker (Tripod).cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Camping/Cooker (Tripod).cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/Cooker (Tripod).cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/props/Camping/Cooker (Tripod).cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/Cooker (Tripod).cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/props/Camping/Cooker (Tripod).cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/Cooker (Tripod).cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Camping/Cooker (Tripod).cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Camping/Cooker (Tripod).usd",
+   "size": 154838,
+   "sha256": "a23d06b129cd1287a1b3fb17defffb09c28acf6026dd6bf552ddaa645c2fc9c9"
+  },
+  {
+   "path": "media/props/Camping/Lean to skin 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Camping/Lean to skin 01.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Camping/Lean to skin 01.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/Lean to skin 01.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Camping/Lean to skin 01.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Camping/Lean to skin 01.usd",
+   "size": 33142,
+   "sha256": "5320fd71ae277b904936422db01d3a77bcf3c61a8f6b19a131f6333b43609da7"
+  },
+  {
+   "path": "media/props/Camping/Lean to skin 02.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Camping/Lean to skin 02.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Camping/Lean to skin 02.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/Lean to skin 02.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Camping/Lean to skin 02.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Camping/Lean to skin 02.usd",
+   "size": 32787,
+   "sha256": "a2ffc495af592b76f752682cab170b506e93dcd3db146c167e92ccc49b5d8eaa"
+  },
+  {
+   "path": "media/props/Camping/Swordfish bonfire.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Camping/Swordfish bonfire.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/props/Camping/Swordfish bonfire.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/Swordfish bonfire.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/props/Camping/Swordfish bonfire.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/Swordfish bonfire.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/props/Camping/Swordfish bonfire.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/Swordfish bonfire.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Camping/Swordfish bonfire.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Camping/Swordfish bonfire.usd",
+   "size": 122584,
+   "sha256": "a34fb1482dec54c7a126056ab41fbcafcca22e38dd6c7a4d24bc35b7827fcb27"
+  },
+  {
+   "path": "media/props/Camping/Tent 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Camping/Tent 01.cooked/textures/paper.avif",
+   "size": 1729,
+   "sha256": "700bd99d1997a1a20d90a673a4e698cf36fb4f8ffedafff69a6c93b3d8c7ad70"
+  },
+  {
+   "path": "media/props/Camping/Tent 01.cooked/textures/paper_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/Tent 01.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Camping/Tent 01.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/Tent 01.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Camping/Tent 01.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Camping/Tent 01.usd",
+   "size": 33857,
+   "sha256": "44a977fcb1aa8cfa402b41b558e71a79bc7854000ee2649cd045a681f1e59623"
+  },
+  {
+   "path": "media/props/Camping/Tent 02.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Camping/Tent 02.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Camping/Tent 02.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/Tent 02.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Camping/Tent 02.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Camping/Tent 02.usd",
+   "size": 32864,
+   "sha256": "0007dc665bb1c790a09ca3850e52d14f887c4ceaac8a39281c58fa9c50e59c34"
+  },
+  {
+   "path": "media/props/Camping/Tent 03.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Camping/Tent 03.cooked/textures/paper.avif",
+   "size": 1729,
+   "sha256": "700bd99d1997a1a20d90a673a4e698cf36fb4f8ffedafff69a6c93b3d8c7ad70"
+  },
+  {
+   "path": "media/props/Camping/Tent 03.cooked/textures/paper_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/Tent 03.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Camping/Tent 03.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/Tent 03.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Camping/Tent 03.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Camping/Tent 03.usd",
+   "size": 32249,
+   "sha256": "c0b99ba49164dedef870098200245bc3b6dbaac26a2c7f91432ae5a8a7ef8d6f"
+  },
+  {
+   "path": "media/props/Camping/camp supplies back pack.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Camping/camp supplies back pack.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Camping/camp supplies back pack.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/camp supplies back pack.cooked/textures/grass.avif",
+   "size": 852,
+   "sha256": "9dcc6896f4054bb5a3911e06d27ea275aa7858e33e9fa46ab96a5c8244755a69"
+  },
+  {
+   "path": "media/props/Camping/camp supplies back pack.cooked/textures/grass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/camp supplies back pack.cooked/textures/jade.avif",
+   "size": 756,
+   "sha256": "9f63b3de989e52a14a4e018da19a51f73e2de06c5d27ac931b87798041dfdfbe"
+  },
+  {
+   "path": "media/props/Camping/camp supplies back pack.cooked/textures/jade_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/camp supplies back pack.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Camping/camp supplies back pack.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/camp supplies back pack.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Camping/camp supplies back pack.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Camping/camp supplies back pack.usd",
+   "size": 61405,
+   "sha256": "955e85f7e116f7da1c36964c3fc25a5384a68a61acdeb309cf5868af9980efb6"
+  },
+  {
+   "path": "media/props/Camping/camp supplies.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Camping/camp supplies.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Camping/camp supplies.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/camp supplies.cooked/textures/grass.avif",
+   "size": 852,
+   "sha256": "9dcc6896f4054bb5a3911e06d27ea275aa7858e33e9fa46ab96a5c8244755a69"
+  },
+  {
+   "path": "media/props/Camping/camp supplies.cooked/textures/grass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/camp supplies.cooked/textures/jade.avif",
+   "size": 756,
+   "sha256": "9f63b3de989e52a14a4e018da19a51f73e2de06c5d27ac931b87798041dfdfbe"
+  },
+  {
+   "path": "media/props/Camping/camp supplies.cooked/textures/jade_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/camp supplies.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Camping/camp supplies.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Camping/camp supplies.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Camping/camp supplies.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Camping/camp supplies.usd",
+   "size": 61296,
+   "sha256": "5ec40624ff7964c536d7ee1a48e3dedefad5d1cefc7c34e0a85c2b50105882c9"
+  },
+  {
+   "path": "scenery/bed-floor-01.md",
+   "size": 292,
+   "sha256": "093e357b7035d49c3d19183697a587c9ff4a2f56358ac94034c549b2bc7ad22f"
+  },
+  {
+   "path": "scenery/bed-floor-maple-leaves.md",
+   "size": 312,
+   "sha256": "1ddf032d0de1d497df4bd6fb85af484c4f8e868189f27a794f3974b105faee9f"
+  },
+  {
+   "path": "scenery/bed-fur-01.md",
+   "size": 282,
+   "sha256": "9c37b2b64d759e6df52a7fc2ac7201958e90bbf9b87309b44f563c4faefd4f4a"
+  },
+  {
+   "path": "scenery/bed-straw-01.md",
+   "size": 286,
+   "sha256": "b7818fa5d7e41c191bbd0a45009b8b0a08bd419de59f8eeffad268c743397286"
+  },
+  {
+   "path": "scenery/bed-wrapped-01.md",
+   "size": 251,
+   "sha256": "eea267de7125142071c330b0da337c19a0e7b3b318d22ee7098c40b9df4a28a0"
+  },
+  {
+   "path": "scenery/camp-pit-fire-01.md",
+   "size": 278,
+   "sha256": "7392b1ad24d2515e04f0d897e1b401b21ae39be310368966d8fff77b1fa9b9de"
+  },
+  {
+   "path": "scenery/camp-pit-fire-02.md",
+   "size": 238,
+   "sha256": "c9ba66f6e47a3e565b1e23f70c4181f3d4c5c679e637a7c304eee642c2d91992"
+  },
+  {
+   "path": "scenery/camp-supplies-back-pack.md",
+   "size": 310,
+   "sha256": "ada8a286caa2f6cc3cc52abe5fb5329eb99599ce59e488653e48640e91aa2153"
+  },
+  {
+   "path": "scenery/camp-supplies.md",
+   "size": 286,
+   "sha256": "d8fe420c40bb1af398278543622ca219653052f69133503fab95add222c78d93"
+  },
+  {
+   "path": "scenery/campfire.md",
+   "size": 305,
+   "sha256": "db195fdbe31daacfd9971ce95130a6aaed03a8eba6246fdd939208cf8ea338e8"
+  },
+  {
+   "path": "scenery/cooker-spit.md",
+   "size": 340,
+   "sha256": "e67dfc7f226485c2f407860038eb5c34dadbaa32db66de67d3dcb29e21f081ac"
+  },
+  {
+   "path": "scenery/cooker-tripod.md",
+   "size": 337,
+   "sha256": "51e629a72661dcdb7bc2020996a0daf24eb552eb476aeb5ea5f784ce94107365"
+  },
+  {
+   "path": "scenery/lean-to-skin-01.md",
+   "size": 277,
+   "sha256": "7dfac3fd57bd3f969628291e259c8835bba79fbd9e8f0b1b9b4e48b99f67428d"
+  },
+  {
+   "path": "scenery/lean-to-skin-02.md",
+   "size": 269,
+   "sha256": "5f035014c02b12c6e7491fc21134087ad503111aa7f97b125e7d794c91b940fd"
+  },
+  {
+   "path": "scenery/swordfish-bonfire.md",
+   "size": 317,
+   "sha256": "f48b955ed5637a2bceec09e76f6260617bc02c928d3cdea49eae785fa9fee839"
+  },
+  {
+   "path": "scenery/tent-01.md",
+   "size": 254,
+   "sha256": "d36124abd522142763478f79258560cffc515813517d6b40992d210011036d18"
+  },
+  {
+   "path": "scenery/tent-02.md",
+   "size": 259,
+   "sha256": "eddd36cc62a4cbcf3ed356bcc9607b048cbbde11fb76dd9f6d45530066b39f2d"
+  },
+  {
+   "path": "scenery/tent-03.md",
+   "size": 254,
+   "sha256": "2fb723261b7ece654696a579d2f7e9acc654f6be12ed8f41622542d3af877038"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Bed floor 01",
+   "kind": "scenery",
+   "thumb": "thumbs/56c31bad-1fbd-4650-a645-eed9f4efd2e6.jpg",
+   "tags": [
+    "bed",
+    "pillow",
+    "blanket",
+    "rest",
+    "sleeping",
+    "sleep",
+    "shelter",
+    "tan",
+    "green",
+    "cloth",
+    "canvas",
+    "medium",
+    "travelling",
+    "camping",
+    "camp"
+   ]
+  },
+  {
+   "name": "Bed floor maple leaves",
+   "kind": "scenery",
+   "thumb": "thumbs/2832028b-f8da-4fb9-87e5-12b8678ee3f5.jpg",
+   "tags": [
+    "bed",
+    "pillow",
+    "blanket",
+    "rest",
+    "sleeping",
+    "sleep",
+    "shelter",
+    "tan",
+    "green",
+    "cloth",
+    "canvas",
+    "medium",
+    "travelling",
+    "camping",
+    "camp"
+   ]
+  },
+  {
+   "name": "Bed fur 01",
+   "kind": "scenery",
+   "thumb": "thumbs/93e03a25-ed1b-44c4-bddd-31e1fca673c2.jpg",
+   "tags": [
+    "bed",
+    "fur",
+    "pillow",
+    "blanket",
+    "rest",
+    "sleeping",
+    "sleep",
+    "shelter",
+    "brown",
+    "bedroll",
+    "medium",
+    "travelling",
+    "camping",
+    "camp"
+   ]
+  },
+  {
+   "name": "Bed straw 01",
+   "kind": "scenery",
+   "thumb": "thumbs/176b805c-6985-4ec3-8bb6-a5146e87b506.jpg",
+   "tags": [
+    "bed",
+    "straw",
+    "pillow",
+    "blanket",
+    "rest",
+    "sleeping",
+    "sleep",
+    "shelter",
+    "hay",
+    "bedroll",
+    "medium",
+    "travelling",
+    "camping",
+    "camp"
+   ]
+  },
+  {
+   "name": "Bed wrapped 01",
+   "kind": "scenery",
+   "thumb": "thumbs/36131b72-b944-4bc2-880c-54576c6afe79.jpg",
+   "tags": [
+    "bed",
+    "rest",
+    "sleep",
+    "sleeping",
+    "bedroll",
+    "travelling",
+    "small",
+    "camping",
+    "camp"
+   ]
+  },
+  {
+   "name": "Camp Pit Fire 01",
+   "kind": "scenery",
+   "thumb": "thumbs/0f8a4bb2-2213-4a79-8695-27cd0c277ce2.jpg",
+   "tags": [
+    "illuminated",
+    "light",
+    "lit",
+    "fire",
+    "wood",
+    "brown",
+    "glow",
+    "glowing",
+    "travelling",
+    "medium",
+    "camping",
+    "camp"
+   ]
+  },
+  {
+   "name": "Camp Pit Fire 02",
+   "kind": "scenery",
+   "thumb": "thumbs/64d97a08-5e7f-49b6-885f-c9da9229a099.jpg",
+   "tags": [
+    "fire",
+    "wood",
+    "brown",
+    "travelling",
+    "medium",
+    "camping",
+    "camp"
+   ]
+  },
+  {
+   "name": "camp supplies back pack",
+   "kind": "scenery",
+   "thumb": "thumbs/808d1e45-9666-415b-b44e-5986d55581a3.jpg",
+   "tags": [
+    "sack",
+    "book",
+    "leather",
+    "blue",
+    "orange",
+    "cloth",
+    "travelling",
+    "small",
+    "supplies",
+    "bag",
+    "backpack",
+    "container",
+    "camping",
+    "camp"
+   ]
+  },
+  {
+   "name": "camp supplies",
+   "kind": "scenery",
+   "thumb": "thumbs/5161b3d7-09ac-4e3f-9c54-1685e5ac404e.jpg",
+   "tags": [
+    "jug",
+    "sack",
+    "leather",
+    "cloth",
+    "turquoise",
+    "blue",
+    "brown",
+    "soft",
+    "tiny",
+    "travelling",
+    "supplies",
+    "bottle",
+    "camping",
+    "camp"
+   ]
+  },
+  {
+   "name": "Campfire",
+   "kind": "scenery",
+   "thumb": "thumbs/6e22a681-4902-4cc4-a5f2-2284fb3c53b6.jpg",
+   "tags": [
+    "campfire",
+    "illuminated",
+    "light",
+    "lit",
+    "fire",
+    "wood",
+    "stone",
+    "brown",
+    "grey",
+    "gray",
+    "rest",
+    "cooking",
+    "glow",
+    "glowing",
+    "travelling",
+    "small",
+    "camping",
+    "camp"
+   ]
+  },
+  {
+   "name": "Cooker (Spit)",
+   "kind": "scenery",
+   "thumb": "thumbs/20456f8a-a9eb-44d7-9c7b-dd6b225d058b.jpg",
+   "tags": [
+    "campfire",
+    "illuminated",
+    "light",
+    "lit",
+    "fire",
+    "wood",
+    "stone",
+    "brown",
+    "grey",
+    "gray",
+    "rest",
+    "cooking",
+    "glow",
+    "glowing",
+    "meat",
+    "roast",
+    "beef",
+    "food",
+    "travelling",
+    "small",
+    "camping",
+    "camp"
+   ]
+  },
+  {
+   "name": "Cooker (Tripod)",
+   "kind": "scenery",
+   "thumb": "thumbs/b4d969c6-7caf-47ee-b943-325fb15dd0fa.jpg",
+   "tags": [
+    "campfire",
+    "illuminated",
+    "light",
+    "lit",
+    "fire",
+    "wood",
+    "stone",
+    "brown",
+    "grey",
+    "gray",
+    "rest",
+    "cooking",
+    "glow",
+    "glowing",
+    "food",
+    "soup",
+    "stew",
+    "travelling",
+    "small",
+    "camping",
+    "camp"
+   ]
+  },
+  {
+   "name": "Lean to skin 01",
+   "kind": "scenery",
+   "thumb": "thumbs/01f78346-ba56-4c2f-af9b-aa4cc1ba1b64.jpg",
+   "tags": [
+    "leanto",
+    "tent",
+    "shelter",
+    "leather",
+    "cloth",
+    "canvis",
+    "fur",
+    "canvas",
+    "medium",
+    "travelling",
+    "camping",
+    "camp"
+   ]
+  },
+  {
+   "name": "Lean to skin 02",
+   "kind": "scenery",
+   "thumb": "thumbs/2d623191-fd9b-4814-8634-f8e44a65c458.jpg",
+   "tags": [
+    "leanto",
+    "shelter",
+    "tent",
+    "leather",
+    "cloth",
+    "fur",
+    "canvas",
+    "travelling",
+    "medium",
+    "camping",
+    "camp"
+   ]
+  },
+  {
+   "name": "Swordfish bonfire",
+   "kind": "scenery",
+   "thumb": "thumbs/7c4ae6a9-851f-4839-b668-106ca2a21602.jpg",
+   "tags": [
+    "camping",
+    "swordfish",
+    "sword",
+    "metal",
+    "steel",
+    "wood",
+    "fire",
+    "campfire",
+    "bonfire",
+    "purple",
+    "pink",
+    "yellow",
+    "orange",
+    "red",
+    "medium",
+    "unique",
+    "backer"
+   ]
+  },
+  {
+   "name": "Tent 01",
+   "kind": "scenery",
+   "thumb": "thumbs/cb166dc4-53ec-4768-bcc3-3f7cee45d74f.jpg",
+   "tags": [
+    "tent",
+    "rest",
+    "sleeping",
+    "sleep",
+    "shelter",
+    "cloth",
+    "canvas",
+    "travelling",
+    "medium",
+    "camping",
+    "camp"
+   ]
+  },
+  {
+   "name": "Tent 02",
+   "kind": "scenery",
+   "thumb": "thumbs/7ad4220c-ef78-4f89-9588-e688cb47408f.jpg",
+   "tags": [
+    "tent",
+    "rest",
+    "sleeping",
+    "sleep",
+    "shelter",
+    "cloth",
+    "fur",
+    "canvas",
+    "travelling",
+    "medium",
+    "camping",
+    "camp"
+   ]
+  },
+  {
+   "name": "Tent 03",
+   "kind": "scenery",
+   "thumb": "thumbs/62cfd121-bc78-48b7-9363-2b62d106ed2a.jpg",
+   "tags": [
+    "tent",
+    "rest",
+    "sleeping",
+    "sleep",
+    "shelter",
+    "cloth",
+    "canvas",
+    "travelling",
+    "medium",
+    "camping",
+    "camp"
+   ]
+  }
+ ]
+}

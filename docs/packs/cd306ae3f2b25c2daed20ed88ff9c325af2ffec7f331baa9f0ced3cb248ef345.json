@@ -1,0 +1,2073 @@
+{
+ "id": "a69f8f06-400f-564a-8a0f-ab07d9507954",
+ "folder": "Desert Village Tiles.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 1236,
+   "sha256": "2b42a383ddcbb90d940aaf899c215556a1f8d362549afa176d33eef617b7c534"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 34841,
+   "sha256": "61642d7f4270bb9b75cb82e5de79f04aa034f27fa463a0e1b0cafc71ca1e4f1f"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert Pillar.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert Pillar.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert Pillar.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert Pillar.usd",
+   "size": 38308,
+   "sha256": "441aa19b20ef125373d578bf955a515b1c5fe34ef40e92cfb0c5c6d5b33de80b"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert Stair.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert Stair.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert Stair.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert Stair.usd",
+   "size": 15849,
+   "sha256": "5dc606fe7251345bb66b343764d9f8bd6997c5bdbd01c331cb0327f440806452"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert bar corner.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert bar corner.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert bar corner.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert bar corner.usd",
+   "size": 21898,
+   "sha256": "391e106763e9b4b37f76b4d0396b45f927177aacb80f8ec181e4b06a334fd429"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert bar.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert bar.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert bar.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert bar.usd",
+   "size": 9810,
+   "sha256": "7a8ab6466d5f77990439aa3852626a73a47531ae78dcc1f26d1b01aac693d8d4"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence corner 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence corner 01.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence corner 01.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence corner 01.usd",
+   "size": 34011,
+   "sha256": "9a7d5b08fda41d8b6d2e6061878ad7fdc585226074d45e6ca41a5416bbdced1b"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence corner 02.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence corner 02.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence corner 02.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence corner 02.usd",
+   "size": 54202,
+   "sha256": "ff7d8f3a755a0cab8c34f84f3c25856e882dc034da0cc5052d1f697e52a5483e"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence corner 03.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence corner 03.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence corner 03.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence corner 03.usd",
+   "size": 54201,
+   "sha256": "6975b4629cedcb3437de7962583bad0d3f09c8ccfb5cd2939a1c9ae655f895db"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence corner.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence corner.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence corner.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence corner.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence corner.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence corner.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence corner.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence corner.usd",
+   "size": 101944,
+   "sha256": "841a3a6e034cafb4a08aaa99f836ba09a927bef39a3faa47b64884294dc97be3"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence low.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence low.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence low.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence low.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence low.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence low.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence low.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence low.usd",
+   "size": 53781,
+   "sha256": "242233b464eb0ef99e2298ac5ea2e6a7c2df57c45470b24b08d427d7b2b16905"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert fence.usd",
+   "size": 53571,
+   "sha256": "06cb9e152f3e7710cb67ef7955ea2066c88ad3fda53de214df57f9f30fc48f53"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor 01.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor 01.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor 01.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor 01.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor 01.usd",
+   "size": 17629,
+   "sha256": "c9287f8b892ee922ce0378455e8f90782e20703496b627e4abcdabb07d1362b9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor 02.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor 02.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor 02.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor 02.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor 02.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor 02.usd",
+   "size": 52914,
+   "sha256": "cab15ffa7940770bbce95f99d53e2c77a6b314c5d76ec5393776c26c0674cf0f"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor 03.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor 03.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor 03.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor 03.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor 03.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor 03.usd",
+   "size": 17598,
+   "sha256": "36bcb38967deb8ec188ec6b8f56047f059afc940e63592919c7a80aac89d6aff"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor 04.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor 04.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor 04.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor 04.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor 04.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor 04.usd",
+   "size": 45479,
+   "sha256": "2760830e0aaf45f01a8fd30b71ddfa130cec86ecaa9471278a2bb41f46fcb228"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor decor 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor decor 01.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor decor 01.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor decor 01.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor decor 01.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor decor 01.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor decor 01.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor decor 01.usd",
+   "size": 33631,
+   "sha256": "248599b8fe7a6e555dd11e8f43f1100152bee3966a29b24a0ee6e1e8c408f5a6"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor decor corner 02.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor decor corner 02.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor decor corner 02.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor decor corner 02.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor decor corner 02.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor decor corner 02.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor decor corner 02.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor decor corner 02.usd",
+   "size": 67990,
+   "sha256": "1ecfe790f9591b253ab55f735662be07fabfad0932adcd3a649471323d193350"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor decor corner.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor decor corner.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor decor corner.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor decor corner.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor decor corner.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor decor corner.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor decor corner.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert floor decor corner.usd",
+   "size": 33586,
+   "sha256": "2576c1a4eb48aab8a278940cc946804151f38d50e7194dd24fb726969167d26b"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert stair block.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert stair block.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert stair block.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert stair block.usd",
+   "size": 9847,
+   "sha256": "61381ace345c40a0e54fb7df9d5207a03b71ec376c340097bc54c54c0602da3a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert stone floor 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert stone floor 01.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert stone floor 01.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert stone floor 01.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert stone floor 01.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert stone floor 01.usd",
+   "size": 17629,
+   "sha256": "2d501be086422855c120460aae2011cf12f413f2dd39bbb382f598b15989bbb1"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert stone floor 02.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert stone floor 02.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert stone floor 02.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert stone floor 02.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert stone floor 02.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert stone floor 02.usd",
+   "size": 52672,
+   "sha256": "2d05450e0c44279eaa0946f988f2961fcf5b2114ca2c7d60926391557067b951"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall 01.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall 01.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall 01.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall 01.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall 01.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall 01.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall 01.usd",
+   "size": 81902,
+   "sha256": "12bb263e6331b51087eae0e0ea3b5232c6abe8aa9675898015d30242aa1543d4"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall 02.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall 02.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall 02.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall 02.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall 02.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall 02.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall 02.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall 02.usd",
+   "size": 81900,
+   "sha256": "b352891efb5367021eaefb53fc37eb080f28bd28bdfc14251cf7110d720015e7"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall 03.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall 03.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall 03.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall 03.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall 03.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall 03.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall 03.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall 03.usd",
+   "size": 81620,
+   "sha256": "23440b4a2a743522237ce7119b81e1dc088028ff9102f2448639c1f6af5338c6"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall 04.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall 04.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall 04.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall 04.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall 04.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall 04.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall 04.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall 04.usd",
+   "size": 81903,
+   "sha256": "c9bc84fa03748283cb462b2b54b98edcf588e6b0e621614513ea7c65231df70d"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall corner 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall corner 01.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall corner 01.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall corner 01.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall corner 01.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall corner 01.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall corner 01.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall corner 01.usd",
+   "size": 157407,
+   "sha256": "79a16474914778239c74f213dbcaeb435ede2e17d1e83f5fdf3a90e18f9fae21"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall corner 03.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall corner 03.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall corner 03.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall corner 03.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall corner 03.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall corner 03.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall corner 03.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall corner 03.usd",
+   "size": 157921,
+   "sha256": "ee88d2d18a3c4d6661069ff13aa6430cd6c1f39dd6046e2251bbebff8dad0e2d"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall corner 04.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall corner 04.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall corner 04.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall corner 04.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall corner 04.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall corner 04.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall corner 04.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall corner 04.usd",
+   "size": 157068,
+   "sha256": "7755da1cf27d1cb6ad4120fa3abb2226e14e57a682c56520c5a70fd9901dc2f4"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall corner 05.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall corner 05.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall corner 05.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall corner 05.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall corner 05.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall corner 05.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall corner 05.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall corner 05.usd",
+   "size": 157503,
+   "sha256": "79fab10e51e93bcc860ead70a74b3bb0b405b1da4bdfd20bdd825739acf417b7"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor 01.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor 01.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor 01.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor 01.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor 01.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor 01.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor 01.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor 01.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor 01.usd",
+   "size": 107541,
+   "sha256": "c9d813d93688f899cfda23315c67ccbaa151248595f31e3d8b94f989ea1ec733"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor 02.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor 02.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor 02.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor 02.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor 02.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor 02.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor 02.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor 02.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor 02.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor 02.usd",
+   "size": 96508,
+   "sha256": "92fa363edf27701e1024a57bb09790cdae3db72026d26843b862947811330de6"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor corner 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor corner 01.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor corner 01.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor corner 01.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor corner 01.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor corner 01.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor corner 01.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor corner 01.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor corner 01.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor corner 01.usd",
+   "size": 172127,
+   "sha256": "9844b07cdeb04e53b3bdb04cfa73e22b584aea2948ab6076ef4e6dac768671d2"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor corner 03.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor corner 03.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor corner 03.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor corner 03.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor corner 03.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor corner 03.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor corner 03.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor corner 03.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor corner 03.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor corner 03.usd",
+   "size": 205526,
+   "sha256": "a24744bf46b4d2efd4fa1fdc44edbbb81510c84d66b2bdd481d9a656ea75eeab"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor corner 05.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor corner 05.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor corner 05.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor corner 05.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor corner 05.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor corner 05.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor corner 05.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor corner 05.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor corner 05.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall floor corner 05.usd",
+   "size": 205530,
+   "sha256": "2fb115d59a38296c3b2f0d225c683caffb140f54044f6c7404f0eefbdbea4c50"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall window 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall window 01.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall window 01.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall window 01.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall window 01.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall window 01.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall window 01.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall window 01.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall window 01.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall window 01.usd",
+   "size": 119210,
+   "sha256": "c01e896597b53c6fc72f2236b9d50b0c9837cf500cd8f3276f81745c98d7982a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall window 02.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall window 02.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall window 02.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall window 02.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall window 02.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall window 02.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall window 02.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall window 02.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall window 02.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Desert Village/Desert wall window 02.usd",
+   "size": 119577,
+   "sha256": "4ceccb7f9d338c5ae330c2aaf1db9cd9cff3ab7c8c158cbac562fcea4d9a885d"
+  },
+  {
+   "path": "scenery/desert-bar-corner.md",
+   "size": 290,
+   "sha256": "37d13e7f7f0081b4584c8d28afef8ef86804a6f78223d89d2558cc5b86340931"
+  },
+  {
+   "path": "scenery/desert-bar.md",
+   "size": 276,
+   "sha256": "fc7b1fbaf226a4a0a7bb6efa1c9d5ee88c22ac4f2fe5c6375084dd9fd66d8387"
+  },
+  {
+   "path": "scenery/desert-fence-corner-01.md",
+   "size": 302,
+   "sha256": "821669f0814ae60f8e939ffb2f96b703702dc7a8bb887e0967bc4d07b5d65644"
+  },
+  {
+   "path": "scenery/desert-fence-corner-02.md",
+   "size": 302,
+   "sha256": "4977884a861f3e5099f53c8ee2a71bdd90d9315a75b31ae0d55787f367179dd8"
+  },
+  {
+   "path": "scenery/desert-fence-corner-03.md",
+   "size": 302,
+   "sha256": "0190a8240eda59eb200717bc2083f38e6828680050563364141a4dad63f62173"
+  },
+  {
+   "path": "scenery/desert-fence-corner.md",
+   "size": 296,
+   "sha256": "ee32f65d128130117a1140dd10c3cc58a0bdb62c267a02d5bf1c6d7196a1fd53"
+  },
+  {
+   "path": "scenery/desert-fence-low.md",
+   "size": 290,
+   "sha256": "204160c0f0563b1834903a35ac05ecfa6602ba826683517c2c3cb8e646e46579"
+  },
+  {
+   "path": "scenery/desert-fence.md",
+   "size": 282,
+   "sha256": "59e0c30b7cc22f4d7bcaa1ad6849b6b851bf3904eeee980ba0c805ca6faf9a7a"
+  },
+  {
+   "path": "scenery/desert-floor-01.md",
+   "size": 295,
+   "sha256": "c04c5923b6b78feeb21313bae311ce6e97bff43f82245446d79638cb313e4a97"
+  },
+  {
+   "path": "scenery/desert-floor-02.md",
+   "size": 289,
+   "sha256": "72d95d1434170b592d5cc87f6f9b44564c2a00ddc2d7a9d6e1abe455ae83d0c2"
+  },
+  {
+   "path": "scenery/desert-floor-03.md",
+   "size": 295,
+   "sha256": "e146c3de267072f1353e199b0962f0a3ee05bd9b53f4c59f280d9167b1555af0"
+  },
+  {
+   "path": "scenery/desert-floor-04.md",
+   "size": 289,
+   "sha256": "9805cecfe36318102f90700aebca5a3dba996d71d591752616ad3eaf95076de9"
+  },
+  {
+   "path": "scenery/desert-floor-decor-01.md",
+   "size": 307,
+   "sha256": "9e78a1038a3f7cc570da32821ff6586ef33dc6a1671648d9b5e7b552ef467854"
+  },
+  {
+   "path": "scenery/desert-floor-decor-corner-02.md",
+   "size": 321,
+   "sha256": "4c356c5a6e5845c57f3132bc774a263859a7d8cb1141cec0ddf02aaa9b340883"
+  },
+  {
+   "path": "scenery/desert-floor-decor-corner.md",
+   "size": 315,
+   "sha256": "2eebc48f9bfc4522ef77d1cde6873d09b50b0ac241d1293d1e26baf6450c50ac"
+  },
+  {
+   "path": "scenery/desert-pillar.md",
+   "size": 233,
+   "sha256": "dd32a0385323ca1d0aa6e10055b2effc0c460cac343fa6b42eb7dc0dcf211cc4"
+  },
+  {
+   "path": "scenery/desert-stair-block.md",
+   "size": 295,
+   "sha256": "9cf225e7427c2eeae2b39c4cd3922442de6528c0281a609a7d58c726a501cd2c"
+  },
+  {
+   "path": "scenery/desert-stair.md",
+   "size": 238,
+   "sha256": "0f01366e55416285c025d71430e313dc61aa653614986cc247c946ec550453a5"
+  },
+  {
+   "path": "scenery/desert-stone-floor-01.md",
+   "size": 300,
+   "sha256": "b8c6be06e87660ef14279ad6366bc4cf01a0d389c5f251d12c2eece221c941de"
+  },
+  {
+   "path": "scenery/desert-stone-floor-02.md",
+   "size": 308,
+   "sha256": "41179a04269944f8b789369569ed80ca67fc74c8012973c9233acf49b253b70e"
+  },
+  {
+   "path": "scenery/desert-wall-01.md",
+   "size": 285,
+   "sha256": "8729a12c7f511ed4dbe00c05acfac1f0203a4a8a2617f62ccf6272867c44d845"
+  },
+  {
+   "path": "scenery/desert-wall-02.md",
+   "size": 286,
+   "sha256": "b56ff7e5695c934e6d1c9015e843aca7a9a0572ba268bd141736a5af5df2f994"
+  },
+  {
+   "path": "scenery/desert-wall-03.md",
+   "size": 286,
+   "sha256": "3e6fdae4231a35bdcebb7267997ced8ce5d38d09d31d3ff0fcc0461a97d3470e"
+  },
+  {
+   "path": "scenery/desert-wall-04.md",
+   "size": 285,
+   "sha256": "d82669b20d484d08fc5c29c20f0f5ea59d51336285f81be3432219338d47970e"
+  },
+  {
+   "path": "scenery/desert-wall-corner-01.md",
+   "size": 308,
+   "sha256": "95ffb2c691e87d0c0a58e80f0fc5a3b8ddd48b9441d3dbfe6a9e4c9515f8072e"
+  },
+  {
+   "path": "scenery/desert-wall-corner-03.md",
+   "size": 308,
+   "sha256": "ba0dd0a5d6ca9aebd79e76116de9aaf45f3ffd3565e40bcd0512015e3fed56c6"
+  },
+  {
+   "path": "scenery/desert-wall-corner-04.md",
+   "size": 308,
+   "sha256": "0ab7c5dff7b6d42f83b87e4f3d4d80f2c7866c0583777c58d01e84040a59fc75"
+  },
+  {
+   "path": "scenery/desert-wall-corner-05.md",
+   "size": 307,
+   "sha256": "0b7a37fd8afab167d91def1e7dc6c8f9c9c4fd499c16912367aebbac3bef24de"
+  },
+  {
+   "path": "scenery/desert-wall-floor-01.md",
+   "size": 297,
+   "sha256": "3294b5de634cae219532345b66eccaaf6d82dda08f9771666d498caf37da4a46"
+  },
+  {
+   "path": "scenery/desert-wall-floor-02.md",
+   "size": 298,
+   "sha256": "35869c469b6742bae1cda5e495788862e293d3d49be0211a93b9ab664df8e09c"
+  },
+  {
+   "path": "scenery/desert-wall-floor-corner-01.md",
+   "size": 320,
+   "sha256": "7104a92b08015b27cc43de53e51353c9e8c89545225145f8a49e01e095320c5f"
+  },
+  {
+   "path": "scenery/desert-wall-floor-corner-03.md",
+   "size": 319,
+   "sha256": "e035e46fb58c475e6204ac0b10166c22ba5e458f13fb501b2ecf900b23e26d90"
+  },
+  {
+   "path": "scenery/desert-wall-floor-corner-05.md",
+   "size": 319,
+   "sha256": "2dae9441e20808d2123c53ac7d3ceb535e7e5a3d61727dbdcc9555383101bc11"
+  },
+  {
+   "path": "scenery/desert-wall-window-01.md",
+   "size": 299,
+   "sha256": "768885b9a7c73c2b785a5db582c69a79a4b887fcd414e727fcc18ab9bba4854b"
+  },
+  {
+   "path": "scenery/desert-wall-window-02.md",
+   "size": 300,
+   "sha256": "3a69aa9e4509877590d98b89d6d680c2a1d596806944f82c85d631a4b4c98da2"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Desert bar corner",
+   "kind": "scenery",
+   "thumb": "thumbs/0e7dd7de-ab95-4e78-8ddf-26d3170cc142.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "bar",
+    "village",
+    "small",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert bar",
+   "kind": "scenery",
+   "thumb": "thumbs/b66bda7f-2b5b-450b-a058-ad8c5d4bc266.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "bar",
+    "village",
+    "small",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert fence corner 01",
+   "kind": "scenery",
+   "thumb": "thumbs/889ed1ce-dd13-4956-af71-3bc263a63b69.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "village",
+    "small",
+    "fence",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert fence corner 02",
+   "kind": "scenery",
+   "thumb": "thumbs/af4710b5-ef42-4c9f-99df-c424a247d8a5.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "fence",
+    "village",
+    "small",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert fence corner 03",
+   "kind": "scenery",
+   "thumb": "thumbs/fc8d0bce-9833-47c8-a6b3-01c6b2fed5cb.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "village",
+    "small",
+    "fence",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert fence corner",
+   "kind": "scenery",
+   "thumb": "thumbs/78193eda-9e60-4fe7-b1b9-21110b4e120e.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "village",
+    "small",
+    "fence",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert fence low",
+   "kind": "scenery",
+   "thumb": "thumbs/75e3ce71-d2a6-4476-83a9-bcfac9651be6.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "village",
+    "small",
+    "fence",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert fence",
+   "kind": "scenery",
+   "thumb": "thumbs/a07cef93-5b9f-477e-aa9a-b66a1c76c471.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "village",
+    "small",
+    "fence",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert floor 01",
+   "kind": "scenery",
+   "thumb": "thumbs/35a4af95-4afc-45a8-a657-a5601f4ad879.jpg",
+   "tags": [
+    "desert-village",
+    "floor",
+    "desert",
+    "floor",
+    "village",
+    "small",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert floor 02",
+   "kind": "scenery",
+   "thumb": "thumbs/9536a8fb-ab44-4b73-a430-6d17fd6316d4.jpg",
+   "tags": [
+    "desert-village",
+    "floor",
+    "desert",
+    "village",
+    "medium",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert floor 03",
+   "kind": "scenery",
+   "thumb": "thumbs/4245fbdd-8c05-4f1f-bc3a-ed60dedbddaf.jpg",
+   "tags": [
+    "desert-village",
+    "floor",
+    "desert",
+    "floor",
+    "village",
+    "small",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert floor 04",
+   "kind": "scenery",
+   "thumb": "thumbs/6d57a25c-fd2f-40a4-b868-597762041843.jpg",
+   "tags": [
+    "desert-village",
+    "floor",
+    "desert",
+    "village",
+    "medium",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert floor decor 01",
+   "kind": "scenery",
+   "thumb": "thumbs/6ae18603-ef06-431e-9e53-d7ffe6b17b30.jpg",
+   "tags": [
+    "desert-village",
+    "floor",
+    "desert",
+    "floor",
+    "village",
+    "small",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert floor decor corner 02",
+   "kind": "scenery",
+   "thumb": "thumbs/03361c62-5d2c-4d58-8692-70b23a36e05f.jpg",
+   "tags": [
+    "desert-village",
+    "floor",
+    "desert",
+    "floor",
+    "village",
+    "small",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert floor decor corner",
+   "kind": "scenery",
+   "thumb": "thumbs/221867eb-99b1-4246-a47d-31b902ed2067.jpg",
+   "tags": [
+    "desert-village",
+    "floor",
+    "desert",
+    "floor",
+    "village",
+    "small",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert Pillar",
+   "kind": "scenery",
+   "thumb": "thumbs/ff7a5675-053a-4e2a-97d9-28904d3108f0.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "pillar",
+    "village"
+   ]
+  },
+  {
+   "name": "Desert stair block",
+   "kind": "scenery",
+   "thumb": "thumbs/d4317fa6-cdfb-4533-8f7e-bed1c8839585.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "stairs",
+    "village",
+    "small",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert Stair",
+   "kind": "scenery",
+   "thumb": "thumbs/f76d22ad-70af-4c37-b222-0d8944b59733.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "stairs",
+    "village",
+    "small"
+   ]
+  },
+  {
+   "name": "Desert stone floor 01",
+   "kind": "scenery",
+   "thumb": "thumbs/ce330020-b299-4512-8957-3c74e5e6ef90.jpg",
+   "tags": [
+    "desert-village",
+    "floor",
+    "desert",
+    "village",
+    "small",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert stone floor 02",
+   "kind": "scenery",
+   "thumb": "thumbs/ed6a96ab-857f-4ea2-ae2c-490f0da92533.jpg",
+   "tags": [
+    "desert-village",
+    "floor",
+    "desert",
+    "floor",
+    "village",
+    "medium",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert wall 01",
+   "kind": "scenery",
+   "thumb": "thumbs/d9f2f65f-ab6e-4c02-b4c0-6793fd2ba49c.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "wall",
+    "village",
+    "large",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert wall 02",
+   "kind": "scenery",
+   "thumb": "thumbs/d3313868-0459-4e00-be2d-7ed99fbe7f72.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "wall",
+    "village",
+    "medium",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert wall 03",
+   "kind": "scenery",
+   "thumb": "thumbs/f486efae-dee0-4526-a231-6a3f477cdbd5.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "wall",
+    "village",
+    "medium",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert wall 04",
+   "kind": "scenery",
+   "thumb": "thumbs/595c8d05-49ec-4bbc-a0b6-85ea613095e5.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "wall",
+    "village",
+    "large",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert wall corner 01",
+   "kind": "scenery",
+   "thumb": "thumbs/05e77997-3382-48e2-b09f-114b40894e19.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "wall",
+    "village",
+    "medium",
+    "corner",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert wall  corner 03",
+   "kind": "scenery",
+   "thumb": "thumbs/350b7829-ec03-418c-a067-686f2bb1bd65.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "wall",
+    "village",
+    "large",
+    "corner",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert wall  corner 04",
+   "kind": "scenery",
+   "thumb": "thumbs/20efe4a8-8c59-4eba-99c1-a7c07edb7e62.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "wall",
+    "village",
+    "large",
+    "corner",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert wall corner 05",
+   "kind": "scenery",
+   "thumb": "thumbs/aaae0ac1-946d-43f0-970f-daaabb0a51b0.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "wall",
+    "village",
+    "large",
+    "corner",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert wall floor 01",
+   "kind": "scenery",
+   "thumb": "thumbs/f1df0fec-badf-432b-8cf8-154f938aa755.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "wall",
+    "village",
+    "large",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert wall floor 02",
+   "kind": "scenery",
+   "thumb": "thumbs/2c70d1ce-d76e-44cf-980d-d69dd521204b.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "wall",
+    "village",
+    "medium",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert wall floor corner 01",
+   "kind": "scenery",
+   "thumb": "thumbs/af2a956b-85f1-48a3-b077-777373fedc85.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "wall",
+    "village",
+    "medium",
+    "corner",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert wall floor corner 03",
+   "kind": "scenery",
+   "thumb": "thumbs/4dc088c2-98e0-42b7-967e-bb910766ee18.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "wall",
+    "village",
+    "large",
+    "corner",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert wall floor corner 05",
+   "kind": "scenery",
+   "thumb": "thumbs/01443ee2-a8bb-426f-962f-0267fa2f2d37.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "wall",
+    "village",
+    "large",
+    "corner",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert wall window 01",
+   "kind": "scenery",
+   "thumb": "thumbs/c3de8ad5-3f73-4df0-9283-c8cd99521b53.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "wall",
+    "village",
+    "large",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  },
+  {
+   "name": "Desert wall window 02",
+   "kind": "scenery",
+   "thumb": "thumbs/a25e97f9-6cee-47fb-89b7-d924791a7ae8.jpg",
+   "tags": [
+    "desert-village",
+    "desert",
+    "wall",
+    "village",
+    "medium",
+    "brown",
+    "orange",
+    "stone",
+    "mud",
+    "sandstone",
+    "oasis"
+   ]
+  }
+ ]
+}

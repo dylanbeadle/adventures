@@ -1,0 +1,1451 @@
+{
+ "id": "3c1a1789-3aed-547c-b114-6541e392787e",
+ "folder": "Rural Tiles.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 950,
+   "sha256": "c51d026dcfbefd9e37a0ae395d0fe0acd3b01fe98f90d7d129e888e2d441559a"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 34493,
+   "sha256": "86766fba3ae4040ff32580159dab78a82cf70b2f4a8f2469c255fe7fe5d5bb68"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Corner Floor 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Corner Floor 01.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Corner Floor 01.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Corner Floor 01.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Corner Floor 01.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Corner Floor 01.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Corner Floor 01.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Corner Floor 01.cooked/textures/plaster.avif",
+   "size": 1692,
+   "sha256": "e531dabaec11a2d11dcbf1f3b070ee160d9b3ad88fea467194588c5ed1375fc2"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Corner Floor 01.cooked/textures/plaster_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Corner Floor 01.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Corner Floor 01.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Corner Floor 01.usd",
+   "size": 89933,
+   "sha256": "f1d267203033e35690aba1a10afb511efe79de20c5684a150fa449c103118cbe"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Corner Floor 02.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Corner Floor 02.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Corner Floor 02.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Corner Floor 02.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Corner Floor 02.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Corner Floor 02.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Corner Floor 02.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Corner Floor 02.cooked/textures/plaster.avif",
+   "size": 1692,
+   "sha256": "e531dabaec11a2d11dcbf1f3b070ee160d9b3ad88fea467194588c5ed1375fc2"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Corner Floor 02.cooked/textures/plaster_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Corner Floor 02.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Corner Floor 02.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Corner Floor 02.usd",
+   "size": 114999,
+   "sha256": "a929c760316cb0f50390adab4271a9cf00e7bce62b545fd91697b8b86bbfbe15"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Corner.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Corner.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Corner.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Corner.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Corner.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Corner.cooked/textures/plaster.avif",
+   "size": 1692,
+   "sha256": "e531dabaec11a2d11dcbf1f3b070ee160d9b3ad88fea467194588c5ed1375fc2"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Corner.cooked/textures/plaster_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Corner.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Corner.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Corner.usd",
+   "size": 56240,
+   "sha256": "369dc857935a6c1fcd5af96eeb68b9199dd86bbe257dbceaa29b9c64a88fa5cf"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor 01.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor 01.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor 01.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor 01.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor 01.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor 01.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor 01.usd",
+   "size": 39683,
+   "sha256": "48a5cb63a4b8f940bff49c826e6f6a1d0ce10e7f80ee81554a9f5bd1e8e72f87"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor 02.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor 02.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor 02.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor 02.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor 02.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor 02.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor 02.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor 02.usd",
+   "size": 39640,
+   "sha256": "aef395b0a36e2e9699f5999b8ed458c8777669fcdee72d569564841e03f91831"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor 03.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor 03.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor 03.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor 03.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor 03.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor 03.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor 03.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor 03.usd",
+   "size": 65535,
+   "sha256": "47b31bab0489ef85aaf8f6da8d820530b413597b7dca37e34493e94e1866fac0"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor 04.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor 04.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor 04.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor 04.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor 04.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor 04.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor 04.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor 04.usd",
+   "size": 65344,
+   "sha256": "63692c3e01fc23ef56ee94d05e44b6f14def9050d450a8fbd8ba0f135382735f"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor Wall Window 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor Wall Window 01.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor Wall Window 01.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor Wall Window 01.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor Wall Window 01.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor Wall Window 01.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor Wall Window 01.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor Wall Window 01.cooked/textures/plaster.avif",
+   "size": 1692,
+   "sha256": "e531dabaec11a2d11dcbf1f3b070ee160d9b3ad88fea467194588c5ed1375fc2"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor Wall Window 01.cooked/textures/plaster_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor Wall Window 01.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor Wall Window 01.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor Wall Window 01.usd",
+   "size": 105132,
+   "sha256": "f02c79f9cdc88fbd59df915140a28180b80e950db05ce6051b8d36723e41fbe3"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor Wall Window 02.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor Wall Window 02.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor Wall Window 02.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor Wall Window 02.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor Wall Window 02.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor Wall Window 02.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor Wall Window 02.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor Wall Window 02.cooked/textures/plaster.avif",
+   "size": 1692,
+   "sha256": "e531dabaec11a2d11dcbf1f3b070ee160d9b3ad88fea467194588c5ed1375fc2"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor Wall Window 02.cooked/textures/plaster_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor Wall Window 02.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor Wall Window 02.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Floor Wall Window 02.usd",
+   "size": 105728,
+   "sha256": "942d9eba1eecb9858566f27e499973e18a3763661abe7250e5f5748a4821411c"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Inner Corner Floor.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Inner Corner Floor.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Inner Corner Floor.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Inner Corner Floor.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Inner Corner Floor.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Inner Corner Floor.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Inner Corner Floor.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Inner Corner Floor.cooked/textures/plaster.avif",
+   "size": 1692,
+   "sha256": "e531dabaec11a2d11dcbf1f3b070ee160d9b3ad88fea467194588c5ed1375fc2"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Inner Corner Floor.cooked/textures/plaster_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Inner Corner Floor.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Inner Corner Floor.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Inner Corner Floor.usd",
+   "size": 89963,
+   "sha256": "9a609869b817ed730911dde6664b7c5049da7444ec69c077d440da6354fe7f48"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Inner Corner.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Inner Corner.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Inner Corner.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Inner Corner.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Inner Corner.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Inner Corner.cooked/textures/plaster.avif",
+   "size": 1692,
+   "sha256": "e531dabaec11a2d11dcbf1f3b070ee160d9b3ad88fea467194588c5ed1375fc2"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Inner Corner.cooked/textures/plaster_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Inner Corner.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Inner Corner.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Inner Corner.usd",
+   "size": 55901,
+   "sha256": "2bc170fc797d6c1f7816a5ab511aaa0bac14428e87b46c36a93205961a43c3d4"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Railing Flat Corner.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Railing Flat Corner.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Railing Flat Corner.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Railing Flat Corner.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Railing Flat Corner.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Railing Flat Corner.usd",
+   "size": 35595,
+   "sha256": "5d07497f42b6a8a2b8b96ebaed6c2c15d5ca63e753b68fca8c01c01715361b28"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Stairs Flat Railing.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Stairs Flat Railing.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Stairs Flat Railing.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Stairs Flat Railing.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Stairs Flat Railing.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Stairs Flat Railing.usd",
+   "size": 24889,
+   "sha256": "5bdd2b2e9d4f62765a0ad08408ba3830c6c8b499ae0f8a2782a7e4492af25795"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Stairs Flat.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Stairs Flat.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Stairs Flat.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Stairs Flat.usd",
+   "size": 15295,
+   "sha256": "524eb3c76052e176d2588a8319d928a2a1d8898f89a6c4444374705b3f4ca4ee"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Stairs Railing 02.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Stairs Railing 02.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Stairs Railing 02.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Stairs Railing 02.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Stairs Railing 02.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Stairs Railing 02.usd",
+   "size": 24572,
+   "sha256": "65e904fbb5d9f78402509800879472bd5ac20b2303e5f54985f7161cf55e9927"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Stairs Railing.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Stairs Railing.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Stairs Railing.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Stairs Railing.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Stairs Railing.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Stairs Railing.usd",
+   "size": 24858,
+   "sha256": "eef80fcaab9ba703fb1b9b7609d3741397f0ac40053588058c4645dcc62e62d9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Stairs.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Stairs.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Stairs.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Stairs.usd",
+   "size": 15823,
+   "sha256": "6084ee47472fc1dd3fdfaa9277dc0cd1b29af69e8dcc60f732ecaaa56f54a3f5"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall 01.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall 01.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall 01.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall 01.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall 01.cooked/textures/plaster.avif",
+   "size": 1692,
+   "sha256": "e531dabaec11a2d11dcbf1f3b070ee160d9b3ad88fea467194588c5ed1375fc2"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall 01.cooked/textures/plaster_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall 01.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall 01.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall 01.usd",
+   "size": 30380,
+   "sha256": "d29f2286f1a5fe52cb7674ab21734e809c6f1e806cee743deac0f547feb3312c"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall 02.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall 02.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall 02.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall 02.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall 02.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall 02.cooked/textures/plaster.avif",
+   "size": 1692,
+   "sha256": "e531dabaec11a2d11dcbf1f3b070ee160d9b3ad88fea467194588c5ed1375fc2"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall 02.cooked/textures/plaster_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall 02.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall 02.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall 02.usd",
+   "size": 30684,
+   "sha256": "e0e96457d7298bd7a12a749de341add13137ebcbeba13536c681ab242259a7b1"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Floor 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Floor 01.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Floor 01.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Floor 01.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Floor 01.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Floor 01.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Floor 01.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Floor 01.cooked/textures/plaster.avif",
+   "size": 1692,
+   "sha256": "e531dabaec11a2d11dcbf1f3b070ee160d9b3ad88fea467194588c5ed1375fc2"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Floor 01.cooked/textures/plaster_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Floor 01.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Floor 01.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Floor 01.usd",
+   "size": 65032,
+   "sha256": "8f74173900b0526987a6eba326bb01763f16f8b9c43c6f7bb1693a3a1a022998"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Floor 02__42e6daf2.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Floor 02__42e6daf2.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Floor 02__42e6daf2.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Floor 02__42e6daf2.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Floor 02__42e6daf2.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Floor 02__42e6daf2.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Floor 02__42e6daf2.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Floor 02__42e6daf2.cooked/textures/plaster.avif",
+   "size": 1692,
+   "sha256": "e531dabaec11a2d11dcbf1f3b070ee160d9b3ad88fea467194588c5ed1375fc2"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Floor 02__42e6daf2.cooked/textures/plaster_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Floor 02__42e6daf2.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Floor 02__42e6daf2.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Floor 02__42e6daf2.usd",
+   "size": 89214,
+   "sha256": "4a0a3cd933e1ab3b10df396c40c0fabfe214b36e17099582abedec80d0e0d685"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Floor 02__94aee0af.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Floor 02__94aee0af.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Floor 02__94aee0af.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Floor 02__94aee0af.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Floor 02__94aee0af.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Floor 02__94aee0af.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Floor 02__94aee0af.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Floor 02__94aee0af.cooked/textures/plaster.avif",
+   "size": 1692,
+   "sha256": "e531dabaec11a2d11dcbf1f3b070ee160d9b3ad88fea467194588c5ed1375fc2"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Floor 02__94aee0af.cooked/textures/plaster_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Floor 02__94aee0af.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Floor 02__94aee0af.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Floor 02__94aee0af.usd",
+   "size": 90552,
+   "sha256": "2e3dc5dfe2e69be8002440275dff3ddaf2084a9057e40e8b84fc567103f041a1"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Window.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Window.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Window.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Window.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Window.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Window.cooked/textures/plaster.avif",
+   "size": 1692,
+   "sha256": "e531dabaec11a2d11dcbf1f3b070ee160d9b3ad88fea467194588c5ed1375fc2"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Window.cooked/textures/plaster_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Window.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Window.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Rural/Rural Wall Window.usd",
+   "size": 45749,
+   "sha256": "084a8c202d62ece5c2b171b1d6c2987eba7633b8355eec521e3da00851a49089"
+  },
+  {
+   "path": "scenery/rural-corner-floor-01.md",
+   "size": 225,
+   "sha256": "2f50a999c55467fe484c22de6f746ff79911bc22a0e2e0a811401680778d8524"
+  },
+  {
+   "path": "scenery/rural-corner-floor-02.md",
+   "size": 224,
+   "sha256": "ca626098b7526a0123b6b815334e583f38f704483f95d8f080584eea57b8b679"
+  },
+  {
+   "path": "scenery/rural-corner.md",
+   "size": 207,
+   "sha256": "059c238f7122810a81d4b6c7b0646eb26b861f077f905cec4ed83e8914ab7c9c"
+  },
+  {
+   "path": "scenery/rural-floor-01.md",
+   "size": 203,
+   "sha256": "94a08911ae6d4ce5bdb8076f1546c9115bb20b00fd9b6ce0d5131fc7ffd5429c"
+  },
+  {
+   "path": "scenery/rural-floor-02.md",
+   "size": 203,
+   "sha256": "c738c5f03edd7d5ec9d58c36819af3197aa6c01ed3850542ef03e6499bd6187c"
+  },
+  {
+   "path": "scenery/rural-floor-03.md",
+   "size": 204,
+   "sha256": "bf6e49d3c87649c1682c7eb329eeaa09579774025a14ea66cd9db281fd033c68"
+  },
+  {
+   "path": "scenery/rural-floor-04.md",
+   "size": 203,
+   "sha256": "cc0fbb69c2914ce12d44ef4c7d11191a41d72e839896089b8f3ec70684a3b9b5"
+  },
+  {
+   "path": "scenery/rural-floor-wall-window-01.md",
+   "size": 234,
+   "sha256": "57fa443b7a53b03c66cf84de5ebb135cfb1dade9a280b88b6f842cf296ec9d79"
+  },
+  {
+   "path": "scenery/rural-floor-wall-window-02.md",
+   "size": 234,
+   "sha256": "ab560ff51a35da0aeb1dfb86138602974699c096f1269bd046c2922adffd9a35"
+  },
+  {
+   "path": "scenery/rural-inner-corner-floor.md",
+   "size": 237,
+   "sha256": "cd16d773d1f647b79b0493d3f0cf88958e26ce9ab97c3927ead80280c07b6145"
+  },
+  {
+   "path": "scenery/rural-inner-corner.md",
+   "size": 218,
+   "sha256": "440a084c9b4c0240dc20d8334cee687c353a2295807e977132b72854ab1d4b29"
+  },
+  {
+   "path": "scenery/rural-railing-flat-corner.md",
+   "size": 242,
+   "sha256": "af813202eb475db6e0ceb823dbe1113b46fae73141417688cd0a1d862e277d4a"
+  },
+  {
+   "path": "scenery/rural-stairs-flat-railing.md",
+   "size": 242,
+   "sha256": "a380da5e2641a6218554d9fdb332dbddd7613579c3a29d839af07357d31e139b"
+  },
+  {
+   "path": "scenery/rural-stairs-flat.md",
+   "size": 217,
+   "sha256": "3a18e1ece82e9cb6173d6f287a9ccec71673cfd440021f0ec8cd7e4f1c8f8b8b"
+  },
+  {
+   "path": "scenery/rural-stairs-railing-02.md",
+   "size": 231,
+   "sha256": "70714b7d3d92d29a3a263f68a82a5de21120f237b72176953c280508cc404a76"
+  },
+  {
+   "path": "scenery/rural-stairs-railing.md",
+   "size": 216,
+   "sha256": "ced02583bac5fa9ddffac9f9d13f91e07e2f83d99327629db640236cac5ad654"
+  },
+  {
+   "path": "scenery/rural-stairs.md",
+   "size": 200,
+   "sha256": "81a96fc16078fd10a5740558163e9c4a9dce58dc12639b989d4420668a1c39dd"
+  },
+  {
+   "path": "scenery/rural-wall-01.md",
+   "size": 200,
+   "sha256": "66950673279cf2cf032b83324ff43e7835669a34de11a66ba86826c7298d1241"
+  },
+  {
+   "path": "scenery/rural-wall-02.md",
+   "size": 200,
+   "sha256": "30e642bc37d922a0f6e0188a18252a53e9b5a2d0a7c9b14f95fdf2b36cccabb5"
+  },
+  {
+   "path": "scenery/rural-wall-floor-01.md",
+   "size": 213,
+   "sha256": "b04e615cc7d2b35b3d3924200ef5a7bba20989e35fcfe9ca29c6a5350865cc6f"
+  },
+  {
+   "path": "scenery/rural-wall-floor-02-1x2.md",
+   "size": 228,
+   "sha256": "f167cbdf9c476ed19297a32f2a743252d714c18b16cdad77b1bacc1b1ee90339"
+  },
+  {
+   "path": "scenery/rural-wall-floor-02-2x2.md",
+   "size": 228,
+   "sha256": "e44e1597fe82e159342916f118ced2b97dfebef2db86be8970c65e236206219d"
+  },
+  {
+   "path": "scenery/rural-wall-window.md",
+   "size": 216,
+   "sha256": "23df7495b7b1ce48f24f4bf274a2983e1b265ea225b0d63242bd0ce2a0ca2481"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Rural Corner Floor 01",
+   "kind": "scenery",
+   "thumb": "thumbs/632ac7be-4a35-4249-a561-53b250d91293.jpg",
+   "tags": [
+    "wood",
+    "wall",
+    "corner",
+    "rural",
+    "medium"
+   ]
+  },
+  {
+   "name": "Rural Corner Floor 02",
+   "kind": "scenery",
+   "thumb": "thumbs/6a1a6139-3449-4e4a-81e2-eb6d120257e3.jpg",
+   "tags": [
+    "wood",
+    "wall",
+    "corner",
+    "rural",
+    "large"
+   ]
+  },
+  {
+   "name": "Rural Corner",
+   "kind": "scenery",
+   "thumb": "thumbs/489c204c-1369-4267-a468-6077b2e8dd8c.jpg",
+   "tags": [
+    "wood",
+    "wall",
+    "corner",
+    "rural",
+    "medium"
+   ]
+  },
+  {
+   "name": "Rural Floor 01",
+   "kind": "scenery",
+   "thumb": "thumbs/db9902bc-cc36-4172-ae60-df9d5eaee4e7.jpg",
+   "tags": [
+    "floor",
+    "wood",
+    "rural",
+    "small"
+   ]
+  },
+  {
+   "name": "Rural Floor 02",
+   "kind": "scenery",
+   "thumb": "thumbs/654a2e59-a5cf-439c-a897-59578264f3e8.jpg",
+   "tags": [
+    "floor",
+    "wood",
+    "rural",
+    "small"
+   ]
+  },
+  {
+   "name": "Rural Floor 03",
+   "kind": "scenery",
+   "thumb": "thumbs/a4522b17-969b-4f19-8b58-ae5c22d10bff.jpg",
+   "tags": [
+    "floor",
+    "wood",
+    "rural",
+    "medium"
+   ]
+  },
+  {
+   "name": "Rural Floor 04",
+   "kind": "scenery",
+   "thumb": "thumbs/6e8cee0f-afe4-4538-b0df-b339ab42bebb.jpg",
+   "tags": [
+    "floor",
+    "wood",
+    "rural",
+    "large"
+   ]
+  },
+  {
+   "name": "Rural Floor Wall Window 01",
+   "kind": "scenery",
+   "thumb": "thumbs/16249ea5-95a0-40de-a723-81981e2c0400.jpg",
+   "tags": [
+    "wood",
+    "wall",
+    "rural",
+    "window",
+    "large"
+   ]
+  },
+  {
+   "name": "Rural Floor Wall Window 02",
+   "kind": "scenery",
+   "thumb": "thumbs/4af04a3c-77b0-477f-bf53-e2e3b18db027.jpg",
+   "tags": [
+    "wood",
+    "wall",
+    "rural",
+    "window",
+    "large"
+   ]
+  },
+  {
+   "name": "Rural Inner Corner Floor",
+   "kind": "scenery",
+   "thumb": "thumbs/9b3123d5-90f9-412c-802a-72edf5177dcb.jpg",
+   "tags": [
+    "wood",
+    "wall",
+    "corner",
+    "rural",
+    "floor",
+    "small"
+   ]
+  },
+  {
+   "name": "Rural Inner Corner",
+   "kind": "scenery",
+   "thumb": "thumbs/6db20a42-b868-43af-93eb-290a880a1afa.jpg",
+   "tags": [
+    "wood",
+    "wall",
+    "corner",
+    "rural",
+    "small"
+   ]
+  },
+  {
+   "name": "Rural Railing Flat Corner",
+   "kind": "scenery",
+   "thumb": "thumbs/af836d01-5333-4d12-9f67-244df536c3ac.jpg",
+   "tags": [
+    "wood",
+    "stairs",
+    "rural",
+    "railing",
+    "floor",
+    "small"
+   ]
+  },
+  {
+   "name": "Rural Stairs Flat Railing",
+   "kind": "scenery",
+   "thumb": "thumbs/f1fdd6eb-4b37-41fa-8992-5b249f9c0e41.jpg",
+   "tags": [
+    "wood",
+    "stairs",
+    "rural",
+    "floor",
+    "railing",
+    "small"
+   ]
+  },
+  {
+   "name": "Rural Stairs Flat",
+   "kind": "scenery",
+   "thumb": "thumbs/e0c243d2-67c9-486e-9f32-a075be971c39.jpg",
+   "tags": [
+    "wood",
+    "stairs",
+    "rural",
+    "floor",
+    "small"
+   ]
+  },
+  {
+   "name": "Rural Stairs Railing 02",
+   "kind": "scenery",
+   "thumb": "thumbs/845a598d-e036-45f9-915d-2987f76a37a5.jpg",
+   "tags": [
+    "wood",
+    "stairs",
+    "rural",
+    "railing",
+    "small"
+   ]
+  },
+  {
+   "name": "Rural Stairs Railing",
+   "kind": "scenery",
+   "thumb": "thumbs/1514732a-1382-4624-8e91-1c2042aeac65.jpg",
+   "tags": [
+    "wood",
+    "stairs",
+    "rural",
+    "small"
+   ]
+  },
+  {
+   "name": "Rural Stairs",
+   "kind": "scenery",
+   "thumb": "thumbs/fd31ea7e-0b05-4caa-a3df-439c2e3b6a31.jpg",
+   "tags": [
+    "wood",
+    "stairs",
+    "rural",
+    "small"
+   ]
+  },
+  {
+   "name": "Rural Wall 01",
+   "kind": "scenery",
+   "thumb": "thumbs/0c3b3167-f45b-4751-b410-f45aea257adb.jpg",
+   "tags": [
+    "wood",
+    "wall",
+    "rural",
+    "large"
+   ]
+  },
+  {
+   "name": "Rural Wall 02",
+   "kind": "scenery",
+   "thumb": "thumbs/231ed553-f9f7-45a8-9415-3ef5859371eb.jpg",
+   "tags": [
+    "wood",
+    "wall",
+    "rural",
+    "large"
+   ]
+  },
+  {
+   "name": "Rural Wall Floor 01",
+   "kind": "scenery",
+   "thumb": "thumbs/ecc47cd7-0da1-429a-8a5a-3668f8f3b3cd.jpg",
+   "tags": [
+    "wood",
+    "wall",
+    "rural",
+    "medium"
+   ]
+  },
+  {
+   "name": "Rural Wall Floor 02 (1x2)",
+   "kind": "scenery",
+   "thumb": "thumbs/94aee0af-4148-4afa-99e6-8ea47258cf46.jpg",
+   "tags": [
+    "wood",
+    "wall",
+    "rural",
+    "large"
+   ]
+  },
+  {
+   "name": "Rural Wall Floor 02 (2x2)",
+   "kind": "scenery",
+   "thumb": "thumbs/42e6daf2-8313-4cd6-8066-472c4f902ffc.jpg",
+   "tags": [
+    "wood",
+    "wall",
+    "rural",
+    "large"
+   ]
+  },
+  {
+   "name": "Rural Wall Window",
+   "kind": "scenery",
+   "thumb": "thumbs/75c7d3e9-752c-46f8-aa85-d58bc5e16e36.jpg",
+   "tags": [
+    "wood",
+    "wall",
+    "window",
+    "rural",
+    "large"
+   ]
+  }
+ ]
+}

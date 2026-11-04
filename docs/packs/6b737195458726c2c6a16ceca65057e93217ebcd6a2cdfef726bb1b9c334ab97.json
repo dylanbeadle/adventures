@@ -1,0 +1,508 @@
+{
+ "id": "ec5ed8a1-aa9c-5277-a3d7-8d6915cb5323",
+ "folder": "Constructs Creatures.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 580,
+   "sha256": "21530abc0807da2bab99cbc35409a1f48955a2db3e82945b02e90c14f6094d24"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 17159,
+   "sha256": "41f7116840bb3108e428a28f0a75249fbc1f32e13b8b3ff76a2fa2af206b49a9"
+  },
+  {
+   "path": "creatures/clay-golem.md",
+   "size": 307,
+   "sha256": "06fdf8cc238d3bd299ed3022c143c7efa919c668fff76d3a3eb65439e090a005"
+  },
+  {
+   "path": "creatures/golem-flesh.md",
+   "size": 327,
+   "sha256": "9d069649924d4eb9e933f1b84888684f816965e00108124233b487d0e192e303"
+  },
+  {
+   "path": "creatures/homunculus-buttons.md",
+   "size": 337,
+   "sha256": "b929867f048656e62ac97146f5f3f9c00b36506d3586ae005d52dccc09fad868"
+  },
+  {
+   "path": "creatures/magic-weapon.md",
+   "size": 339,
+   "sha256": "b9ab68bd59707254621a7a2e70daa653ac9da40a14e7207baa365f76069e2e47"
+  },
+  {
+   "path": "creatures/scarecrow.md",
+   "size": 301,
+   "sha256": "a578f95f16b3853afb25a749ae4d18d8722821741cdf4bc73b3f029cfc50a37f"
+  },
+  {
+   "path": "media/creatures/Constructs/Clay Golem.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Constructs/Clay Golem.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Constructs/Clay Golem.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Constructs/Clay Golem.cooked/textures/bluefire.avif",
+   "size": 1059,
+   "sha256": "66b8eda93e3f51b13722bd4f87107c9b0f61ca9161d964f27a7f96751431a328"
+  },
+  {
+   "path": "media/creatures/Constructs/Clay Golem.cooked/textures/bluefire_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Constructs/Clay Golem.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Constructs/Clay Golem.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Constructs/Clay Golem.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Constructs/Clay Golem.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Constructs/Clay Golem.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/creatures/Constructs/Clay Golem.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Constructs/Clay Golem.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Constructs/Clay Golem.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Constructs/Clay Golem.usd",
+   "size": 454851,
+   "sha256": "feb75d5f6cca54b73d50ccc430b6620f57a6298fe666fd2b9335ef6babf50298"
+  },
+  {
+   "path": "media/creatures/Constructs/Golem, Flesh.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Constructs/Golem, Flesh.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Constructs/Golem, Flesh.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Constructs/Golem, Flesh.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Constructs/Golem, Flesh.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Constructs/Golem, Flesh.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Constructs/Golem, Flesh.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Constructs/Golem, Flesh.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Constructs/Golem, Flesh.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Constructs/Golem, Flesh.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Constructs/Golem, Flesh.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Constructs/Golem, Flesh.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Constructs/Golem, Flesh.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Constructs/Golem, Flesh.usd",
+   "size": 461675,
+   "sha256": "1cde6cc66fc15e838b0cd86ade85fcf78b6b24c7b62e34f5cceff4f42f50566b"
+  },
+  {
+   "path": "media/creatures/Constructs/Homunculus, Buttons.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Constructs/Homunculus, Buttons.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Constructs/Homunculus, Buttons.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Constructs/Homunculus, Buttons.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Constructs/Homunculus, Buttons.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Constructs/Homunculus, Buttons.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Constructs/Homunculus, Buttons.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Constructs/Homunculus, Buttons.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Constructs/Homunculus, Buttons.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Constructs/Homunculus, Buttons.cooked/textures/tanfur.avif",
+   "size": 1162,
+   "sha256": "66ae962664e22529c69fdbd2cbd1c5f05e878c0e8ba56278c5ab1da127630055"
+  },
+  {
+   "path": "media/creatures/Constructs/Homunculus, Buttons.cooked/textures/tanfur_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Constructs/Homunculus, Buttons.usd",
+   "size": 529024,
+   "sha256": "04c1347dfc9c4916437e5699a76a8ef11397c5cdb325487eb9b3c770464f7f27"
+  },
+  {
+   "path": "media/creatures/Constructs/Magic Weapon.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Constructs/Magic Weapon.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Constructs/Magic Weapon.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Constructs/Magic Weapon.cooked/textures/bluefire.avif",
+   "size": 1059,
+   "sha256": "66b8eda93e3f51b13722bd4f87107c9b0f61ca9161d964f27a7f96751431a328"
+  },
+  {
+   "path": "media/creatures/Constructs/Magic Weapon.cooked/textures/bluefire_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Constructs/Magic Weapon.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Constructs/Magic Weapon.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Constructs/Magic Weapon.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Constructs/Magic Weapon.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Constructs/Magic Weapon.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/creatures/Constructs/Magic Weapon.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Constructs/Magic Weapon.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Constructs/Magic Weapon.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Constructs/Magic Weapon.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Constructs/Magic Weapon.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Constructs/Magic Weapon.usd",
+   "size": 133349,
+   "sha256": "b6d1897d76ed4d77df93c5cc7ee8e29eb71242bb320de7d0e9a72a869698b215"
+  },
+  {
+   "path": "media/creatures/Constructs/Scarecrow.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Constructs/Scarecrow.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Constructs/Scarecrow.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Constructs/Scarecrow.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/creatures/Constructs/Scarecrow.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Constructs/Scarecrow.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Constructs/Scarecrow.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Constructs/Scarecrow.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Constructs/Scarecrow.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Constructs/Scarecrow.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/creatures/Constructs/Scarecrow.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Constructs/Scarecrow.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Constructs/Scarecrow.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Constructs/Scarecrow.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/creatures/Constructs/Scarecrow.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Constructs/Scarecrow.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/creatures/Constructs/Scarecrow.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Constructs/Scarecrow.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Constructs/Scarecrow.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Constructs/Scarecrow.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Constructs/Scarecrow.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Constructs/Scarecrow.usd",
+   "size": 770004,
+   "sha256": "4690298817b3a517333854fd49f169c477f3258070ae59c0b3c00c1a43c0ed21"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Clay Golem",
+   "kind": "creature",
+   "thumb": "thumbs/e4051457-473b-4dd7-8910-bf3bdf7fed25.jpg",
+   "tags": [
+    "constructs",
+    "large",
+    "golem",
+    "construct",
+    "clay",
+    "bipedal",
+    "biped",
+    "tan"
+   ]
+  },
+  {
+   "name": "Golem, Flesh",
+   "kind": "creature",
+   "thumb": "thumbs/fbbcac23-a5a6-4ffe-8500-0734a87b9f5c.jpg",
+   "tags": [
+    "constructs",
+    "fleshgolem",
+    "golem",
+    "biped",
+    "bipedal",
+    "construct",
+    "humanoid",
+    "monster"
+   ]
+  },
+  {
+   "name": "Homunculus, Buttons",
+   "kind": "creature",
+   "thumb": "thumbs/f47f7e86-bbf2-4995-a452-9a6eb76e9983.jpg",
+   "tags": [
+    "constructs",
+    "alchemy",
+    "homunculus",
+    "monster",
+    "construct",
+    "small",
+    "quadruped",
+    "tan"
+   ]
+  },
+  {
+   "name": "Magic Weapon",
+   "kind": "creature",
+   "thumb": "thumbs/eaceea7a-a5ab-4a39-bbfe-69c20cafb2fe.jpg",
+   "tags": [
+    "constructs",
+    "weapon",
+    "small",
+    "animatedweapon",
+    "animatedobject",
+    "spiritualweapon",
+    "magic",
+    "neutral"
+   ]
+  },
+  {
+   "name": "Scarecrow",
+   "kind": "creature",
+   "thumb": "thumbs/d3cce6b7-92d2-406a-977a-ec16707063f7.jpg",
+   "tags": [
+    "constructs",
+    "monstrous",
+    "medium",
+    "pumpkin",
+    "farm",
+    "scythe",
+    "monster",
+    "chaotic"
+   ]
+  }
+ ]
+}

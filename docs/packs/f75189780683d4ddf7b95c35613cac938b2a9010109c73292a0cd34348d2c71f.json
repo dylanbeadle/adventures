@@ -1,0 +1,2445 @@
+{
+ "id": "be1afeac-16a6-59b9-a917-c7691c3bf0d7",
+ "folder": "Weapons Props.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 1033,
+   "sha256": "c084f09cac6bd7b5e4ddef4411f67abe400ba60b61b0514bf32e396ed2e05c7f"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 14738,
+   "sha256": "cbb7e8e0d83d67cd2f346637bde74a41159adaf4502d00a04d39be84f441f62c"
+  },
+  {
+   "path": "media/props/Weapons/Axe battle floor.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Weapons/Axe battle floor.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Weapons/Axe battle floor.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/Axe battle floor.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Weapons/Axe battle floor.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/Axe battle floor.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Weapons/Axe battle floor.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/Axe battle floor.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Weapons/Axe battle floor.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Weapons/Axe battle floor.usd",
+   "size": 101347,
+   "sha256": "0f90aacda8d7d036eedb9e3512369b3a7c188c33761d147fc93b59a49a48ef93"
+  },
+  {
+   "path": "media/props/Weapons/Axe battle.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Weapons/Axe battle.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Weapons/Axe battle.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/Axe battle.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Weapons/Axe battle.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/Axe battle.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Weapons/Axe battle.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/Axe battle.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Weapons/Axe battle.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Weapons/Axe battle.usd",
+   "size": 89656,
+   "sha256": "9f85f25b50393452ad1251bdd6f1728c125849687c06143b0c3e2da6ffe8668e"
+  },
+  {
+   "path": "media/props/Weapons/Axe halberd floor.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Weapons/Axe halberd floor.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Weapons/Axe halberd floor.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/Axe halberd floor.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Weapons/Axe halberd floor.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/Axe halberd floor.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Weapons/Axe halberd floor.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/Axe halberd floor.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Weapons/Axe halberd floor.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Weapons/Axe halberd floor.usd",
+   "size": 100989,
+   "sha256": "ec785fca1f22d148dcd864d24ac61f12cda37a36b51e70ccef4e0ae9ff79564b"
+  },
+  {
+   "path": "media/props/Weapons/Shovel, Horizontal.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Weapons/Shovel, Horizontal.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Weapons/Shovel, Horizontal.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/Shovel, Horizontal.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Weapons/Shovel, Horizontal.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/Shovel, Horizontal.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Weapons/Shovel, Horizontal.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/Shovel, Horizontal.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Weapons/Shovel, Horizontal.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Weapons/Shovel, Horizontal.usd",
+   "size": 131315,
+   "sha256": "5d4f496312dd6ca8844e10e674acf382476c2b50aa7c35b97c86b7ed75895271"
+  },
+  {
+   "path": "media/props/Weapons/Shovel, Vertical.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Weapons/Shovel, Vertical.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Weapons/Shovel, Vertical.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/Shovel, Vertical.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Weapons/Shovel, Vertical.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/Shovel, Vertical.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Weapons/Shovel, Vertical.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/Shovel, Vertical.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Weapons/Shovel, Vertical.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Weapons/Shovel, Vertical.usd",
+   "size": 113881,
+   "sha256": "08f649ce8827ef37398cdb58df2020273709e7a4ff62170a1aec433b49731042"
+  },
+  {
+   "path": "media/props/Weapons/axe halberd.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Weapons/axe halberd.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Weapons/axe halberd.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/axe halberd.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Weapons/axe halberd.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/axe halberd.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Weapons/axe halberd.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/axe halberd.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Weapons/axe halberd.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Weapons/axe halberd.usd",
+   "size": 100902,
+   "sha256": "7bd786d1eb0d23765364d5e27103302d05013e238c59392a35bbe31cc7ff514c"
+  },
+  {
+   "path": "media/props/Weapons/dagger floor.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Weapons/dagger floor.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Weapons/dagger floor.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/dagger floor.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Weapons/dagger floor.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/dagger floor.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Weapons/dagger floor.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/dagger floor.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Weapons/dagger floor.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Weapons/dagger floor.usd",
+   "size": 103877,
+   "sha256": "957a497c98946657ebd2b28d1b0c5eb2d3449c06650eabfd3021db45f446c03b"
+  },
+  {
+   "path": "media/props/Weapons/dagger.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Weapons/dagger.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Weapons/dagger.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/dagger.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Weapons/dagger.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/dagger.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Weapons/dagger.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/dagger.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Weapons/dagger.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Weapons/dagger.usd",
+   "size": 104261,
+   "sha256": "d6397c5b80283b136737d7de919f43ce67f8d6f8850e27632129d29548e6f0e6"
+  },
+  {
+   "path": "media/props/Weapons/mace floor.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Weapons/mace floor.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Weapons/mace floor.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/mace floor.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Weapons/mace floor.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/mace floor.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Weapons/mace floor.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/mace floor.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Weapons/mace floor.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Weapons/mace floor.usd",
+   "size": 115158,
+   "sha256": "b47a5f4ac03dfc635861bef7d43d363752ac9a62fb4551dcca08056f00a0b9ce"
+  },
+  {
+   "path": "media/props/Weapons/mace.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Weapons/mace.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Weapons/mace.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/mace.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Weapons/mace.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/mace.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Weapons/mace.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/mace.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Weapons/mace.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Weapons/mace.usd",
+   "size": 126323,
+   "sha256": "3110ff65e78d7d7b179fa05d6ff73e73743aab4a0edeb1b0b1c1b40a25a88534"
+  },
+  {
+   "path": "media/props/Weapons/prop_bow_01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Weapons/prop_bow_01.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Weapons/prop_bow_01.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/prop_bow_01.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Weapons/prop_bow_01.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Weapons/prop_bow_01.usd",
+   "size": 35763,
+   "sha256": "cf80c69b1d12eef28b50cfdc458dc35944481d7d576d59b77dea77f1c342f795"
+  },
+  {
+   "path": "media/props/Weapons/prop_crossbow_01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Weapons/prop_crossbow_01.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Weapons/prop_crossbow_01.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/prop_crossbow_01.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Weapons/prop_crossbow_01.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/prop_crossbow_01.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Weapons/prop_crossbow_01.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Weapons/prop_crossbow_01.usd",
+   "size": 51736,
+   "sha256": "37920036978786f61df4aa74d0119e5e559c66971f89abbc628cdabc20a9960a"
+  },
+  {
+   "path": "media/props/Weapons/prop_dagger_02.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Weapons/prop_dagger_02.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Weapons/prop_dagger_02.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/prop_dagger_02.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Weapons/prop_dagger_02.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/prop_dagger_02.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Weapons/prop_dagger_02.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/prop_dagger_02.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Weapons/prop_dagger_02.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Weapons/prop_dagger_02.usd",
+   "size": 104214,
+   "sha256": "2f35b61ca5a8e01bc79e9169c9507e88e5fbc561dd1845fd03a9645d88aba72b"
+  },
+  {
+   "path": "media/props/Weapons/prop_hammer_01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Weapons/prop_hammer_01.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Weapons/prop_hammer_01.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/prop_hammer_01.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Weapons/prop_hammer_01.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/prop_hammer_01.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Weapons/prop_hammer_01.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/prop_hammer_01.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Weapons/prop_hammer_01.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Weapons/prop_hammer_01.usd",
+   "size": 89448,
+   "sha256": "1f876f379ed321aacf88d92bf6393318006786ea03926d69180296a7de49dcd7"
+  },
+  {
+   "path": "media/props/Weapons/prop_lute_01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Weapons/prop_lute_01.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Weapons/prop_lute_01.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/prop_lute_01.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/props/Weapons/prop_lute_01.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/prop_lute_01.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/props/Weapons/prop_lute_01.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Weapons/prop_lute_01.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Weapons/prop_lute_01.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Weapons/prop_lute_01.usd",
+   "size": 50996,
+   "sha256": "0eced1a17e08263b480c00be1016370eadc6c952cec84bd9e414c23166d1cf2b"
+  },
+  {
+   "path": "media/props/Weapons/prop_pickaxe_01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Weapons/prop_pickaxe_01.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Weapons/prop_pickaxe_01.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/prop_pickaxe_01.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Weapons/prop_pickaxe_01.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/prop_pickaxe_01.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Weapons/prop_pickaxe_01.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/prop_pickaxe_01.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Weapons/prop_pickaxe_01.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Weapons/prop_pickaxe_01.usd",
+   "size": 103290,
+   "sha256": "a7107105dc8d1098bc94731e950b533cc2402a5bdb01c98d982ef13180444c0e"
+  },
+  {
+   "path": "media/props/Weapons/prop_quiver_01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Weapons/prop_quiver_01.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/props/Weapons/prop_quiver_01.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Weapons/prop_quiver_01.cooked/textures/paper.avif",
+   "size": 1729,
+   "sha256": "700bd99d1997a1a20d90a673a4e698cf36fb4f8ffedafff69a6c93b3d8c7ad70"
+  },
+  {
+   "path": "media/props/Weapons/prop_quiver_01.cooked/textures/paper_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/prop_quiver_01.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Weapons/prop_quiver_01.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Weapons/prop_quiver_01.usd",
+   "size": 47830,
+   "sha256": "75404f79684d3bad9f41c8852c622cbf40131a9617ed5bf7727c0aaa0655bd87"
+  },
+  {
+   "path": "media/props/Weapons/prop_scepter_01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Weapons/prop_scepter_01.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/props/Weapons/prop_scepter_01.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/prop_scepter_01.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Weapons/prop_scepter_01.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/prop_scepter_01.cooked/textures/grass.avif",
+   "size": 852,
+   "sha256": "9dcc6896f4054bb5a3911e06d27ea275aa7858e33e9fa46ab96a5c8244755a69"
+  },
+  {
+   "path": "media/props/Weapons/prop_scepter_01.cooked/textures/grass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/prop_scepter_01.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/props/Weapons/prop_scepter_01.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/prop_scepter_01.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Weapons/prop_scepter_01.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/prop_scepter_01.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/props/Weapons/prop_scepter_01.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/prop_scepter_01.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Weapons/prop_scepter_01.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Weapons/prop_scepter_01.usd",
+   "size": 146506,
+   "sha256": "93cf80bd41e74c25b8fe2fac74058c6c6611195052b278314cd4e286d38a61f1"
+  },
+  {
+   "path": "media/props/Weapons/prop_sword_sheathed_01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Weapons/prop_sword_sheathed_01.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Weapons/prop_sword_sheathed_01.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/prop_sword_sheathed_01.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Weapons/prop_sword_sheathed_01.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/prop_sword_sheathed_01.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Weapons/prop_sword_sheathed_01.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/prop_sword_sheathed_01.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Weapons/prop_sword_sheathed_01.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Weapons/prop_sword_sheathed_01.usd",
+   "size": 95923,
+   "sha256": "bcd857585d847a14ba42d093f8ef46a2e12e5799ad05234e46eb50ba4cfcc2fc"
+  },
+  {
+   "path": "media/props/Weapons/prop_whip_01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Weapons/prop_whip_01.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Weapons/prop_whip_01.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Weapons/prop_whip_01.usd",
+   "size": 121730,
+   "sha256": "5ebcf7295ca1d551dd87552c2d4ec088206363d13abbe620c15d4a47ba06d3da"
+  },
+  {
+   "path": "media/props/Weapons/shield basic round.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Weapons/shield basic round.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Weapons/shield basic round.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/shield basic round.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Weapons/shield basic round.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Weapons/shield basic round.usd",
+   "size": 42132,
+   "sha256": "629b856cc5198792fba478a59f4f1bf474dea3def2990291c894cd40ba390895"
+  },
+  {
+   "path": "media/props/Weapons/shield basic.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Weapons/shield basic.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Weapons/shield basic.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/shield basic.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Weapons/shield basic.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Weapons/shield basic.usd",
+   "size": 24680,
+   "sha256": "b16c6009e2cf0ed01a6cfb86b7800c3f5a238517ec665e414fa00906958afec7"
+  },
+  {
+   "path": "media/props/Weapons/sword claymore floor.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Weapons/sword claymore floor.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Weapons/sword claymore floor.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/sword claymore floor.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Weapons/sword claymore floor.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/sword claymore floor.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Weapons/sword claymore floor.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/sword claymore floor.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Weapons/sword claymore floor.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Weapons/sword claymore floor.usd",
+   "size": 87264,
+   "sha256": "d1f6e64950e5ed73b8369b4c2b406646041cb11846e1526e3eba91cb0caca6bf"
+  },
+  {
+   "path": "media/props/Weapons/sword claymore.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Weapons/sword claymore.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Weapons/sword claymore.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/sword claymore.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Weapons/sword claymore.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/sword claymore.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Weapons/sword claymore.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/sword claymore.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Weapons/sword claymore.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Weapons/sword claymore.usd",
+   "size": 104686,
+   "sha256": "115912d177506dc3054fb399fe30a7bf635321a5af4ca84397dfa2a405f2d505"
+  },
+  {
+   "path": "media/props/Weapons/sword floor.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Weapons/sword floor.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Weapons/sword floor.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/sword floor.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Weapons/sword floor.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/sword floor.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Weapons/sword floor.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/sword floor.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Weapons/sword floor.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Weapons/sword floor.usd",
+   "size": 104237,
+   "sha256": "c6497a49cac582e3a06c879d172c19060b650a18b98e814fb469c7d9647af65a"
+  },
+  {
+   "path": "media/props/Weapons/sword katana floor.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Weapons/sword katana floor.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Weapons/sword katana floor.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/sword katana floor.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Weapons/sword katana floor.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/sword katana floor.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Weapons/sword katana floor.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/sword katana floor.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Weapons/sword katana floor.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Weapons/sword katana floor.usd",
+   "size": 104279,
+   "sha256": "615ceb8a8f7185f0fb33c35af3920f2db1810fce35fd022747527272cc4fbb7a"
+  },
+  {
+   "path": "media/props/Weapons/sword katana.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Weapons/sword katana.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Weapons/sword katana.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/sword katana.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Weapons/sword katana.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/sword katana.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Weapons/sword katana.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/sword katana.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Weapons/sword katana.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Weapons/sword katana.usd",
+   "size": 93026,
+   "sha256": "232f34a98338967618de629686c0385988398b421f72d10fa9d7d09b749a4085"
+  },
+  {
+   "path": "media/props/Weapons/sword rapier floor.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Weapons/sword rapier floor.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Weapons/sword rapier floor.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/sword rapier floor.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Weapons/sword rapier floor.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/sword rapier floor.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Weapons/sword rapier floor.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/sword rapier floor.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Weapons/sword rapier floor.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Weapons/sword rapier floor.usd",
+   "size": 115335,
+   "sha256": "3253feac210460218eb3f831aac23c79d3c571c1a1bc1aad7d8a178f1537e050"
+  },
+  {
+   "path": "media/props/Weapons/sword rapier.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Weapons/sword rapier.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Weapons/sword rapier.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/sword rapier.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Weapons/sword rapier.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/sword rapier.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Weapons/sword rapier.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/sword rapier.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Weapons/sword rapier.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Weapons/sword rapier.usd",
+   "size": 98222,
+   "sha256": "a41403cc7627b6ee669da4e28c6e8b7bd9c1b142a837deaa2ca18f03526757e6"
+  },
+  {
+   "path": "media/props/Weapons/sword sabre floor.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Weapons/sword sabre floor.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Weapons/sword sabre floor.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/sword sabre floor.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Weapons/sword sabre floor.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/sword sabre floor.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Weapons/sword sabre floor.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/sword sabre floor.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Weapons/sword sabre floor.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Weapons/sword sabre floor.usd",
+   "size": 93033,
+   "sha256": "6cbaefc4aec7733168d464a8a6b0339d71708c2ecc273a386c574ee3f9dd6dcb"
+  },
+  {
+   "path": "media/props/Weapons/sword sabre.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Weapons/sword sabre.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Weapons/sword sabre.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/sword sabre.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Weapons/sword sabre.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/sword sabre.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Weapons/sword sabre.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/sword sabre.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Weapons/sword sabre.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Weapons/sword sabre.usd",
+   "size": 104267,
+   "sha256": "7bd026673e3fe73672aa2c70770a6c43d60cc6b7f15ccccdf043f02fb4431414"
+  },
+  {
+   "path": "media/props/Weapons/sword short floor.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Weapons/sword short floor.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Weapons/sword short floor.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/sword short floor.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Weapons/sword short floor.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/sword short floor.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Weapons/sword short floor.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/sword short floor.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Weapons/sword short floor.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Weapons/sword short floor.usd",
+   "size": 104682,
+   "sha256": "ccc03c8472dcfde18620c9f504c2a4fe254c1db464ce57e1e1ef116ff0244665"
+  },
+  {
+   "path": "media/props/Weapons/sword short.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Weapons/sword short.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Weapons/sword short.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/sword short.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Weapons/sword short.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/sword short.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Weapons/sword short.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/sword short.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Weapons/sword short.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Weapons/sword short.usd",
+   "size": 104687,
+   "sha256": "6afb31f8b327e1dccb903ca8494a7933df73236f57b44d4652ec7c5312e7bf01"
+  },
+  {
+   "path": "media/props/Weapons/sword.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Weapons/sword.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Weapons/sword.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/sword.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Weapons/sword.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/sword.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Weapons/sword.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/sword.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Weapons/sword.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Weapons/sword.usd",
+   "size": 104657,
+   "sha256": "00149191eb640db4e4e2ac3a39d8eee0b12050d25ad665963f8f6fe7db4b1a50"
+  },
+  {
+   "path": "media/props/Weapons/wand rainbow__4b04a842.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Weapons/wand rainbow__4b04a842.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/props/Weapons/wand rainbow__4b04a842.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/wand rainbow__4b04a842.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Weapons/wand rainbow__4b04a842.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/wand rainbow__4b04a842.cooked/textures/grass.avif",
+   "size": 852,
+   "sha256": "9dcc6896f4054bb5a3911e06d27ea275aa7858e33e9fa46ab96a5c8244755a69"
+  },
+  {
+   "path": "media/props/Weapons/wand rainbow__4b04a842.cooked/textures/grass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/wand rainbow__4b04a842.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/props/Weapons/wand rainbow__4b04a842.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/wand rainbow__4b04a842.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Weapons/wand rainbow__4b04a842.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/wand rainbow__4b04a842.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/props/Weapons/wand rainbow__4b04a842.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/wand rainbow__4b04a842.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Weapons/wand rainbow__4b04a842.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Weapons/wand rainbow__4b04a842.usd",
+   "size": 151790,
+   "sha256": "edfb160cfeb2ff64c47fb81be442fd831f6c4f1c1dc3a9765ab8650ec43f79ae"
+  },
+  {
+   "path": "media/props/Weapons/wand rainbow__8064f5cb.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Weapons/wand rainbow__8064f5cb.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/props/Weapons/wand rainbow__8064f5cb.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/wand rainbow__8064f5cb.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Weapons/wand rainbow__8064f5cb.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/wand rainbow__8064f5cb.cooked/textures/grass.avif",
+   "size": 852,
+   "sha256": "9dcc6896f4054bb5a3911e06d27ea275aa7858e33e9fa46ab96a5c8244755a69"
+  },
+  {
+   "path": "media/props/Weapons/wand rainbow__8064f5cb.cooked/textures/grass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/wand rainbow__8064f5cb.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/props/Weapons/wand rainbow__8064f5cb.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/wand rainbow__8064f5cb.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Weapons/wand rainbow__8064f5cb.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/wand rainbow__8064f5cb.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/props/Weapons/wand rainbow__8064f5cb.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Weapons/wand rainbow__8064f5cb.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Weapons/wand rainbow__8064f5cb.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Weapons/wand rainbow__8064f5cb.usd",
+   "size": 157678,
+   "sha256": "fabcae42417c33866ec00c37a0f6986be7273904f8e883927f5d54c017ec9ce5"
+  },
+  {
+   "path": "scenery/axe-battle-floor.md",
+   "size": 246,
+   "sha256": "bab8e0b2fc72062b77b254544204dc87dc0ffafaf1ed0274cbcfb81eb8189104"
+  },
+  {
+   "path": "scenery/axe-battle.md",
+   "size": 234,
+   "sha256": "d8d6f5ec318556294bad6aa61849648b4da6332ed2fe67051ccc8e8c3ee690e7"
+  },
+  {
+   "path": "scenery/axe-halberd-floor.md",
+   "size": 248,
+   "sha256": "cc655b19890d9b3dbf82ef17165c5a5ec3ae3304344c6acaba2d619cb583a97d"
+  },
+  {
+   "path": "scenery/axe-halberd.md",
+   "size": 236,
+   "sha256": "780ae00b83399f99703a866f4feaa6ccf39657404e1d44e520afbb920d41b502"
+  },
+  {
+   "path": "scenery/dagger-floor.md",
+   "size": 214,
+   "sha256": "f0416380892ee3146a4bb7f2d659ad20e54357f88dfb55f5838df5e526d22ab4"
+  },
+  {
+   "path": "scenery/dagger.md",
+   "size": 202,
+   "sha256": "71e90110f60d88531c517c72768fb8770482b13ac2fd862aa6cd2b9ec0578655"
+  },
+  {
+   "path": "scenery/mace-floor.md",
+   "size": 215,
+   "sha256": "7c35500ca7db6302ac14b6ad9b7b989895085daa5c781cb439c994f7e9a1fa1b"
+  },
+  {
+   "path": "scenery/mace.md",
+   "size": 203,
+   "sha256": "e7a18f84c9b82e63d24177fc77c04d87a607fa0133f362710d1602b128bdf8ee"
+  },
+  {
+   "path": "scenery/prop-bow-01.md",
+   "size": 210,
+   "sha256": "606d64856d93c13036fa15023f352831e2cf657f0ea66284ef3e8017f2082099"
+  },
+  {
+   "path": "scenery/prop-crossbow-01.md",
+   "size": 225,
+   "sha256": "a6e94ddeeafacb111bbd86d6da59f38971d4bd17b5bf79793a8b9bb172034a0a"
+  },
+  {
+   "path": "scenery/prop-dagger-02.md",
+   "size": 205,
+   "sha256": "3bc4c3b7c62a97cb7a94125693b19f66c854a77379ff94ec0a82bd97c163c9dc"
+  },
+  {
+   "path": "scenery/prop-hammer-01.md",
+   "size": 223,
+   "sha256": "27721ff18814435712ea431cc8c4d4baf77c9a47282f148e9d2ecd3d7be016c4"
+  },
+  {
+   "path": "scenery/prop-lute-01.md",
+   "size": 221,
+   "sha256": "529b62012071dfa5f9982f3e62d4812f6aea621f044304b5025d3f6c5a48c7ca"
+  },
+  {
+   "path": "scenery/prop-pickaxe-01.md",
+   "size": 216,
+   "sha256": "c63729c4f720bff6fe7df2397916fa6a3bedab94c39dea4c1a4f609c69ad601a"
+  },
+  {
+   "path": "scenery/prop-quiver-01.md",
+   "size": 221,
+   "sha256": "b1fff0bbc1e27a8fa52ba402995024498335bd1e87ea397a79203e4ad3af83f1"
+  },
+  {
+   "path": "scenery/prop-scepter-01.md",
+   "size": 220,
+   "sha256": "7bb02829f8ccdd5dfe7fecc3bdfa9d4564c214ff6c71afb1ec082a1b8b6f0967"
+  },
+  {
+   "path": "scenery/prop-sword-sheathed-01.md",
+   "size": 237,
+   "sha256": "9182373b7c463136a46b7169eec0063f53d5632b6cb2c07f7efe0f890b5fe206"
+  },
+  {
+   "path": "scenery/prop-whip-01.md",
+   "size": 208,
+   "sha256": "ef59b8fbe34bf65e1a4e531b49154b672a9c43b5d12fe5de649b647a34580a62"
+  },
+  {
+   "path": "scenery/shield-basic-round.md",
+   "size": 241,
+   "sha256": "14b1c24d289d15a1f0d3c337a1b981a2dfbae0484a4ac0cdc65f43698f1ef11b"
+  },
+  {
+   "path": "scenery/shield-basic.md",
+   "size": 222,
+   "sha256": "b9d773f01ba2bbff34fa7b970356f7d39358d9037d7545387171b2082180bdaf"
+  },
+  {
+   "path": "scenery/shovel-horizontal.md",
+   "size": 250,
+   "sha256": "99f273515a78bdcc731470aee9aeeff286d6fb78387db3f591023c5177fdd340"
+  },
+  {
+   "path": "scenery/shovel-vertical.md",
+   "size": 246,
+   "sha256": "b536c32390cf8cdd756eed4d1cf34d7bd8743e98b8eeb3a8e5712eed4d6a8bb1"
+  },
+  {
+   "path": "scenery/sword-claymore-floor.md",
+   "size": 249,
+   "sha256": "f053a3e280768ecd56133ac03caed71b31c90b2cd99002f22c40152cc3fcf19e"
+  },
+  {
+   "path": "scenery/sword-claymore.md",
+   "size": 237,
+   "sha256": "5e4429eff44522f4cd962c41695476bc5fa7cbb3a66927383dabba8c26c93908"
+  },
+  {
+   "path": "scenery/sword-floor.md",
+   "size": 213,
+   "sha256": "f4fb416120f86a7ca0bb9bb31c3ad0ed9070211f50b1a1ee656d1ec92a886c1d"
+  },
+  {
+   "path": "scenery/sword-katana-floor.md",
+   "size": 235,
+   "sha256": "7c00fe8ff57ad772a6e474fe0ce6acd4fd989f34627a77e33fcddede5e657743"
+  },
+  {
+   "path": "scenery/sword-katana.md",
+   "size": 223,
+   "sha256": "495ba8acac5f5a9ede14c3307fca927672756506b56513584f2b0d726743d6be"
+  },
+  {
+   "path": "scenery/sword-rapier-floor.md",
+   "size": 235,
+   "sha256": "4525ae71921711754a6864f6994536c15b80a74a1d8f8ccebd77a36ac94b0f5c"
+  },
+  {
+   "path": "scenery/sword-rapier.md",
+   "size": 223,
+   "sha256": "c5417367fd452d88e3f2a4d6bbb995491878137e23ae73fe1a2a361df6f30032"
+  },
+  {
+   "path": "scenery/sword-sabre-floor.md",
+   "size": 239,
+   "sha256": "26d2231fd0639198d75c470621cbee0a0fa563f2d4d6172307ff7120e28a05f0"
+  },
+  {
+   "path": "scenery/sword-sabre.md",
+   "size": 227,
+   "sha256": "8689a1cf3260cf96899be7729d4237d540a17292c10cf02a653d4d21cb9dde77"
+  },
+  {
+   "path": "scenery/sword-short-floor.md",
+   "size": 231,
+   "sha256": "ccf58743a8be777f387d3f011e3ce116a6e4f530f86356578ecb76b4195ffbda"
+  },
+  {
+   "path": "scenery/sword-short.md",
+   "size": 219,
+   "sha256": "128137d14ecbc033146798f367bcc9903e79eb0d67650630b390475e3637956e"
+  },
+  {
+   "path": "scenery/sword.md",
+   "size": 201,
+   "sha256": "f23e1d7ced8a048101d00cbe52f2c2e97805f80071e9b876284472b95bf8aae2"
+  },
+  {
+   "path": "scenery/wand-rainbow-2.md",
+   "size": 231,
+   "sha256": "4108221d951f4c69de5de8077d17c394bc0f407b137567e5c7b6d19691e2a5ad"
+  },
+  {
+   "path": "scenery/wand-rainbow.md",
+   "size": 229,
+   "sha256": "6fb8cdf533ddd2d5e06e67c95595949e340071d925bf4cf9e15e972f1be99c63"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Axe battle floor",
+   "kind": "scenery",
+   "thumb": "thumbs/bf6b58d1-9ed3-4174-9eab-d0222d8976e4.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "axe",
+    "battleaxe",
+    "halberd",
+    "wood",
+    "metal",
+    "small"
+   ]
+  },
+  {
+   "name": "Axe battle",
+   "kind": "scenery",
+   "thumb": "thumbs/e9df03e3-4801-4eb3-8787-2c500e856314.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "axe",
+    "battleaxe",
+    "halberd",
+    "wood",
+    "metal",
+    "small"
+   ]
+  },
+  {
+   "name": "Axe halberd floor",
+   "kind": "scenery",
+   "thumb": "thumbs/0b113871-181a-47a8-877a-fd5f8258558e.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "axe",
+    "battleaxe",
+    "halberd",
+    "wood",
+    "metal",
+    "small"
+   ]
+  },
+  {
+   "name": "axe halberd",
+   "kind": "scenery",
+   "thumb": "thumbs/7ee98a73-42c9-4c68-8205-5367c8aefdeb.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "axe",
+    "battleaxe",
+    "halberd",
+    "wood",
+    "metal",
+    "small"
+   ]
+  },
+  {
+   "name": "dagger floor",
+   "kind": "scenery",
+   "thumb": "thumbs/d12565a5-0724-4dd9-8a2d-5b66b20af4dd.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "dagger",
+    "metal",
+    "tiny"
+   ]
+  },
+  {
+   "name": "dagger",
+   "kind": "scenery",
+   "thumb": "thumbs/3e8aeb7e-3d25-42f7-8a56-83e9118d9188.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "dagger",
+    "metal",
+    "tiny"
+   ]
+  },
+  {
+   "name": "mace floor",
+   "kind": "scenery",
+   "thumb": "thumbs/97301a63-2246-4fb5-8eb7-8bd384c1c4ad.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "mace",
+    "wood",
+    "metal",
+    "small"
+   ]
+  },
+  {
+   "name": "mace",
+   "kind": "scenery",
+   "thumb": "thumbs/f809f76a-5ba6-4173-817e-8799cde42831.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "mace",
+    "wood",
+    "metal",
+    "small"
+   ]
+  },
+  {
+   "name": "prop_bow_01",
+   "kind": "scenery",
+   "thumb": "thumbs/d8c7dec1-b989-414f-8021-39cbf131e410.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "bow",
+    "ranged",
+    "wood"
+   ]
+  },
+  {
+   "name": "prop_crossbow_01",
+   "kind": "scenery",
+   "thumb": "thumbs/683ccc10-ac59-472c-af92-98142a588686.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "crossbow",
+    "ranged",
+    "wood"
+   ]
+  },
+  {
+   "name": "prop_dagger_02",
+   "kind": "scenery",
+   "thumb": "thumbs/248f5720-0f74-4311-b81f-61e92798a407.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "dagger"
+   ]
+  },
+  {
+   "name": "prop_hammer_01",
+   "kind": "scenery",
+   "thumb": "thumbs/7cf4c83f-7ee1-434a-bc0b-24439f3e0abb.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "warhammer",
+    "hammer",
+    "metal"
+   ]
+  },
+  {
+   "name": "prop_lute_01",
+   "kind": "scenery",
+   "thumb": "thumbs/16d51182-611a-41f9-a213-a566d5d04748.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "lute",
+    "instrument",
+    "musician"
+   ]
+  },
+  {
+   "name": "prop_pickaxe_01",
+   "kind": "scenery",
+   "thumb": "thumbs/b3207a10-1d25-4872-a1bb-c742975a25df.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "pickaxe",
+    "mining"
+   ]
+  },
+  {
+   "name": "prop_quiver_01",
+   "kind": "scenery",
+   "thumb": "thumbs/f6356739-3cf4-4e5b-bfe1-6fbaa49665aa.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "quiver",
+    "leather",
+    "arrow"
+   ]
+  },
+  {
+   "name": "prop_scepter_01",
+   "kind": "scenery",
+   "thumb": "thumbs/8f61447e-dcbc-4180-8695-3752237f9fcf.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "scepter",
+    "magic",
+    "rod"
+   ]
+  },
+  {
+   "name": "prop_sword_sheathed_01",
+   "kind": "scenery",
+   "thumb": "thumbs/f4be8132-1c8d-4a2c-9ca0-f0b16e0b36dd.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "sword",
+    "sheath",
+    "leather"
+   ]
+  },
+  {
+   "name": "prop_whip_01",
+   "kind": "scenery",
+   "thumb": "thumbs/adca7ff9-724b-406d-8aec-1ac440af6f72.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "whip",
+    "leather"
+   ]
+  },
+  {
+   "name": "shield basic round",
+   "kind": "scenery",
+   "thumb": "thumbs/8b8891ec-6b72-4e7e-9f41-f7e96258841d.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "shield",
+    "wood",
+    "metal",
+    "medium",
+    "large"
+   ]
+  },
+  {
+   "name": "shield basic",
+   "kind": "scenery",
+   "thumb": "thumbs/98af3e79-0ecb-4f32-a55f-9f8cba1d5c79.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "shield",
+    "wood",
+    "medium",
+    "large"
+   ]
+  },
+  {
+   "name": "Shovel, Horizontal",
+   "kind": "scenery",
+   "thumb": "thumbs/49c12726-ab03-4e92-a317-f8fa6d609407.jpg",
+   "tags": [
+    "weapons",
+    "shovel",
+    "handle",
+    "leather",
+    "metal",
+    "wood",
+    "blunt",
+    "weapon"
+   ]
+  },
+  {
+   "name": "Shovel, Vertical",
+   "kind": "scenery",
+   "thumb": "thumbs/d638b0a5-69ac-4ff2-a52e-8e6592d9156b.jpg",
+   "tags": [
+    "weapons",
+    "shovel",
+    "handle",
+    "leather",
+    "metal",
+    "wood",
+    "blunt",
+    "weapon"
+   ]
+  },
+  {
+   "name": "sword claymore floor",
+   "kind": "scenery",
+   "thumb": "thumbs/ccd7158e-015d-45a5-99e9-5ba9ae5c3dee.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "shield",
+    "sword",
+    "claymore",
+    "metal",
+    "medium"
+   ]
+  },
+  {
+   "name": "sword claymore",
+   "kind": "scenery",
+   "thumb": "thumbs/c2559673-944e-4ecf-93fd-33af9eb36ba2.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "shield",
+    "sword",
+    "claymore",
+    "metal",
+    "medium"
+   ]
+  },
+  {
+   "name": "sword floor",
+   "kind": "scenery",
+   "thumb": "thumbs/09ebbf56-66a3-4c33-a6db-6441e6d30c9e.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "shield",
+    "sword",
+    "metal"
+   ]
+  },
+  {
+   "name": "sword katana floor",
+   "kind": "scenery",
+   "thumb": "thumbs/de885662-76d0-4af4-8ae1-34737b847e65.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "shield",
+    "sword",
+    "katana",
+    "metal"
+   ]
+  },
+  {
+   "name": "sword katana",
+   "kind": "scenery",
+   "thumb": "thumbs/a3a3a24b-2cbe-41bd-aa9d-29621b49d498.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "shield",
+    "sword",
+    "katana",
+    "metal"
+   ]
+  },
+  {
+   "name": "sword rapier floor",
+   "kind": "scenery",
+   "thumb": "thumbs/e260af43-1456-4fee-b3c6-60403d3f86af.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "shield",
+    "sword",
+    "rapier",
+    "metal"
+   ]
+  },
+  {
+   "name": "sword rapier",
+   "kind": "scenery",
+   "thumb": "thumbs/4d387fcf-8a87-42e3-b9d6-5ec4eb58c7ed.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "shield",
+    "sword",
+    "rapier",
+    "metal"
+   ]
+  },
+  {
+   "name": "sword sabre floor",
+   "kind": "scenery",
+   "thumb": "thumbs/935725b9-969e-40df-aeb5-1987439cac28.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "shield",
+    "sword",
+    "sabre",
+    "metal",
+    "small"
+   ]
+  },
+  {
+   "name": "sword sabre",
+   "kind": "scenery",
+   "thumb": "thumbs/bef86398-7d87-447d-b7b8-0cd42c02b278.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "shield",
+    "sword",
+    "sabre",
+    "metal",
+    "small"
+   ]
+  },
+  {
+   "name": "sword short floor",
+   "kind": "scenery",
+   "thumb": "thumbs/43497110-74ba-49dd-8539-0d4d149577b9.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "shield",
+    "sword",
+    "metal",
+    "tiny"
+   ]
+  },
+  {
+   "name": "sword short",
+   "kind": "scenery",
+   "thumb": "thumbs/ae57659a-7c90-4cf6-9baf-4f40ba16ef2a.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "shield",
+    "sword",
+    "metal",
+    "tiny"
+   ]
+  },
+  {
+   "name": "sword",
+   "kind": "scenery",
+   "thumb": "thumbs/b40250cd-b0e4-44f2-adaa-2962cb02e659.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "shield",
+    "sword",
+    "metal"
+   ]
+  },
+  {
+   "name": "wand rainbow 2",
+   "kind": "scenery",
+   "thumb": "thumbs/8064f5cb-59d6-4ad7-8e33-2fc92b5ca487.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "wand",
+    "shield",
+    "wood",
+    "tiny"
+   ]
+  },
+  {
+   "name": "wand rainbow",
+   "kind": "scenery",
+   "thumb": "thumbs/4b04a842-8672-43e3-b638-ff33735e75fe.jpg",
+   "tags": [
+    "weapons",
+    "weapon",
+    "wand",
+    "shield",
+    "wood",
+    "tiny"
+   ]
+  }
+ ]
+}

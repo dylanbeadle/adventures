@@ -1,0 +1,405 @@
+{
+ "id": "9ada85d1-22ea-5316-812e-9211c2ef9a37",
+ "folder": "Signs Props.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 591,
+   "sha256": "0e580182feca6e4648fa5c1c79536c593c628dff6db13b1a4c7b826793128cb3"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 16117,
+   "sha256": "1bfabae7fb8dd2504f2be7700e42332840808fd108b39e2c1d0c4c5cdb70814f"
+  },
+  {
+   "path": "media/props/Signs/Sign (Generic) 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Signs/Sign (Generic) 01.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Signs/Sign (Generic) 01.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Signs/Sign (Generic) 01.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Signs/Sign (Generic) 01.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Signs/Sign (Generic) 01.usd",
+   "size": 18186,
+   "sha256": "d8e1e46071d3e2f474a9629e4217b3c7e3cb53b4baaee9f0059b481723022d2d"
+  },
+  {
+   "path": "media/props/Signs/Sign (Generic) 02.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Signs/Sign (Generic) 02.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Signs/Sign (Generic) 02.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Signs/Sign (Generic) 02.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Signs/Sign (Generic) 02.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Signs/Sign (Generic) 02.usd",
+   "size": 21195,
+   "sha256": "61c5ef342980002f3c8010023e9a874145e327e6be82fe55e69a53b055246940"
+  },
+  {
+   "path": "media/props/Signs/Sign (Road) 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Signs/Sign (Road) 01.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Signs/Sign (Road) 01.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Signs/Sign (Road) 01.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/props/Signs/Sign (Road) 01.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Signs/Sign (Road) 01.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Signs/Sign (Road) 01.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Signs/Sign (Road) 01.usd",
+   "size": 11512,
+   "sha256": "c6907b5032433fce5d9b7a4c4b6e05c411b43fc75609459f6b37313088f6317d"
+  },
+  {
+   "path": "media/props/Signs/Sign (Road) 02.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Signs/Sign (Road) 02.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Signs/Sign (Road) 02.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Signs/Sign (Road) 02.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/props/Signs/Sign (Road) 02.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Signs/Sign (Road) 02.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Signs/Sign (Road) 02.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Signs/Sign (Road) 02.usd",
+   "size": 11266,
+   "sha256": "5e9d4d38c0c1e2c46502a7126c8de01beea3e9839b1b50f88279c58b1512d269"
+  },
+  {
+   "path": "media/props/Signs/Sign (Village) 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Signs/Sign (Village) 01.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Signs/Sign (Village) 01.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Signs/Sign (Village) 01.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Signs/Sign (Village) 01.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Signs/Sign (Village) 01.usd",
+   "size": 20948,
+   "sha256": "5f0356d3741663ec1f72ed317cd8a5932ec756be2cd18c716cbb732cfa84bb6c"
+  },
+  {
+   "path": "media/props/Signs/Sign (Village) 02.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Signs/Sign (Village) 02.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Signs/Sign (Village) 02.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Signs/Sign (Village) 02.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/props/Signs/Sign (Village) 02.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Signs/Sign (Village) 02.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Signs/Sign (Village) 02.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Signs/Sign (Village) 02.usd",
+   "size": 19406,
+   "sha256": "e560fb91e2837b2cae3102a092413b2ea4be0b7f46aa953b11d7b4d7789fde83"
+  },
+  {
+   "path": "media/props/Signs/Sign (Village) 03.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Signs/Sign (Village) 03.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Signs/Sign (Village) 03.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Signs/Sign (Village) 03.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/props/Signs/Sign (Village) 03.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Signs/Sign (Village) 03.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Signs/Sign (Village) 03.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Signs/Sign (Village) 03.usd",
+   "size": 19715,
+   "sha256": "384244ee57e37b5b9c29c5fd4cf144608dce41748455d386b47f03fbda11c99c"
+  },
+  {
+   "path": "scenery/sign-generic-01.md",
+   "size": 246,
+   "sha256": "8c68763d35f677276a8947be9211d146fc299c792c94ae452dc4229ac892ec35"
+  },
+  {
+   "path": "scenery/sign-generic-02.md",
+   "size": 246,
+   "sha256": "382a9579250a6cae0c355a5e16d039445fbdf3763eb7d0a88f2b4f1ad1bd7081"
+  },
+  {
+   "path": "scenery/sign-road-01.md",
+   "size": 240,
+   "sha256": "80222f7a29fb573498a6f13f4d41a7b89945a3c6112194a922fb3d43b9c61cc6"
+  },
+  {
+   "path": "scenery/sign-road-02.md",
+   "size": 240,
+   "sha256": "e3d394d3429ecc974fe5ea55e08cba6b30f228365841cc41d20879bb9f0c02e7"
+  },
+  {
+   "path": "scenery/sign-village-01.md",
+   "size": 240,
+   "sha256": "85cc492962e13919761857d95f8b906cf6f9d0fbcb15370415a9401336337425"
+  },
+  {
+   "path": "scenery/sign-village-02.md",
+   "size": 240,
+   "sha256": "d2f44d76e862a26cbac444fea2d7577cfeb65d4ee855b6a064fc0a12274ed4bb"
+  },
+  {
+   "path": "scenery/sign-village-03.md",
+   "size": 240,
+   "sha256": "eb3088d2b623e8a7fd25489cd20131d5da16ca88334be50797981c2c7a1fa795"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Sign (Generic) 01",
+   "kind": "scenery",
+   "thumb": "thumbs/6e0a04c8-298c-4aa3-8470-96a16f25773e.jpg",
+   "tags": [
+    "signs",
+    "sign",
+    "village",
+    "road",
+    "small",
+    "travelling",
+    "traveller",
+    "post"
+   ]
+  },
+  {
+   "name": "Sign (Generic) 02",
+   "kind": "scenery",
+   "thumb": "thumbs/e7873dd1-d199-4615-88eb-9520aab773b7.jpg",
+   "tags": [
+    "signs",
+    "sign",
+    "village",
+    "road",
+    "small",
+    "travelling",
+    "traveller",
+    "post"
+   ]
+  },
+  {
+   "name": "Sign (Road) 01",
+   "kind": "scenery",
+   "thumb": "thumbs/84e1b0a1-8554-4b06-983d-1aabd07ed245.jpg",
+   "tags": [
+    "signs",
+    "sign",
+    "road",
+    "village",
+    "small",
+    "travelling",
+    "traveller",
+    "post"
+   ]
+  },
+  {
+   "name": "Sign (Road) 02",
+   "kind": "scenery",
+   "thumb": "thumbs/cda27f58-2741-450d-8f0d-0592f9181ec2.jpg",
+   "tags": [
+    "signs",
+    "sign",
+    "road",
+    "village",
+    "small",
+    "travelling",
+    "traveller",
+    "post"
+   ]
+  },
+  {
+   "name": "Sign (Village) 01",
+   "kind": "scenery",
+   "thumb": "thumbs/8d142057-c989-4f48-bf33-63332864a088.jpg",
+   "tags": [
+    "signs",
+    "sign",
+    "village",
+    "small",
+    "travelling",
+    "traveller",
+    "post"
+   ]
+  },
+  {
+   "name": "Sign (Village) 02",
+   "kind": "scenery",
+   "thumb": "thumbs/f4742083-7c0e-49de-af84-6d7f8bc7914b.jpg",
+   "tags": [
+    "signs",
+    "sign",
+    "village",
+    "small",
+    "travelling",
+    "traveller",
+    "post"
+   ]
+  },
+  {
+   "name": "Sign (Village) 03",
+   "kind": "scenery",
+   "thumb": "thumbs/d035e0a7-5df9-4b1e-90ca-62d4b0cd7a08.jpg",
+   "tags": [
+    "signs",
+    "sign",
+    "village",
+    "small",
+    "travelling",
+    "traveller",
+    "post"
+   ]
+  }
+ ]
+}

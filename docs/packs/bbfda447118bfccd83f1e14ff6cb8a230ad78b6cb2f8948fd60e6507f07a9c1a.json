@@ -1,0 +1,371 @@
+{
+ "id": "0851af89-fc6b-5010-adde-69481ba46e96",
+ "folder": "CobbleStones Tiles.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 642,
+   "sha256": "8ab3671d758d1a40a62d18220c82728e53110346a3829a2753396723073d4bfe"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 25191,
+   "sha256": "b203f746163dea71cbb752833286f057d7ded412309f4ed7df4c8696ac0e0e03"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Corner 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Corner 01.cooked/textures/limestone.avif",
+   "size": 1338,
+   "sha256": "6b1ca0b5d2fdc928ee14c673ee586e86916e651623a911e6436699d049e1719e"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Corner 01.cooked/textures/limestone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Corner 01.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Corner 01.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Corner 01.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Corner 01.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Corner 01.usd",
+   "size": 96242,
+   "sha256": "0806c3d64e91f1c5a4595d8dfcb05d8b1141201113767f26603dcd4f01931cda"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Corner Small.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Corner Small.cooked/textures/limestone.avif",
+   "size": 1338,
+   "sha256": "6b1ca0b5d2fdc928ee14c673ee586e86916e651623a911e6436699d049e1719e"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Corner Small.cooked/textures/limestone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Corner Small.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Corner Small.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Corner Small.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Corner Small.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Corner Small.usd",
+   "size": 36521,
+   "sha256": "c2acb38ce28c46e24c94a569a53677845dc68d4ce262e3208253c4afcb603329"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Floor 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Floor 01.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Floor 01.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Floor 01.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Floor 01.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Floor 01.usd",
+   "size": 52906,
+   "sha256": "4499187fb3ee7ba3fd4269b3db3f8f65b004173656878a9d8533123394104a51"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Floor Edge.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Floor Edge.cooked/textures/limestone.avif",
+   "size": 1338,
+   "sha256": "6b1ca0b5d2fdc928ee14c673ee586e86916e651623a911e6436699d049e1719e"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Floor Edge.cooked/textures/limestone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Floor Edge.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Floor Edge.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Floor Edge.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Floor Edge.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Floor Edge.usd",
+   "size": 67613,
+   "sha256": "084bcbe5181952a481c9c49fa68dcb1b4facc04770096caabcc9e3c41be47e1f"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Floor Small Edge.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Floor Small Edge.cooked/textures/limestone.avif",
+   "size": 1338,
+   "sha256": "6b1ca0b5d2fdc928ee14c673ee586e86916e651623a911e6436699d049e1719e"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Floor Small Edge.cooked/textures/limestone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Floor Small Edge.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Floor Small Edge.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Floor Small Edge.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Floor Small Edge.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Floor Small Edge.usd",
+   "size": 29423,
+   "sha256": "f703250131939dbb5f33a3617e4396bdd22a7da04c2c073acc97319f385b7764"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Floor Small.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Floor Small.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Floor Small.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Floor Small.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Floor Small.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/CobbleStones/CobbleStone Floor Small.usd",
+   "size": 17621,
+   "sha256": "825664479719e5d8bbcde9d6b86d3201d171d29174cd408a51a96759ecc7ad2f"
+  },
+  {
+   "path": "scenery/cobblestone-corner-01.md",
+   "size": 288,
+   "sha256": "6e0d663ac8bf96b4eac593b167bb009e18bb9c3d59de91097490bb003a08b087"
+  },
+  {
+   "path": "scenery/cobblestone-corner-small.md",
+   "size": 285,
+   "sha256": "a0bcf590aaf5ab92d0e72e093569060ed28afebcfb09d00178e785092360205e"
+  },
+  {
+   "path": "scenery/cobblestone-floor-01.md",
+   "size": 278,
+   "sha256": "176a98fa7af96274564d1c5e78b06ec76366f3d42f1f6bcb14e2509a9a469be4"
+  },
+  {
+   "path": "scenery/cobblestone-floor-edge.md",
+   "size": 282,
+   "sha256": "9db48dc1d9f1a9724f7bec04e84665942c5b090f763bfd415c4ac33c3e43d0a6"
+  },
+  {
+   "path": "scenery/cobblestone-floor-small-edge.md",
+   "size": 293,
+   "sha256": "bc50d36b5abaaaf084b505c8f1d83fd7a380136c65c6dc7cde1ae71af76f21b4"
+  },
+  {
+   "path": "scenery/cobblestone-floor-small.md",
+   "size": 283,
+   "sha256": "076fe537b7184e9617fbeb47f37c8bb3f040a9f6a48ecbc51f04ba986a0daf6a"
+  }
+ ],
+ "contents": [
+  {
+   "name": "CobbleStone Corner 01",
+   "kind": "scenery",
+   "thumb": "thumbs/24d7027c-dfef-4b55-833f-2fca795396ae.jpg",
+   "tags": [
+    "corner",
+    "floor",
+    "cobblestones",
+    "medium",
+    "gray",
+    "grey",
+    "stone",
+    "castle",
+    "inn",
+    "village",
+    "city"
+   ]
+  },
+  {
+   "name": "CobbleStone Corner Small",
+   "kind": "scenery",
+   "thumb": "thumbs/dfcde1e3-557b-4b77-93ad-99bd2461693a.jpg",
+   "tags": [
+    "cobblestones",
+    "floor",
+    "small",
+    "gray",
+    "grey",
+    "stone",
+    "castle",
+    "inn",
+    "village",
+    "city"
+   ]
+  },
+  {
+   "name": "CobbleStone Floor 01",
+   "kind": "scenery",
+   "thumb": "thumbs/6d146ada-02d4-4fab-ad2a-4fbe1a672328.jpg",
+   "tags": [
+    "cobblestones",
+    "floor",
+    "medium",
+    "gray",
+    "grey",
+    "stone",
+    "castle",
+    "inn",
+    "village",
+    "city"
+   ]
+  },
+  {
+   "name": "CobbleStone Floor Edge",
+   "kind": "scenery",
+   "thumb": "thumbs/10a2bcc2-8d6c-4ed7-9116-5310eb225fbf.jpg",
+   "tags": [
+    "cobblestones",
+    "floor",
+    "medium",
+    "gray",
+    "grey",
+    "stone",
+    "castle",
+    "inn",
+    "village",
+    "city"
+   ]
+  },
+  {
+   "name": "CobbleStone Floor Small Edge",
+   "kind": "scenery",
+   "thumb": "thumbs/ab4012e3-49af-4bda-ba69-c0ee34ef2489.jpg",
+   "tags": [
+    "cobblestones",
+    "floor",
+    "small",
+    "gray",
+    "grey",
+    "stone",
+    "castle",
+    "inn",
+    "village",
+    "city"
+   ]
+  },
+  {
+   "name": "CobbleStone Floor Small",
+   "kind": "scenery",
+   "thumb": "thumbs/3bc61730-aa14-4df3-b5a9-8f8e99efab86.jpg",
+   "tags": [
+    "cobblestones",
+    "floor",
+    "small",
+    "gray",
+    "grey",
+    "stone",
+    "castle",
+    "inn",
+    "village",
+    "city"
+   ]
+  }
+ ]
+}

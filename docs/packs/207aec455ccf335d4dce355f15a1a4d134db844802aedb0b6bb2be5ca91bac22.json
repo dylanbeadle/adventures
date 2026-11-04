@@ -1,0 +1,640 @@
+{
+ "id": "3e025b17-9c40-5b7c-8c95-1921d0b225db",
+ "folder": "Library Set Tiles.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 689,
+   "sha256": "7c65dd9def27cb52c275aa06510d9815439efe2cb1fe4ee774d658775cf3d3a1"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 31736,
+   "sha256": "3fc304180915563f7f8e8e99be2cd61a3c58fa79ec6d859e5d40dbcff2ed1552"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelf1x2 Filled.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelf1x2 Filled.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelf1x2 Filled.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelf1x2 Filled.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelf1x2 Filled.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelf1x2 Filled.cooked/textures/jade.avif",
+   "size": 756,
+   "sha256": "9f63b3de989e52a14a4e018da19a51f73e2de06c5d27ac931b87798041dfdfbe"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelf1x2 Filled.cooked/textures/jade_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelf1x2 Filled.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelf1x2 Filled.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelf1x2 Filled.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelf1x2 Filled.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelf1x2 Filled.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelf1x2 Filled.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelf1x2 Filled.usd",
+   "size": 804995,
+   "sha256": "d0fe10be80e0e4cfe56ba1fbd5bf4b9a5213ab0511ec23cd257df2f22751e72d"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelf1x2.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelf1x2.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelf1x2.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelf1x2.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelf1x2.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelf1x2.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelf1x2.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelf1x2.usd",
+   "size": 39391,
+   "sha256": "646d7d125eba101f98d5e9063ccb37e0ba3b3b8c020e18e1db656c07d6cc6b01"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfCorner Filled.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfCorner Filled.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfCorner Filled.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfCorner Filled.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfCorner Filled.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfCorner Filled.cooked/textures/jade.avif",
+   "size": 756,
+   "sha256": "9f63b3de989e52a14a4e018da19a51f73e2de06c5d27ac931b87798041dfdfbe"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfCorner Filled.cooked/textures/jade_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfCorner Filled.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfCorner Filled.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfCorner Filled.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfCorner Filled.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfCorner Filled.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfCorner Filled.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfCorner Filled.usd",
+   "size": 738145,
+   "sha256": "8d8a47ea7221aaa31052574ab12678c49ae25fe5abb6b56d957465026bdd28e8"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfCorner.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfCorner.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfCorner.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfCorner.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfCorner.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfCorner.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfCorner.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfCorner.usd",
+   "size": 73814,
+   "sha256": "db92875016bd5a1487fa4a8f5831e34e9d391e1dbcc3c43dfa6133ee8b94f025"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfTop1x2__56acf51c.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfTop1x2__56acf51c.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfTop1x2__56acf51c.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfTop1x2__56acf51c.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfTop1x2__56acf51c.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfTop1x2__56acf51c.cooked/textures/jade.avif",
+   "size": 756,
+   "sha256": "9f63b3de989e52a14a4e018da19a51f73e2de06c5d27ac931b87798041dfdfbe"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfTop1x2__56acf51c.cooked/textures/jade_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfTop1x2__56acf51c.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfTop1x2__56acf51c.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfTop1x2__56acf51c.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfTop1x2__56acf51c.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfTop1x2__56acf51c.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfTop1x2__56acf51c.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfTop1x2__56acf51c.usd",
+   "size": 796118,
+   "sha256": "317c6f31357fa1b2bc277e727d8e5a2abe4bd33737c470134d4f6ab033fe4478"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfTop1x2__76e771f4.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfTop1x2__76e771f4.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfTop1x2__76e771f4.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfTop1x2__76e771f4.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfTop1x2__76e771f4.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfTop1x2__76e771f4.cooked/textures/jade.avif",
+   "size": 756,
+   "sha256": "9f63b3de989e52a14a4e018da19a51f73e2de06c5d27ac931b87798041dfdfbe"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfTop1x2__76e771f4.cooked/textures/jade_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfTop1x2__76e771f4.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfTop1x2__76e771f4.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfTop1x2__76e771f4.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfTop1x2__76e771f4.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfTop1x2__76e771f4.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfTop1x2__76e771f4.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookShelfTop1x2__76e771f4.usd",
+   "size": 830238,
+   "sha256": "0f28f32e9c1da4e99d43788991ae2e4dfa565c33b7ee635f3d8279ac2f881291"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookcase1x1 Filled.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookcase1x1 Filled.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookcase1x1 Filled.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookcase1x1 Filled.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookcase1x1 Filled.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookcase1x1 Filled.cooked/textures/jade.avif",
+   "size": 756,
+   "sha256": "9f63b3de989e52a14a4e018da19a51f73e2de06c5d27ac931b87798041dfdfbe"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookcase1x1 Filled.cooked/textures/jade_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookcase1x1 Filled.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookcase1x1 Filled.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookcase1x1 Filled.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookcase1x1 Filled.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookcase1x1 Filled.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookcase1x1 Filled.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookcase1x1 Filled.usd",
+   "size": 361588,
+   "sha256": "3ce5a22cf2a986811adf1dfe41269af58aa69939a8fd1b4731fb8820d15235bc"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookcase1x1.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookcase1x1.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookcase1x1.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookcase1x1.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookcase1x1.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookcase1x1.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookcase1x1.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Library Set/LibraryBookcase1x1.usd",
+   "size": 39386,
+   "sha256": "675bdb7e9e458633bb6586784d98e498a5a8616f1fb9df23fc5e7c01345efba3"
+  },
+  {
+   "path": "scenery/librarybookcase1x1-filled.md",
+   "size": 269,
+   "sha256": "09bfd1bd2a9e3ebed8d5da2b77a12ed9e792884366df9fdb25e72b4e68207c54"
+  },
+  {
+   "path": "scenery/librarybookcase1x1.md",
+   "size": 255,
+   "sha256": "782a882087589fda55302cc7a5c57021f8dc7d014539a5994de8f5b0ce2a46d5"
+  },
+  {
+   "path": "scenery/librarybookshelf1x2-filled.md",
+   "size": 271,
+   "sha256": "107f2ff7fc3428ecd454e2cf904d06fca4f99a6b0406280605839c2444613737"
+  },
+  {
+   "path": "scenery/librarybookshelf1x2.md",
+   "size": 257,
+   "sha256": "adc56a7e82f42aba739b19dbeaefb0190f72f1edc197b506d9cd699cd88d9634"
+  },
+  {
+   "path": "scenery/librarybookshelfcorner-filled.md",
+   "size": 277,
+   "sha256": "f6ac9bd9f8faaeebc767fa7271e86d38a9cfa5a693225226a78860fde28f00a0"
+  },
+  {
+   "path": "scenery/librarybookshelfcorner.md",
+   "size": 263,
+   "sha256": "342e2b79d05d9e18e42a5ffb14d37305b8d03d273cf3ae5caf00d6c8712aa2a2"
+  },
+  {
+   "path": "scenery/librarybookshelftop1x2-2.md",
+   "size": 275,
+   "sha256": "86267a8bbd4ef7d6f9ee830ccba0ddf9699963ee2f20ffab65e00f9e82fe3432"
+  },
+  {
+   "path": "scenery/librarybookshelftop1x2.md",
+   "size": 273,
+   "sha256": "dbb0f0396d4956e00e1b374f40069f9bfa0c7c58c2b5ee1dc399a02711bc837f"
+  }
+ ],
+ "contents": [
+  {
+   "name": "LibraryBookcase1x1 Filled",
+   "kind": "scenery",
+   "thumb": "thumbs/3dc2ad59-9a58-43b8-a40b-758cf3f2d434.jpg",
+   "tags": [
+    "library-set",
+    "library",
+    "wood",
+    "book",
+    "shelf",
+    "furniture",
+    "brown"
+   ]
+  },
+  {
+   "name": "LibraryBookcase1x1",
+   "kind": "scenery",
+   "thumb": "thumbs/f7e7dcc5-e97d-4399-ae2d-3623b8778680.jpg",
+   "tags": [
+    "library-set",
+    "library",
+    "wood",
+    "book",
+    "shelf",
+    "furniture",
+    "brown"
+   ]
+  },
+  {
+   "name": "LibraryBookShelf1x2 Filled",
+   "kind": "scenery",
+   "thumb": "thumbs/a3d14911-eed7-437a-b80a-abba9193b7f9.jpg",
+   "tags": [
+    "library-set",
+    "library",
+    "wood",
+    "book",
+    "shelf",
+    "furniture",
+    "brown"
+   ]
+  },
+  {
+   "name": "LibraryBookShelf1x2",
+   "kind": "scenery",
+   "thumb": "thumbs/85209676-5287-40a3-9d8f-2a6633cb35fd.jpg",
+   "tags": [
+    "library-set",
+    "library",
+    "wood",
+    "book",
+    "shelf",
+    "furniture",
+    "brown"
+   ]
+  },
+  {
+   "name": "LibraryBookShelfCorner Filled",
+   "kind": "scenery",
+   "thumb": "thumbs/4c6c5bce-436d-4ec1-a5a1-28398667f354.jpg",
+   "tags": [
+    "library-set",
+    "library",
+    "wood",
+    "book",
+    "shelf",
+    "furniture",
+    "brown"
+   ]
+  },
+  {
+   "name": "LibraryBookShelfCorner",
+   "kind": "scenery",
+   "thumb": "thumbs/491a6e49-76dc-4f53-a830-0ce3614a1a83.jpg",
+   "tags": [
+    "library-set",
+    "library",
+    "wood",
+    "book",
+    "shelf",
+    "furniture",
+    "brown"
+   ]
+  },
+  {
+   "name": "LibraryBookShelfTop1x2 2",
+   "kind": "scenery",
+   "thumb": "thumbs/76e771f4-6234-4fea-acf8-2b5516b7db02.jpg",
+   "tags": [
+    "library-set",
+    "library",
+    "wood",
+    "book",
+    "shelf",
+    "furniture",
+    "brown"
+   ]
+  },
+  {
+   "name": "LibraryBookShelfTop1x2",
+   "kind": "scenery",
+   "thumb": "thumbs/56acf51c-237c-42dc-81f2-b5514990f1ff.jpg",
+   "tags": [
+    "library-set",
+    "library",
+    "wood",
+    "book",
+    "shelf",
+    "furniture",
+    "brown"
+   ]
+  }
+ ]
+}

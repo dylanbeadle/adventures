@@ -1,0 +1,818 @@
+{
+ "id": "e46335f3-b54d-589d-beae-f493331ee649",
+ "folder": "Gnome Creatures.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 594,
+   "sha256": "ecbdc36888394a873151746cd71fc4d324506f4624d80ed12e046a357d780c69"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 18780,
+   "sha256": "a23ea2f9b054692a388b6bc811d1fc622a7eb0da9db474aaa90db591802cb23c"
+  },
+  {
+   "path": "creatures/dark-gnome-cleric.md",
+   "size": 311,
+   "sha256": "1d12e8797ab0b255347719c4489bf97bf96bbbc9116168c286d77bfb8ddc46fe"
+  },
+  {
+   "path": "creatures/dark-gnome-warrior.md",
+   "size": 314,
+   "sha256": "8017806f124dc80916bf4024361bcb7383c191ce92788a20c650f013b77a2eaf"
+  },
+  {
+   "path": "creatures/gnome-alchemist.md",
+   "size": 320,
+   "sha256": "8e00d37b598526defeb4d7455b6554db70e93d4dd926ceeb9f75a7cd8a17ab22"
+  },
+  {
+   "path": "creatures/gnome-spellcaster.md",
+   "size": 315,
+   "sha256": "fc118f153839a59542f0aaf3f224500399fbda20b0fc3c54d8b5cdd33acd5ba4"
+  },
+  {
+   "path": "creatures/gnome-tinkerer.md",
+   "size": 309,
+   "sha256": "18708153bb60e10a620cce1fbfe49cde70b4640d9a26db0c7fe245675fa319e0"
+  },
+  {
+   "path": "creatures/yigmond-marbu.md",
+   "size": 293,
+   "sha256": "e9c9e594a8a47c565fe1cd94d4c5eeb960d0a81ca66dfff8409f90fa7631f760"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Cleric.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Cleric.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Cleric.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Cleric.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Cleric.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Cleric.cooked/textures/bluefire.avif",
+   "size": 1059,
+   "sha256": "66b8eda93e3f51b13722bd4f87107c9b0f61ca9161d964f27a7f96751431a328"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Cleric.cooked/textures/bluefire_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Cleric.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Cleric.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Cleric.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Cleric.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Cleric.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Cleric.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Cleric.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Cleric.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Cleric.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Cleric.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Cleric.cooked/textures/steel.avif",
+   "size": 1223,
+   "sha256": "374c2de95d69e288918f2135e4b64000c2cf070bfd1e877a7a75a7518a43c5bb"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Cleric.cooked/textures/steel_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Cleric.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Cleric.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Cleric.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Cleric.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Cleric.usd",
+   "size": 1239439,
+   "sha256": "6f193ef961a842448e4873de9053f60c0ccfc7f79b87efd502ab81e3ee20f49d"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Warrior.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Warrior.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Warrior.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Warrior.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Warrior.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Warrior.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Warrior.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Warrior.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Warrior.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Warrior.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Warrior.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Warrior.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Warrior.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Warrior.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Warrior.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Warrior.cooked/textures/steel.avif",
+   "size": 1223,
+   "sha256": "374c2de95d69e288918f2135e4b64000c2cf070bfd1e877a7a75a7518a43c5bb"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Warrior.cooked/textures/steel_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Warrior.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Warrior.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Warrior.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Warrior.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Gnome/Dark Gnome Warrior.usd",
+   "size": 1286041,
+   "sha256": "ae330e4cd2c91880b1f8f7c0bd0b8dd78346c7a7212b72ed0781f09ab0acced8"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Alchemist.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Alchemist.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Alchemist.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Alchemist.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Alchemist.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Alchemist.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Alchemist.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Alchemist.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Alchemist.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Alchemist.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Alchemist.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Alchemist.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Alchemist.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Alchemist.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Alchemist.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Alchemist.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Alchemist.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Alchemist.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Alchemist.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Alchemist.usd",
+   "size": 1023548,
+   "sha256": "3885eebe591492ca19b59b8c2bdc745e729efb1dd95399880226e590f05f9543"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Spellcaster.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Spellcaster.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Spellcaster.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Spellcaster.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Spellcaster.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Spellcaster.cooked/textures/bluefire.avif",
+   "size": 1059,
+   "sha256": "66b8eda93e3f51b13722bd4f87107c9b0f61ca9161d964f27a7f96751431a328"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Spellcaster.cooked/textures/bluefire_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Spellcaster.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Spellcaster.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Spellcaster.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Spellcaster.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Spellcaster.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Spellcaster.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Spellcaster.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Spellcaster.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Spellcaster.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Spellcaster.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Spellcaster.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Spellcaster.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Spellcaster.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Spellcaster.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Spellcaster.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Spellcaster.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Spellcaster.usd",
+   "size": 1072409,
+   "sha256": "8bc1d9803bcfd27a213cc1d86bb21929de4255a49270fb5aa45443a169efdd78"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Tinkerer.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Tinkerer.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Tinkerer.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Tinkerer.cooked/textures/bluefire.avif",
+   "size": 1059,
+   "sha256": "66b8eda93e3f51b13722bd4f87107c9b0f61ca9161d964f27a7f96751431a328"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Tinkerer.cooked/textures/bluefire_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Tinkerer.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Tinkerer.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Tinkerer.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Tinkerer.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Tinkerer.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Tinkerer.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Tinkerer.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Tinkerer.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Tinkerer.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Tinkerer.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Tinkerer.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Tinkerer.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Tinkerer.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Tinkerer.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Tinkerer.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Tinkerer.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Gnome/Gnome Tinkerer.usd",
+   "size": 1077535,
+   "sha256": "a8cf473ceb51af8609f1e2fefb7d9d8b50bc65ecd14d22a7bdf73af89618456e"
+  },
+  {
+   "path": "media/creatures/Gnome/Yigmond Marbu.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Gnome/Yigmond Marbu.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Gnome/Yigmond Marbu.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Yigmond Marbu.cooked/textures/bluefire.avif",
+   "size": 1059,
+   "sha256": "66b8eda93e3f51b13722bd4f87107c9b0f61ca9161d964f27a7f96751431a328"
+  },
+  {
+   "path": "media/creatures/Gnome/Yigmond Marbu.cooked/textures/bluefire_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Yigmond Marbu.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Gnome/Yigmond Marbu.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Yigmond Marbu.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Gnome/Yigmond Marbu.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Yigmond Marbu.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Gnome/Yigmond Marbu.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Yigmond Marbu.cooked/textures/paper.avif",
+   "size": 1729,
+   "sha256": "700bd99d1997a1a20d90a673a4e698cf36fb4f8ffedafff69a6c93b3d8c7ad70"
+  },
+  {
+   "path": "media/creatures/Gnome/Yigmond Marbu.cooked/textures/paper_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Yigmond Marbu.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Gnome/Yigmond Marbu.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Yigmond Marbu.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/creatures/Gnome/Yigmond Marbu.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Yigmond Marbu.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Gnome/Yigmond Marbu.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Yigmond Marbu.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Gnome/Yigmond Marbu.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Gnome/Yigmond Marbu.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Gnome/Yigmond Marbu.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Gnome/Yigmond Marbu.usd",
+   "size": 1102749,
+   "sha256": "6ca5a48771cf7d2bad460f5b7ca4ff996e094a9a029381430568a79b09bdd32a"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Dark Gnome Cleric",
+   "kind": "creature",
+   "thumb": "thumbs/95d17db2-80ca-46a8-b1c8-82964c10137d.jpg",
+   "tags": [
+    "gnome",
+    "grey",
+    "bandit",
+    "fighter",
+    "thief",
+    "chainmail",
+    "leather",
+    "small"
+   ]
+  },
+  {
+   "name": "Dark Gnome Warrior",
+   "kind": "creature",
+   "thumb": "thumbs/1769ead7-1eef-44d9-b0d3-33e135a7172f.jpg",
+   "tags": [
+    "gnome",
+    "grey",
+    "assassin",
+    "bandit",
+    "fighter",
+    "rogue",
+    "thief",
+    "chainmail"
+   ]
+  },
+  {
+   "name": "Gnome Alchemist",
+   "kind": "creature",
+   "thumb": "thumbs/9c812c10-db53-4275-bfa3-5a20ea244798.jpg",
+   "tags": [
+    "gnome",
+    "alchemist",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "electromagnetic",
+    "cloth",
+    "leather"
+   ]
+  },
+  {
+   "name": "Gnome Spellcaster",
+   "kind": "creature",
+   "thumb": "thumbs/1287d5dc-5fbd-4587-be8d-bbf2e59ad9b9.jpg",
+   "tags": [
+    "gnome",
+    "wizard",
+    "alchemist",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "cloth",
+    "leather"
+   ]
+  },
+  {
+   "name": "Gnome Tinkerer",
+   "kind": "creature",
+   "thumb": "thumbs/f3a9fb99-2ce4-4f69-96a9-3461cf180cbd.jpg",
+   "tags": [
+    "gnome",
+    "alchemist",
+    "wizard",
+    "biped",
+    "bipedal",
+    "humanoid",
+    "cloth",
+    "leather"
+   ]
+  },
+  {
+   "name": "Yigmond Marbu",
+   "kind": "creature",
+   "thumb": "thumbs/f34e650a-5560-49ed-8bcd-8f3dabb7581e.jpg",
+   "tags": [
+    "gnome",
+    "small",
+    "wizard",
+    "cloth",
+    "rod",
+    "cat",
+    "purple",
+    "white"
+   ]
+  }
+ ]
+}

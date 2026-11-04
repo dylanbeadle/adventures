@@ -1,0 +1,377 @@
+{
+ "id": "2044efe9-cd50-5587-b02b-10500512e98f",
+ "folder": "Celestial Creatures.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 555,
+   "sha256": "888ff7ea576e5c7749eb870a1dcac9295136968dcff0400f3a32201be3cc70cb"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 14092,
+   "sha256": "1a871cad6613ff0743b881ae85b55030b37ff4ddb0c15495a1dffd2336daaa97"
+  },
+  {
+   "path": "creatures/celestial-guardian-2.md",
+   "size": 380,
+   "sha256": "d29a6189a37cb720811d9a7a44b5e5910b56375b1a0fdb7b972dd4f78ba27dae"
+  },
+  {
+   "path": "creatures/celestial-guardian.md",
+   "size": 386,
+   "sha256": "97ba6c129878c93d9d0457b4618902392dfd7e97ad34778fc727b81f27dc9189"
+  },
+  {
+   "path": "creatures/unicorn.md",
+   "size": 297,
+   "sha256": "d9fdbc090d85326da50a513813be07bbc136a08fdfa08d2c173d4825cabfc0c2"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__0e919ce8.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__0e919ce8.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__0e919ce8.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__0e919ce8.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__0e919ce8.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__0e919ce8.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__0e919ce8.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__0e919ce8.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__0e919ce8.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__0e919ce8.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__0e919ce8.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__0e919ce8.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__0e919ce8.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__0e919ce8.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__0e919ce8.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__0e919ce8.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__0e919ce8.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__0e919ce8.cooked/textures/steel.avif",
+   "size": 1223,
+   "sha256": "374c2de95d69e288918f2135e4b64000c2cf070bfd1e877a7a75a7518a43c5bb"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__0e919ce8.cooked/textures/steel_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__0e919ce8.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__0e919ce8.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__0e919ce8.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__0e919ce8.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__0e919ce8.usd",
+   "size": 2222407,
+   "sha256": "451ebede751cb201f8fe3209e51aa29d142efb26f72d62c1672451143b4f9ff2"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__dbb9d975.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__dbb9d975.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__dbb9d975.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__dbb9d975.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__dbb9d975.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__dbb9d975.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__dbb9d975.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__dbb9d975.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__dbb9d975.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__dbb9d975.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__dbb9d975.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__dbb9d975.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__dbb9d975.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__dbb9d975.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__dbb9d975.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__dbb9d975.cooked/textures/steel.avif",
+   "size": 1223,
+   "sha256": "374c2de95d69e288918f2135e4b64000c2cf070bfd1e877a7a75a7518a43c5bb"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__dbb9d975.cooked/textures/steel_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__dbb9d975.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__dbb9d975.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__dbb9d975.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__dbb9d975.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Celestial/Celestial Guardian__dbb9d975.usd",
+   "size": 2091494,
+   "sha256": "5b753603a3105b0e7ce3eab3ea3e91c8f91f4c3159a2da44ad05513f5a513549"
+  },
+  {
+   "path": "media/creatures/Celestial/Unicorn.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Celestial/Unicorn.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Celestial/Unicorn.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Celestial/Unicorn.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Celestial/Unicorn.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Celestial/Unicorn.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Celestial/Unicorn.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Celestial/Unicorn.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Celestial/Unicorn.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Celestial/Unicorn.cooked/textures/snow.avif",
+   "size": 1076,
+   "sha256": "444a85bf33f77f242b361fe2ee1ac0816b368b57f2bb4a4d6cc570c58d9108eb"
+  },
+  {
+   "path": "media/creatures/Celestial/Unicorn.cooked/textures/snow_normal.avif",
+   "size": 2514,
+   "sha256": "b9c2c6ea308589cebe843635c756835ba78e235618d9a895d4a3f25a2f9c34e1"
+  },
+  {
+   "path": "media/creatures/Celestial/Unicorn.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Celestial/Unicorn.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Celestial/Unicorn.usd",
+   "size": 790994,
+   "sha256": "f9a6110f3f1a3c6ac0f1b549d352e94650fdabcf998e488b9caef607ca8193bc"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Celestial Guardian 2",
+   "kind": "creature",
+   "thumb": "thumbs/dbb9d975-0313-4f9a-a6d4-51d1b8985451.jpg",
+   "tags": [
+    "celestial",
+    "guardian",
+    "plate",
+    "spear",
+    "wings",
+    "angel",
+    "aasimar"
+   ]
+  },
+  {
+   "name": "Celestial Guardian",
+   "kind": "creature",
+   "thumb": "thumbs/0e919ce8-61e4-42cc-b7d1-ce10526f3d5c.jpg",
+   "tags": [
+    "celestial",
+    "guardian",
+    "plate",
+    "shield",
+    "sword",
+    "wings",
+    "angel",
+    "aasimar"
+   ]
+  },
+  {
+   "name": "Unicorn",
+   "kind": "creature",
+   "thumb": "thumbs/da3ee1e4-173e-458c-ac06-536f1053553d.jpg",
+   "tags": [
+    "celestial",
+    "monster",
+    "unicorn",
+    "horse",
+    "white",
+    "magic",
+    "horn",
+    "wild"
+   ]
+  }
+ ]
+}

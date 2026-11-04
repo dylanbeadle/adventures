@@ -1,0 +1,585 @@
+{
+ "id": "e821b300-ae4c-594d-b2c8-15b2dc386018",
+ "folder": "Palisade Tiles.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 697,
+   "sha256": "cd8ae742a6faa604e99c4aeda45e650ae9032297a724eb95fdc0520e3161a192"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 34576,
+   "sha256": "fef474f72c4d30be70b7fb890b2197f321a1208a37d323cb3572a848200257a5"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall short 1x1.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall short 1x1.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall short 1x1.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall short 1x1.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall short 1x1.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall short 1x1.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall short 1x1.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall short 1x1.usd",
+   "size": 169080,
+   "sha256": "a0419c49491fcf6bcd7d56883c677f87fe3f1b6095273c95f58716e42cc0bc32"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall short 1x2.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall short 1x2.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall short 1x2.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall short 1x2.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall short 1x2.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall short 1x2.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall short 1x2.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall short 1x2.usd",
+   "size": 297078,
+   "sha256": "2e51f8d64fa662f56e6371aa07547082ef58ea4f7f62d0975ea24e69b6453ceb"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall short corner.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall short corner.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall short corner.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall short corner.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall short corner.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall short corner.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall short corner.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall short corner.usd",
+   "size": 331149,
+   "sha256": "88cd40c1bcb186503f6eb464f428427a9d12b11d33c8c1d605d6793aed1df9de"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall tall 1x2.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall tall 1x2.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall tall 1x2.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall tall 1x2.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall tall 1x2.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall tall 1x2.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall tall 1x2.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall tall 1x2.usd",
+   "size": 169045,
+   "sha256": "64f172085f5ce337c134b769073cea6f50fca3cd16b6fa3d0a216cba7a7e474b"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall tall 2x2.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall tall 2x2.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall tall 2x2.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall tall 2x2.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall tall 2x2.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall tall 2x2.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall tall 2x2.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall tall 2x2.usd",
+   "size": 296743,
+   "sha256": "e7362d8644f21000092c34e68c24b220b6b27b6438a044d98bd0ce7b2ee2d82c"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall tall corner.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall tall corner.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall tall corner.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall tall corner.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall tall corner.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall tall corner.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall tall corner.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall tall corner.usd",
+   "size": 331184,
+   "sha256": "648ea8af3388bf5029fe54bd4f747a1a90822c9a6b1afe385b4fa1d31aa7b6d6"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall top 1.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall top 1.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall top 1.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall top 1.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall top 1.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall top 1.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall top 1.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall top 1.usd",
+   "size": 168875,
+   "sha256": "68e940918a1e9308e00fadc889d3a24be9472dc86ce38dbe280c8e8a8c3c1595"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall top 2.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall top 2.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall top 2.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall top 2.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall top 2.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall top 2.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall top 2.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall top 2.usd",
+   "size": 297063,
+   "sha256": "d922a83c0568191811d0da70464d567bcf1c082f3081023d91a517b763f8a5bd"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall top corner.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall top corner.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall top corner.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall top corner.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall top corner.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall top corner.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall top corner.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Palisade/Palisade wall top corner.usd",
+   "size": 331134,
+   "sha256": "e981a6b0f32691d3c02a2f4841ecf6434e1aa500a76e8f717a08e1612cf7f407"
+  },
+  {
+   "path": "scenery/palisade-wall-short-1x1.md",
+   "size": 280,
+   "sha256": "056315668bc16510140ab9c961abd576bf2272d8db122ceceb2cb028f0be63ac"
+  },
+  {
+   "path": "scenery/palisade-wall-short-1x2.md",
+   "size": 280,
+   "sha256": "a92f09730350faad497ce0e2c6f758f653f8f618427e8fab0b4fcf1d5a3f99c4"
+  },
+  {
+   "path": "scenery/palisade-wall-short-corner.md",
+   "size": 286,
+   "sha256": "ea005e1ccee08660804c2f8da21754b1d2e04368d68851770ff6612f9309ea43"
+  },
+  {
+   "path": "scenery/palisade-wall-tall-1x2.md",
+   "size": 278,
+   "sha256": "1e5a23cadd0b7aac7a43f8a4131d15623f76ff24c3cc385256500f10788cf4b4"
+  },
+  {
+   "path": "scenery/palisade-wall-tall-2x2.md",
+   "size": 278,
+   "sha256": "00eb94af29a755abce9f4692e83bdc4aab27b93d33f4b32f52d3ad4cd4534bcb"
+  },
+  {
+   "path": "scenery/palisade-wall-tall-corner.md",
+   "size": 284,
+   "sha256": "965584930b66751251c2964c500b4ad6fe75421dfbb3e25d4aa6abbc5dfc45b5"
+  },
+  {
+   "path": "scenery/palisade-wall-top-1.md",
+   "size": 272,
+   "sha256": "4498ba43c971f7c150c7929a9d5c30fed6be975be9a0239035d71e324c83a254"
+  },
+  {
+   "path": "scenery/palisade-wall-top-2.md",
+   "size": 272,
+   "sha256": "4a336aceea7e7c5b69bd62c5d3865808b1132a68437c6430e0df5f919f7fcaff"
+  },
+  {
+   "path": "scenery/palisade-wall-top-corner.md",
+   "size": 282,
+   "sha256": "df2a335093472bc982b8c8e0cba30dbe659cd07089395a63c67d707a7be63cc3"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Palisade wall short 1x1",
+   "kind": "scenery",
+   "thumb": "thumbs/10336934-fb7d-4af4-8869-ec5135897415.jpg",
+   "tags": [
+    "wall",
+    "camp",
+    "wood",
+    "palisade",
+    "brown",
+    "orange",
+    "yellow",
+    "white",
+    "fort",
+    "fence",
+    "defence"
+   ]
+  },
+  {
+   "name": "Palisade wall short 1x2",
+   "kind": "scenery",
+   "thumb": "thumbs/8c13625b-1d26-4b41-bbe0-6176beb718ec.jpg",
+   "tags": [
+    "wall",
+    "camp",
+    "wood",
+    "palisade",
+    "brown",
+    "orange",
+    "yellow",
+    "white",
+    "fort",
+    "fence",
+    "defence"
+   ]
+  },
+  {
+   "name": "Palisade wall short corner",
+   "kind": "scenery",
+   "thumb": "thumbs/5521cfca-a78a-4522-9c55-96171958f979.jpg",
+   "tags": [
+    "wall",
+    "camp",
+    "wood",
+    "palisade",
+    "brown",
+    "orange",
+    "yellow",
+    "white",
+    "fort",
+    "fence",
+    "defence"
+   ]
+  },
+  {
+   "name": "Palisade wall tall 1x2",
+   "kind": "scenery",
+   "thumb": "thumbs/122b1c4d-ae71-49d2-8c06-7f7dd23fbc13.jpg",
+   "tags": [
+    "wall",
+    "camp",
+    "wood",
+    "palisade",
+    "brown",
+    "orange",
+    "yellow",
+    "white",
+    "fort",
+    "fence",
+    "defence"
+   ]
+  },
+  {
+   "name": "Palisade wall tall 2x2",
+   "kind": "scenery",
+   "thumb": "thumbs/cef1d292-9f3d-451b-9933-f986491fc3de.jpg",
+   "tags": [
+    "wall",
+    "camp",
+    "wood",
+    "palisade",
+    "brown",
+    "orange",
+    "yellow",
+    "white",
+    "fort",
+    "fence",
+    "defence"
+   ]
+  },
+  {
+   "name": "Palisade wall tall corner",
+   "kind": "scenery",
+   "thumb": "thumbs/2916f2a6-5ddb-46a5-bdce-f029ee09c7ef.jpg",
+   "tags": [
+    "wall",
+    "camp",
+    "wood",
+    "palisade",
+    "brown",
+    "orange",
+    "yellow",
+    "white",
+    "fort",
+    "fence",
+    "defence"
+   ]
+  },
+  {
+   "name": "Palisade wall top 1",
+   "kind": "scenery",
+   "thumb": "thumbs/8343e943-8923-40f1-bead-d008bf6755eb.jpg",
+   "tags": [
+    "roof",
+    "camp",
+    "wood",
+    "palisade",
+    "brown",
+    "orange",
+    "yellow",
+    "white",
+    "fort",
+    "fence",
+    "defence"
+   ]
+  },
+  {
+   "name": "Palisade wall top 2",
+   "kind": "scenery",
+   "thumb": "thumbs/16f46555-5204-40e7-a322-3063080056e0.jpg",
+   "tags": [
+    "roof",
+    "camp",
+    "wood",
+    "palisade",
+    "brown",
+    "orange",
+    "yellow",
+    "white",
+    "fort",
+    "fence",
+    "defence"
+   ]
+  },
+  {
+   "name": "Palisade wall top corner",
+   "kind": "scenery",
+   "thumb": "thumbs/36211bfc-5ec2-417a-989a-c25d1443b81f.jpg",
+   "tags": [
+    "roof",
+    "camp",
+    "wood",
+    "palisade",
+    "brown",
+    "orange",
+    "yellow",
+    "white",
+    "fort",
+    "fence",
+    "defence"
+   ]
+  }
+ ]
+}

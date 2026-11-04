@@ -1,0 +1,1879 @@
+{
+ "id": "c915f363-ff72-59b2-a71c-702b3621263b",
+ "folder": "Lights Props.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 1010,
+   "sha256": "265f99ddc5a4d7cce82431e18e6cffad2465871aa43609961692860bde60da46"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 21312,
+   "sha256": "d7ad3f004be626f0f452dc72379689d6d3e40959fc8ee28082352f3b8c1efc2b"
+  },
+  {
+   "path": "media/props/Lights/Bonfire blue.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Lights/Bonfire blue.cooked/textures/bluefire.avif",
+   "size": 1059,
+   "sha256": "66b8eda93e3f51b13722bd4f87107c9b0f61ca9161d964f27a7f96751431a328"
+  },
+  {
+   "path": "media/props/Lights/Bonfire blue.cooked/textures/bluefire_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Bonfire blue.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/props/Lights/Bonfire blue.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Bonfire blue.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Lights/Bonfire blue.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Lights/Bonfire blue.usd",
+   "size": 98529,
+   "sha256": "03ec6ce1f690f7a1afd66ec9ac7972729e11cc6534b64960bcfddf1beb24c556"
+  },
+  {
+   "path": "media/props/Lights/Bonfire.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Lights/Bonfire.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/props/Lights/Bonfire.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Bonfire.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/props/Lights/Bonfire.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Bonfire.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Lights/Bonfire.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Lights/Bonfire.usd",
+   "size": 97984,
+   "sha256": "846777ca5122e617d7f5201c560e74648d57994660a9dee273885090c9a10984"
+  },
+  {
+   "path": "media/props/Lights/Brazier.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Lights/Brazier.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Lights/Brazier.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Brazier.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/props/Lights/Brazier.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Brazier.usd",
+   "size": 83584,
+   "sha256": "fb939408ad20e98ba0338f9da276db1bd8279063f337a90cae11261b3ad65452"
+  },
+  {
+   "path": "media/props/Lights/Candle.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Lights/Candle.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Lights/Candle.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Candle.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/props/Lights/Candle.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Candle.cooked/textures/paper.avif",
+   "size": 1729,
+   "sha256": "700bd99d1997a1a20d90a673a4e698cf36fb4f8ffedafff69a6c93b3d8c7ad70"
+  },
+  {
+   "path": "media/props/Lights/Candle.cooked/textures/paper_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Candle.usd",
+   "size": 27100,
+   "sha256": "b30951497b7329516ca5a94bbbf13296ce49f848cdb1821a407672c90c23def9"
+  },
+  {
+   "path": "media/props/Lights/Candleabra - Small.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Lights/Candleabra - Small.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Lights/Candleabra - Small.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Candleabra - Small.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/props/Lights/Candleabra - Small.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Candleabra - Small.cooked/textures/paper.avif",
+   "size": 1729,
+   "sha256": "700bd99d1997a1a20d90a673a4e698cf36fb4f8ffedafff69a6c93b3d8c7ad70"
+  },
+  {
+   "path": "media/props/Lights/Candleabra - Small.cooked/textures/paper_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Candleabra - Small.usd",
+   "size": 85396,
+   "sha256": "a2aba474326c6a36bb170eb31aa7b2395d5df6aa4a68e6b21beae4287b1219f1"
+  },
+  {
+   "path": "media/props/Lights/Candleabra - single.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Lights/Candleabra - single.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Lights/Candleabra - single.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Candleabra - single.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/props/Lights/Candleabra - single.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Candleabra - single.cooked/textures/paper.avif",
+   "size": 1729,
+   "sha256": "700bd99d1997a1a20d90a673a4e698cf36fb4f8ffedafff69a6c93b3d8c7ad70"
+  },
+  {
+   "path": "media/props/Lights/Candleabra - single.cooked/textures/paper_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Candleabra - single.usd",
+   "size": 35033,
+   "sha256": "5fd62d98117352b060367874af8dc579406e5088289728007bf2328f64e0c1fc"
+  },
+  {
+   "path": "media/props/Lights/Candleabra Triple.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Lights/Candleabra Triple.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Lights/Candleabra Triple.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Candleabra Triple.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/props/Lights/Candleabra Triple.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Candleabra Triple.cooked/textures/paper.avif",
+   "size": 1729,
+   "sha256": "700bd99d1997a1a20d90a673a4e698cf36fb4f8ffedafff69a6c93b3d8c7ad70"
+  },
+  {
+   "path": "media/props/Lights/Candleabra Triple.cooked/textures/paper_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Candleabra Triple.usd",
+   "size": 84879,
+   "sha256": "a310078068fdc00229f1a2b00e36363328ec1d54b2d6080d374d94cd48e23ed5"
+  },
+  {
+   "path": "media/props/Lights/Desert torch.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Lights/Desert torch.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Lights/Desert torch.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Desert torch.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/props/Lights/Desert torch.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Desert torch.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/props/Lights/Desert torch.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Desert torch.usd",
+   "size": 48361,
+   "sha256": "86060e7e847ee91f09a504dc082f2f57e2c3b871613f4f6d35523d06aa7f2f06"
+  },
+  {
+   "path": "media/props/Lights/Floor Torch.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Lights/Floor Torch.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Lights/Floor Torch.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Floor Torch.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/props/Lights/Floor Torch.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Floor Torch.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Lights/Floor Torch.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Lights/Floor Torch.usd",
+   "size": 47804,
+   "sha256": "c9b098e23468b98979f75ca33a0b975bafd92138c140153d102e639b49eb9592"
+  },
+  {
+   "path": "media/props/Lights/Harbor beach torch 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Lights/Harbor beach torch 01.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Lights/Harbor beach torch 01.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Harbor beach torch 01.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/props/Lights/Harbor beach torch 01.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Harbor beach torch 01.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Lights/Harbor beach torch 01.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Lights/Harbor beach torch 01.usd",
+   "size": 47857,
+   "sha256": "97e6553f0a56702c1dbdd74e56519c7181d6e52c83572c660852a126b51b8d46"
+  },
+  {
+   "path": "media/props/Lights/JackOLantern.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Lights/JackOLantern.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/props/Lights/JackOLantern.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/JackOLantern.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/props/Lights/JackOLantern.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/JackOLantern.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Lights/JackOLantern.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Lights/JackOLantern.usd",
+   "size": 147806,
+   "sha256": "4ebbbbc819c6a3a89ecbbb035316af119e857683aa326c8e5d689c08489990a6"
+  },
+  {
+   "path": "media/props/Lights/Lantern -Small.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Lights/Lantern -Small.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Lights/Lantern -Small.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Lantern -Small.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Lights/Lantern -Small.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Lantern -Small.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/props/Lights/Lantern -Small.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Lantern -Small.cooked/textures/paper.avif",
+   "size": 1729,
+   "sha256": "700bd99d1997a1a20d90a673a4e698cf36fb4f8ffedafff69a6c93b3d8c7ad70"
+  },
+  {
+   "path": "media/props/Lights/Lantern -Small.cooked/textures/paper_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Lantern -Small.usd",
+   "size": 56911,
+   "sha256": "f7396d77ce1f5f4183f1314f94f32f6a52d67d12ac5a9c361c8c493423467393"
+  },
+  {
+   "path": "media/props/Lights/Lantern caged on__1dc1697c.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Lights/Lantern caged on__1dc1697c.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Lights/Lantern caged on__1dc1697c.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Lantern caged on__1dc1697c.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Lights/Lantern caged on__1dc1697c.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Lantern caged on__1dc1697c.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/props/Lights/Lantern caged on__1dc1697c.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Lantern caged on__1dc1697c.cooked/textures/paper.avif",
+   "size": 1729,
+   "sha256": "700bd99d1997a1a20d90a673a4e698cf36fb4f8ffedafff69a6c93b3d8c7ad70"
+  },
+  {
+   "path": "media/props/Lights/Lantern caged on__1dc1697c.cooked/textures/paper_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Lantern caged on__1dc1697c.usd",
+   "size": 57070,
+   "sha256": "3669c353124a07c88117769f3b1babda18b70ce866538ca8d1038fba2f84a3e8"
+  },
+  {
+   "path": "media/props/Lights/Lantern caged on__e8740ac3.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Lights/Lantern caged on__e8740ac3.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Lights/Lantern caged on__e8740ac3.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Lantern caged on__e8740ac3.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Lights/Lantern caged on__e8740ac3.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Lantern caged on__e8740ac3.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/props/Lights/Lantern caged on__e8740ac3.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Lantern caged on__e8740ac3.cooked/textures/paper.avif",
+   "size": 1729,
+   "sha256": "700bd99d1997a1a20d90a673a4e698cf36fb4f8ffedafff69a6c93b3d8c7ad70"
+  },
+  {
+   "path": "media/props/Lights/Lantern caged on__e8740ac3.cooked/textures/paper_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Lantern caged on__e8740ac3.usd",
+   "size": 57184,
+   "sha256": "f81415bce70c1c8bab9a4b1c4234835aff811c5b244360915ad955c4b43bf4bc"
+  },
+  {
+   "path": "media/props/Lights/Lantern on hook 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Lights/Lantern on hook 01.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Lights/Lantern on hook 01.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Lantern on hook 01.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Lights/Lantern on hook 01.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Lantern on hook 01.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/props/Lights/Lantern on hook 01.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Lantern on hook 01.cooked/textures/paper.avif",
+   "size": 1729,
+   "sha256": "700bd99d1997a1a20d90a673a4e698cf36fb4f8ffedafff69a6c93b3d8c7ad70"
+  },
+  {
+   "path": "media/props/Lights/Lantern on hook 01.cooked/textures/paper_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Lantern on hook 01.usd",
+   "size": 62699,
+   "sha256": "4c9e47790612018bcc3461d8c847c342563579da9431a6c8e62b11d22ad05740"
+  },
+  {
+   "path": "media/props/Lights/Palace Marble lamp floor.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Lights/Palace Marble lamp floor.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Lights/Palace Marble lamp floor.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Palace Marble lamp floor.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/props/Lights/Palace Marble lamp floor.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Palace Marble lamp floor.cooked/textures/marble.avif",
+   "size": 2484,
+   "sha256": "7670a84be2c2af9242edf04db9f91b38bda70ee96be4806f54ad6411db8ff085"
+  },
+  {
+   "path": "media/props/Lights/Palace Marble lamp floor.cooked/textures/marble_normal.avif",
+   "size": 9711,
+   "sha256": "6e322b3a8ed09286b94bb9bddfc7feb4bba431bf019943f5256a9389325b2acd"
+  },
+  {
+   "path": "media/props/Lights/Palace Marble lamp floor.usd",
+   "size": 150971,
+   "sha256": "16ec4af999c791c1b7989ac194b76e82d59f409dca4f2f64ead671b92f7f57a3"
+  },
+  {
+   "path": "media/props/Lights/Palace Marble lamp wall 02.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Lights/Palace Marble lamp wall 02.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Lights/Palace Marble lamp wall 02.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Palace Marble lamp wall 02.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/props/Lights/Palace Marble lamp wall 02.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Palace Marble lamp wall 02.cooked/textures/marble.avif",
+   "size": 2484,
+   "sha256": "7670a84be2c2af9242edf04db9f91b38bda70ee96be4806f54ad6411db8ff085"
+  },
+  {
+   "path": "media/props/Lights/Palace Marble lamp wall 02.cooked/textures/marble_normal.avif",
+   "size": 9711,
+   "sha256": "6e322b3a8ed09286b94bb9bddfc7feb4bba431bf019943f5256a9389325b2acd"
+  },
+  {
+   "path": "media/props/Lights/Palace Marble lamp wall 02.usd",
+   "size": 156672,
+   "sha256": "9275b562200a4c8cf4ddf74638066430acf4dda14734e247283424a9830dedcf"
+  },
+  {
+   "path": "media/props/Lights/Palace Marble lamp wall.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Lights/Palace Marble lamp wall.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Lights/Palace Marble lamp wall.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Palace Marble lamp wall.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/props/Lights/Palace Marble lamp wall.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Palace Marble lamp wall.cooked/textures/marble.avif",
+   "size": 2484,
+   "sha256": "7670a84be2c2af9242edf04db9f91b38bda70ee96be4806f54ad6411db8ff085"
+  },
+  {
+   "path": "media/props/Lights/Palace Marble lamp wall.cooked/textures/marble_normal.avif",
+   "size": 9711,
+   "sha256": "6e322b3a8ed09286b94bb9bddfc7feb4bba431bf019943f5256a9389325b2acd"
+  },
+  {
+   "path": "media/props/Lights/Palace Marble lamp wall.usd",
+   "size": 156544,
+   "sha256": "7a713037bc100a44d450556341958851553ff53cc97a97c61425a52929f35506"
+  },
+  {
+   "path": "media/props/Lights/Shogun_Lantern.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Lights/Shogun_Lantern.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Lights/Shogun_Lantern.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Shogun_Lantern.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Lights/Shogun_Lantern.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Shogun_Lantern.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/props/Lights/Shogun_Lantern.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Shogun_Lantern.cooked/textures/paper.avif",
+   "size": 1729,
+   "sha256": "700bd99d1997a1a20d90a673a4e698cf36fb4f8ffedafff69a6c93b3d8c7ad70"
+  },
+  {
+   "path": "media/props/Lights/Shogun_Lantern.cooked/textures/paper_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Shogun_Lantern.usd",
+   "size": 56596,
+   "sha256": "622b57d00f18ea19e70d2ab89fb0d1e533eaddcdbef2c2cd236b0fae1ef20c06"
+  },
+  {
+   "path": "media/props/Lights/Street Lantern.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Lights/Street Lantern.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Lights/Street Lantern.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Street Lantern.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Lights/Street Lantern.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Street Lantern.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/props/Lights/Street Lantern.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Street Lantern.cooked/textures/paper.avif",
+   "size": 1729,
+   "sha256": "700bd99d1997a1a20d90a673a4e698cf36fb4f8ffedafff69a6c93b3d8c7ad70"
+  },
+  {
+   "path": "media/props/Lights/Street Lantern.cooked/textures/paper_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Street Lantern.usd",
+   "size": 171776,
+   "sha256": "0c8ed641506a1310c395b6a07b58df894753fc72ca937027d4f5fc1b2e28c1b5"
+  },
+  {
+   "path": "media/props/Lights/Torch wall wood stone off.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Lights/Torch wall wood stone off.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Lights/Torch wall wood stone off.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Torch wall wood stone off.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Lights/Torch wall wood stone off.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Lights/Torch wall wood stone off.usd",
+   "size": 36027,
+   "sha256": "71061274708443b7c30ef386852b21c9022e7ba255f6be94deb05125aec15aa3"
+  },
+  {
+   "path": "media/props/Lights/Torch wall wood stone on.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Lights/Torch wall wood stone on.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Lights/Torch wall wood stone on.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Torch wall wood stone on.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/props/Lights/Torch wall wood stone on.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/Torch wall wood stone on.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Lights/Torch wall wood stone on.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Lights/Torch wall wood stone on.usd",
+   "size": 53937,
+   "sha256": "067420816ef024577f11966793fcd085f97c5596a51ebf84c4a550793c741050"
+  },
+  {
+   "path": "media/props/Lights/hell_light_flame.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Lights/hell_light_flame.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/props/Lights/hell_light_flame.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/hell_light_flame.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/props/Lights/hell_light_flame.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/hell_light_flame.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Lights/hell_light_flame.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Lights/hell_light_flame.usd",
+   "size": 97924,
+   "sha256": "bdc38d093f58660399ad13d1cd590a1e7bca7b35df318a70004696e222430f44"
+  },
+  {
+   "path": "media/props/Lights/lamp aberration.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Lights/lamp aberration.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Lights/lamp aberration.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/lamp aberration.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/props/Lights/lamp aberration.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/lamp aberration.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Lights/lamp aberration.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Lights/lamp aberration.usd",
+   "size": 48564,
+   "sha256": "a91eb1bb1f4e90d47af7994b414f98a6cb7e0df80bf08fb1604bb84474ac6de1"
+  },
+  {
+   "path": "media/props/Lights/lantern street 02.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Lights/lantern street 02.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Lights/lantern street 02.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/lantern street 02.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Lights/lantern street 02.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/lantern street 02.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/props/Lights/lantern street 02.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/lantern street 02.cooked/textures/paper.avif",
+   "size": 1729,
+   "sha256": "700bd99d1997a1a20d90a673a4e698cf36fb4f8ffedafff69a6c93b3d8c7ad70"
+  },
+  {
+   "path": "media/props/Lights/lantern street 02.cooked/textures/paper_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/lantern street 02.usd",
+   "size": 92854,
+   "sha256": "8a0f08b06a2dc11e12864b0b6653ac7543c3a4ae2df40c176816d848624d502a"
+  },
+  {
+   "path": "media/props/Lights/lantern, carry on 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Lights/lantern, carry on 01.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Lights/lantern, carry on 01.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/lantern, carry on 01.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Lights/lantern, carry on 01.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/lantern, carry on 01.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/props/Lights/lantern, carry on 01.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/lantern, carry on 01.cooked/textures/paper.avif",
+   "size": 1729,
+   "sha256": "700bd99d1997a1a20d90a673a4e698cf36fb4f8ffedafff69a6c93b3d8c7ad70"
+  },
+  {
+   "path": "media/props/Lights/lantern, carry on 01.cooked/textures/paper_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/lantern, carry on 01.usd",
+   "size": 57064,
+   "sha256": "7e2c9fd92793032b3d32a69c1e427e57b6ad3c51f0d25ae14b510707190eede2"
+  },
+  {
+   "path": "media/props/Lights/ship lantern.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Lights/ship lantern.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Lights/ship lantern.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/ship lantern.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Lights/ship lantern.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/ship lantern.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/props/Lights/ship lantern.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/ship lantern.cooked/textures/paper.avif",
+   "size": 1729,
+   "sha256": "700bd99d1997a1a20d90a673a4e698cf36fb4f8ffedafff69a6c93b3d8c7ad70"
+  },
+  {
+   "path": "media/props/Lights/ship lantern.cooked/textures/paper_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/ship lantern.usd",
+   "size": 57126,
+   "sha256": "ebb340230cbb556aa3cc175d473e6457f7edb3b7e0c3ac39237aaba3fb567e5c"
+  },
+  {
+   "path": "media/props/Lights/shogun_paperLantenShot.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Lights/shogun_paperLantenShot.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Lights/shogun_paperLantenShot.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/shogun_paperLantenShot.cooked/textures/grass.avif",
+   "size": 852,
+   "sha256": "9dcc6896f4054bb5a3911e06d27ea275aa7858e33e9fa46ab96a5c8244755a69"
+  },
+  {
+   "path": "media/props/Lights/shogun_paperLantenShot.cooked/textures/grass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/shogun_paperLantenShot.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Lights/shogun_paperLantenShot.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/shogun_paperLantenShot.usd",
+   "size": 156487,
+   "sha256": "2eeb161f901d9fadd5bff298c9711dde632914e8a72407d1d95a7d40fb3a3bcd"
+  },
+  {
+   "path": "media/props/Lights/shogun_paperLantenTall.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Lights/shogun_paperLantenTall.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Lights/shogun_paperLantenTall.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/shogun_paperLantenTall.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/props/Lights/shogun_paperLantenTall.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/shogun_paperLantenTall.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Lights/shogun_paperLantenTall.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Lights/shogun_paperLantenTall.usd",
+   "size": 156466,
+   "sha256": "37524ef2773dedbdda1916985640d892acfe7550641ff281c528a6eccaf34a3b"
+  },
+  {
+   "path": "scenery/bonfire-blue.md",
+   "size": 302,
+   "sha256": "821bb1ac000b7d753d623feacb5c189d7eacf28fe7e1d6f6fb52288908ac355b"
+  },
+  {
+   "path": "scenery/bonfire.md",
+   "size": 218,
+   "sha256": "4823d34c57968798e524513f45e83724c68218d8eefd21418e8446f6ba3752bf"
+  },
+  {
+   "path": "scenery/brazier.md",
+   "size": 226,
+   "sha256": "2a7434e07b10c2491e52f3f66bbb9598ab1fd3adf6220e3049900682a4cee780"
+  },
+  {
+   "path": "scenery/candle.md",
+   "size": 211,
+   "sha256": "fec589fce3147d5aaecfe7014e8c729a9dd5a602555db8ad51f5637b408a2ad3"
+  },
+  {
+   "path": "scenery/candleabra-single.md",
+   "size": 253,
+   "sha256": "e556b6b25e65fd6337989738c8038f045a5901bb94d75d60a25d0f7b4f64991e"
+  },
+  {
+   "path": "scenery/candleabra-small.md",
+   "size": 250,
+   "sha256": "0249e07a486f28fd9913f4a67e3ca0804867970bde0da6426aaa97d0c9159f6a"
+  },
+  {
+   "path": "scenery/candleabra-triple.md",
+   "size": 249,
+   "sha256": "3dc7e544cd4f2973e730f940a8efe12fd009fa8f076440c28c298975c944a8e3"
+  },
+  {
+   "path": "scenery/desert-torch.md",
+   "size": 220,
+   "sha256": "5fb69ac85a2583d509b8e29571cd7adc39b41a4b5ed8ada54a888ee1cd51aea5"
+  },
+  {
+   "path": "scenery/floor-torch.md",
+   "size": 232,
+   "sha256": "4de274f03f03a1e2468cc65cacaf839a153f264149f1c70d867f5df6c6d01ca8"
+  },
+  {
+   "path": "scenery/harbor-beach-torch-01.md",
+   "size": 230,
+   "sha256": "f3158b9961a133c84b9f042b16e8e5bf12d81e33bca68599e1fb03a5ea116674"
+  },
+  {
+   "path": "scenery/hell-light-flame.md",
+   "size": 287,
+   "sha256": "401423918d25981c021da7fbae371f256f5ba04ae4439251f654356280fd18ee"
+  },
+  {
+   "path": "scenery/jackolantern.md",
+   "size": 285,
+   "sha256": "c36602588cf9ddff39912bbfad5f3602e20b0e46b52c930d1bc44cbf304ccdc2"
+  },
+  {
+   "path": "scenery/lamp-aberration.md",
+   "size": 340,
+   "sha256": "f37049271baa430afc1072ab7bec75c987648d8050a669fa40d4836a392d867f"
+  },
+  {
+   "path": "scenery/lantern-caged-on-2.md",
+   "size": 286,
+   "sha256": "7f747fb2b61d99cdf5c9f2470d694c29f97b7611594f41d8c1f0b4751ce0d94e"
+  },
+  {
+   "path": "scenery/lantern-caged-on.md",
+   "size": 284,
+   "sha256": "2cb7f25e39ecb36f96b7bf21fe60183aaed4e0fcef521ff8f4d5e015f3771bec"
+  },
+  {
+   "path": "scenery/lantern-carry-on-01.md",
+   "size": 220,
+   "sha256": "fd3bcf67af355afca65678abc45ce695c788681d7aa9bc1e6523379eadf4161c"
+  },
+  {
+   "path": "scenery/lantern-on-hook-01.md",
+   "size": 236,
+   "sha256": "43d9a1bd7d024c1ec076d361323b99ec4df97c64bb8f7d81002182c3928064d0"
+  },
+  {
+   "path": "scenery/lantern-small.md",
+   "size": 239,
+   "sha256": "4ce19d55ef8d00257d7ae5911a7b5c1d5560a1148bf461a8ea51e4f3d9a1bb36"
+  },
+  {
+   "path": "scenery/lantern-street-02.md",
+   "size": 244,
+   "sha256": "7a5298b9bae276d72062632395427dd117746cfb7742b12e771c5ea762f6f5bd"
+  },
+  {
+   "path": "scenery/palace-marble-lamp-floor.md",
+   "size": 314,
+   "sha256": "b9afddecded937e032c96e6937b0b749e1f9bc1cdf9af1afaf4f91d4735822a5"
+  },
+  {
+   "path": "scenery/palace-marble-lamp-wall-02.md",
+   "size": 319,
+   "sha256": "0eaa1c3325287a54170622e661418832636eca33211fed9033ae630f978cde84"
+  },
+  {
+   "path": "scenery/palace-marble-lamp-wall.md",
+   "size": 313,
+   "sha256": "18e4838f7fa8d23247ec260e955c6ab181a3abb85353d550950047f1f9151e1f"
+  },
+  {
+   "path": "scenery/ship-lantern.md",
+   "size": 238,
+   "sha256": "8b8cb157dfffdbf31a658a3b42b4f8f888f9da335bedef85fc16aa4fa7c6950b"
+  },
+  {
+   "path": "scenery/shogun-lantern.md",
+   "size": 216,
+   "sha256": "a31548449417b0e9db6b680ff4f954cc97c315a818fa258b1631ca8186343c96"
+  },
+  {
+   "path": "scenery/shogun-paperlantenshot.md",
+   "size": 241,
+   "sha256": "4417f2a34ca65d3d26b2d9a3073fea3f11d5ea7c38aadcb62a6bed2b9377e9b3"
+  },
+  {
+   "path": "scenery/shogun-paperlantentall.md",
+   "size": 239,
+   "sha256": "13d3bd3303174ca69e0e5000460b871129a93c86b2c912a179922ec6e57c7bc2"
+  },
+  {
+   "path": "scenery/street-lantern.md",
+   "size": 233,
+   "sha256": "17baa39b128cf5cb734df80e6efe2ec063b5a24ea13a8361b9a47f7dc42c03b0"
+  },
+  {
+   "path": "scenery/torch-wall-wood-stone-off.md",
+   "size": 259,
+   "sha256": "f15a4fb33ca872186a48fb58164565efa66d4fd1eb89022be2d3985047745f5a"
+  },
+  {
+   "path": "scenery/torch-wall-wood-stone-on.md",
+   "size": 257,
+   "sha256": "bd0b21b4c4a76434459c7e8a4af4854d14255d6845b991b808f3cd4eac219753"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Bonfire blue",
+   "kind": "scenery",
+   "thumb": "thumbs/90568ee1-9239-495c-9dab-6535f973dac6.jpg",
+   "tags": [
+    "lights",
+    "tiny",
+    "illuminated",
+    "light",
+    "lit",
+    "magic",
+    "fire",
+    "glowing",
+    "glow",
+    "torch",
+    "bonfire",
+    "lamp",
+    "blue",
+    "purple",
+    "pink",
+    "small",
+    "aberration"
+   ]
+  },
+  {
+   "name": "Bonfire",
+   "kind": "scenery",
+   "thumb": "thumbs/cf3fc034-c793-4aec-9345-98308dc91d4b.jpg",
+   "tags": [
+    "lights",
+    "fire",
+    "bonfire",
+    "lit",
+    "light",
+    "illuminated",
+    "tiny"
+   ]
+  },
+  {
+   "name": "Brazier",
+   "kind": "scenery",
+   "thumb": "thumbs/5b499cb9-0ee7-4fc1-a5f2-a2f951522a62.jpg",
+   "tags": [
+    "lights",
+    "brazier",
+    "light",
+    "metal",
+    "lit",
+    "illuminated",
+    "fire",
+    "small"
+   ]
+  },
+  {
+   "name": "Candle",
+   "kind": "scenery",
+   "thumb": "thumbs/d4b9003e-f80b-4304-8af1-6c456b1ff192.jpg",
+   "tags": [
+    "lights",
+    "candle",
+    "light",
+    "lit",
+    "lantern",
+    "tiny",
+    "fire"
+   ]
+  },
+  {
+   "name": "Candleabra - single",
+   "kind": "scenery",
+   "thumb": "thumbs/5703eb70-3739-4f3f-b4f8-b01e1d187dbb.jpg",
+   "tags": [
+    "lights",
+    "candleabra",
+    "light",
+    "lit",
+    "illuminated",
+    "metal",
+    "small",
+    "fire"
+   ]
+  },
+  {
+   "name": "Candleabra - Small",
+   "kind": "scenery",
+   "thumb": "thumbs/a1eaaa92-2f59-46e6-a5a2-5a425322bb4b.jpg",
+   "tags": [
+    "lights",
+    "candleabra",
+    "light",
+    "lit",
+    "illuminated",
+    "metal",
+    "tiny",
+    "fire"
+   ]
+  },
+  {
+   "name": "Candleabra Triple",
+   "kind": "scenery",
+   "thumb": "thumbs/84eb13e3-8e8f-4d1d-8151-b8d196f0778f.jpg",
+   "tags": [
+    "lights",
+    "candleabra",
+    "light",
+    "lit",
+    "illuminated",
+    "metal",
+    "small",
+    "fire"
+   ]
+  },
+  {
+   "name": "Desert torch",
+   "kind": "scenery",
+   "thumb": "thumbs/e04d1a25-e253-431a-af09-cfdf4245c6ec.jpg",
+   "tags": [
+    "lights",
+    "torch",
+    "desert",
+    "light",
+    "village",
+    "small"
+   ]
+  },
+  {
+   "name": "Floor Torch",
+   "kind": "scenery",
+   "thumb": "thumbs/3ff3d2ba-827b-4270-b288-dfd93c7031cd.jpg",
+   "tags": [
+    "lights",
+    "torch",
+    "light",
+    "lit",
+    "illuminated",
+    "floor",
+    "wood",
+    "small"
+   ]
+  },
+  {
+   "name": "Harbor beach torch 01",
+   "kind": "scenery",
+   "thumb": "thumbs/b2186aee-55e9-4001-b454-264e2c55a8e0.jpg",
+   "tags": [
+    "lights",
+    "torch",
+    "campfire",
+    "fire",
+    "small"
+   ]
+  },
+  {
+   "name": "hell_light_flame",
+   "kind": "scenery",
+   "thumb": "thumbs/c8ea523b-b1c1-46b5-af8b-b740332eeed3.jpg",
+   "tags": [
+    "lights",
+    "hell",
+    "hot",
+    "lava",
+    "fire",
+    "lamp",
+    "light",
+    "torch",
+    "glow",
+    "glowing",
+    "dungeon",
+    "demonic",
+    "skull",
+    "decor",
+    "demon"
+   ]
+  },
+  {
+   "name": "JackOLantern",
+   "kind": "scenery",
+   "thumb": "thumbs/334952ba-d11d-4a85-9abb-38bfae064e1f.jpg",
+   "tags": [
+    "lights",
+    "jackolantern",
+    "pumpkin",
+    "light",
+    "lit",
+    "illuminated",
+    "festive",
+    "holiday",
+    "orange",
+    "yellow",
+    "tiny",
+    "lantern",
+    "fire"
+   ]
+  },
+  {
+   "name": "lamp aberration",
+   "kind": "scenery",
+   "thumb": "thumbs/bb4fc151-223d-4a4c-bba9-a55754f836e6.jpg",
+   "tags": [
+    "lights",
+    "floor",
+    "wood",
+    "illuminated",
+    "light",
+    "lit",
+    "magic",
+    "fire",
+    "glowing",
+    "glow",
+    "torch",
+    "bonfire",
+    "lamp",
+    "blue",
+    "purple",
+    "pink",
+    "medium",
+    "stone",
+    "aberration",
+    "dark",
+    "underdark"
+   ]
+  },
+  {
+   "name": "Lantern caged on 2",
+   "kind": "scenery",
+   "thumb": "thumbs/e8740ac3-5169-42cf-8892-d1be5a1020cd.jpg",
+   "tags": [
+    "lights",
+    "torch",
+    "lantern",
+    "light",
+    "dungeon",
+    "prison",
+    "metal",
+    "wood",
+    "fire",
+    "wall",
+    "brown",
+    "glow",
+    "tiny"
+   ]
+  },
+  {
+   "name": "Lantern caged on",
+   "kind": "scenery",
+   "thumb": "thumbs/1dc1697c-2793-4993-b1e4-764fe1509a3a.jpg",
+   "tags": [
+    "lights",
+    "torch",
+    "lantern",
+    "light",
+    "dungeon",
+    "prison",
+    "metal",
+    "wood",
+    "fire",
+    "wall",
+    "brown",
+    "glow",
+    "tiny"
+   ]
+  },
+  {
+   "name": "lantern, carry on 01",
+   "kind": "scenery",
+   "thumb": "thumbs/d86f1f25-7b28-4d73-bd45-0297ab866cc4.jpg",
+   "tags": [
+    "lights",
+    "lantern",
+    "light",
+    "fire"
+   ]
+  },
+  {
+   "name": "Lantern on hook 01",
+   "kind": "scenery",
+   "thumb": "thumbs/9b776019-78a4-4f0a-abbd-db91420dfa07.jpg",
+   "tags": [
+    "lights",
+    "lantern",
+    "gray",
+    "light",
+    "yellow",
+    "tiny",
+    "fire"
+   ]
+  },
+  {
+   "name": "Lantern -Small",
+   "kind": "scenery",
+   "thumb": "thumbs/2f622eea-53fe-4285-88e2-aec0c85fed7f.jpg",
+   "tags": [
+    "lights",
+    "lantern",
+    "light",
+    "lit",
+    "illuminated",
+    "metal",
+    "tiny",
+    "fire"
+   ]
+  },
+  {
+   "name": "lantern street 02",
+   "kind": "scenery",
+   "thumb": "thumbs/856a9c55-c9f9-49e6-acee-f2a82af6c67a.jpg",
+   "tags": [
+    "lights",
+    "lantern",
+    "gray",
+    "light",
+    "yellow",
+    "small",
+    "outdoor",
+    "fire"
+   ]
+  },
+  {
+   "name": "Palace Marble lamp floor",
+   "kind": "scenery",
+   "thumb": "thumbs/06d53082-4394-4406-9ab4-22ebd5784cd8.jpg",
+   "tags": [
+    "lights",
+    "white",
+    "orange",
+    "palace",
+    "marble",
+    "flower",
+    "fire",
+    "glow",
+    "candle",
+    "torch",
+    "light",
+    "lamp",
+    "decor",
+    "floor",
+    "medium",
+    "fancy"
+   ]
+  },
+  {
+   "name": "Palace Marble lamp wall 02",
+   "kind": "scenery",
+   "thumb": "thumbs/b13fe55f-8126-47ac-ac91-28c74d727c7e.jpg",
+   "tags": [
+    "lights",
+    "white",
+    "orange",
+    "palace",
+    "marble",
+    "flower",
+    "fire",
+    "glow",
+    "candle",
+    "torch",
+    "light",
+    "lamp",
+    "decor",
+    "hanging",
+    "small",
+    "fancy"
+   ]
+  },
+  {
+   "name": "Palace Marble lamp wall",
+   "kind": "scenery",
+   "thumb": "thumbs/27bc47d8-18dd-43be-8a83-c55975a32eb9.jpg",
+   "tags": [
+    "lights",
+    "white",
+    "orange",
+    "palace",
+    "marble",
+    "flower",
+    "fire",
+    "glow",
+    "candle",
+    "torch",
+    "light",
+    "lamp",
+    "decor",
+    "hanging",
+    "small",
+    "fancy"
+   ]
+  },
+  {
+   "name": "ship lantern",
+   "kind": "scenery",
+   "thumb": "thumbs/e2bca806-1ff0-4cba-99d6-60d80dab7e5e.jpg",
+   "tags": [
+    "lights",
+    "glass",
+    "lookout",
+    "point",
+    "lit",
+    "light",
+    "black",
+    "yellow",
+    "ship"
+   ]
+  },
+  {
+   "name": "Shogun_Lantern",
+   "kind": "scenery",
+   "thumb": "thumbs/4bde6efc-01b2-49fd-a027-46008080bf40.jpg",
+   "tags": [
+    "lights",
+    "shogun",
+    "lantern",
+    "metal",
+    "lamp"
+   ]
+  },
+  {
+   "name": "shogun_paperLantenShot",
+   "kind": "scenery",
+   "thumb": "thumbs/cbe654d6-6b7b-4018-b2f4-9e71ba0b7d71.jpg",
+   "tags": [
+    "lights",
+    "lantern",
+    "paper",
+    "decor",
+    "hanging",
+    "green"
+   ]
+  },
+  {
+   "name": "shogun_paperLantenTall",
+   "kind": "scenery",
+   "thumb": "thumbs/bfe3e6f4-fea9-43d5-a70b-a08e0ef03420.jpg",
+   "tags": [
+    "lights",
+    "lantern",
+    "paper",
+    "decor",
+    "hanging",
+    "red"
+   ]
+  },
+  {
+   "name": "Street Lantern",
+   "kind": "scenery",
+   "thumb": "thumbs/526c0664-b197-462d-9db7-64233db026c8.jpg",
+   "tags": [
+    "lights",
+    "lantern",
+    "light",
+    "lit",
+    "illuminated",
+    "metal",
+    "fire"
+   ]
+  },
+  {
+   "name": "Torch wall wood stone off",
+   "kind": "scenery",
+   "thumb": "thumbs/c6767fa8-95f6-4e76-b503-642bad587cc0.jpg",
+   "tags": [
+    "lights",
+    "torch",
+    "metal",
+    "wood",
+    "fire",
+    "wall",
+    "brown",
+    "glow",
+    "tiny"
+   ]
+  },
+  {
+   "name": "Torch wall wood stone on",
+   "kind": "scenery",
+   "thumb": "thumbs/46ceac75-5f3c-4f09-9370-30b8be5a213e.jpg",
+   "tags": [
+    "lights",
+    "torch",
+    "metal",
+    "wood",
+    "fire",
+    "wall",
+    "brown",
+    "glow",
+    "tiny"
+   ]
+  }
+ ]
+}

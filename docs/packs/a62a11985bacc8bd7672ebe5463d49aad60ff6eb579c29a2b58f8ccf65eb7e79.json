@@ -1,0 +1,801 @@
+{
+ "id": "00aac8d0-0131-5ea3-b9ef-af9e0f31c405",
+ "folder": "Giants Creatures.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 562,
+   "sha256": "31e41724e082789a09e27db3e90499a2bcfece0c985365aef5647cc5a3ddaf18"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 19313,
+   "sha256": "ed7599d96af31326b5f27b1b9a9c4b0edfe6f8bb9f52da8637ea3ef6b51cbcb2"
+  },
+  {
+   "path": "creatures/ettin.md",
+   "size": 287,
+   "sha256": "3fb8188c8ced43b23e1271c37434348246a97d5c27c9a6261236ce938b9b238c"
+  },
+  {
+   "path": "creatures/fire-giant.md",
+   "size": 304,
+   "sha256": "544b588ea7badea907b3ef06a164b01927e15efe16c7088c55639670d039ac33"
+  },
+  {
+   "path": "creatures/frost-giant.md",
+   "size": 300,
+   "sha256": "8889d20e5d35cd1f570d7e15b227761d0fd3a4c6470d5d8f87ea4df257600057"
+  },
+  {
+   "path": "creatures/giant-storm.md",
+   "size": 246,
+   "sha256": "198cbe0259aa6b2d5c387f0b81b663218276cfa0b2ed29f084e5a5e950021990"
+  },
+  {
+   "path": "creatures/ogre-spellcaster.md",
+   "size": 305,
+   "sha256": "0a4dbad2cc3cf28001cccd10203c7ef1c69ed5ee490ed545e30452cd9514ed38"
+  },
+  {
+   "path": "creatures/ogre.md",
+   "size": 281,
+   "sha256": "c8a48262648cba6e7fe756a922c2a79439c1c651a3235840b42b2d09a7e610c0"
+  },
+  {
+   "path": "media/creatures/Giants/Ettin.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Giants/Ettin.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Giants/Ettin.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Ettin.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Giants/Ettin.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Ettin.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Giants/Ettin.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Ettin.cooked/textures/goblinskin.avif",
+   "size": 1059,
+   "sha256": "b37d901c6639ae7e1b4810e3b3866b77be00190567908529e3139abf7986f7eb"
+  },
+  {
+   "path": "media/creatures/Giants/Ettin.cooked/textures/goblinskin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Ettin.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Giants/Ettin.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Ettin.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Giants/Ettin.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Ettin.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Giants/Ettin.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Ettin.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/creatures/Giants/Ettin.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Ettin.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Giants/Ettin.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Ettin.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Giants/Ettin.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Giants/Ettin.usd",
+   "size": 1373945,
+   "sha256": "8b4ed31836d5075f445285e9a2ab22757406438566fa4fe29b458222cfbf133a"
+  },
+  {
+   "path": "media/creatures/Giants/Fire Giant.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Giants/Fire Giant.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Giants/Fire Giant.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Fire Giant.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Giants/Fire Giant.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Fire Giant.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Giants/Fire Giant.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Fire Giant.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Giants/Fire Giant.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Fire Giant.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Giants/Fire Giant.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Fire Giant.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Giants/Fire Giant.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Fire Giant.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/creatures/Giants/Fire Giant.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Fire Giant.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Giants/Fire Giant.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Fire Giant.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Giants/Fire Giant.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Fire Giant.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Giants/Fire Giant.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Giants/Fire Giant.usd",
+   "size": 1307289,
+   "sha256": "d58145f400f2a7a93fc68dce685fb70f0c460a0574d7d4d3b3926b2f70baedf5"
+  },
+  {
+   "path": "media/creatures/Giants/Frost Giant.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Giants/Frost Giant.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Giants/Frost Giant.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Frost Giant.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Giants/Frost Giant.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Frost Giant.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Giants/Frost Giant.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Frost Giant.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Giants/Frost Giant.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Frost Giant.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Giants/Frost Giant.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Frost Giant.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Giants/Frost Giant.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Frost Giant.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/creatures/Giants/Frost Giant.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Frost Giant.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Giants/Frost Giant.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Frost Giant.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Giants/Frost Giant.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Frost Giant.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Giants/Frost Giant.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Giants/Frost Giant.usd",
+   "size": 1114016,
+   "sha256": "58070d48658d1ac1f2c31cc3146cc2cd49e0e6bb77b27373bd7465893e297804"
+  },
+  {
+   "path": "media/creatures/Giants/Giant, Storm.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Giants/Giant, Storm.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Giants/Giant, Storm.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Giant, Storm.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Giants/Giant, Storm.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Giant, Storm.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Giants/Giant, Storm.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Giant, Storm.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Giants/Giant, Storm.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Giant, Storm.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Giants/Giant, Storm.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Giant, Storm.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Giants/Giant, Storm.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Giant, Storm.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/creatures/Giants/Giant, Storm.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Giant, Storm.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Giants/Giant, Storm.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Giant, Storm.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Giants/Giant, Storm.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Giant, Storm.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Giants/Giant, Storm.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Giants/Giant, Storm.usd",
+   "size": 1111040,
+   "sha256": "718d6eb9b28fadc746dc2dc76c65053bb851672432a44568085ad0f83f902006"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre Spellcaster.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre Spellcaster.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre Spellcaster.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre Spellcaster.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre Spellcaster.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre Spellcaster.cooked/textures/bluefire.avif",
+   "size": 1059,
+   "sha256": "66b8eda93e3f51b13722bd4f87107c9b0f61ca9161d964f27a7f96751431a328"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre Spellcaster.cooked/textures/bluefire_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre Spellcaster.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre Spellcaster.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre Spellcaster.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre Spellcaster.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre Spellcaster.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre Spellcaster.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre Spellcaster.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre Spellcaster.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre Spellcaster.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre Spellcaster.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre Spellcaster.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre Spellcaster.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre Spellcaster.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre Spellcaster.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre Spellcaster.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre Spellcaster.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre Spellcaster.usd",
+   "size": 1124832,
+   "sha256": "a83aecd98868972a3eb35736489d5116ba4ccd711533dac272f4bfbf35f63eac"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Giants/Ogre.usd",
+   "size": 1122993,
+   "sha256": "7566bed6e4ecc7ba4a499c9ca8439a1c6a77d075322458a0d0371b1ec6f70fbe"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Ettin",
+   "kind": "creature",
+   "thumb": "thumbs/14fa30bf-23e9-4aa3-8bd8-58bb6f0750ee.jpg",
+   "tags": [
+    "giants",
+    "giant",
+    "large",
+    "orc",
+    "humanoid",
+    "blunt",
+    "hunter",
+    "giantkin"
+   ]
+  },
+  {
+   "name": "Fire Giant",
+   "kind": "creature",
+   "thumb": "thumbs/3e7e0570-19ad-4b7a-a137-ba3ad960b951.jpg",
+   "tags": [
+    "giants",
+    "demon",
+    "demonic",
+    "fiend",
+    "monster",
+    "monstrous",
+    "monstrosity",
+    "hell"
+   ]
+  },
+  {
+   "name": "Frost Giant",
+   "kind": "creature",
+   "thumb": "thumbs/2355c7c4-dee9-4571-a578-074d28f9a1b6.jpg",
+   "tags": [
+    "giants",
+    "giant",
+    "frost",
+    "humanoid",
+    "giantkin",
+    "bracer",
+    "helmet",
+    "hide"
+   ]
+  },
+  {
+   "name": "Giant, Storm",
+   "kind": "creature",
+   "thumb": "thumbs/884ca3fe-af2b-4732-8f44-c7a4205d4631.jpg",
+   "tags": [
+    "giants"
+   ]
+  },
+  {
+   "name": "Ogre Spellcaster",
+   "kind": "creature",
+   "thumb": "thumbs/9ef109da-e202-4b3b-bdeb-4bad0d7627fb.jpg",
+   "tags": [
+    "giants",
+    "ogre",
+    "mage",
+    "spellcaster",
+    "blue",
+    "oni",
+    "sword",
+    "horns"
+   ]
+  },
+  {
+   "name": "Ogre",
+   "kind": "creature",
+   "thumb": "thumbs/e0b83c7a-0419-49ea-a65e-b6f91d9fa067.jpg",
+   "tags": [
+    "giants",
+    "ogre",
+    "hill",
+    "giant",
+    "rock",
+    "boulder",
+    "bones",
+    "leather"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,613 @@
+{
+ "id": "18d8bbb8-41d6-5761-92b6-46cc0de48608",
+ "folder": "Elementals Creatures.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 593,
+   "sha256": "3dd51201b564077f36b90658baf51e883bf15f3931ff8d2a121adbec5a56bab1"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 21024,
+   "sha256": "6eec393716870f67d36f86b99baff2d8a97e37fe3ed851022e06b48f57878ac4"
+  },
+  {
+   "path": "creatures/air-elemental.md",
+   "size": 306,
+   "sha256": "42425187d1974911a5684a2b9c735106f67e28ba6008d94b061a5d4b19b56508"
+  },
+  {
+   "path": "creatures/book-swarm.md",
+   "size": 271,
+   "sha256": "8b47fc1beed84ac050843a9470c92e9c35ad8a056e4bff654fe376eeab724e6d"
+  },
+  {
+   "path": "creatures/djinni.md",
+   "size": 297,
+   "sha256": "0594a3a1a8c1aed1e169e77a34dcc754e8217407f7291313bf97420b1a80e33f"
+  },
+  {
+   "path": "creatures/earth-elemental.md",
+   "size": 318,
+   "sha256": "c86666ea31f9f8ae963c262127b7a4dabd5a90b800665a48537c66ae3e4b565e"
+  },
+  {
+   "path": "creatures/fire-elemental.md",
+   "size": 309,
+   "sha256": "fbb72a03b524ff90f3633f5236e554c6e066db98b5d84cc213e4bfec3697ed7a"
+  },
+  {
+   "path": "creatures/water-elemental.md",
+   "size": 317,
+   "sha256": "2b58fdcd366f6575a31aef6ba5dcff1e15216f59e80a05eaf133238f1ed4029e"
+  },
+  {
+   "path": "media/creatures/Elementals/Air Elemental.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Elementals/Air Elemental.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Elementals/Air Elemental.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Air Elemental.cooked/textures/bluefire.avif",
+   "size": 1059,
+   "sha256": "66b8eda93e3f51b13722bd4f87107c9b0f61ca9161d964f27a7f96751431a328"
+  },
+  {
+   "path": "media/creatures/Elementals/Air Elemental.cooked/textures/bluefire_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Air Elemental.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Elementals/Air Elemental.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Air Elemental.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Elementals/Air Elemental.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Air Elemental.cooked/textures/ice.avif",
+   "size": 1928,
+   "sha256": "34e78a4939bc26e220ad654454a0fdcc174ab7cdc75979ed1566b522e09a95c7"
+  },
+  {
+   "path": "media/creatures/Elementals/Air Elemental.cooked/textures/ice_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Air Elemental.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Elementals/Air Elemental.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Air Elemental.usd",
+   "size": 286620,
+   "sha256": "ac3ecff253b56a52d1c1261fe3f2e56d402fda2d4d4121111c403aee1af62834"
+  },
+  {
+   "path": "media/creatures/Elementals/Book Swarm.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Elementals/Book Swarm.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Elementals/Book Swarm.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Book Swarm.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/creatures/Elementals/Book Swarm.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Book Swarm.cooked/textures/bluefire.avif",
+   "size": 1059,
+   "sha256": "66b8eda93e3f51b13722bd4f87107c9b0f61ca9161d964f27a7f96751431a328"
+  },
+  {
+   "path": "media/creatures/Elementals/Book Swarm.cooked/textures/bluefire_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Book Swarm.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Elementals/Book Swarm.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Book Swarm.cooked/textures/paper.avif",
+   "size": 1729,
+   "sha256": "700bd99d1997a1a20d90a673a4e698cf36fb4f8ffedafff69a6c93b3d8c7ad70"
+  },
+  {
+   "path": "media/creatures/Elementals/Book Swarm.cooked/textures/paper_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Book Swarm.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Elementals/Book Swarm.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Book Swarm.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Elementals/Book Swarm.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Book Swarm.usd",
+   "size": 112358,
+   "sha256": "1f227cae8dba04d7eda8bfd5e03e6af4655d558aae5fb5b359ad6ec6261b431d"
+  },
+  {
+   "path": "media/creatures/Elementals/Djinni.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Elementals/Djinni.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Elementals/Djinni.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Djinni.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/creatures/Elementals/Djinni.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Djinni.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Elementals/Djinni.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Djinni.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Elementals/Djinni.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Djinni.cooked/textures/ice.avif",
+   "size": 1928,
+   "sha256": "34e78a4939bc26e220ad654454a0fdcc174ab7cdc75979ed1566b522e09a95c7"
+  },
+  {
+   "path": "media/creatures/Elementals/Djinni.cooked/textures/ice_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Djinni.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Elementals/Djinni.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Djinni.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Elementals/Djinni.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Djinni.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Elementals/Djinni.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Djinni.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/creatures/Elementals/Djinni.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Djinni.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Elementals/Djinni.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Djinni.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Elementals/Djinni.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Djinni.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Elementals/Djinni.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Elementals/Djinni.usd",
+   "size": 1099169,
+   "sha256": "8cd60751b30ce8c57840eb51f601a2287004876e155e7d7b7f0bc2a852f69660"
+  },
+  {
+   "path": "media/creatures/Elementals/Earth Elemental.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Elementals/Earth Elemental.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Elementals/Earth Elemental.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Earth Elemental.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Elementals/Earth Elemental.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Earth Elemental.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Elementals/Earth Elemental.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Earth Elemental.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/creatures/Elementals/Earth Elemental.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Earth Elemental.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Elementals/Earth Elemental.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Earth Elemental.usd",
+   "size": 133418,
+   "sha256": "c1a403b19539390edfa4526fda624bd5165ecec965922135844855458e5bbab3"
+  },
+  {
+   "path": "media/creatures/Elementals/Fire Elemental.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Elementals/Fire Elemental.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Elementals/Fire Elemental.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Fire Elemental.cooked/textures/bluefire.avif",
+   "size": 1059,
+   "sha256": "66b8eda93e3f51b13722bd4f87107c9b0f61ca9161d964f27a7f96751431a328"
+  },
+  {
+   "path": "media/creatures/Elementals/Fire Elemental.cooked/textures/bluefire_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Fire Elemental.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Elementals/Fire Elemental.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Fire Elemental.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Elementals/Fire Elemental.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Fire Elemental.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/creatures/Elementals/Fire Elemental.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Fire Elemental.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Elementals/Fire Elemental.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Fire Elemental.usd",
+   "size": 302806,
+   "sha256": "2bebd7c87461acbedfd482b69018c684c2cb13c1c15d099a90bea61f8f6e3de6"
+  },
+  {
+   "path": "media/creatures/Elementals/Water Elemental.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Elementals/Water Elemental.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Elementals/Water Elemental.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Water Elemental.cooked/textures/bluefire.avif",
+   "size": 1059,
+   "sha256": "66b8eda93e3f51b13722bd4f87107c9b0f61ca9161d964f27a7f96751431a328"
+  },
+  {
+   "path": "media/creatures/Elementals/Water Elemental.cooked/textures/bluefire_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Water Elemental.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Elementals/Water Elemental.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Water Elemental.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Elementals/Water Elemental.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Water Elemental.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Elementals/Water Elemental.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Water Elemental.cooked/textures/water.avif",
+   "size": 644,
+   "sha256": "a620c7842cefe01e620892d3d24dcf88f91b1e9c3f27c7a1ecf1a24a7e2aaef9"
+  },
+  {
+   "path": "media/creatures/Elementals/Water Elemental.cooked/textures/water_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Elementals/Water Elemental.usd",
+   "size": 294733,
+   "sha256": "079b02000dfcbd4167ab2625fbff539838adf272fbda69889ea3464f6341a901"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Air Elemental",
+   "kind": "creature",
+   "thumb": "thumbs/53202e70-c49c-4e07-a524-d4ecf3bd0107.jpg",
+   "tags": [
+    "elementals",
+    "elemental",
+    "large",
+    "air",
+    "blue",
+    "white",
+    "neutral"
+   ]
+  },
+  {
+   "name": "Book Swarm",
+   "kind": "creature",
+   "thumb": "thumbs/44978e27-734d-4ab3-8f49-a56021783c7f.jpg",
+   "tags": [
+    "elementals",
+    "book",
+    "magic",
+    "flying",
+    "swarm"
+   ]
+  },
+  {
+   "name": "Djinni",
+   "kind": "creature",
+   "thumb": "thumbs/d8d3a85f-6a53-4525-b5c3-fd39a95c43bf.jpg",
+   "tags": [
+    "elementals",
+    "djinn",
+    "djinni",
+    "genie",
+    "doa",
+    "blue",
+    "scimitar",
+    "sword"
+   ]
+  },
+  {
+   "name": "Earth Elemental",
+   "kind": "creature",
+   "thumb": "thumbs/66495266-e4d9-4ca2-afc7-9548b923dbb4.jpg",
+   "tags": [
+    "elementals",
+    "elemental",
+    "large",
+    "earth",
+    "grey",
+    "rock",
+    "stone",
+    "neutral"
+   ]
+  },
+  {
+   "name": "Fire Elemental",
+   "kind": "creature",
+   "thumb": "thumbs/3b0ef930-6fdb-4272-86c9-77cead4fcf8a.jpg",
+   "tags": [
+    "elementals",
+    "elemental",
+    "large",
+    "fire",
+    "red",
+    "orange",
+    "neutral"
+   ]
+  },
+  {
+   "name": "Water Elemental",
+   "kind": "creature",
+   "thumb": "thumbs/1e8aff88-86c1-45df-bfb6-6dc63eba08b7.jpg",
+   "tags": [
+    "elementals",
+    "elemental",
+    "large",
+    "water",
+    "blue",
+    "white",
+    "wet",
+    "neutral"
+   ]
+  }
+ ]
+}

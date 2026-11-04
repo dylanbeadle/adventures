@@ -1,0 +1,892 @@
+{
+ "id": "e3365610-8aaf-5e06-97ae-1887a564bec6",
+ "folder": "Crafting Props.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 709,
+   "sha256": "986da007d6658c7ff14ba9630a7e75f18953849d3bf7493da977b23bd7d25c84"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 28959,
+   "sha256": "2fef227be14fb9342180cde8a88e0801cf6b062460719cd80b3408e393f071c2"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, distillery base.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, distillery base.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, distillery base.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, distillery base.usd",
+   "size": 6772,
+   "sha256": "9b643400529be6e2f328b68941f5616bc8351d3d31da387645a42724200f4b8b"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, distillery.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, distillery.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, distillery.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, distillery.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, distillery.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, distillery.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, distillery.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, distillery.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, distillery.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, distillery.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, distillery.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, distillery.usd",
+   "size": 146793,
+   "sha256": "4eb40f3523dc7fe46b9dcb878a43963d46f7623666d50860459d492c9608c6a3"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, shelf 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, shelf 01.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, shelf 01.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, shelf 01.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, shelf 01.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, shelf 01.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, shelf 01.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, shelf 01.usd",
+   "size": 289853,
+   "sha256": "a2c56c085f209d808817f70a5ba7064bae870e0a1d5bbbcfa629e724a0692331"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, shelf 02.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, shelf 02.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, shelf 02.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, shelf 02.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, shelf 02.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, shelf 02.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, shelf 02.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, shelf 02.usd",
+   "size": 291063,
+   "sha256": "b6cf0a365e22cfd65828ffc36505b1fdad98c4aa13dfc5e831eac19b07683b54"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, table 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, table 01.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, table 01.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, table 01.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, table 01.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, table 01.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, table 01.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Crafting/Alchemy, table 01.usd",
+   "size": 206548,
+   "sha256": "2a2517d515a3ffd4a5d8e1aa629b46b8b2a2745c6c8dd6ac9c53534be135f60c"
+  },
+  {
+   "path": "media/props/Crafting/Anvil.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Crafting/Anvil.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Crafting/Anvil.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Crafting/Anvil.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/props/Crafting/Anvil.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Crafting/Anvil.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Crafting/Anvil.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Crafting/Anvil.usd",
+   "size": 55387,
+   "sha256": "60521cd622c9f0a2ef7f00a1d9b322f2d0b4a1d538309cdd0e6899962dbe022e"
+  },
+  {
+   "path": "media/props/Crafting/Armor Rack.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Crafting/Armor Rack.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Crafting/Armor Rack.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Crafting/Armor Rack.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/props/Crafting/Armor Rack.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Crafting/Armor Rack.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Crafting/Armor Rack.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Crafting/Armor Rack.usd",
+   "size": 59920,
+   "sha256": "a4ddc62fd3f6235eea667d57d3229d185c57622c087edf40466df127f91c90aa"
+  },
+  {
+   "path": "media/props/Crafting/Arrow pile 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Crafting/Arrow pile 01.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Crafting/Arrow pile 01.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Crafting/Arrow pile 01.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Crafting/Arrow pile 01.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Crafting/Arrow pile 01.usd",
+   "size": 17263,
+   "sha256": "555d77d795af21dbb813fbeef15a6960a5494cc990a143ef5e895f11294ddb73"
+  },
+  {
+   "path": "media/props/Crafting/Coil, Electromagnet Off.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Crafting/Coil, Electromagnet Off.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Crafting/Coil, Electromagnet Off.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Crafting/Coil, Electromagnet Off.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Crafting/Coil, Electromagnet Off.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Crafting/Coil, Electromagnet Off.usd",
+   "size": 169221,
+   "sha256": "886f443200dcca2178bc099a261dd98859aba0b9096b6ae06ae6170e11845a93"
+  },
+  {
+   "path": "media/props/Crafting/Coil, Electromagnet.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Crafting/Coil, Electromagnet.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Crafting/Coil, Electromagnet.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Crafting/Coil, Electromagnet.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Crafting/Coil, Electromagnet.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Crafting/Coil, Electromagnet.usd",
+   "size": 169242,
+   "sha256": "5a2a9aae67a181c9f558e1dd761c8e6d4ef6bcf173b2ba61cd20ef161d902b6f"
+  },
+  {
+   "path": "media/props/Crafting/Forge.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Crafting/Forge.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/props/Crafting/Forge.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Crafting/Forge.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/props/Crafting/Forge.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Crafting/Forge.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/props/Crafting/Forge.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Crafting/Forge.usd",
+   "size": 66983,
+   "sha256": "0db5ae0f701c670528dfdd3d31c6d02265e3f0178a162821ca8795d99a448f84"
+  },
+  {
+   "path": "media/props/Crafting/Weapon Rack.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Crafting/Weapon Rack.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Crafting/Weapon Rack.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Crafting/Weapon Rack.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/props/Crafting/Weapon Rack.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Crafting/Weapon Rack.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Crafting/Weapon Rack.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Crafting/Weapon Rack.usd",
+   "size": 27870,
+   "sha256": "a6317ddbb1ac89522ee7500d83c68d54ca3562232a559131179b1aceff7552f1"
+  },
+  {
+   "path": "media/props/Crafting/Workbench.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Crafting/Workbench.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/props/Crafting/Workbench.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Crafting/Workbench.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/props/Crafting/Workbench.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Crafting/Workbench.cooked/textures/paper.avif",
+   "size": 1729,
+   "sha256": "700bd99d1997a1a20d90a673a4e698cf36fb4f8ffedafff69a6c93b3d8c7ad70"
+  },
+  {
+   "path": "media/props/Crafting/Workbench.cooked/textures/paper_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Crafting/Workbench.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Crafting/Workbench.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Crafting/Workbench.usd",
+   "size": 76780,
+   "sha256": "706a714342de560930b2625e3ee0fb327f92a068d8277eac3e76bbb4c762857e"
+  },
+  {
+   "path": "media/props/Crafting/alchemy jug 07.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Crafting/alchemy jug 07.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/props/Crafting/alchemy jug 07.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Crafting/alchemy jug 07.usd",
+   "size": 49580,
+   "sha256": "84b9a1cef28a5c2f88101234d45422db745f9c69fc5f8bfb996874d106a5f570"
+  },
+  {
+   "path": "scenery/alchemy-distillery-base.md",
+   "size": 291,
+   "sha256": "162fd4ac9b02d8468a23f67bbd24e6af6271c6461b57649a5c617fa8fa95f0d2"
+  },
+  {
+   "path": "scenery/alchemy-distillery.md",
+   "size": 314,
+   "sha256": "dcf64d4655fb1d0a5f28b8971b2b2f55c6697306242cb9f317d2a08ee514a497"
+  },
+  {
+   "path": "scenery/alchemy-jug-07.md",
+   "size": 311,
+   "sha256": "58c869dd62deb86711a6c80ae309fdbe45412629a8ce604a9d01a0e77dbf9a3f"
+  },
+  {
+   "path": "scenery/alchemy-shelf-01.md",
+   "size": 299,
+   "sha256": "6bea8dc393a3cb290974641e4051cdf790c12125c827b055b0480f642c8c2c08"
+  },
+  {
+   "path": "scenery/alchemy-shelf-02.md",
+   "size": 299,
+   "sha256": "7862770c0cb9b2bcdb926ce96fe15b898de03ffceb5e8b523f576dc7e86dc9b4"
+  },
+  {
+   "path": "scenery/alchemy-table-01.md",
+   "size": 307,
+   "sha256": "34a4ec079956cc857f9dae5015a4fbb31602da3f744310e8f10120ce9e4efa59"
+  },
+  {
+   "path": "scenery/anvil.md",
+   "size": 302,
+   "sha256": "4062f6159d0c3ecac3461fa109287dd26ba4194a0db3d3fe503686dba9e82072"
+  },
+  {
+   "path": "scenery/armor-rack.md",
+   "size": 316,
+   "sha256": "96315519b644cf7e789a461a325c64b2cc86660dc43c59c0d87c0afcc6641685"
+  },
+  {
+   "path": "scenery/arrow-pile-01.md",
+   "size": 273,
+   "sha256": "e05a794b3f4bcf40c94a4b15e47510b61b79af5c0ab8186c124100c0ba67694a"
+  },
+  {
+   "path": "scenery/coil-electromagnet-off.md",
+   "size": 299,
+   "sha256": "2819055bc03f956ae96b2c361f730696e8543a005f9af7fa2e22ea54d67c4976"
+  },
+  {
+   "path": "scenery/coil-electromagnet.md",
+   "size": 291,
+   "sha256": "f5dbb269dc42b41c6d933a74702fb9449ab08171b67d109a80a8764d41532845"
+  },
+  {
+   "path": "scenery/forge.md",
+   "size": 303,
+   "sha256": "299a9cc335e06cddd9bc1147902b2f810cf6d49ede97943b8bf27916ec323865"
+  },
+  {
+   "path": "scenery/weapon-rack.md",
+   "size": 321,
+   "sha256": "95fe2c1c07979a0b0189e70110bd60739b8953be386e0ad31448550a0e211b02"
+  },
+  {
+   "path": "scenery/workbench.md",
+   "size": 308,
+   "sha256": "fa6a47acdcb524d183502075eaecf234cfbfccc25cfb8873631275d6fc68f439"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Alchemy, distillery base",
+   "kind": "scenery",
+   "thumb": "thumbs/1207e22d-014d-48d3-b999-3af9c6378f4c.jpg",
+   "tags": [
+    "distillery",
+    "laboratory",
+    "stone",
+    "rock",
+    "black",
+    "crafting",
+    "warehouse",
+    "shack",
+    "medium",
+    "alchemy"
+   ]
+  },
+  {
+   "name": "Alchemy, distillery",
+   "kind": "scenery",
+   "thumb": "thumbs/122680e9-fd9c-453d-8943-22497cb5feed.jpg",
+   "tags": [
+    "distillery",
+    "laboratory",
+    "still",
+    "brewing",
+    "brew",
+    "crafting",
+    "warehouse",
+    "shack",
+    "medium",
+    "alchemy",
+    "metal",
+    "stone",
+    "rock",
+    "container"
+   ]
+  },
+  {
+   "name": "alchemy jug 07",
+   "kind": "scenery",
+   "thumb": "thumbs/3a8fe987-2a14-40f4-a08d-029a3c31a3e2.jpg",
+   "tags": [
+    "accessories",
+    "cooking",
+    "magic",
+    "copper",
+    "tiny",
+    "black",
+    "white",
+    "orange",
+    "bunsen",
+    "burner",
+    "crafting",
+    "warehouse",
+    "shack",
+    "alchemy",
+    "container"
+   ]
+  },
+  {
+   "name": "Alchemy, shelf 01",
+   "kind": "scenery",
+   "thumb": "thumbs/22ec9979-4c54-47f9-b60a-faf9f0614858.jpg",
+   "tags": [
+    "crafting",
+    "alchemy",
+    "shelf",
+    "laboratory",
+    "appliances",
+    "accessories",
+    "medium",
+    "wood",
+    "copper",
+    "metal",
+    "container",
+    "bottle"
+   ]
+  },
+  {
+   "name": "Alchemy, shelf 02",
+   "kind": "scenery",
+   "thumb": "thumbs/8fc32b45-a5ff-46a2-bed6-946c8caf36ed.jpg",
+   "tags": [
+    "crafting",
+    "alchemy",
+    "shelf",
+    "laboratory",
+    "appliances",
+    "accessories",
+    "medium",
+    "wood",
+    "copper",
+    "metal",
+    "container",
+    "bottle"
+   ]
+  },
+  {
+   "name": "Alchemy, table 01",
+   "kind": "scenery",
+   "thumb": "thumbs/5aaba37d-4d17-4c05-a935-a19c288aabf1.jpg",
+   "tags": [
+    "alchemy",
+    "table",
+    "laboratory",
+    "bunsen",
+    "burner",
+    "crafting",
+    "warehouse",
+    "shack",
+    "large",
+    "wood",
+    "copper",
+    "metal",
+    "container",
+    "bottle"
+   ]
+  },
+  {
+   "name": "Anvil",
+   "kind": "scenery",
+   "thumb": "thumbs/ea2cb7d1-29c2-43c4-bdc5-ab21080bfad3.jpg",
+   "tags": [
+    "anvil",
+    "metal",
+    "armorsmith",
+    "vendor",
+    "crafter",
+    "iron",
+    "wood",
+    "tongs",
+    "hammer",
+    "crafting",
+    "warehouse",
+    "shack",
+    "small",
+    "smithy",
+    "blacksmith",
+    "weaponsmith"
+   ]
+  },
+  {
+   "name": "Armor Rack",
+   "kind": "scenery",
+   "thumb": "thumbs/b8d3839f-00fa-436b-8dc9-f67cef318bf8.jpg",
+   "tags": [
+    "rack",
+    "armor",
+    "halfplate",
+    "pauldrons",
+    "helmet",
+    "plate",
+    "stand",
+    "armorsmith",
+    "crafting",
+    "warehouse",
+    "shack",
+    "small",
+    "smithy",
+    "blacksmith",
+    "weaponsmith",
+    "war"
+   ]
+  },
+  {
+   "name": "Arrow pile 01",
+   "kind": "scenery",
+   "thumb": "thumbs/2f4face8-297e-462c-85a2-902707c05974.jpg",
+   "tags": [
+    "arrow",
+    "pile",
+    "weapon",
+    "crafting",
+    "warehouse",
+    "shack",
+    "tiny",
+    "smithy",
+    "blacksmith",
+    "weaponsmith",
+    "war"
+   ]
+  },
+  {
+   "name": "Coil, Electromagnet Off",
+   "kind": "scenery",
+   "thumb": "thumbs/9af5212e-7412-4ca9-aa94-d96e19352bd2.jpg",
+   "tags": [
+    "alchemy",
+    "coil",
+    "electromagnetic",
+    "laboratory",
+    "tesla",
+    "technology",
+    "crafting",
+    "warehouse",
+    "shack",
+    "medium"
+   ]
+  },
+  {
+   "name": "Coil, Electromagnet",
+   "kind": "scenery",
+   "thumb": "thumbs/ad6264ac-d52f-4bff-b930-23ca7143184b.jpg",
+   "tags": [
+    "alchemy",
+    "coil",
+    "electromagnetic",
+    "laboratory",
+    "tesla",
+    "technology",
+    "crafting",
+    "warehouse",
+    "shack",
+    "medium"
+   ]
+  },
+  {
+   "name": "Forge",
+   "kind": "scenery",
+   "thumb": "thumbs/ac4e845b-254e-40e9-b1be-3eb7e924d24c.jpg",
+   "tags": [
+    "crafting",
+    "forge",
+    "light",
+    "lit",
+    "illuminated",
+    "stone",
+    "rock",
+    "black",
+    "large",
+    "accessories",
+    "appliances",
+    "huge",
+    "smithy",
+    "blacksmith",
+    "weaponsmith",
+    "fire"
+   ]
+  },
+  {
+   "name": "Weapon Rack",
+   "kind": "scenery",
+   "thumb": "thumbs/f44f9e09-264c-49c5-9335-3a1d24263a81.jpg",
+   "tags": [
+    "crafting",
+    "rack",
+    "weapon",
+    "wood",
+    "smithy",
+    "accessories",
+    "household",
+    "appliances",
+    "house",
+    "axe",
+    "battleaxe",
+    "sword",
+    "warhammer",
+    "blacksmith",
+    "weaponsmith",
+    "war"
+   ]
+  },
+  {
+   "name": "Workbench",
+   "kind": "scenery",
+   "thumb": "thumbs/fc33604a-1b38-4618-969f-13216d75cdb5.jpg",
+   "tags": [
+    "workbench",
+    "table",
+    "bench",
+    "wood",
+    "smithy",
+    "technology",
+    "crafting",
+    "warehouse",
+    "shack",
+    "large",
+    "blacksmith",
+    "carpenter",
+    "cartographer",
+    "weaponsmith"
+   ]
+  }
+ ]
+}

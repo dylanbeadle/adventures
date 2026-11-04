@@ -1,0 +1,628 @@
+{
+ "id": "d4c07722-4efe-5876-81d3-bded5de619de",
+ "folder": "Cavern Tiles.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 707,
+   "sha256": "2e8fe902f1ef502707986e94522d8f509d93d63efb1c9378db39c686318e9cf6"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 37111,
+   "sha256": "e8c1fb1bb3e53d4f520694d6e207242dc51aa6de817519394d217b9f3930d537"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Corner 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Corner 01.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Corner 01.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Corner 01.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Corner 01.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Corner 01.usd",
+   "size": 151880,
+   "sha256": "caa6f6985d84849281d2601e18568cb05504f5afbe3ad75acbb18560df4b57a3"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Corner 02.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Corner 02.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Corner 02.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Corner 02.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Corner 02.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Corner 02.usd",
+   "size": 152104,
+   "sha256": "7a6fa0637832916967b781fb49a0a0d7686869e17db6528aa64c7935fab88146"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Floor - Rock 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Floor - Rock 01.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Floor - Rock 01.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Floor - Rock 01.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Floor - Rock 01.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Floor - Rock 01.usd",
+   "size": 90703,
+   "sha256": "572e0563b6727becfb5a461bca7c2f2289ce8bb15e7bcc2b05bf14567a327b8f"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Floor - Rock 03.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Floor - Rock 03.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Floor - Rock 03.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Floor - Rock 03.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Floor - Rock 03.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Floor - Rock 03.usd",
+   "size": 29028,
+   "sha256": "5862b68d775279e44fbb637a3d9a753b183fc112a1d6f066a1a14409ab0b2665"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Floor - Rock 04.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Floor - Rock 04.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Floor - Rock 04.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Floor - Rock 04.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Floor - Rock 04.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Floor - Rock 04.usd",
+   "size": 49602,
+   "sha256": "5013a1ad1f6e09773bf165ea5f4e052015ae7bac542c53e266cad9d4419bd85b"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Floor - Rock 2.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Floor - Rock 2.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Floor - Rock 2.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Floor - Rock 2.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Floor - Rock 2.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Floor - Rock 2.usd",
+   "size": 28898,
+   "sha256": "23f30978dbdb81b53a422411e95f4d9c225f04b921d4871940290b1025aef513"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Rock 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Rock 01.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Rock 01.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Rock 01.usd",
+   "size": 23481,
+   "sha256": "05df07768d52ce1383e9e32032f7980e7fbee33a9cb6b5afbfcb45ca1289811e"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Wall - Floor 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Wall - Floor 01.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Wall - Floor 01.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Wall - Floor 01.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Wall - Floor 01.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Wall - Floor 01.usd",
+   "size": 116995,
+   "sha256": "0c19b19892f382126b34cdad6af300813e52c26af1cfbf1e968f243f6623c873"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Wall 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Wall 01.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Wall 01.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Wall 01.usd",
+   "size": 23823,
+   "sha256": "7c112d9e9cd3f80f0be0c74afe0a93b7bcc420662b710da20661615188b3a83b"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Wall 02.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Wall 02.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Wall 02.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Wall 02.usd",
+   "size": 23823,
+   "sha256": "56cd0dfa8dbf58af5c8bd29c834345b43c9050e62a1643b98b8664d6e2102a5e"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Wall 03.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Wall 03.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Wall 03.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Wall 03.usd",
+   "size": 39822,
+   "sha256": "2ba0649920cbb9651a50cb83f24b35c21964e58c42a3c22a738d198f23f98113"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Wall Corner 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Wall Corner 01.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Wall Corner 01.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Wall Corner 01.usd",
+   "size": 75114,
+   "sha256": "dd00897b3dc8ca3bc924938dcb34f012cb9ae7bdaaa2cb201c4a7af20d45f860"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Wall Corner 02.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Wall Corner 02.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Wall Corner 02.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern/Cave Wall Corner 02.usd",
+   "size": 75026,
+   "sha256": "51957e5be9085ffd1c38291a340dcf8b3040b04e2ccba1bf3c940c3918f2b7f7"
+  },
+  {
+   "path": "scenery/cave-corner-01.md",
+   "size": 251,
+   "sha256": "fc0123e9be107b52a37414dd367fb3721ebeab1cba17f253d30fb810b89277f5"
+  },
+  {
+   "path": "scenery/cave-corner-02.md",
+   "size": 251,
+   "sha256": "dcba07aea6860e2be5e6aace82147f3f94e1ffb074a2186e6b84d86167b0caa0"
+  },
+  {
+   "path": "scenery/cave-floor-rock-01.md",
+   "size": 250,
+   "sha256": "8fece243b63c5d4a2806d3aedd45663600ee0d65490577efa9543825dfe76525"
+  },
+  {
+   "path": "scenery/cave-floor-rock-03.md",
+   "size": 249,
+   "sha256": "cca8288996eec78d88b914d3ffae5f998df46046ad9e9d81999804e9352a05a9"
+  },
+  {
+   "path": "scenery/cave-floor-rock-04.md",
+   "size": 249,
+   "sha256": "ce4fe5bcf43f088efe8a579beb8e642dc2498b4f04467f91e9fbd8019c8704ae"
+  },
+  {
+   "path": "scenery/cave-floor-rock-2.md",
+   "size": 247,
+   "sha256": "e22b2422df9aeeb083760afdcc7e501ef8c1fdaaa9edfe40e0889ea84a845692"
+  },
+  {
+   "path": "scenery/cave-rock-01.md",
+   "size": 232,
+   "sha256": "5b3fa6f191aa56a9f7711e8a0cb293c6acdb1c36664c757b64f285449a3024df"
+  },
+  {
+   "path": "scenery/cave-wall-01.md",
+   "size": 233,
+   "sha256": "18449525d9f97b854e69f3e9a85d93d847b78b9a5f90d60ecc19fa7a25f39c07"
+  },
+  {
+   "path": "scenery/cave-wall-02.md",
+   "size": 233,
+   "sha256": "df4a01feecca454786a96f1a29115ef409b46c7445342197d9f34647ec1a3159"
+  },
+  {
+   "path": "scenery/cave-wall-03.md",
+   "size": 232,
+   "sha256": "eebc745f38ae6af2ea3c63647dad434fef203f16911cb90f716b15eb1bd541fa"
+  },
+  {
+   "path": "scenery/cave-wall-corner-01.md",
+   "size": 254,
+   "sha256": "48aa9831e8afce1d1791e092321ee25c12142fc8e0d9d2c03c15afc7f34dc77e"
+  },
+  {
+   "path": "scenery/cave-wall-corner-02.md",
+   "size": 254,
+   "sha256": "783864a0245ad89993c2f4d0583c6fbcbca46106529d8fb6f78473cfc77026cb"
+  },
+  {
+   "path": "scenery/cave-wall-floor-01.md",
+   "size": 253,
+   "sha256": "b403b590e7ba1914c8eaf23dfc0d976ccd00a758d10654dfdc9b5662a44cdf7c"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Cave Corner 01",
+   "kind": "scenery",
+   "thumb": "thumbs/f16eaf8d-7e01-486b-be6d-1fa261569cd4.jpg",
+   "tags": [
+    "floor",
+    "wall",
+    "corner",
+    "cavern",
+    "large",
+    "rock",
+    "stone",
+    "cave",
+    "mine",
+    "gray",
+    "grey"
+   ]
+  },
+  {
+   "name": "Cave Corner 02",
+   "kind": "scenery",
+   "thumb": "thumbs/6707437b-a990-4216-a017-197744cf750c.jpg",
+   "tags": [
+    "floor",
+    "wall",
+    "cavern",
+    "corner",
+    "large",
+    "rock",
+    "stone",
+    "cave",
+    "mine",
+    "gray",
+    "grey"
+   ]
+  },
+  {
+   "name": "Cave Floor - Rock 01",
+   "kind": "scenery",
+   "thumb": "thumbs/b83392b1-8833-43c9-a97f-2ac3df659e66.jpg",
+   "tags": [
+    "floor",
+    "cavern",
+    "medium",
+    "rock",
+    "stone",
+    "cave",
+    "mine",
+    "gray",
+    "grey"
+   ]
+  },
+  {
+   "name": "Cave Floor - Rock 03",
+   "kind": "scenery",
+   "thumb": "thumbs/ea5589dc-507a-4e0d-bf48-b097c8318a38.jpg",
+   "tags": [
+    "cavern",
+    "floor",
+    "small",
+    "rock",
+    "stone",
+    "cave",
+    "mine",
+    "gray",
+    "grey"
+   ]
+  },
+  {
+   "name": "Cave Floor - Rock 04",
+   "kind": "scenery",
+   "thumb": "thumbs/0207e67f-6bba-4eb3-a343-54bf2d4d35d3.jpg",
+   "tags": [
+    "cavern",
+    "floor",
+    "small",
+    "rock",
+    "stone",
+    "cave",
+    "mine",
+    "gray",
+    "grey"
+   ]
+  },
+  {
+   "name": "Cave Floor - Rock 2",
+   "kind": "scenery",
+   "thumb": "thumbs/ce6a2235-664f-43e8-a744-d5743623701d.jpg",
+   "tags": [
+    "cavern",
+    "floor",
+    "small",
+    "rock",
+    "stone",
+    "cave",
+    "mine",
+    "gray",
+    "grey"
+   ]
+  },
+  {
+   "name": "Cave Rock 01",
+   "kind": "scenery",
+   "thumb": "thumbs/67731edb-9e8d-4b7b-8485-17173b6a2fc4.jpg",
+   "tags": [
+    "cavern",
+    "small",
+    "misc",
+    "rock",
+    "stone",
+    "cave",
+    "mine",
+    "gray",
+    "grey"
+   ]
+  },
+  {
+   "name": "Cave Wall 01",
+   "kind": "scenery",
+   "thumb": "thumbs/c06fdfb8-bf24-4234-99c7-3a72a5aacb02.jpg",
+   "tags": [
+    "cavern",
+    "medium",
+    "wall",
+    "rock",
+    "stone",
+    "cave",
+    "mine",
+    "gray",
+    "grey"
+   ]
+  },
+  {
+   "name": "Cave Wall 02",
+   "kind": "scenery",
+   "thumb": "thumbs/8405574e-c75b-4146-b08d-ff9007ac95ac.jpg",
+   "tags": [
+    "cavern",
+    "medium",
+    "wall",
+    "rock",
+    "stone",
+    "cave",
+    "mine",
+    "gray",
+    "grey"
+   ]
+  },
+  {
+   "name": "Cave Wall 03",
+   "kind": "scenery",
+   "thumb": "thumbs/39f5b1a9-6316-4d13-90d6-12a0bac9c38e.jpg",
+   "tags": [
+    "cavern",
+    "large",
+    "wall",
+    "rock",
+    "stone",
+    "cave",
+    "mine",
+    "gray",
+    "grey"
+   ]
+  },
+  {
+   "name": "Cave Wall Corner 01",
+   "kind": "scenery",
+   "thumb": "thumbs/283fe136-1ac3-4025-b9bf-90612c464c52.jpg",
+   "tags": [
+    "wall",
+    "cavern",
+    "corner",
+    "large",
+    "rock",
+    "stone",
+    "cave",
+    "mine",
+    "gray",
+    "grey"
+   ]
+  },
+  {
+   "name": "Cave Wall Corner 02",
+   "kind": "scenery",
+   "thumb": "thumbs/620e2184-6489-4411-86b9-223ac358c64b.jpg",
+   "tags": [
+    "wall",
+    "cavern",
+    "corner",
+    "large",
+    "rock",
+    "stone",
+    "cave",
+    "mine",
+    "gray",
+    "grey"
+   ]
+  },
+  {
+   "name": "Cave Wall/Floor 01",
+   "kind": "scenery",
+   "thumb": "thumbs/e972de17-0cfc-4b42-8906-879193ea96e9.jpg",
+   "tags": [
+    "floor",
+    "cavern",
+    "large",
+    "wall",
+    "rock",
+    "stone",
+    "cave",
+    "mine",
+    "gray",
+    "grey"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,418 @@
+{
+ "id": "bb41b179-a8df-5b9b-a573-8f122d32bc9b",
+ "folder": "Orc Creatures.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 522,
+   "sha256": "c6b22f53fffce2ef384870dc10f649d219b1203117bcd300e0c1ff856ab64635"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 15556,
+   "sha256": "84c9cca7b0ba3b673a767275bfb29610ae1539e7be294719212738f25fa86982"
+  },
+  {
+   "path": "creatures/orc-bolter.md",
+   "size": 281,
+   "sha256": "77c68e75805a4b4fddd8274dceef08e24f9494fd63876d22ab9ccfaf97fc4383"
+  },
+  {
+   "path": "creatures/orc-spellcaster.md",
+   "size": 291,
+   "sha256": "23700e9f6a7167770a2f8a59f3452480791dd0d5caa9067a6299abd0d2aa47ad"
+  },
+  {
+   "path": "creatures/orc-warrior.md",
+   "size": 282,
+   "sha256": "a7e5898d691de06452d62dfcb6f74dda2ba1dac78905c094d41b4c4d3f7ec00b"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Bolter.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Bolter.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Bolter.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Bolter.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Bolter.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Bolter.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Bolter.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Bolter.cooked/textures/goblinskin.avif",
+   "size": 1059,
+   "sha256": "b37d901c6639ae7e1b4810e3b3866b77be00190567908529e3139abf7986f7eb"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Bolter.cooked/textures/goblinskin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Bolter.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Bolter.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Bolter.cooked/textures/jade.avif",
+   "size": 756,
+   "sha256": "9f63b3de989e52a14a4e018da19a51f73e2de06c5d27ac931b87798041dfdfbe"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Bolter.cooked/textures/jade_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Bolter.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Bolter.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Bolter.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Bolter.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Bolter.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Bolter.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Bolter.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Bolter.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Bolter.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Bolter.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Bolter.usd",
+   "size": 1057214,
+   "sha256": "0634079f0a1d35fb59578022fc9c0f1edfca4a2e2ee979006b74648e4c863983"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Spellcaster.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Spellcaster.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Spellcaster.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Spellcaster.cooked/textures/bluefire.avif",
+   "size": 1059,
+   "sha256": "66b8eda93e3f51b13722bd4f87107c9b0f61ca9161d964f27a7f96751431a328"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Spellcaster.cooked/textures/bluefire_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Spellcaster.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Spellcaster.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Spellcaster.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Spellcaster.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Spellcaster.cooked/textures/goblinskin.avif",
+   "size": 1059,
+   "sha256": "b37d901c6639ae7e1b4810e3b3866b77be00190567908529e3139abf7986f7eb"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Spellcaster.cooked/textures/goblinskin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Spellcaster.cooked/textures/jade.avif",
+   "size": 756,
+   "sha256": "9f63b3de989e52a14a4e018da19a51f73e2de06c5d27ac931b87798041dfdfbe"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Spellcaster.cooked/textures/jade_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Spellcaster.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Spellcaster.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Spellcaster.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Spellcaster.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Spellcaster.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Spellcaster.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Spellcaster.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Spellcaster.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Spellcaster.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Spellcaster.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Spellcaster.usd",
+   "size": 1036293,
+   "sha256": "2334f4223035bab6933abc91d6d9333507a51e2728c76adc2bf28fcb495e0951"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Warrior.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Warrior.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Warrior.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Warrior.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Warrior.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Warrior.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Warrior.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Warrior.cooked/textures/goblinskin.avif",
+   "size": 1059,
+   "sha256": "b37d901c6639ae7e1b4810e3b3866b77be00190567908529e3139abf7986f7eb"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Warrior.cooked/textures/goblinskin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Warrior.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Warrior.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Warrior.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Warrior.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Warrior.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Warrior.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Warrior.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Warrior.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Warrior.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Warrior.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Orc/Orc Warrior.usd",
+   "size": 1055366,
+   "sha256": "5234cadfed3d8d473558ad1638134f2b1cad70717249ea2346687758d638159d"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Orc Bolter",
+   "kind": "creature",
+   "thumb": "thumbs/74cfb22b-c5f9-4d46-a851-92b6212f777f.jpg",
+   "tags": [
+    "orc",
+    "medium",
+    "archer",
+    "goblinoid",
+    "chaotic",
+    "evil",
+    "green",
+    "humanoid"
+   ]
+  },
+  {
+   "name": "Orc Spellcaster",
+   "kind": "creature",
+   "thumb": "thumbs/4c269c30-e812-4a6e-b314-455d86774e95.jpg",
+   "tags": [
+    "orc",
+    "medium",
+    "goblinoid",
+    "shaman",
+    "chaotic",
+    "evil",
+    "green",
+    "humanoid"
+   ]
+  },
+  {
+   "name": "Orc Warrior",
+   "kind": "creature",
+   "thumb": "thumbs/759516c3-6bbc-480c-b8bb-ae3081509a99.jpg",
+   "tags": [
+    "orc",
+    "medium",
+    "goblinoid",
+    "chaotic",
+    "evil",
+    "green",
+    "humanoid",
+    "blunt"
+   ]
+  }
+ ]
+}

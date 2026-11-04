@@ -1,0 +1,1136 @@
+{
+ "id": "46547693-d55c-55de-838d-b7f563643093",
+ "folder": "Cavern Lava Tiles.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 913,
+   "sha256": "179cf07be3b1d72b3377348e4346a1da65bbc53f7d563acdc00cd2da9a9e703e"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 33855,
+   "sha256": "eb222c5a8a5759239d9d6293ad5d1d8e611fb1e55105f8778de7ac2916983d43"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava floor 1x1 ashes.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava floor 1x1 ashes.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava floor 1x1 ashes.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava floor 1x1 ashes.usd",
+   "size": 36595,
+   "sha256": "55681212da9e486b1bea9969033b3891b89262c6f7dbac1f54ba7391c168341d"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava floor 1x1 hot.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava floor 1x1 hot.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava floor 1x1 hot.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava floor 1x1 hot.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava floor 1x1 hot.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava floor 1x1 hot.usd",
+   "size": 43284,
+   "sha256": "b0ace4c78a44bb3954d2f328e6224c8535151d70e8f81f12c6dee100ee4a610e"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava floor 2x1 hot.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava floor 2x1 hot.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava floor 2x1 hot.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava floor 2x1 hot.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava floor 2x1 hot.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava floor 2x1 hot.usd",
+   "size": 77382,
+   "sha256": "9f524115296d65c3103400f85dd69d129a68212fe82160acad3a5bcbdc21261f"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava floor 2x2 ashes.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava floor 2x2 ashes.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava floor 2x2 ashes.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava floor 2x2 ashes.usd",
+   "size": 129024,
+   "sha256": "d6850576c91f85b39cbbf2d4dcc2d63a273b68ad632bc5e5ae414c8615c8684f"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava floor 2x2 hot.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava floor 2x2 hot.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava floor 2x2 hot.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava floor 2x2 hot.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava floor 2x2 hot.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava floor 2x2 hot.usd",
+   "size": 145335,
+   "sha256": "2355603360887b4ff7f9f1849dd2e8d2d8cabc120bf26f3e5058188bff6cd359"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava stair corner__30ce49c1.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava stair corner__30ce49c1.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava stair corner__30ce49c1.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava stair corner__30ce49c1.usd",
+   "size": 34979,
+   "sha256": "76cb511cd568f49fe374aa80d41dfa39e9707fb2a49cf855cae869e99306cd59"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava stair corner__3fa410f6.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava stair corner__3fa410f6.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava stair corner__3fa410f6.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava stair corner__3fa410f6.usd",
+   "size": 34984,
+   "sha256": "f655fe323f1fb75a4944875b9dbabdf539bdcdf5955d97c5d7bfb2fb62c0806a"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava stair floor__cc3a3b6b.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava stair floor__cc3a3b6b.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava stair floor__cc3a3b6b.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava stair floor__cc3a3b6b.usd",
+   "size": 15993,
+   "sha256": "632439df700915b4922c61e06c6f7c9828fad92b62c50b89855f48fc6dddd49d"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava stair floor__e23456fe.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava stair floor__e23456fe.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava stair floor__e23456fe.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava stair floor__e23456fe.usd",
+   "size": 15509,
+   "sha256": "59680a49f104210651619d938b96a4b1217baf5b78fc587964caa0c96b0b82ca"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava stair top__0e15769e.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava stair top__0e15769e.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava stair top__0e15769e.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava stair top__0e15769e.usd",
+   "size": 9917,
+   "sha256": "c7d32267e3d2d845c146f1512d09447017072a63f3c1ea2f8126e85a6e74d35a"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava stair top__da91b462.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava stair top__da91b462.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava stair top__da91b462.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava stair top__da91b462.usd",
+   "size": 9929,
+   "sha256": "024c1737fd4b0144ba9a55c9803bc86e58a6af79af4409fc47c066e571c7b428"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava stair__2e1f5de4.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava stair__2e1f5de4.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava stair__2e1f5de4.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava stair__2e1f5de4.usd",
+   "size": 16016,
+   "sha256": "586617c070d30fb01670e452b03d7c9177a9cbd0be5193140ca2fccd1c5bc945"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava stair__ab4a7dbb.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava stair__ab4a7dbb.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava stair__ab4a7dbb.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava stair__ab4a7dbb.usd",
+   "size": 15690,
+   "sha256": "9a86a3f33113a00f7cb7c66c425e16fbfc486334354a53bd10acbecc6ae804d1"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall 1x1 cold v1.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall 1x1 cold v1.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall 1x1 cold v1.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall 1x1 cold v1.usd",
+   "size": 23932,
+   "sha256": "0c827a4e79e9cf31da195d55364fa2e611214c9d03b7924dde48dad0e8b6a7e4"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall 1x1 hot v1.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall 1x1 hot v1.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall 1x1 hot v1.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall 1x1 hot v1.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall 1x1 hot v1.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall 1x1 hot v1.usd",
+   "size": 44680,
+   "sha256": "b0be5b08b8b5e9a3fb8f8035e9a0542d904c687a87ac29dd712feb7adfb77855"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall 1x1 hot v2.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall 1x1 hot v2.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall 1x1 hot v2.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall 1x1 hot v2.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall 1x1 hot v2.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall 1x1 hot v2.usd",
+   "size": 44946,
+   "sha256": "ee71991c7eb60640df02aee9db43dcd3bddebe517463ea4910cb673f36d9a5ce"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall 1x1 hot v3.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall 1x1 hot v3.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall 1x1 hot v3.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall 1x1 hot v3.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall 1x1 hot v3.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall 1x1 hot v3.usd",
+   "size": 44979,
+   "sha256": "d771b4828e2f808753a7fa311c2d7cb8436a2be8cfd7edeb69faa3ca8b10735b"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall 2x2 cold v1.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall 2x2 cold v1.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall 2x2 cold v1.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall 2x2 cold v1.usd",
+   "size": 40042,
+   "sha256": "d487c1b1503ed0e032157bc7101079d591d1c1c2515fab20db3cd5c06296dfca"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall cold corner.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall cold corner.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall cold corner.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall cold corner.usd",
+   "size": 75131,
+   "sha256": "e4f47195abc09a1a70cf812dc6760fea7eafbccfa49d8104dc450062c862c1e7"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall corner hot__17c8b681.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall corner hot__17c8b681.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall corner hot__17c8b681.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall corner hot__17c8b681.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall corner hot__17c8b681.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall corner hot__17c8b681.usd",
+   "size": 193961,
+   "sha256": "ae400e889da442028015526f391db71c78eec42cca35f646a90109b83b2d4155"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall corner hot__48619487.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall corner hot__48619487.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall corner hot__48619487.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall corner hot__48619487.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall corner hot__48619487.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Cavern Lava/Lava wall corner hot__48619487.usd",
+   "size": 193955,
+   "sha256": "ca47a0e3a7eb5b318e8d5a0fd3dc80354405c4268e37fb113ffc475061c9565e"
+  },
+  {
+   "path": "scenery/lava-floor-1x1-ashes.md",
+   "size": 307,
+   "sha256": "6ce19e21d13aa0607ebff254e34a299e18b9cf6eaf3e0d1fa33d4a58508b0215"
+  },
+  {
+   "path": "scenery/lava-floor-1x1-hot.md",
+   "size": 318,
+   "sha256": "a85490c2af12fa25a7d2e2ff7c455863e9f6e8d2793831625f5557d98999f3bd"
+  },
+  {
+   "path": "scenery/lava-floor-2x1-hot.md",
+   "size": 318,
+   "sha256": "17cc4a27eac54b56ce658b1d1dd665f735b89ec7190c9c86deae047a534d81d7"
+  },
+  {
+   "path": "scenery/lava-floor-2x2-ashes.md",
+   "size": 307,
+   "sha256": "fa7935c63bf712bddc8303a9e42d6d5b9291d5d45c69e704716b624a685f7171"
+  },
+  {
+   "path": "scenery/lava-floor-2x2-hot.md",
+   "size": 318,
+   "sha256": "6d0832dd7e8b7dc6c9ea7f428c0e73e1b3807f2b3227b3f2bc301ddb069650c3"
+  },
+  {
+   "path": "scenery/lava-stair-2.md",
+   "size": 315,
+   "sha256": "c5948c6a3567c6dc44bc8cc5132a3e2ec8072af84f8eb2951cbc6b8ae57817bf"
+  },
+  {
+   "path": "scenery/lava-stair-corner-2.md",
+   "size": 323,
+   "sha256": "c2c348582104356921b48cc3d079d43d415c99956371b1f8bab526e4b928f676"
+  },
+  {
+   "path": "scenery/lava-stair-corner.md",
+   "size": 321,
+   "sha256": "2dc30e7026dae505d9580e541576fa35e84eb59e0d63c98839127acb720cdb45"
+  },
+  {
+   "path": "scenery/lava-stair-floor-2.md",
+   "size": 326,
+   "sha256": "a2f63574f16185bfa3850a60c65149fcfd0b6ee4b10353ca88946b4a7fdb6276"
+  },
+  {
+   "path": "scenery/lava-stair-floor.md",
+   "size": 324,
+   "sha256": "dccdd41c3370fe2df441f8deafed9827cc5881219f75d682f05b5c75c35b447c"
+  },
+  {
+   "path": "scenery/lava-stair-top-2.md",
+   "size": 323,
+   "sha256": "6d5904751d48d3092f47f8765d8bbaa1931d7219a7fedf3b219c1cd17da93e7c"
+  },
+  {
+   "path": "scenery/lava-stair-top.md",
+   "size": 321,
+   "sha256": "22a358754c29fd46cda773519966272f0a9d156e82d45a64e7c4bdb23878ef15"
+  },
+  {
+   "path": "scenery/lava-stair.md",
+   "size": 313,
+   "sha256": "68aa504649b357504c08d23e9f047c1e1d33236c99a37286bb71c7d104194844"
+  },
+  {
+   "path": "scenery/lava-wall-1x1-cold-v1.md",
+   "size": 308,
+   "sha256": "d922282765d8f6938d5780b8b118c6d374adad9140433fb581e838706cdb8e0f"
+  },
+  {
+   "path": "scenery/lava-wall-1x1-hot-v1.md",
+   "size": 321,
+   "sha256": "588574220bca733deda0c73ab2b5c5b0a3f35704db13612179fca762f4c1493e"
+  },
+  {
+   "path": "scenery/lava-wall-1x1-hot-v2.md",
+   "size": 321,
+   "sha256": "5b5c20d0db9c48325d85f3ff8dd3470da32d77c636a7eb8e8bbd188200ca2941"
+  },
+  {
+   "path": "scenery/lava-wall-1x1-hot-v3.md",
+   "size": 321,
+   "sha256": "92326bdaf9403b0f1fdde7380109e9f43199dfcb3392ee032b75614cecb9bcd7"
+  },
+  {
+   "path": "scenery/lava-wall-2x2-cold-v1.md",
+   "size": 308,
+   "sha256": "52b845f20b8be53616eaf3556873469216d3a9cf8c99c9befc2267cec6e68782"
+  },
+  {
+   "path": "scenery/lava-wall-cold-corner.md",
+   "size": 308,
+   "sha256": "376b20551f181d7ecc81ef3d72716840bb99f45ad499e6e767f59eb41b362532"
+  },
+  {
+   "path": "scenery/lava-wall-corner-hot-2.md",
+   "size": 333,
+   "sha256": "372d9faa35b1bf066e9fb4e153f779e3e516b436309af7af3faa8953daced578"
+  },
+  {
+   "path": "scenery/lava-wall-corner-hot.md",
+   "size": 331,
+   "sha256": "08a175a79782d191429c03b30c87f95931306992673a3821a1bd0154bafac795"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Lava floor 1x1 ashes",
+   "kind": "scenery",
+   "thumb": "thumbs/1cf3a724-a8d5-4581-98b2-ec590cf72f39.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "cold",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "rock",
+    "floor"
+   ]
+  },
+  {
+   "name": "Lava floor 1x1 hot",
+   "kind": "scenery",
+   "thumb": "thumbs/030145b1-a5c3-45a5-b658-cd627bd43d5c.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "red",
+    "yellow",
+    "orange",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "rock",
+    "floor"
+   ]
+  },
+  {
+   "name": "Lava floor 2x1 hot",
+   "kind": "scenery",
+   "thumb": "thumbs/48be0a2f-722b-4caa-a866-cabcc985be8f.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "red",
+    "yellow",
+    "orange",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "rock",
+    "floor"
+   ]
+  },
+  {
+   "name": "Lava floor 2x2 ashes",
+   "kind": "scenery",
+   "thumb": "thumbs/2543019f-5c19-48d4-8c09-add6703e801e.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "cold",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "rock",
+    "floor"
+   ]
+  },
+  {
+   "name": "Lava floor 2x2 hot",
+   "kind": "scenery",
+   "thumb": "thumbs/2714a101-a137-4b40-b897-7ecd7878725d.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "red",
+    "yellow",
+    "orange",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "rock",
+    "floor"
+   ]
+  },
+  {
+   "name": "Lava stair 2",
+   "kind": "scenery",
+   "thumb": "thumbs/ab4a7dbb-f597-456e-9381-4d84f4c29e6d.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "red",
+    "yellow",
+    "orange",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "rock",
+    "stairs"
+   ]
+  },
+  {
+   "name": "Lava stair corner 2",
+   "kind": "scenery",
+   "thumb": "thumbs/3fa410f6-e949-4fda-a3e8-db9f3d266ea8.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "red",
+    "yellow",
+    "orange",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "stairs"
+   ]
+  },
+  {
+   "name": "Lava stair corner",
+   "kind": "scenery",
+   "thumb": "thumbs/30ce49c1-d3c4-4a83-84d8-6a1764030baa.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "red",
+    "yellow",
+    "orange",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "stairs"
+   ]
+  },
+  {
+   "name": "Lava stair floor 2",
+   "kind": "scenery",
+   "thumb": "thumbs/e23456fe-bb09-4b7b-a4a9-ed72a0ebb3ed.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "red",
+    "yellow",
+    "orange",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "rock",
+    "floor"
+   ]
+  },
+  {
+   "name": "Lava stair floor",
+   "kind": "scenery",
+   "thumb": "thumbs/cc3a3b6b-f537-4482-b2f4-a82a8e682d7a.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "red",
+    "yellow",
+    "orange",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "rock",
+    "floor"
+   ]
+  },
+  {
+   "name": "Lava stair top 2",
+   "kind": "scenery",
+   "thumb": "thumbs/da91b462-0219-49ba-8e00-232ac481b94d.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "red",
+    "yellow",
+    "orange",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "rock",
+    "stairs"
+   ]
+  },
+  {
+   "name": "Lava stair top",
+   "kind": "scenery",
+   "thumb": "thumbs/0e15769e-9370-4752-a505-913b023e6bca.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "red",
+    "yellow",
+    "orange",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "rock",
+    "stairs"
+   ]
+  },
+  {
+   "name": "Lava stair",
+   "kind": "scenery",
+   "thumb": "thumbs/2e1f5de4-ce36-47a1-8cef-ce2f2ba3d320.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "red",
+    "yellow",
+    "orange",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "rock",
+    "stairs"
+   ]
+  },
+  {
+   "name": "Lava wall 1x1 cold v1",
+   "kind": "scenery",
+   "thumb": "thumbs/f9751248-343d-4e4a-8d2a-f46421579a21.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "cold",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "rock",
+    "wall"
+   ]
+  },
+  {
+   "name": "Lava wall 1x1 hot v1",
+   "kind": "scenery",
+   "thumb": "thumbs/06b1dd45-b628-4dc3-bfd1-3e86d51fb4de.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "red",
+    "yellow",
+    "orange",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "rock",
+    "wall"
+   ]
+  },
+  {
+   "name": "Lava wall 1x1 hot v2",
+   "kind": "scenery",
+   "thumb": "thumbs/8de6620c-d4a6-451c-bd61-59948ae02f96.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "red",
+    "yellow",
+    "orange",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "rock",
+    "wall"
+   ]
+  },
+  {
+   "name": "Lava wall 1x1 hot v3",
+   "kind": "scenery",
+   "thumb": "thumbs/0f6212ea-5e47-4adc-9f1e-960733d593aa.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "red",
+    "yellow",
+    "orange",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "rock",
+    "wall"
+   ]
+  },
+  {
+   "name": "Lava wall 2x2 cold v1",
+   "kind": "scenery",
+   "thumb": "thumbs/bca4c8c1-b644-4721-a32e-9c2ef4f5f163.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "cold",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "rock",
+    "wall"
+   ]
+  },
+  {
+   "name": "Lava wall cold corner",
+   "kind": "scenery",
+   "thumb": "thumbs/006ed915-eb46-4d9f-80c0-204cf2263974.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "cold",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "rock",
+    "wall"
+   ]
+  },
+  {
+   "name": "Lava wall corner hot 2",
+   "kind": "scenery",
+   "thumb": "thumbs/48619487-fb34-4ef0-80e2-befe4cc12719.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "red",
+    "yellow",
+    "orange",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "rock",
+    "wall"
+   ]
+  },
+  {
+   "name": "Lava wall corner hot",
+   "kind": "scenery",
+   "thumb": "thumbs/17c8b681-1e18-4407-8a5b-2ee1f3d5d432.jpg",
+   "tags": [
+    "cavern-lava",
+    "ashes",
+    "lava",
+    "stone",
+    "dirt",
+    "red",
+    "yellow",
+    "orange",
+    "black",
+    "blue",
+    "brown",
+    "dark",
+    "gray",
+    "grey",
+    "hot",
+    "hell",
+    "rock",
+    "wall"
+   ]
+  }
+ ]
+}

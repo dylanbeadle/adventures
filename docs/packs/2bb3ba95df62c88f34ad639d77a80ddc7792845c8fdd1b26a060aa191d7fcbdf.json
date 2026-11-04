@@ -1,0 +1,143 @@
+{
+ "id": "cfb87bcd-e439-51c3-b0ba-8de5077e1b2e",
+ "folder": "Roof and Door Tiles.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 567,
+   "sha256": "b9c725867fd4bbd124ee80af4e5d9dd68608676da2866dfc5c3db8f015846bc7"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 12660,
+   "sha256": "58a0edd52d1acb44b04365742eb89ff26555c722277c3571b6d35381b86a44f4"
+  },
+  {
+   "path": "media/roof-door/assets/door-leaf.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/roof-door/assets/door-leaf.usda",
+   "size": 15024,
+   "sha256": "3774dbe89277ce880228270261fcbb34c1cbc4b7e6f8b0223391212520598ffc"
+  },
+  {
+   "path": "media/roof-door/assets/doorframe.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/roof-door/assets/doorframe.usda",
+   "size": 4028,
+   "sha256": "e237879338d83c825eaec2943a57140f51a3a83aea236eb1c04739031b4dc9e6"
+  },
+  {
+   "path": "media/roof-door/assets/gable-infill.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/roof-door/assets/gable-infill.usda",
+   "size": 9955,
+   "sha256": "8bfc697129310cd359855421d82ad3b5c9c1bd5e9682410a0cd52b4dc849c1ed"
+  },
+  {
+   "path": "media/roof-door/assets/ridge-cap.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/roof-door/assets/ridge-cap.usda",
+   "size": 3178,
+   "sha256": "843e9a0e5762ffcce2c158af0665d624b15814e19778c07ff45a0fdf33183c56"
+  },
+  {
+   "path": "media/roof-door/assets/roof-slope.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/roof-door/assets/roof-slope.usda",
+   "size": 14045,
+   "sha256": "55907e8583655bdd0b95a3ee3b1c9af26bb5ea9e210b538c7871396756aa832b"
+  },
+  {
+   "path": "scenery/doorframe.md",
+   "size": 160,
+   "sha256": "e59e6b95c71fb0042478851ef042fceb9e80d400c67dbde62a8ed2709cf81c8a"
+  },
+  {
+   "path": "scenery/gable-infill.md",
+   "size": 166,
+   "sha256": "520036dec3285991f3f6fddef2cae407a056b0360b0a423369aef97251e91a55"
+  },
+  {
+   "path": "scenery/hinge-pivot-door-leaf.md",
+   "size": 172,
+   "sha256": "3264c72844b9b38d0b4b7c887cacc22d8845fdee20bf7bbe5f799b5036ec8a04"
+  },
+  {
+   "path": "scenery/ridge-cap.md",
+   "size": 160,
+   "sha256": "917bad06a721214e26a1cb14db0b0a6d599522bc0a20fce87061f9b86cc6bf58"
+  },
+  {
+   "path": "scenery/roof-slope.md",
+   "size": 162,
+   "sha256": "02577ba46112ba49b49450a57415a5fd495bf749375ce30de327b35d256591b7"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Doorframe",
+   "kind": "scenery",
+   "thumb": "thumbs/roof-door-doorframe.jpg",
+   "tags": [
+    "roof-and-door",
+    "roof-door",
+    "original"
+   ]
+  },
+  {
+   "name": "Gable infill",
+   "kind": "scenery",
+   "thumb": "thumbs/roof-door-gable-infill.jpg",
+   "tags": [
+    "roof-and-door",
+    "roof-door",
+    "original"
+   ]
+  },
+  {
+   "name": "Hinge-pivot door leaf",
+   "kind": "scenery",
+   "thumb": "thumbs/roof-door-door-leaf.jpg",
+   "tags": [
+    "roof-and-door",
+    "roof-door",
+    "original"
+   ]
+  },
+  {
+   "name": "Ridge cap",
+   "kind": "scenery",
+   "thumb": "thumbs/roof-door-ridge-cap.jpg",
+   "tags": [
+    "roof-and-door",
+    "roof-door",
+    "original"
+   ]
+  },
+  {
+   "name": "Roof slope",
+   "kind": "scenery",
+   "thumb": "thumbs/roof-door-roof-slope.jpg",
+   "tags": [
+    "roof-and-door",
+    "roof-door",
+    "original"
+   ]
+  }
+ ]
+}

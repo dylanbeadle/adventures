@@ -1,0 +1,375 @@
+{
+ "id": "e964a6be-09c0-5e1f-a555-bcd6649508ae",
+ "folder": "Ladders Props.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 644,
+   "sha256": "452afb7d18606d79d3b8b806c3d824284cb0b4849dbf05ca478cb1aecefe903c"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 19402,
+   "sha256": "db2b20037148d525057a3900e3b97b63e8bc09e679200f984b18b5627b6c2633"
+  },
+  {
+   "path": "media/props/Ladders/Ladder rope body 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Ladders/Ladder rope body 01.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/props/Ladders/Ladder rope body 01.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Ladders/Ladder rope body 01.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Ladders/Ladder rope body 01.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Ladders/Ladder rope body 01.usd",
+   "size": 205806,
+   "sha256": "1805a6c5c4543c41ec454d4c4ecaa56b8f1e24fa3ca990a29b3cab3a369ee582"
+  },
+  {
+   "path": "media/props/Ladders/Ladder rope body short 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Ladders/Ladder rope body short 01.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/props/Ladders/Ladder rope body short 01.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Ladders/Ladder rope body short 01.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Ladders/Ladder rope body short 01.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Ladders/Ladder rope body short 01.usd",
+   "size": 108927,
+   "sha256": "935ff4d7c520fe30bb6f94dc148d85984c6a48dc666a4b26e09efdb31a28064c"
+  },
+  {
+   "path": "media/props/Ladders/Ladder rope ceiling top 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Ladders/Ladder rope ceiling top 01.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/props/Ladders/Ladder rope ceiling top 01.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Ladders/Ladder rope ceiling top 01.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Ladders/Ladder rope ceiling top 01.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Ladders/Ladder rope ceiling top 01.usd",
+   "size": 202421,
+   "sha256": "e7399571041a70b2a354b2ee2be5d37a83433b55ab7c9be7949ac091e754a8fe"
+  },
+  {
+   "path": "media/props/Ladders/Ladder rope wall full 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Ladders/Ladder rope wall full 01.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/props/Ladders/Ladder rope wall full 01.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Ladders/Ladder rope wall full 01.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Ladders/Ladder rope wall full 01.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Ladders/Ladder rope wall full 01.usd",
+   "size": 204197,
+   "sha256": "a234d9377d2a59acea2edddcbac28823ca497bb85eb7f1fffa9cedeea38328fa"
+  },
+  {
+   "path": "media/props/Ladders/Ladder rope wall top broken 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Ladders/Ladder rope wall top broken 01.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/props/Ladders/Ladder rope wall top broken 01.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Ladders/Ladder rope wall top broken 01.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/props/Ladders/Ladder rope wall top broken 01.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/props/Ladders/Ladder rope wall top broken 01.usd",
+   "size": 204372,
+   "sha256": "3d04678a06f0cda70afb8941c26ea44de23b62f21a249a341d727a2401ba568d"
+  },
+  {
+   "path": "media/props/Ladders/Ladder wood 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Ladders/Ladder wood 01.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/props/Ladders/Ladder wood 01.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Ladders/Ladder wood 01.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Ladders/Ladder wood 01.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Ladders/Ladder wood 01.usd",
+   "size": 26745,
+   "sha256": "fdbce4a4196ab9ecbbc809b7a584dbcd499a2acb35dd519c94d81cb8cc1a0abc"
+  },
+  {
+   "path": "media/props/Ladders/Ladder wood short 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/props/Ladders/Ladder wood short 01.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/props/Ladders/Ladder wood short 01.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Ladders/Ladder wood short 01.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/props/Ladders/Ladder wood short 01.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/props/Ladders/Ladder wood short 01.usd",
+   "size": 17928,
+   "sha256": "30edc3a4f329e3d22fcde4476785e79606cd180ece4e2c2c7c79bd998b9679a5"
+  },
+  {
+   "path": "scenery/ladder-rope-body-01.md",
+   "size": 255,
+   "sha256": "87c86bd4cd07395c1016e5054128eab95f4e88347111294afb216ec50b642da9"
+  },
+  {
+   "path": "scenery/ladder-rope-body-short-01.md",
+   "size": 267,
+   "sha256": "180ff46f9a424af2e748621a95ab25eedb0d7888123867b65c664dc949120e91"
+  },
+  {
+   "path": "scenery/ladder-rope-ceiling-top-01.md",
+   "size": 269,
+   "sha256": "ae1b0e92f012bd73b472a7d82e0e074f44284995183d7a4b48874ca40780d3d2"
+  },
+  {
+   "path": "scenery/ladder-rope-wall-full-01.md",
+   "size": 265,
+   "sha256": "0f155952ac33cb881180976b3e80e60c18fd6279ee036830c05b155593f7131e"
+  },
+  {
+   "path": "scenery/ladder-rope-wall-top-broken-01.md",
+   "size": 277,
+   "sha256": "cdd03163b4e95dfdfdb99d208a5aaa43553292a50666b4502f0798c3277a602d"
+  },
+  {
+   "path": "scenery/ladder-wood-01.md",
+   "size": 245,
+   "sha256": "49f9ed45ea001270d0191813ef637e06dac78e0349555484ec544f50c8d464f2"
+  },
+  {
+   "path": "scenery/ladder-wood-short-01.md",
+   "size": 257,
+   "sha256": "6f7c4c9c625d96a64c5e7877e34a1b47cf2bcf7d346b8f9a4ff1a329ba404642"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Ladder rope body 01",
+   "kind": "scenery",
+   "thumb": "thumbs/8b4e8bfe-bfda-4206-a755-df7bc045157d.jpg",
+   "tags": [
+    "ladders",
+    "brown",
+    "orange",
+    "wood",
+    "rope",
+    "small",
+    "climb",
+    "steps",
+    "ladder"
+   ]
+  },
+  {
+   "name": "Ladder rope body short 01",
+   "kind": "scenery",
+   "thumb": "thumbs/a39d2042-7359-4280-9c55-c2d825816b34.jpg",
+   "tags": [
+    "ladders",
+    "brown",
+    "orange",
+    "wood",
+    "rope",
+    "small",
+    "climb",
+    "steps",
+    "ladder"
+   ]
+  },
+  {
+   "name": "Ladder rope ceiling top 01",
+   "kind": "scenery",
+   "thumb": "thumbs/daddf124-2133-488e-99d0-8e39e8ee7829.jpg",
+   "tags": [
+    "ladders",
+    "brown",
+    "orange",
+    "wood",
+    "rope",
+    "small",
+    "climb",
+    "steps",
+    "ladder"
+   ]
+  },
+  {
+   "name": "Ladder rope wall full 01",
+   "kind": "scenery",
+   "thumb": "thumbs/bfa088b7-ed97-4985-8501-1af77d45473f.jpg",
+   "tags": [
+    "ladders",
+    "brown",
+    "orange",
+    "wood",
+    "rope",
+    "small",
+    "climb",
+    "steps",
+    "ladder"
+   ]
+  },
+  {
+   "name": "Ladder rope wall top broken 01",
+   "kind": "scenery",
+   "thumb": "thumbs/d41520ef-ee04-451d-aa28-7f3107bd7776.jpg",
+   "tags": [
+    "ladders",
+    "brown",
+    "orange",
+    "wood",
+    "rope",
+    "small",
+    "climb",
+    "steps",
+    "ladder"
+   ]
+  },
+  {
+   "name": "Ladder wood 01",
+   "kind": "scenery",
+   "thumb": "thumbs/71667807-3d70-4ee9-bdff-981d39381af1.jpg",
+   "tags": [
+    "ladders",
+    "brown",
+    "orange",
+    "wood",
+    "rope",
+    "small",
+    "climb",
+    "steps",
+    "ladder"
+   ]
+  },
+  {
+   "name": "Ladder wood short 01",
+   "kind": "scenery",
+   "thumb": "thumbs/f524ee6c-22e2-4356-80a2-c6809a10b487.jpg",
+   "tags": [
+    "ladders",
+    "brown",
+    "orange",
+    "wood",
+    "rope",
+    "small",
+    "climb",
+    "steps",
+    "ladder"
+   ]
+  }
+ ]
+}

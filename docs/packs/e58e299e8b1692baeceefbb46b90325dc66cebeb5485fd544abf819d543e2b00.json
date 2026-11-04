@@ -1,0 +1,3658 @@
+{
+ "id": "ffde0b89-b8a5-57ae-88e8-f6c1096b8c9e",
+ "folder": "Cyberpunk and Sci-fi Creatures.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 986,
+   "sha256": "16ad78a9d14eabb11eb411dd7c8d744ad53cdf18fc77f8acb756b47368f28a3c"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 23087,
+   "sha256": "172ef03353d3d3c2c788f9e8caa242ec8fd8067ab5d53c149afa7ea256d9c104"
+  },
+  {
+   "path": "creatures/astronaut-2.md",
+   "size": 325,
+   "sha256": "35e360e3bed89c89dcca178c0bd479a47fdad5fda916838608af3c1b632a6874"
+  },
+  {
+   "path": "creatures/astronaut.md",
+   "size": 323,
+   "sha256": "22aa6f29423bddc7058a87e854c069518e82350cd287b06ac7fed2ddd47a0026"
+  },
+  {
+   "path": "creatures/bio-agent-2.md",
+   "size": 333,
+   "sha256": "f58d552b77a14a8e01eb0c1818b8fef957cc342bb0d4e6cabe8b1cb74c5b2c8b"
+  },
+  {
+   "path": "creatures/bio-agent-3.md",
+   "size": 339,
+   "sha256": "960c8a2fe4785b0f4307bc033a7df327d5838a9926d2d59885d1c8348dc4bb2c"
+  },
+  {
+   "path": "creatures/bio-agent.md",
+   "size": 331,
+   "sha256": "30d66221c8fb1fcc5d3153d32e6232738c0549d8f555358ecbf36bb3c6a5a6af"
+  },
+  {
+   "path": "creatures/citizen-2.md",
+   "size": 309,
+   "sha256": "5d3638049684e16bf7599b0fcb15e86fed02e7a070505db3a96bb001880f39c7"
+  },
+  {
+   "path": "creatures/citizen.md",
+   "size": 307,
+   "sha256": "d8abd3f694078cc72eedba6ecc0d5ab2542b6c2a2ba88341d5c27a0c33fc5a69"
+  },
+  {
+   "path": "creatures/corporate-worker-2.md",
+   "size": 354,
+   "sha256": "bbed4139ed8fcd8d253f4bb0fdf4973ca4519a0ec16d9c69ced9f6823ab35307"
+  },
+  {
+   "path": "creatures/corporate-worker-3.md",
+   "size": 354,
+   "sha256": "a7be0588ffae88e3287fde722537b1ee3dadba0969882921d07d207cd61310f1"
+  },
+  {
+   "path": "creatures/corporate-worker.md",
+   "size": 352,
+   "sha256": "6fd14ef61af057dc7fb3b6b15e1516ae58c872580131e52e94f7f3999284ccb6"
+  },
+  {
+   "path": "creatures/cyber-soldier.md",
+   "size": 331,
+   "sha256": "4995de88bea9756d7ae56155764f34a73ab76ce9e3994da0e5c402fedfc45896"
+  },
+  {
+   "path": "creatures/droid.md",
+   "size": 308,
+   "sha256": "da407ef1b5d47cc06e17bf577d340573ca8105a858aeac4ac481b271ab3496dc"
+  },
+  {
+   "path": "creatures/hacker.md",
+   "size": 315,
+   "sha256": "59e07c6bec1b864641c93a571739964a4539c39b0e9f9789e1e61bf2f2e06dd4"
+  },
+  {
+   "path": "creatures/law-enforcement-2.md",
+   "size": 345,
+   "sha256": "2c279886a93770ba2d732b77ee098818e7adf4909cb3d775baa53ab0ba5407c6"
+  },
+  {
+   "path": "creatures/law-enforcement-3.md",
+   "size": 345,
+   "sha256": "b964b444e2359b83984d1c6e69fcc09e0f277aa06544ca406cda4b7d7a1d94e5"
+  },
+  {
+   "path": "creatures/law-enforcement-4.md",
+   "size": 345,
+   "sha256": "0100e9ddd3cd2aacb3eb2247dc81b9e713eb40f8286245bd4656055a8a84e11e"
+  },
+  {
+   "path": "creatures/law-enforcement.md",
+   "size": 343,
+   "sha256": "cbc21922fece68fbe184b056880eec14feb6b2ec84cc0cf01985c92a3de242cb"
+  },
+  {
+   "path": "creatures/mechanic-worker.md",
+   "size": 307,
+   "sha256": "5918d821aefec4cd4b892a5d92dd88c46e4c09c43dd34f51db78b19054bc6aa5"
+  },
+  {
+   "path": "creatures/mercenary.md",
+   "size": 323,
+   "sha256": "8cffd5c15bdbb173d1e6b074493d2e55c5a39865d3f401db5a99d233a27bf77f"
+  },
+  {
+   "path": "creatures/punk-2.md",
+   "size": 328,
+   "sha256": "2f61d02ca02397da53ef22fc048fce8a3f0637a8a01a7f3a8039d1e632ad6559"
+  },
+  {
+   "path": "creatures/punk-3.md",
+   "size": 322,
+   "sha256": "c35ecec7ec05b90e59360ee2b8bb06a1cd8249269672a0114e8a976e1251a9d4"
+  },
+  {
+   "path": "creatures/punk-4.md",
+   "size": 322,
+   "sha256": "5c346a9f5b1d7b8ea157970842577423409b86c1173743bb3c90a559632d798a"
+  },
+  {
+   "path": "creatures/punk-5.md",
+   "size": 322,
+   "sha256": "ac56cff1cba8fe591f89a3eddcc14113fefaee70eaf261f4ec095bd4dcf862d0"
+  },
+  {
+   "path": "creatures/punk.md",
+   "size": 320,
+   "sha256": "c940dcddd45ed0a7295483b86523afcfda1c63fc73fa78706e81277e47e062b0"
+  },
+  {
+   "path": "creatures/security-bot.md",
+   "size": 334,
+   "sha256": "50beac1e9f43766b7558f35a93944b6bcba6a3c33e3d30daf54c1991f4927509"
+  },
+  {
+   "path": "creatures/street-doc.md",
+   "size": 328,
+   "sha256": "0ca153cbdf3326e730a2a3856a9591ee525e21f6e7272ec8eccbe080f3161ffc"
+  },
+  {
+   "path": "creatures/street-thug.md",
+   "size": 327,
+   "sha256": "514091b6b5506823ac820c73b6462efe214a11cc11241d386f33463590132a8e"
+  },
+  {
+   "path": "creatures/street-warrior-2.md",
+   "size": 353,
+   "sha256": "32792b140106086a5a6c841f6d26b693b9e556833c5cf898e328d94e42c9b9c9"
+  },
+  {
+   "path": "creatures/street-warrior-3.md",
+   "size": 336,
+   "sha256": "f7ffc095c0e17597d1c3f6be783855f8e1626965cbe45090dd0143e080b85990"
+  },
+  {
+   "path": "creatures/street-warrior-4.md",
+   "size": 343,
+   "sha256": "68f5a53f1ca0a73051c7f592466606c80c6e3f591894d9052ae2f0537f197c91"
+  },
+  {
+   "path": "creatures/street-warrior-5.md",
+   "size": 355,
+   "sha256": "974cb13a4e163c941d7b002e0431f8acbb8714594e048e9f4867f55778ef0155"
+  },
+  {
+   "path": "creatures/street-warrior.md",
+   "size": 340,
+   "sha256": "46829cbe169956bdaeee951bbaeca3d2e17583aa3d1b4fa77d634391558121a5"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__44237b68.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__44237b68.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__44237b68.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__44237b68.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__44237b68.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__44237b68.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__44237b68.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__44237b68.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__44237b68.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__44237b68.cooked/textures/jade.avif",
+   "size": 756,
+   "sha256": "9f63b3de989e52a14a4e018da19a51f73e2de06c5d27ac931b87798041dfdfbe"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__44237b68.cooked/textures/jade_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__44237b68.cooked/textures/paper.avif",
+   "size": 1729,
+   "sha256": "700bd99d1997a1a20d90a673a4e698cf36fb4f8ffedafff69a6c93b3d8c7ad70"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__44237b68.cooked/textures/paper_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__44237b68.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__44237b68.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__44237b68.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__44237b68.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__44237b68.cooked/textures/steel.avif",
+   "size": 1223,
+   "sha256": "374c2de95d69e288918f2135e4b64000c2cf070bfd1e877a7a75a7518a43c5bb"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__44237b68.cooked/textures/steel_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__44237b68.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__44237b68.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__44237b68.usd",
+   "size": 452555,
+   "sha256": "1767b51fba7140956af11c1809b1ce03d934b67387701a80b56edba30e06e88e"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__fa0ff88c.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__fa0ff88c.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__fa0ff88c.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__fa0ff88c.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__fa0ff88c.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__fa0ff88c.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__fa0ff88c.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__fa0ff88c.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__fa0ff88c.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__fa0ff88c.cooked/textures/jade.avif",
+   "size": 756,
+   "sha256": "9f63b3de989e52a14a4e018da19a51f73e2de06c5d27ac931b87798041dfdfbe"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__fa0ff88c.cooked/textures/jade_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__fa0ff88c.cooked/textures/paper.avif",
+   "size": 1729,
+   "sha256": "700bd99d1997a1a20d90a673a4e698cf36fb4f8ffedafff69a6c93b3d8c7ad70"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__fa0ff88c.cooked/textures/paper_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__fa0ff88c.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__fa0ff88c.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__fa0ff88c.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__fa0ff88c.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__fa0ff88c.cooked/textures/steel.avif",
+   "size": 1223,
+   "sha256": "374c2de95d69e288918f2135e4b64000c2cf070bfd1e877a7a75a7518a43c5bb"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__fa0ff88c.cooked/textures/steel_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__fa0ff88c.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__fa0ff88c.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Astronaut__fa0ff88c.usd",
+   "size": 452590,
+   "sha256": "427b0f9286079c8e397242b003ef0beb241164e15e7bd4705b0af9dafc2d74ca"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__599e0109.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__599e0109.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__599e0109.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__599e0109.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__599e0109.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__599e0109.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__599e0109.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__599e0109.cooked/textures/sand.avif",
+   "size": 982,
+   "sha256": "9148e8006b5d815c966769982602451c5b2552d9d0a4abd6dd4e50f54e932669"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__599e0109.cooked/textures/sand_normal.avif",
+   "size": 2514,
+   "sha256": "b9c2c6ea308589cebe843635c756835ba78e235618d9a895d4a3f25a2f9c34e1"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__599e0109.cooked/textures/steel.avif",
+   "size": 1223,
+   "sha256": "374c2de95d69e288918f2135e4b64000c2cf070bfd1e877a7a75a7518a43c5bb"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__599e0109.cooked/textures/steel_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__599e0109.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__599e0109.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__599e0109.usd",
+   "size": 384588,
+   "sha256": "2a5914565b4b7f7622647da43a4ba29751ac24a5738285c170c644f42925be08"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__b1d9968e.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__b1d9968e.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__b1d9968e.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__b1d9968e.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__b1d9968e.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__b1d9968e.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__b1d9968e.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__b1d9968e.cooked/textures/sand.avif",
+   "size": 982,
+   "sha256": "9148e8006b5d815c966769982602451c5b2552d9d0a4abd6dd4e50f54e932669"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__b1d9968e.cooked/textures/sand_normal.avif",
+   "size": 2514,
+   "sha256": "b9c2c6ea308589cebe843635c756835ba78e235618d9a895d4a3f25a2f9c34e1"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__b1d9968e.cooked/textures/steel.avif",
+   "size": 1223,
+   "sha256": "374c2de95d69e288918f2135e4b64000c2cf070bfd1e877a7a75a7518a43c5bb"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__b1d9968e.cooked/textures/steel_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__b1d9968e.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__b1d9968e.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__b1d9968e.usd",
+   "size": 385433,
+   "sha256": "a050241276f95254c2baee2f065e3bf59064a4271bdcd6c6ddcfeeb325a9aeab"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__f140b418.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__f140b418.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__f140b418.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__f140b418.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__f140b418.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__f140b418.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__f140b418.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__f140b418.cooked/textures/sand.avif",
+   "size": 982,
+   "sha256": "9148e8006b5d815c966769982602451c5b2552d9d0a4abd6dd4e50f54e932669"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__f140b418.cooked/textures/sand_normal.avif",
+   "size": 2514,
+   "sha256": "b9c2c6ea308589cebe843635c756835ba78e235618d9a895d4a3f25a2f9c34e1"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__f140b418.cooked/textures/steel.avif",
+   "size": 1223,
+   "sha256": "374c2de95d69e288918f2135e4b64000c2cf070bfd1e877a7a75a7518a43c5bb"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__f140b418.cooked/textures/steel_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__f140b418.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__f140b418.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Bio Agent__f140b418.usd",
+   "size": 372882,
+   "sha256": "8675659f5fae8b78bfb177f01f7bd3cc1c009c56a0496b0e254f5b336c313111"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Citizen__69c920ea.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Citizen__69c920ea.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Citizen__69c920ea.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Citizen__69c920ea.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Citizen__69c920ea.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Citizen__69c920ea.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Citizen__69c920ea.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Citizen__69c920ea.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Citizen__69c920ea.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Citizen__69c920ea.cooked/textures/sand.avif",
+   "size": 982,
+   "sha256": "9148e8006b5d815c966769982602451c5b2552d9d0a4abd6dd4e50f54e932669"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Citizen__69c920ea.cooked/textures/sand_normal.avif",
+   "size": 2514,
+   "sha256": "b9c2c6ea308589cebe843635c756835ba78e235618d9a895d4a3f25a2f9c34e1"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Citizen__69c920ea.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Citizen__69c920ea.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Citizen__69c920ea.cooked/textures/steel.avif",
+   "size": 1223,
+   "sha256": "374c2de95d69e288918f2135e4b64000c2cf070bfd1e877a7a75a7518a43c5bb"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Citizen__69c920ea.cooked/textures/steel_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Citizen__69c920ea.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Citizen__69c920ea.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Citizen__69c920ea.usd",
+   "size": 633381,
+   "sha256": "2739448094733e0da5d7e887e2e64ef01c4ac1f20549d432396f23b77916caa0"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Citizen__a1bf5476.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Citizen__a1bf5476.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Citizen__a1bf5476.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Citizen__a1bf5476.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Citizen__a1bf5476.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Citizen__a1bf5476.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Citizen__a1bf5476.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Citizen__a1bf5476.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Citizen__a1bf5476.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Citizen__a1bf5476.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Citizen__a1bf5476.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Citizen__a1bf5476.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Citizen__a1bf5476.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Citizen__a1bf5476.cooked/textures/steel.avif",
+   "size": 1223,
+   "sha256": "374c2de95d69e288918f2135e4b64000c2cf070bfd1e877a7a75a7518a43c5bb"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Citizen__a1bf5476.cooked/textures/steel_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Citizen__a1bf5476.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Citizen__a1bf5476.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Citizen__a1bf5476.usd",
+   "size": 676443,
+   "sha256": "d90b2926fc2968efed560a59b555f7495737e7587847a9ef3e51ee781ac0edcd"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__95f51fa8.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__95f51fa8.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__95f51fa8.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__95f51fa8.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__95f51fa8.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__95f51fa8.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__95f51fa8.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__95f51fa8.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__95f51fa8.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__95f51fa8.cooked/textures/jade.avif",
+   "size": 756,
+   "sha256": "9f63b3de989e52a14a4e018da19a51f73e2de06c5d27ac931b87798041dfdfbe"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__95f51fa8.cooked/textures/jade_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__95f51fa8.cooked/textures/paper.avif",
+   "size": 1729,
+   "sha256": "700bd99d1997a1a20d90a673a4e698cf36fb4f8ffedafff69a6c93b3d8c7ad70"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__95f51fa8.cooked/textures/paper_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__95f51fa8.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__95f51fa8.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__95f51fa8.cooked/textures/rose.avif",
+   "size": 1521,
+   "sha256": "3513b07e10a3938b003946d30e0cf91569351360cacf4ef15cfc70a607290ec6"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__95f51fa8.cooked/textures/rose_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__95f51fa8.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__95f51fa8.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__95f51fa8.cooked/textures/steel.avif",
+   "size": 1223,
+   "sha256": "374c2de95d69e288918f2135e4b64000c2cf070bfd1e877a7a75a7518a43c5bb"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__95f51fa8.cooked/textures/steel_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__95f51fa8.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__95f51fa8.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__95f51fa8.usd",
+   "size": 766375,
+   "sha256": "adcdcb9cdb84212a63a36488191845759b795f9aa15bd6db2df918a5058c05f4"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__d2d41216.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__d2d41216.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__d2d41216.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__d2d41216.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__d2d41216.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__d2d41216.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__d2d41216.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__d2d41216.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__d2d41216.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__d2d41216.cooked/textures/paper.avif",
+   "size": 1729,
+   "sha256": "700bd99d1997a1a20d90a673a4e698cf36fb4f8ffedafff69a6c93b3d8c7ad70"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__d2d41216.cooked/textures/paper_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__d2d41216.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__d2d41216.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__d2d41216.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__d2d41216.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__d2d41216.cooked/textures/steel.avif",
+   "size": 1223,
+   "sha256": "374c2de95d69e288918f2135e4b64000c2cf070bfd1e877a7a75a7518a43c5bb"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__d2d41216.cooked/textures/steel_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__d2d41216.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__d2d41216.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__d2d41216.usd",
+   "size": 730973,
+   "sha256": "da6f10b24ff4ae5706fcd6b9bbf2812f376fed482cf72044ee4388194a5c95d2"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__de874066.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__de874066.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__de874066.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__de874066.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__de874066.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__de874066.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__de874066.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__de874066.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__de874066.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__de874066.cooked/textures/paper.avif",
+   "size": 1729,
+   "sha256": "700bd99d1997a1a20d90a673a4e698cf36fb4f8ffedafff69a6c93b3d8c7ad70"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__de874066.cooked/textures/paper_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__de874066.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__de874066.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__de874066.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__de874066.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__de874066.cooked/textures/steel.avif",
+   "size": 1223,
+   "sha256": "374c2de95d69e288918f2135e4b64000c2cf070bfd1e877a7a75a7518a43c5bb"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__de874066.cooked/textures/steel_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__de874066.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__de874066.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Corporate Worker__de874066.usd",
+   "size": 733321,
+   "sha256": "f8a457357ddd30b6c911cc3c7fe12b6a67f13ff7a16b94665e1767e7b8da6267"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Cyber Soldier.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Cyber Soldier.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Cyber Soldier.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Cyber Soldier.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Cyber Soldier.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Cyber Soldier.cooked/textures/bluefire.avif",
+   "size": 1059,
+   "sha256": "66b8eda93e3f51b13722bd4f87107c9b0f61ca9161d964f27a7f96751431a328"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Cyber Soldier.cooked/textures/bluefire_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Cyber Soldier.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Cyber Soldier.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Cyber Soldier.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Cyber Soldier.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Cyber Soldier.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Cyber Soldier.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Cyber Soldier.cooked/textures/steel.avif",
+   "size": 1223,
+   "sha256": "374c2de95d69e288918f2135e4b64000c2cf070bfd1e877a7a75a7518a43c5bb"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Cyber Soldier.cooked/textures/steel_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Cyber Soldier.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Cyber Soldier.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Cyber Soldier.usd",
+   "size": 438931,
+   "sha256": "7c989437fb72088862b7b25aa5705680e2a19d3ffd55b6aecd2049bf0fbe408e"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Droid.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Droid.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Droid.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Droid.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Droid.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Droid.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Droid.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Droid.cooked/textures/jade.avif",
+   "size": 756,
+   "sha256": "9f63b3de989e52a14a4e018da19a51f73e2de06c5d27ac931b87798041dfdfbe"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Droid.cooked/textures/jade_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Droid.cooked/textures/paper.avif",
+   "size": 1729,
+   "sha256": "700bd99d1997a1a20d90a673a4e698cf36fb4f8ffedafff69a6c93b3d8c7ad70"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Droid.cooked/textures/paper_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Droid.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Droid.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Droid.cooked/textures/steel.avif",
+   "size": 1223,
+   "sha256": "374c2de95d69e288918f2135e4b64000c2cf070bfd1e877a7a75a7518a43c5bb"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Droid.cooked/textures/steel_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Droid.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Droid.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Droid.usd",
+   "size": 170520,
+   "sha256": "b4abff805dfc669a884a9f3b5ed945c666a7278508494553059f3ff39f999209"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Hacker.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Hacker.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Hacker.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Hacker.cooked/textures/bluefire.avif",
+   "size": 1059,
+   "sha256": "66b8eda93e3f51b13722bd4f87107c9b0f61ca9161d964f27a7f96751431a328"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Hacker.cooked/textures/bluefire_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Hacker.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Hacker.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Hacker.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Hacker.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Hacker.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Hacker.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Hacker.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Hacker.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Hacker.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Hacker.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Hacker.cooked/textures/steel.avif",
+   "size": 1223,
+   "sha256": "374c2de95d69e288918f2135e4b64000c2cf070bfd1e877a7a75a7518a43c5bb"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Hacker.cooked/textures/steel_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Hacker.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Hacker.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Hacker.usd",
+   "size": 697443,
+   "sha256": "bb8ddd3f8d972dce74d612a433a0b239c50ebc281aa256a86a880ec29873d6b4"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__66a1d89a.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__66a1d89a.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__66a1d89a.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__66a1d89a.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__66a1d89a.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__66a1d89a.cooked/textures/bluefire.avif",
+   "size": 1059,
+   "sha256": "66b8eda93e3f51b13722bd4f87107c9b0f61ca9161d964f27a7f96751431a328"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__66a1d89a.cooked/textures/bluefire_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__66a1d89a.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__66a1d89a.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__66a1d89a.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__66a1d89a.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__66a1d89a.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__66a1d89a.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__66a1d89a.cooked/textures/steel.avif",
+   "size": 1223,
+   "sha256": "374c2de95d69e288918f2135e4b64000c2cf070bfd1e877a7a75a7518a43c5bb"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__66a1d89a.cooked/textures/steel_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__66a1d89a.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__66a1d89a.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__66a1d89a.usd",
+   "size": 428509,
+   "sha256": "0ca75d9a1c28e60ba94d43ccd527a70afbf62d0bda9334fb648c0dce19b3caa7"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__c5392549.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__c5392549.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__c5392549.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__c5392549.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__c5392549.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__c5392549.cooked/textures/bluefire.avif",
+   "size": 1059,
+   "sha256": "66b8eda93e3f51b13722bd4f87107c9b0f61ca9161d964f27a7f96751431a328"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__c5392549.cooked/textures/bluefire_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__c5392549.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__c5392549.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__c5392549.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__c5392549.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__c5392549.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__c5392549.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__c5392549.cooked/textures/steel.avif",
+   "size": 1223,
+   "sha256": "374c2de95d69e288918f2135e4b64000c2cf070bfd1e877a7a75a7518a43c5bb"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__c5392549.cooked/textures/steel_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__c5392549.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__c5392549.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__c5392549.usd",
+   "size": 430567,
+   "sha256": "75387df9ded5966221f1eb7d1f816a465dd5d426056b584b3b99154af75cb59c"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__cefe2805.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__cefe2805.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__cefe2805.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__cefe2805.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__cefe2805.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__cefe2805.cooked/textures/bluefire.avif",
+   "size": 1059,
+   "sha256": "66b8eda93e3f51b13722bd4f87107c9b0f61ca9161d964f27a7f96751431a328"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__cefe2805.cooked/textures/bluefire_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__cefe2805.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__cefe2805.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__cefe2805.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__cefe2805.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__cefe2805.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__cefe2805.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__cefe2805.cooked/textures/steel.avif",
+   "size": 1223,
+   "sha256": "374c2de95d69e288918f2135e4b64000c2cf070bfd1e877a7a75a7518a43c5bb"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__cefe2805.cooked/textures/steel_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__cefe2805.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__cefe2805.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__cefe2805.usd",
+   "size": 419558,
+   "sha256": "dfe22bd8428e5894249bd8567d4db041795793505abceae3c0176e3893a06934"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__f9ac52c7.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__f9ac52c7.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__f9ac52c7.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__f9ac52c7.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__f9ac52c7.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__f9ac52c7.cooked/textures/bluefire.avif",
+   "size": 1059,
+   "sha256": "66b8eda93e3f51b13722bd4f87107c9b0f61ca9161d964f27a7f96751431a328"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__f9ac52c7.cooked/textures/bluefire_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__f9ac52c7.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__f9ac52c7.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__f9ac52c7.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__f9ac52c7.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__f9ac52c7.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__f9ac52c7.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__f9ac52c7.cooked/textures/steel.avif",
+   "size": 1223,
+   "sha256": "374c2de95d69e288918f2135e4b64000c2cf070bfd1e877a7a75a7518a43c5bb"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__f9ac52c7.cooked/textures/steel_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__f9ac52c7.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__f9ac52c7.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Law Enforcement__f9ac52c7.usd",
+   "size": 426434,
+   "sha256": "040e4b8cc94ceaf97ef5acd13207ebcca3b2889920c3b075e7538381e8dba9b6"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Mechanic Worker.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Mechanic Worker.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Mechanic Worker.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Mechanic Worker.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Mechanic Worker.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Mechanic Worker.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Mechanic Worker.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Mechanic Worker.cooked/textures/paper.avif",
+   "size": 1729,
+   "sha256": "700bd99d1997a1a20d90a673a4e698cf36fb4f8ffedafff69a6c93b3d8c7ad70"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Mechanic Worker.cooked/textures/paper_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Mechanic Worker.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Mechanic Worker.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Mechanic Worker.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Mechanic Worker.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Mechanic Worker.cooked/textures/steel.avif",
+   "size": 1223,
+   "sha256": "374c2de95d69e288918f2135e4b64000c2cf070bfd1e877a7a75a7518a43c5bb"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Mechanic Worker.cooked/textures/steel_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Mechanic Worker.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Mechanic Worker.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Mechanic Worker.usd",
+   "size": 731291,
+   "sha256": "80ebdabd188fee6e1d35cd30ddb5150e4bc15b51b364d12c22e5351aa3a1dfa8"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Mercenary.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Mercenary.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Mercenary.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Mercenary.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Mercenary.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Mercenary.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Mercenary.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Mercenary.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Mercenary.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Mercenary.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Mercenary.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Mercenary.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Mercenary.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Mercenary.cooked/textures/steel.avif",
+   "size": 1223,
+   "sha256": "374c2de95d69e288918f2135e4b64000c2cf070bfd1e877a7a75a7518a43c5bb"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Mercenary.cooked/textures/steel_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Mercenary.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Mercenary.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Mercenary.usd",
+   "size": 697970,
+   "sha256": "100a37538bdd2b21b9a93ba3d3de24c7185a2038ba840c1a2d72a6a8a3c1f170"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__18082f62.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__18082f62.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__18082f62.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__18082f62.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__18082f62.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__18082f62.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__18082f62.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__18082f62.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__18082f62.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__18082f62.cooked/textures/jade.avif",
+   "size": 756,
+   "sha256": "9f63b3de989e52a14a4e018da19a51f73e2de06c5d27ac931b87798041dfdfbe"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__18082f62.cooked/textures/jade_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__18082f62.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__18082f62.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__18082f62.cooked/textures/rose.avif",
+   "size": 1521,
+   "sha256": "3513b07e10a3938b003946d30e0cf91569351360cacf4ef15cfc70a607290ec6"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__18082f62.cooked/textures/rose_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__18082f62.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__18082f62.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__18082f62.cooked/textures/steel.avif",
+   "size": 1223,
+   "sha256": "374c2de95d69e288918f2135e4b64000c2cf070bfd1e877a7a75a7518a43c5bb"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__18082f62.cooked/textures/steel_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__18082f62.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__18082f62.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__18082f62.usd",
+   "size": 706966,
+   "sha256": "fdab147c276b9b2bd5459de76b47a6a15e66149ad8d76a5068827b528a16cc05"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__279539b5.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__279539b5.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__279539b5.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__279539b5.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__279539b5.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__279539b5.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__279539b5.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__279539b5.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__279539b5.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__279539b5.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__279539b5.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__279539b5.cooked/textures/rose.avif",
+   "size": 1521,
+   "sha256": "3513b07e10a3938b003946d30e0cf91569351360cacf4ef15cfc70a607290ec6"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__279539b5.cooked/textures/rose_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__279539b5.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__279539b5.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__279539b5.cooked/textures/steel.avif",
+   "size": 1223,
+   "sha256": "374c2de95d69e288918f2135e4b64000c2cf070bfd1e877a7a75a7518a43c5bb"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__279539b5.cooked/textures/steel_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__279539b5.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__279539b5.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__279539b5.usd",
+   "size": 689462,
+   "sha256": "1e1d9eddb55c07d66ea0da4c5ab6ff68654744ed04d2054c4c2d5c9198e583f2"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__6f42950d.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__6f42950d.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__6f42950d.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__6f42950d.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__6f42950d.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__6f42950d.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__6f42950d.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__6f42950d.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__6f42950d.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__6f42950d.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__6f42950d.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__6f42950d.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__6f42950d.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__6f42950d.cooked/textures/steel.avif",
+   "size": 1223,
+   "sha256": "374c2de95d69e288918f2135e4b64000c2cf070bfd1e877a7a75a7518a43c5bb"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__6f42950d.cooked/textures/steel_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__6f42950d.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__6f42950d.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__6f42950d.usd",
+   "size": 670620,
+   "sha256": "c72306590b1a831c3aa491f7c7bcbe9e67729be6223939ac0ed42239ab3f9c11"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__7e854cd1.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__7e854cd1.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__7e854cd1.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__7e854cd1.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__7e854cd1.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__7e854cd1.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__7e854cd1.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__7e854cd1.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__7e854cd1.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__7e854cd1.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__7e854cd1.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__7e854cd1.cooked/textures/steel.avif",
+   "size": 1223,
+   "sha256": "374c2de95d69e288918f2135e4b64000c2cf070bfd1e877a7a75a7518a43c5bb"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__7e854cd1.cooked/textures/steel_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__7e854cd1.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__7e854cd1.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__7e854cd1.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__7e854cd1.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__7e854cd1.usd",
+   "size": 639482,
+   "sha256": "7354e68ce0e1d1194e4d1d41c75f5971d6df8d51ec5e95283b3e56769f6664cb"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__bc1767ca.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__bc1767ca.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__bc1767ca.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__bc1767ca.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__bc1767ca.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__bc1767ca.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__bc1767ca.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__bc1767ca.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__bc1767ca.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__bc1767ca.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__bc1767ca.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__bc1767ca.cooked/textures/sand.avif",
+   "size": 982,
+   "sha256": "9148e8006b5d815c966769982602451c5b2552d9d0a4abd6dd4e50f54e932669"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__bc1767ca.cooked/textures/sand_normal.avif",
+   "size": 2514,
+   "sha256": "b9c2c6ea308589cebe843635c756835ba78e235618d9a895d4a3f25a2f9c34e1"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__bc1767ca.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__bc1767ca.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__bc1767ca.cooked/textures/steel.avif",
+   "size": 1223,
+   "sha256": "374c2de95d69e288918f2135e4b64000c2cf070bfd1e877a7a75a7518a43c5bb"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__bc1767ca.cooked/textures/steel_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__bc1767ca.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__bc1767ca.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Punk__bc1767ca.usd",
+   "size": 661346,
+   "sha256": "3dbe1cd2212a01e7ac2898e1e15cb130c01ddac5b2aacf63872fefb4aa1007e3"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Security Bot.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Security Bot.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Security Bot.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Security Bot.cooked/textures/bluefire.avif",
+   "size": 1059,
+   "sha256": "66b8eda93e3f51b13722bd4f87107c9b0f61ca9161d964f27a7f96751431a328"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Security Bot.cooked/textures/bluefire_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Security Bot.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Security Bot.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Security Bot.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Security Bot.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Security Bot.cooked/textures/jade.avif",
+   "size": 756,
+   "sha256": "9f63b3de989e52a14a4e018da19a51f73e2de06c5d27ac931b87798041dfdfbe"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Security Bot.cooked/textures/jade_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Security Bot.cooked/textures/paper.avif",
+   "size": 1729,
+   "sha256": "700bd99d1997a1a20d90a673a4e698cf36fb4f8ffedafff69a6c93b3d8c7ad70"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Security Bot.cooked/textures/paper_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Security Bot.cooked/textures/steel.avif",
+   "size": 1223,
+   "sha256": "374c2de95d69e288918f2135e4b64000c2cf070bfd1e877a7a75a7518a43c5bb"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Security Bot.cooked/textures/steel_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Security Bot.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Security Bot.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Security Bot.cooked/textures/water.avif",
+   "size": 644,
+   "sha256": "a620c7842cefe01e620892d3d24dcf88f91b1e9c3f27c7a1ecf1a24a7e2aaef9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Security Bot.cooked/textures/water_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Security Bot.usd",
+   "size": 128426,
+   "sha256": "0edc471c6ac578228ed2eb9905c4d37a46fa7750f64d250a07bb518b0e4feccb"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Doc.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Doc.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Doc.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Doc.cooked/textures/bluefire.avif",
+   "size": 1059,
+   "sha256": "66b8eda93e3f51b13722bd4f87107c9b0f61ca9161d964f27a7f96751431a328"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Doc.cooked/textures/bluefire_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Doc.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Doc.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Doc.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Doc.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Doc.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Doc.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Doc.cooked/textures/paper.avif",
+   "size": 1729,
+   "sha256": "700bd99d1997a1a20d90a673a4e698cf36fb4f8ffedafff69a6c93b3d8c7ad70"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Doc.cooked/textures/paper_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Doc.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Doc.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Doc.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Doc.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Doc.cooked/textures/steel.avif",
+   "size": 1223,
+   "sha256": "374c2de95d69e288918f2135e4b64000c2cf070bfd1e877a7a75a7518a43c5bb"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Doc.cooked/textures/steel_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Doc.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Doc.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Doc.usd",
+   "size": 722835,
+   "sha256": "486e4797da36c4d87786e56937f296895acd23f8c130d3d92c91c381c8a28626"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Thug.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Thug.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Thug.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Thug.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Thug.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Thug.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Thug.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Thug.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Thug.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Thug.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Thug.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Thug.cooked/textures/sand.avif",
+   "size": 982,
+   "sha256": "9148e8006b5d815c966769982602451c5b2552d9d0a4abd6dd4e50f54e932669"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Thug.cooked/textures/sand_normal.avif",
+   "size": 2514,
+   "sha256": "b9c2c6ea308589cebe843635c756835ba78e235618d9a895d4a3f25a2f9c34e1"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Thug.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Thug.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Thug.cooked/textures/steel.avif",
+   "size": 1223,
+   "sha256": "374c2de95d69e288918f2135e4b64000c2cf070bfd1e877a7a75a7518a43c5bb"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Thug.cooked/textures/steel_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Thug.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Thug.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Thug.usd",
+   "size": 668547,
+   "sha256": "6fc7cf0eb2ae7e15340fec4b49c5d56afe908ebb789a2f6b7b89509dc8155911"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__66873286.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__66873286.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__66873286.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__66873286.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__66873286.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__66873286.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__66873286.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__66873286.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__66873286.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__66873286.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__66873286.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__66873286.cooked/textures/steel.avif",
+   "size": 1223,
+   "sha256": "374c2de95d69e288918f2135e4b64000c2cf070bfd1e877a7a75a7518a43c5bb"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__66873286.cooked/textures/steel_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__66873286.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__66873286.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__66873286.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__66873286.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__66873286.usd",
+   "size": 688577,
+   "sha256": "08445e2df99ab630da543d038911c71bb0c49a20e42a0ba8fc68281b791abde5"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__ab0616b4.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__ab0616b4.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__ab0616b4.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__ab0616b4.cooked/textures/bluefire.avif",
+   "size": 1059,
+   "sha256": "66b8eda93e3f51b13722bd4f87107c9b0f61ca9161d964f27a7f96751431a328"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__ab0616b4.cooked/textures/bluefire_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__ab0616b4.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__ab0616b4.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__ab0616b4.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__ab0616b4.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__ab0616b4.cooked/textures/rose.avif",
+   "size": 1521,
+   "sha256": "3513b07e10a3938b003946d30e0cf91569351360cacf4ef15cfc70a607290ec6"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__ab0616b4.cooked/textures/rose_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__ab0616b4.cooked/textures/steel.avif",
+   "size": 1223,
+   "sha256": "374c2de95d69e288918f2135e4b64000c2cf070bfd1e877a7a75a7518a43c5bb"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__ab0616b4.cooked/textures/steel_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__ab0616b4.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__ab0616b4.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__ab0616b4.usd",
+   "size": 379294,
+   "sha256": "5debd247179d77f05b7eb31d1b38f2956203fd8a7b3098ba57e57b37d445d86d"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__ae6c5db3.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__ae6c5db3.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__ae6c5db3.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__ae6c5db3.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__ae6c5db3.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__ae6c5db3.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__ae6c5db3.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__ae6c5db3.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__ae6c5db3.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__ae6c5db3.cooked/textures/paper.avif",
+   "size": 1729,
+   "sha256": "700bd99d1997a1a20d90a673a4e698cf36fb4f8ffedafff69a6c93b3d8c7ad70"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__ae6c5db3.cooked/textures/paper_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__ae6c5db3.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__ae6c5db3.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__ae6c5db3.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__ae6c5db3.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__ae6c5db3.cooked/textures/steel.avif",
+   "size": 1223,
+   "sha256": "374c2de95d69e288918f2135e4b64000c2cf070bfd1e877a7a75a7518a43c5bb"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__ae6c5db3.cooked/textures/steel_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__ae6c5db3.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__ae6c5db3.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__ae6c5db3.usd",
+   "size": 688983,
+   "sha256": "fb31f51de9f62343c81936decda580ea3674011852e416f229f9caffa4ee8cd8"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__b2af23c2.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__b2af23c2.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__b2af23c2.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__b2af23c2.cooked/textures/bluefire.avif",
+   "size": 1059,
+   "sha256": "66b8eda93e3f51b13722bd4f87107c9b0f61ca9161d964f27a7f96751431a328"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__b2af23c2.cooked/textures/bluefire_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__b2af23c2.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__b2af23c2.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__b2af23c2.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__b2af23c2.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__b2af23c2.cooked/textures/jade.avif",
+   "size": 756,
+   "sha256": "9f63b3de989e52a14a4e018da19a51f73e2de06c5d27ac931b87798041dfdfbe"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__b2af23c2.cooked/textures/jade_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__b2af23c2.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__b2af23c2.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__b2af23c2.cooked/textures/steel.avif",
+   "size": 1223,
+   "sha256": "374c2de95d69e288918f2135e4b64000c2cf070bfd1e877a7a75a7518a43c5bb"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__b2af23c2.cooked/textures/steel_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__b2af23c2.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__b2af23c2.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__b2af23c2.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__b2af23c2.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__b2af23c2.usd",
+   "size": 459351,
+   "sha256": "7609f68ed779a353e53576db8042ea5006c0d3ced89db060e49e2bdfd5ab8a31"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__eb7efd24.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__eb7efd24.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__eb7efd24.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__eb7efd24.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__eb7efd24.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__eb7efd24.cooked/textures/bluefire.avif",
+   "size": 1059,
+   "sha256": "66b8eda93e3f51b13722bd4f87107c9b0f61ca9161d964f27a7f96751431a328"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__eb7efd24.cooked/textures/bluefire_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__eb7efd24.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__eb7efd24.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__eb7efd24.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__eb7efd24.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__eb7efd24.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__eb7efd24.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__eb7efd24.cooked/textures/steel.avif",
+   "size": 1223,
+   "sha256": "374c2de95d69e288918f2135e4b64000c2cf070bfd1e877a7a75a7518a43c5bb"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__eb7efd24.cooked/textures/steel_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__eb7efd24.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__eb7efd24.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__eb7efd24.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__eb7efd24.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Cyberpunk and Sci-fi/Street Warrior__eb7efd24.usd",
+   "size": 463802,
+   "sha256": "acef0566ef433a0c97af3b66a78a3a1e2322eadc5bfed8d948baabee0f4c3e0c"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Astronaut 2",
+   "kind": "creature",
+   "thumb": "thumbs/fa0ff88c-557b-4c09-be9f-081ec22afe27.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "astronaut",
+    "space",
+    "explorer",
+    "white",
+    "brown"
+   ]
+  },
+  {
+   "name": "Astronaut",
+   "kind": "creature",
+   "thumb": "thumbs/44237b68-2f39-4c6d-bf5a-546af35ca818.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "astronaut",
+    "space",
+    "explorer",
+    "white",
+    "brown"
+   ]
+  },
+  {
+   "name": "Bio Agent 2",
+   "kind": "creature",
+   "thumb": "thumbs/b1d9968e-bccf-4086-af84-ad0c67041294.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "soldier",
+    "toxic",
+    "bio",
+    "agent",
+    "gun",
+    "law",
+    "government"
+   ]
+  },
+  {
+   "name": "Bio Agent 3",
+   "kind": "creature",
+   "thumb": "thumbs/f140b418-b43a-4769-a688-c00d9ad61db7.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "soldier",
+    "agent",
+    "bio",
+    "toxic",
+    "law",
+    "government",
+    "cyberpunk"
+   ]
+  },
+  {
+   "name": "Bio Agent",
+   "kind": "creature",
+   "thumb": "thumbs/599e0109-038a-463a-b989-f77e8ec7f189.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "soldier",
+    "toxic",
+    "bio",
+    "agent",
+    "gun",
+    "law",
+    "government"
+   ]
+  },
+  {
+   "name": "Citizen 2",
+   "kind": "creature",
+   "thumb": "thumbs/a1bf5476-b5a6-4896-b60e-baed58f98040.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "human",
+    "citizen",
+    "city",
+    "person"
+   ]
+  },
+  {
+   "name": "Citizen",
+   "kind": "creature",
+   "thumb": "thumbs/69c920ea-b1b6-459a-a142-3883b6e30963.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "human",
+    "citizen",
+    "city",
+    "person"
+   ]
+  },
+  {
+   "name": "Corporate Worker 2",
+   "kind": "creature",
+   "thumb": "thumbs/d2d41216-4da7-41ce-8e2f-7867cb308a1e.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "human",
+    "worker",
+    "citizen",
+    "wage",
+    "corporate",
+    "boss",
+    "employee"
+   ]
+  },
+  {
+   "name": "Corporate Worker 3",
+   "kind": "creature",
+   "thumb": "thumbs/de874066-3a19-473d-a40f-971fd12fb5ec.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "human",
+    "worker",
+    "citizen",
+    "wage",
+    "corporate",
+    "employee",
+    "boss"
+   ]
+  },
+  {
+   "name": "Corporate Worker",
+   "kind": "creature",
+   "thumb": "thumbs/95f51fa8-e30f-4ddb-83a6-00b04fc2904a.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "human",
+    "worker",
+    "citizen",
+    "wage",
+    "corporate",
+    "employee",
+    "boss"
+   ]
+  },
+  {
+   "name": "Cyber Soldier",
+   "kind": "creature",
+   "thumb": "thumbs/fd695e82-aa9f-4d1a-94a2-2766ee939633.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "soldier",
+    "cyber",
+    "military",
+    "warrior",
+    "gun",
+    "agent",
+    "law"
+   ]
+  },
+  {
+   "name": "Droid",
+   "kind": "creature",
+   "thumb": "thumbs/6b617d82-603e-42b8-bfb2-0e4336177093.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "droid",
+    "robot",
+    "robotic",
+    "metal",
+    "ai",
+    "cyberpunk"
+   ]
+  },
+  {
+   "name": "Hacker",
+   "kind": "creature",
+   "thumb": "thumbs/a1370982-7b79-48b9-ae51-2aae607ac54e.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "punk",
+    "cyber",
+    "gang",
+    "hacker",
+    "decker",
+    "gun",
+    "computer"
+   ]
+  },
+  {
+   "name": "Law Enforcement 2",
+   "kind": "creature",
+   "thumb": "thumbs/c5392549-a08c-404b-ac68-702cb7a6e81d.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "soldier",
+    "police",
+    "cops",
+    "cop",
+    "gun",
+    "law",
+    "government"
+   ]
+  },
+  {
+   "name": "Law Enforcement 3",
+   "kind": "creature",
+   "thumb": "thumbs/cefe2805-8a46-4ead-935a-4b0c43d37965.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "soldier",
+    "police",
+    "cops",
+    "cop",
+    "gun",
+    "law",
+    "government"
+   ]
+  },
+  {
+   "name": "Law Enforcement 4",
+   "kind": "creature",
+   "thumb": "thumbs/f9ac52c7-d902-4378-8b31-de83c494bf75.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "soldier",
+    "police",
+    "cops",
+    "cop",
+    "gun",
+    "law",
+    "government"
+   ]
+  },
+  {
+   "name": "Law Enforcement",
+   "kind": "creature",
+   "thumb": "thumbs/66a1d89a-b825-4eda-918a-73768684c437.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "soldier",
+    "police",
+    "cops",
+    "cop",
+    "gun",
+    "law",
+    "government"
+   ]
+  },
+  {
+   "name": "Mechanic Worker",
+   "kind": "creature",
+   "thumb": "thumbs/d8af7f41-285c-420e-969a-4671b031c94d.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "human",
+    "citizen",
+    "person"
+   ]
+  },
+  {
+   "name": "Mercenary",
+   "kind": "creature",
+   "thumb": "thumbs/339d1414-b879-4606-ae67-e103c3edf91c.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "gun",
+    "street",
+    "mercenary",
+    "warrior",
+    "person",
+    "cyberpunk"
+   ]
+  },
+  {
+   "name": "Punk 2",
+   "kind": "creature",
+   "thumb": "thumbs/279539b5-95cd-4121-b364-51c59904910c.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "punk",
+    "cyber",
+    "gang",
+    "street",
+    "warrior",
+    "person",
+    "cyberpunk"
+   ]
+  },
+  {
+   "name": "Punk 3",
+   "kind": "creature",
+   "thumb": "thumbs/6f42950d-408c-4be8-9799-35be2de68683.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "punk",
+    "cyber",
+    "gang",
+    "gun",
+    "street",
+    "warrior",
+    "person"
+   ]
+  },
+  {
+   "name": "Punk 4",
+   "kind": "creature",
+   "thumb": "thumbs/7e854cd1-f869-40ae-9a57-86d0755e1767.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "punk",
+    "cyber",
+    "gang",
+    "street",
+    "warrior",
+    "bat",
+    "person"
+   ]
+  },
+  {
+   "name": "Punk 5",
+   "kind": "creature",
+   "thumb": "thumbs/bc1767ca-a31a-4a37-ba8a-8f0676afb4cb.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "punk",
+    "cyber",
+    "gang",
+    "gun",
+    "street",
+    "warrior",
+    "person"
+   ]
+  },
+  {
+   "name": "Punk",
+   "kind": "creature",
+   "thumb": "thumbs/18082f62-6f7a-4b0f-924b-851158333876.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "punk",
+    "cyber",
+    "gang",
+    "gun",
+    "street",
+    "warrior",
+    "person"
+   ]
+  },
+  {
+   "name": "Security Bot",
+   "kind": "creature",
+   "thumb": "thumbs/2a8e17dc-322d-476f-96a7-07982ae09a8d.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "government",
+    "robot",
+    "robotic",
+    "droid",
+    "light",
+    "ai",
+    "cyberpunk"
+   ]
+  },
+  {
+   "name": "Street Doc",
+   "kind": "creature",
+   "thumb": "thumbs/1c9b66fe-8adb-4065-9edc-e531b125868b.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "punk",
+    "cyber",
+    "gang",
+    "hacker",
+    "decker",
+    "computer",
+    "keyboard"
+   ]
+  },
+  {
+   "name": "Street Thug",
+   "kind": "creature",
+   "thumb": "thumbs/9cb5a4d4-8b67-44b7-a9f2-2fc5db6d4a53.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "gun",
+    "street",
+    "mercenary",
+    "warrior",
+    "person",
+    "cyberpunk"
+   ]
+  },
+  {
+   "name": "Street Warrior 2",
+   "kind": "creature",
+   "thumb": "thumbs/ab0616b4-94a8-4623-81d9-93e12b8c8ae2.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "decker",
+    "hacker",
+    "gun",
+    "computer",
+    "keyboard",
+    "street",
+    "mercenary"
+   ]
+  },
+  {
+   "name": "Street Warrior 3",
+   "kind": "creature",
+   "thumb": "thumbs/ae6c5db3-1d5f-45e4-a455-6e9eddbf13ea.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "person",
+    "cyber",
+    "cyberpunk",
+    "street",
+    "warrior"
+   ]
+  },
+  {
+   "name": "Street Warrior 4",
+   "kind": "creature",
+   "thumb": "thumbs/b2af23c2-7068-4549-8cd4-2237247608f4.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "person",
+    "cyber",
+    "blade",
+    "cyberpunk",
+    "street",
+    "warrior"
+   ]
+  },
+  {
+   "name": "Street Warrior 5",
+   "kind": "creature",
+   "thumb": "thumbs/eb7efd24-6f23-42e5-85b0-fac625cc1700.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "street",
+    "mercenary",
+    "warrior",
+    "katana",
+    "sword",
+    "person",
+    "cyberpunk"
+   ]
+  },
+  {
+   "name": "Street Warrior",
+   "kind": "creature",
+   "thumb": "thumbs/66873286-6194-4814-9142-43cfe52cb74c.jpg",
+   "tags": [
+    "cyberpunk-and-sci-fi",
+    "punk",
+    "cyber",
+    "gang",
+    "street",
+    "warrior",
+    "bat",
+    "person"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,4857 @@
+{
+ "id": "b002866f-3dd7-5653-9ac3-cc01e5ea0e38",
+ "folder": "Monstrous Creatures.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 1020,
+   "sha256": "36c944b1382f4d97c96df1120b63852bd5ba7265741d73f33495ddd9bdf8deee"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 27890,
+   "sha256": "a799f9d83c2fbaa24ead948e41d27b78ada4c41375a9ca243154c95ec9902291"
+  },
+  {
+   "path": "creatures/black-pudding.md",
+   "size": 301,
+   "sha256": "b0d9f25a45ef948d31d5581bc30a7fa34aa69a842dd99f96552aa1485a53cee0"
+  },
+  {
+   "path": "creatures/burrow-beast.md",
+   "size": 317,
+   "sha256": "8bd63d380538e86bf540bca66d519f072578f225e2dfe04ac2e8f76c3df07267"
+  },
+  {
+   "path": "creatures/carnivorous-plant.md",
+   "size": 364,
+   "sha256": "f589e737d3781ecbe614d9a31b822465542a99a24f56b0303e188cb4a60860f5"
+  },
+  {
+   "path": "creatures/cave-horror.md",
+   "size": 315,
+   "sha256": "d152d69e08d039c1f6f586bd7948f76dd2a774302ab3ab69d1814e79c44942be"
+  },
+  {
+   "path": "creatures/centaur-2.md",
+   "size": 341,
+   "sha256": "750d93c8dbbe03e8a3e9d6c0f92422f452a8a509682fca9dad96c1c5df0de983"
+  },
+  {
+   "path": "creatures/centaur.md",
+   "size": 301,
+   "sha256": "ef706f838fa3efdb501902f4ef88897810b6be5c4eec5957125768c41ef67b64"
+  },
+  {
+   "path": "creatures/chimera.md",
+   "size": 303,
+   "sha256": "3dcb2ebb563103a406cbee016a94fc396c4fe37213a2ea10f069af4318f4d313"
+  },
+  {
+   "path": "creatures/cloaked-nightmare.md",
+   "size": 362,
+   "sha256": "7de2642cd1461f34050c178cdfcea87fa29cc3c3b09773f8d98ce4d195ee768c"
+  },
+  {
+   "path": "creatures/dracolich.md",
+   "size": 302,
+   "sha256": "2b11ba652d44670a5323a421c180be00429d292cdd99b4634de2981203fbc096"
+  },
+  {
+   "path": "creatures/dragon-2.md",
+   "size": 305,
+   "sha256": "a7086ee95d3f6662a0cc78ad2e88c1146f72472b030e95dd9beab25c2d48654d"
+  },
+  {
+   "path": "creatures/dragon-black.md",
+   "size": 307,
+   "sha256": "6bfdd92ec583d364bfb84a5e2179b2c8e7d5259adf7aae662b926191580f25a2"
+  },
+  {
+   "path": "creatures/dragon-gold.md",
+   "size": 284,
+   "sha256": "2e578c818abc1fb07febe908b652a2c3174b2f3566987cb4ef2be9f05713bf59"
+  },
+  {
+   "path": "creatures/dragon.md",
+   "size": 319,
+   "sha256": "1276a8b297307c68dc537f93e9771d79e167a85cf2d2bc4b53c02a135ef19b05"
+  },
+  {
+   "path": "creatures/drider.md",
+   "size": 297,
+   "sha256": "7991f2c9b0d57a87dcb30a6b85bd1df43a99e6d7b51baa85a6c488c655fdfff4"
+  },
+  {
+   "path": "creatures/gargoyle.md",
+   "size": 305,
+   "sha256": "47927d30db438c1377cf937b432bd90d8ee34e6af373c75f168ed101c79cfd78"
+  },
+  {
+   "path": "creatures/giant-worm.md",
+   "size": 294,
+   "sha256": "f7894347a5457383a8041003846dd2fb348ba4955dbc8d75ea63a7d95f198938"
+  },
+  {
+   "path": "creatures/gorgon.md",
+   "size": 288,
+   "sha256": "1496b9f33a0c8fa721d80dd07d21eea769cd9d055db13cbbcf4fc93f2e9c623c"
+  },
+  {
+   "path": "creatures/grick.md",
+   "size": 282,
+   "sha256": "4f44f661ece73d5e2438123327f8c4f0a4f3994deba5e2d8251cf5a0591ac21e"
+  },
+  {
+   "path": "creatures/griffon.md",
+   "size": 317,
+   "sha256": "0d51c77c4876338c11b66e3a9f37e128e782f5378c2fbb714d3e14f4cf74dbd4"
+  },
+  {
+   "path": "creatures/harpy.md",
+   "size": 295,
+   "sha256": "d51c1cf079aa8bd8ba4a06b65aba25b6ffdb614184fd1cfef2e85170d4460098"
+  },
+  {
+   "path": "creatures/hydra.md",
+   "size": 294,
+   "sha256": "f7940be7690307e0434319afb66c29aff754368c06ec80f4a0c4df6c8c748afa"
+  },
+  {
+   "path": "creatures/insectoid-2.md",
+   "size": 298,
+   "sha256": "b191ba8497dcce002bae514fb6ab1d69ae9e438cde12a6200e2206dd3c491407"
+  },
+  {
+   "path": "creatures/insectoid-3.md",
+   "size": 301,
+   "sha256": "882a7933e10a3e91769c91a153d783e42464be8c09eb821ca91d18c8f000e666"
+  },
+  {
+   "path": "creatures/insectoid.md",
+   "size": 299,
+   "sha256": "791cbc31f9ec0abdd52b81054081b112dfbeee0d1436c4d3f483cdfc1012db87"
+  },
+  {
+   "path": "creatures/manticore.md",
+   "size": 304,
+   "sha256": "038cdaefcb6c9d110237e0a363923c0fcce54e471d4f59c53e727c442eaa1d14"
+  },
+  {
+   "path": "creatures/merfolk-2.md",
+   "size": 344,
+   "sha256": "98d78dd71775a9c903716b7aba7815bc7ff74eaf040342db3a6364472c643124"
+  },
+  {
+   "path": "creatures/merfolk.md",
+   "size": 292,
+   "sha256": "20400df8c09fab476dc8e512f0bf7c588085b5644cad5f2fe8a9cf5bbdc05a64"
+  },
+  {
+   "path": "creatures/mimic-2.md",
+   "size": 295,
+   "sha256": "b50607f6e71dc926a658dd412af8b8327824d40005de06c97bb8be16b1665017"
+  },
+  {
+   "path": "creatures/mimic-3.md",
+   "size": 352,
+   "sha256": "81a7207a392b7d43d1724a6788d1715dd7f3f3db8c48844f15e742abdc5b692f"
+  },
+  {
+   "path": "creatures/mimic.md",
+   "size": 297,
+   "sha256": "26ebf772adec05088632d86bfd6f732cc360c0726a1dfc22da9926e026780dad"
+  },
+  {
+   "path": "creatures/reverse-centaur.md",
+   "size": 303,
+   "sha256": "664e1fd987966eba435df3e96717990a481bb0e3138b1172558cdfdee1c376d7"
+  },
+  {
+   "path": "creatures/rust-eater.md",
+   "size": 323,
+   "sha256": "6564f6dd68ad1b769d67f73c796db682ea4a95100abca9c1f6d03a8b79b2f649"
+  },
+  {
+   "path": "creatures/sea-monster.md",
+   "size": 316,
+   "sha256": "509d88f0c860e859a06e48505b242c17c25215fe7eafb2dc0d87cc470f9286a0"
+  },
+  {
+   "path": "creatures/serpentfolk-archer.md",
+   "size": 314,
+   "sha256": "e6f4386f38ec9c1689b84242d510f5d46585b12a7135f1f53e08344220741dea"
+  },
+  {
+   "path": "creatures/serpentfolk-caster.md",
+   "size": 320,
+   "sha256": "cdd4824be24699b5a7a0c58c3a98e06f36b62df554174db14dc725dcbec56857"
+  },
+  {
+   "path": "creatures/serpentfolk-warrior.md",
+   "size": 322,
+   "sha256": "d3b34e61c57b907e7f88e8e9b1975f47e66b7e1029c561da88928e1dec4bceb9"
+  },
+  {
+   "path": "creatures/shambler.md",
+   "size": 302,
+   "sha256": "681fb26f7511d2174f8f74f2c145d392d0554cb125629ad89f99aeb850ea6ce1"
+  },
+  {
+   "path": "creatures/slime.md",
+   "size": 303,
+   "sha256": "2e19958b7ff58c5e922ba629b1e34fdbca7dbda9933b6639d03a40a4bbf1040d"
+  },
+  {
+   "path": "creatures/sphinx-2.md",
+   "size": 326,
+   "sha256": "dace234f8b85eb26b46443ae43ef2abb04c2ee307f7b29da52a723581be7e07b"
+  },
+  {
+   "path": "creatures/sphinx.md",
+   "size": 324,
+   "sha256": "d603129fc2940ea13bf1da24e8628d40b936b3e063ebcbb5dd5d39b1189229da"
+  },
+  {
+   "path": "creatures/stirge.md",
+   "size": 296,
+   "sha256": "c423cf13a974ee23e5a3e70e4679668066b8bc1f9cb89e1b6e235959a75e16d4"
+  },
+  {
+   "path": "creatures/tentacle-large.md",
+   "size": 326,
+   "sha256": "4adeb32e5b251b5eb1895db103878e98485e5ae9b807c08fb32b0b63d2985248"
+  },
+  {
+   "path": "creatures/troll.md",
+   "size": 297,
+   "sha256": "ddc234d9125819d172a943d3cef82085531c7f971fc10323bdc2168d9701bdec"
+  },
+  {
+   "path": "creatures/werewolf.md",
+   "size": 294,
+   "sha256": "b187c2ef7ae7b4bae70d9b4c86d94a965b6942956b947d77dd6a2090b27d4ad5"
+  },
+  {
+   "path": "creatures/yeti.md",
+   "size": 287,
+   "sha256": "a3d1804279bd8ebf2e48f1a0bc0593f2df525c5abf7e0d28a09412dc795a84c0"
+  },
+  {
+   "path": "media/creatures/Monstrous/Black Pudding.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Black Pudding.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Black Pudding.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Black Pudding.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Black Pudding.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Black Pudding.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Black Pudding.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Black Pudding.usd",
+   "size": 255069,
+   "sha256": "8c76b39b7d37c43c91e18a6efc606a84ef4a6f5dc7b2d24657d23beecd5f3a42"
+  },
+  {
+   "path": "media/creatures/Monstrous/Burrow Beast.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Burrow Beast.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Burrow Beast.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Burrow Beast.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Burrow Beast.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Burrow Beast.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Burrow Beast.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Burrow Beast.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Monstrous/Burrow Beast.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Burrow Beast.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/creatures/Monstrous/Burrow Beast.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Burrow Beast.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Burrow Beast.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Burrow Beast.usd",
+   "size": 248836,
+   "sha256": "6b2ddece476c2177780ed718b52ae2734f2f529e88f17f2451293c2668dd09bd"
+  },
+  {
+   "path": "media/creatures/Monstrous/Carnivorous Plant.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Carnivorous Plant.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Carnivorous Plant.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Carnivorous Plant.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Carnivorous Plant.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Carnivorous Plant.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Carnivorous Plant.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Carnivorous Plant.cooked/textures/grass.avif",
+   "size": 852,
+   "sha256": "9dcc6896f4054bb5a3911e06d27ea275aa7858e33e9fa46ab96a5c8244755a69"
+  },
+  {
+   "path": "media/creatures/Monstrous/Carnivorous Plant.cooked/textures/grass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Carnivorous Plant.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Monstrous/Carnivorous Plant.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Carnivorous Plant.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Carnivorous Plant.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Carnivorous Plant.usd",
+   "size": 112381,
+   "sha256": "4c2c4678fb1c328fe05b12aabb73e50a63d6e353e2160f28545c0180917006fe"
+  },
+  {
+   "path": "media/creatures/Monstrous/Cave Horror.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Cave Horror.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Cave Horror.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Cave Horror.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Cave Horror.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Cave Horror.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Cave Horror.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Cave Horror.cooked/textures/goblinskin.avif",
+   "size": 1059,
+   "sha256": "b37d901c6639ae7e1b4810e3b3866b77be00190567908529e3139abf7986f7eb"
+  },
+  {
+   "path": "media/creatures/Monstrous/Cave Horror.cooked/textures/goblinskin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Cave Horror.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Cave Horror.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Cave Horror.usd",
+   "size": 128076,
+   "sha256": "347c4f7565e2c4b2ed91772d8fd31dd76a3cf26e3387a872551fcc00b1fabd4f"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__7be32951.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__7be32951.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__7be32951.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__7be32951.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__7be32951.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__7be32951.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__7be32951.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__7be32951.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__7be32951.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__7be32951.cooked/textures/fur.avif",
+   "size": 739,
+   "sha256": "3146ac5f15b08d3849be81e2f6989d9bbf012d69ec7ae43a0faa5287725f28b3"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__7be32951.cooked/textures/fur_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__7be32951.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__7be32951.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__7be32951.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__7be32951.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__7be32951.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__7be32951.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__7be32951.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__7be32951.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__7be32951.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__7be32951.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__7be32951.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__7be32951.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__7be32951.cooked/textures/tanfur.avif",
+   "size": 1162,
+   "sha256": "66ae962664e22529c69fdbd2cbd1c5f05e878c0e8ba56278c5ab1da127630055"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__7be32951.cooked/textures/tanfur_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__7be32951.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__7be32951.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__7be32951.usd",
+   "size": 1248573,
+   "sha256": "42808c0a06d36c0a40f38db9492b7571e8dfa7c02ccbb99aba8a9f6e59cf3b8d"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__884c74a1.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__884c74a1.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__884c74a1.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__884c74a1.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__884c74a1.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__884c74a1.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__884c74a1.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__884c74a1.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__884c74a1.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__884c74a1.cooked/textures/fur.avif",
+   "size": 739,
+   "sha256": "3146ac5f15b08d3849be81e2f6989d9bbf012d69ec7ae43a0faa5287725f28b3"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__884c74a1.cooked/textures/fur_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__884c74a1.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__884c74a1.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__884c74a1.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__884c74a1.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__884c74a1.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__884c74a1.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__884c74a1.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__884c74a1.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__884c74a1.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__884c74a1.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__884c74a1.cooked/textures/tanfur.avif",
+   "size": 1162,
+   "sha256": "66ae962664e22529c69fdbd2cbd1c5f05e878c0e8ba56278c5ab1da127630055"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__884c74a1.cooked/textures/tanfur_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__884c74a1.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__884c74a1.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Monstrous/Centaur__884c74a1.usd",
+   "size": 1152765,
+   "sha256": "01b5353bee8bdbcd8802a74d3df07529f7d079f83b2981fe461e7786e903babd"
+  },
+  {
+   "path": "media/creatures/Monstrous/Chimera.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Chimera.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Chimera.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Chimera.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Chimera.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Chimera.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Chimera.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Chimera.cooked/textures/fur.avif",
+   "size": 739,
+   "sha256": "3146ac5f15b08d3849be81e2f6989d9bbf012d69ec7ae43a0faa5287725f28b3"
+  },
+  {
+   "path": "media/creatures/Monstrous/Chimera.cooked/textures/fur_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Chimera.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Monstrous/Chimera.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Chimera.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Chimera.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Chimera.usd",
+   "size": 1149334,
+   "sha256": "27b8c4cce21a548716a91bede38385fb6c79c03d94ea15754dc942e22f7652f3"
+  },
+  {
+   "path": "media/creatures/Monstrous/Cloaked Nightmare.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Cloaked Nightmare.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Cloaked Nightmare.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Cloaked Nightmare.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Cloaked Nightmare.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Cloaked Nightmare.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Cloaked Nightmare.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Cloaked Nightmare.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Monstrous/Cloaked Nightmare.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Cloaked Nightmare.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Cloaked Nightmare.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Cloaked Nightmare.usd",
+   "size": 304023,
+   "sha256": "e428dcee9bb506429cc9bbea09c2adc4f37f21a77d425bebc77f44effad1deca"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dracolich.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dracolich.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dracolich.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dracolich.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dracolich.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dracolich.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dracolich.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dracolich.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dracolich.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dracolich.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dracolich.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dracolich.usd",
+   "size": 839272,
+   "sha256": "8f64e6708eb6e07c6b331105c4843e078bbae8014e4d1cfc8b86bb9325f8f0f3"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon, Black.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon, Black.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon, Black.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon, Black.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon, Black.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon, Black.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon, Black.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon, Black.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon, Black.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon, Black.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon, Black.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon, Black.usd",
+   "size": 1662631,
+   "sha256": "2c0771634af963032335bd089f42f7224f00246838735ed849f053cac9fe6967"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon, Gold.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon, Gold.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon, Gold.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon, Gold.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon, Gold.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon, Gold.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon, Gold.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon, Gold.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon, Gold.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon, Gold.cooked/textures/sand.avif",
+   "size": 982,
+   "sha256": "9148e8006b5d815c966769982602451c5b2552d9d0a4abd6dd4e50f54e932669"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon, Gold.cooked/textures/sand_normal.avif",
+   "size": 2514,
+   "sha256": "b9c2c6ea308589cebe843635c756835ba78e235618d9a895d4a3f25a2f9c34e1"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon, Gold.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon, Gold.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon, Gold.usd",
+   "size": 1654053,
+   "sha256": "4a42de240efa0069db0d41b5561dffb45425bdfacb8e90e918737d9460534e0e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon__dc39fae5.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon__dc39fae5.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon__dc39fae5.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon__dc39fae5.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon__dc39fae5.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon__dc39fae5.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon__dc39fae5.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon__dc39fae5.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon__dc39fae5.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon__dc39fae5.cooked/textures/sand.avif",
+   "size": 982,
+   "sha256": "9148e8006b5d815c966769982602451c5b2552d9d0a4abd6dd4e50f54e932669"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon__dc39fae5.cooked/textures/sand_normal.avif",
+   "size": 2514,
+   "sha256": "b9c2c6ea308589cebe843635c756835ba78e235618d9a895d4a3f25a2f9c34e1"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon__dc39fae5.cooked/textures/scales.avif",
+   "size": 769,
+   "sha256": "cf477006658c77fd88e7c78284ec60d922b12b48d5320ca48b3886d2c48164d8"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon__dc39fae5.cooked/textures/scales_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon__dc39fae5.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon__dc39fae5.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon__dc39fae5.usd",
+   "size": 1655017,
+   "sha256": "997fe0208a6e3715349ed493298ab304c2735c672029e97e39360edbb0546a3f"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon__e3c8c0d3.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon__e3c8c0d3.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon__e3c8c0d3.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon__e3c8c0d3.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon__e3c8c0d3.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon__e3c8c0d3.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon__e3c8c0d3.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon__e3c8c0d3.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon__e3c8c0d3.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon__e3c8c0d3.cooked/textures/sand.avif",
+   "size": 982,
+   "sha256": "9148e8006b5d815c966769982602451c5b2552d9d0a4abd6dd4e50f54e932669"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon__e3c8c0d3.cooked/textures/sand_normal.avif",
+   "size": 2514,
+   "sha256": "b9c2c6ea308589cebe843635c756835ba78e235618d9a895d4a3f25a2f9c34e1"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon__e3c8c0d3.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon__e3c8c0d3.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Dragon__e3c8c0d3.usd",
+   "size": 1665814,
+   "sha256": "3922b2754b597a423cd563228224838c27af0c792e5677bf24d107ff89788061"
+  },
+  {
+   "path": "media/creatures/Monstrous/Drider.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Drider.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Drider.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Drider.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Drider.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Drider.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Drider.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Drider.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Monstrous/Drider.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Drider.cooked/textures/jade.avif",
+   "size": 756,
+   "sha256": "9f63b3de989e52a14a4e018da19a51f73e2de06c5d27ac931b87798041dfdfbe"
+  },
+  {
+   "path": "media/creatures/Monstrous/Drider.cooked/textures/jade_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Drider.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Monstrous/Drider.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Drider.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Monstrous/Drider.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Drider.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Monstrous/Drider.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Drider.cooked/textures/steel.avif",
+   "size": 1223,
+   "sha256": "374c2de95d69e288918f2135e4b64000c2cf070bfd1e877a7a75a7518a43c5bb"
+  },
+  {
+   "path": "media/creatures/Monstrous/Drider.cooked/textures/steel_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Drider.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Drider.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Drider.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Monstrous/Drider.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Monstrous/Drider.usd",
+   "size": 1087663,
+   "sha256": "6cc6e4273c1cddd856ce1ea4152a0141c25c65c4144af26e1dbd50cc7ee11f0c"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gargoyle.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gargoyle.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gargoyle.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gargoyle.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gargoyle.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gargoyle.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gargoyle.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gargoyle.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gargoyle.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gargoyle.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gargoyle.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gargoyle.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gargoyle.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gargoyle.usd",
+   "size": 692606,
+   "sha256": "18fcd271c691e0f2bb21ac2bc959703a4cf91851544bd0bfca55ea242b527766"
+  },
+  {
+   "path": "media/creatures/Monstrous/Giant Worm.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Giant Worm.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Giant Worm.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Giant Worm.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Giant Worm.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Giant Worm.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Giant Worm.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Giant Worm.cooked/textures/rose.avif",
+   "size": 1521,
+   "sha256": "3513b07e10a3938b003946d30e0cf91569351360cacf4ef15cfc70a607290ec6"
+  },
+  {
+   "path": "media/creatures/Monstrous/Giant Worm.cooked/textures/rose_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Giant Worm.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Giant Worm.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Giant Worm.usd",
+   "size": 142068,
+   "sha256": "4a4af872d94ad7266f90c64be92735abb84fce0d6cf25cb556e96186ca77b372"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gorgon.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gorgon.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gorgon.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gorgon.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gorgon.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gorgon.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gorgon.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gorgon.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gorgon.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gorgon.cooked/textures/jade.avif",
+   "size": 756,
+   "sha256": "9f63b3de989e52a14a4e018da19a51f73e2de06c5d27ac931b87798041dfdfbe"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gorgon.cooked/textures/jade_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gorgon.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gorgon.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gorgon.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gorgon.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gorgon.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gorgon.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gorgon.cooked/textures/scales.avif",
+   "size": 769,
+   "sha256": "cf477006658c77fd88e7c78284ec60d922b12b48d5320ca48b3886d2c48164d8"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gorgon.cooked/textures/scales_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gorgon.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gorgon.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gorgon.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gorgon.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gorgon.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gorgon.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Monstrous/Gorgon.usd",
+   "size": 1138845,
+   "sha256": "5b10eb2e940b63fe2382e32d0fe02872954fea04e06298e2a73737d06ffced4d"
+  },
+  {
+   "path": "media/creatures/Monstrous/Grick.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Grick.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Grick.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Grick.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Grick.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Grick.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Grick.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Grick.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Monstrous/Grick.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Grick.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Grick.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Grick.usd",
+   "size": 153755,
+   "sha256": "1d283eb7d696bca1666cd088d5dac5301552e663dd13253a7e7d9ab1df0b359f"
+  },
+  {
+   "path": "media/creatures/Monstrous/Griffon.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Griffon.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Griffon.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Griffon.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Griffon.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Griffon.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Griffon.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Griffon.cooked/textures/fur.avif",
+   "size": 739,
+   "sha256": "3146ac5f15b08d3849be81e2f6989d9bbf012d69ec7ae43a0faa5287725f28b3"
+  },
+  {
+   "path": "media/creatures/Monstrous/Griffon.cooked/textures/fur_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Griffon.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Griffon.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Griffon.cooked/textures/tanfur.avif",
+   "size": 1162,
+   "sha256": "66ae962664e22529c69fdbd2cbd1c5f05e878c0e8ba56278c5ab1da127630055"
+  },
+  {
+   "path": "media/creatures/Monstrous/Griffon.cooked/textures/tanfur_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Griffon.usd",
+   "size": 1629002,
+   "sha256": "795b23dfd78d289e1db4c8211938022883a23769d50644f995ee843ba6faf36e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Harpy.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Harpy.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Harpy.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Harpy.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Harpy.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Harpy.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Harpy.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Harpy.cooked/textures/jade.avif",
+   "size": 756,
+   "sha256": "9f63b3de989e52a14a4e018da19a51f73e2de06c5d27ac931b87798041dfdfbe"
+  },
+  {
+   "path": "media/creatures/Monstrous/Harpy.cooked/textures/jade_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Harpy.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Monstrous/Harpy.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Harpy.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Monstrous/Harpy.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Harpy.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/creatures/Monstrous/Harpy.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Harpy.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Monstrous/Harpy.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Harpy.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Harpy.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Harpy.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Monstrous/Harpy.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Monstrous/Harpy.usd",
+   "size": 1964074,
+   "sha256": "c371cd799a708350f351b15ce310d8809b003e333a3d0e4449cb8983524273e4"
+  },
+  {
+   "path": "media/creatures/Monstrous/Hydra.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Hydra.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Hydra.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Hydra.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Hydra.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Hydra.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Hydra.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Hydra.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Monstrous/Hydra.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Hydra.cooked/textures/sand.avif",
+   "size": 982,
+   "sha256": "9148e8006b5d815c966769982602451c5b2552d9d0a4abd6dd4e50f54e932669"
+  },
+  {
+   "path": "media/creatures/Monstrous/Hydra.cooked/textures/sand_normal.avif",
+   "size": 2514,
+   "sha256": "b9c2c6ea308589cebe843635c756835ba78e235618d9a895d4a3f25a2f9c34e1"
+  },
+  {
+   "path": "media/creatures/Monstrous/Hydra.cooked/textures/scales.avif",
+   "size": 769,
+   "sha256": "cf477006658c77fd88e7c78284ec60d922b12b48d5320ca48b3886d2c48164d8"
+  },
+  {
+   "path": "media/creatures/Monstrous/Hydra.cooked/textures/scales_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Hydra.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Hydra.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Hydra.usd",
+   "size": 2586007,
+   "sha256": "6ed247adcea3402cd3714b72d7441726bea47b4937d62b659ae2086e06df0793"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__36d67639.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__36d67639.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__36d67639.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__36d67639.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__36d67639.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__36d67639.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__36d67639.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__36d67639.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__36d67639.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__36d67639.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__36d67639.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__36d67639.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__36d67639.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__36d67639.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__36d67639.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__36d67639.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__36d67639.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__36d67639.cooked/textures/rose.avif",
+   "size": 1521,
+   "sha256": "3513b07e10a3938b003946d30e0cf91569351360cacf4ef15cfc70a607290ec6"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__36d67639.cooked/textures/rose_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__36d67639.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__36d67639.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__36d67639.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__36d67639.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__36d67639.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__36d67639.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__36d67639.usd",
+   "size": 1154558,
+   "sha256": "2b739eccfdbfc9bf629845a8f30464b279df15089e1ff62c8583fdfe8f2bf4db"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__75df188c.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__75df188c.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__75df188c.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__75df188c.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__75df188c.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__75df188c.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__75df188c.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__75df188c.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__75df188c.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__75df188c.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__75df188c.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__75df188c.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__75df188c.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__75df188c.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__75df188c.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__75df188c.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__75df188c.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__75df188c.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__75df188c.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__75df188c.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__75df188c.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__75df188c.usd",
+   "size": 1150356,
+   "sha256": "db377ea055a54223f413ceaae58ac2641c4d356eb72a98f3ff1ea039afe7e849"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__a775d8b0.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__a775d8b0.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__a775d8b0.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__a775d8b0.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__a775d8b0.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__a775d8b0.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__a775d8b0.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__a775d8b0.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__a775d8b0.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__a775d8b0.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__a775d8b0.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__a775d8b0.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__a775d8b0.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__a775d8b0.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__a775d8b0.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__a775d8b0.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__a775d8b0.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__a775d8b0.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__a775d8b0.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__a775d8b0.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__a775d8b0.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__a775d8b0.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__a775d8b0.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Monstrous/Insectoid__a775d8b0.usd",
+   "size": 1154793,
+   "sha256": "83cb22d17eb040a323051ed2f0d944d13b60aa72e6d34791daf66a422b157e41"
+  },
+  {
+   "path": "media/creatures/Monstrous/Manticore.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Manticore.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Manticore.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Manticore.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Manticore.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Manticore.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Manticore.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Manticore.cooked/textures/fur.avif",
+   "size": 739,
+   "sha256": "3146ac5f15b08d3849be81e2f6989d9bbf012d69ec7ae43a0faa5287725f28b3"
+  },
+  {
+   "path": "media/creatures/Monstrous/Manticore.cooked/textures/fur_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Manticore.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Monstrous/Manticore.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Manticore.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Monstrous/Manticore.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Manticore.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Manticore.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Manticore.cooked/textures/tanfur.avif",
+   "size": 1162,
+   "sha256": "66ae962664e22529c69fdbd2cbd1c5f05e878c0e8ba56278c5ab1da127630055"
+  },
+  {
+   "path": "media/creatures/Monstrous/Manticore.cooked/textures/tanfur_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Manticore.usd",
+   "size": 923325,
+   "sha256": "a809e1fe0d24a9989e0e6f50281d09739ab683cb22df50b36d2313173c1f1fdf"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__2ca6fd1c.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__2ca6fd1c.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__2ca6fd1c.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__2ca6fd1c.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__2ca6fd1c.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__2ca6fd1c.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__2ca6fd1c.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__2ca6fd1c.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__2ca6fd1c.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__2ca6fd1c.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__2ca6fd1c.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__2ca6fd1c.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__2ca6fd1c.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__2ca6fd1c.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__2ca6fd1c.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__2ca6fd1c.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__2ca6fd1c.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__2ca6fd1c.cooked/textures/scales.avif",
+   "size": 769,
+   "sha256": "cf477006658c77fd88e7c78284ec60d922b12b48d5320ca48b3886d2c48164d8"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__2ca6fd1c.cooked/textures/scales_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__2ca6fd1c.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__2ca6fd1c.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__2ca6fd1c.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__2ca6fd1c.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__2ca6fd1c.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__2ca6fd1c.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__2ca6fd1c.usd",
+   "size": 952908,
+   "sha256": "7d72a5b55f6a6dc178081c484b97c783fe580395d0f09a0c7e1dfaede1bfa4ec"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__5c4cc17d.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__5c4cc17d.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__5c4cc17d.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__5c4cc17d.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__5c4cc17d.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__5c4cc17d.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__5c4cc17d.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__5c4cc17d.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__5c4cc17d.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__5c4cc17d.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__5c4cc17d.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__5c4cc17d.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__5c4cc17d.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__5c4cc17d.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__5c4cc17d.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__5c4cc17d.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__5c4cc17d.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__5c4cc17d.cooked/textures/scales.avif",
+   "size": 769,
+   "sha256": "cf477006658c77fd88e7c78284ec60d922b12b48d5320ca48b3886d2c48164d8"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__5c4cc17d.cooked/textures/scales_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__5c4cc17d.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__5c4cc17d.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__5c4cc17d.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__5c4cc17d.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__5c4cc17d.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__5c4cc17d.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Monstrous/Merfolk__5c4cc17d.usd",
+   "size": 946427,
+   "sha256": "040c832c2004194c832dccf859270b3d56ef6baf64638542c089814aa5fcdc80"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__1901d976.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__1901d976.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__1901d976.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__1901d976.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__1901d976.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__1901d976.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__1901d976.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__1901d976.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__1901d976.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__1901d976.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__1901d976.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__1901d976.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__1901d976.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__1901d976.cooked/textures/rose.avif",
+   "size": 1521,
+   "sha256": "3513b07e10a3938b003946d30e0cf91569351360cacf4ef15cfc70a607290ec6"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__1901d976.cooked/textures/rose_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__1901d976.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__1901d976.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__1901d976.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__1901d976.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__1901d976.usd",
+   "size": 205713,
+   "sha256": "2d1c86d6499ddf6e5721467df374172c85f7c5626d0099c4257783af661d399f"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__2e039487.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__2e039487.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__2e039487.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__2e039487.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__2e039487.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__2e039487.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__2e039487.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__2e039487.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__2e039487.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__2e039487.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__2e039487.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__2e039487.cooked/textures/rose.avif",
+   "size": 1521,
+   "sha256": "3513b07e10a3938b003946d30e0cf91569351360cacf4ef15cfc70a607290ec6"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__2e039487.cooked/textures/rose_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__2e039487.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__2e039487.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__2e039487.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__2e039487.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__2e039487.usd",
+   "size": 190523,
+   "sha256": "ae0963320d4188af2854084c64d5b0aebaeb6a44d56e40d868c54190f01c82cf"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__a332a9be.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__a332a9be.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__a332a9be.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__a332a9be.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__a332a9be.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__a332a9be.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__a332a9be.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__a332a9be.cooked/textures/grass.avif",
+   "size": 852,
+   "sha256": "9dcc6896f4054bb5a3911e06d27ea275aa7858e33e9fa46ab96a5c8244755a69"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__a332a9be.cooked/textures/grass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__a332a9be.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__a332a9be.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__a332a9be.cooked/textures/rose.avif",
+   "size": 1521,
+   "sha256": "3513b07e10a3938b003946d30e0cf91569351360cacf4ef15cfc70a607290ec6"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__a332a9be.cooked/textures/rose_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__a332a9be.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__a332a9be.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__a332a9be.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__a332a9be.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Monstrous/Mimic__a332a9be.usd",
+   "size": 111430,
+   "sha256": "2b7b20b40a8be8fc65fa54f97bb3f0fedd119a1e3b8921e6dfede54c7c7a4e96"
+  },
+  {
+   "path": "media/creatures/Monstrous/Reverse Centaur.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Reverse Centaur.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Reverse Centaur.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Reverse Centaur.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/creatures/Monstrous/Reverse Centaur.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Reverse Centaur.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Reverse Centaur.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Reverse Centaur.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Reverse Centaur.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Reverse Centaur.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Monstrous/Reverse Centaur.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Reverse Centaur.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Monstrous/Reverse Centaur.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Reverse Centaur.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/creatures/Monstrous/Reverse Centaur.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Reverse Centaur.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Monstrous/Reverse Centaur.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Reverse Centaur.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Reverse Centaur.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Reverse Centaur.cooked/textures/tanfur.avif",
+   "size": 1162,
+   "sha256": "66ae962664e22529c69fdbd2cbd1c5f05e878c0e8ba56278c5ab1da127630055"
+  },
+  {
+   "path": "media/creatures/Monstrous/Reverse Centaur.cooked/textures/tanfur_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Reverse Centaur.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Monstrous/Reverse Centaur.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Monstrous/Reverse Centaur.usd",
+   "size": 895406,
+   "sha256": "c2f46ce39ac94dd5526bb607b39f87b19ce0f9b04bfb5ae2692b99cddd0f0dc6"
+  },
+  {
+   "path": "media/creatures/Monstrous/Rust Eater.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Rust Eater.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Rust Eater.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Rust Eater.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Rust Eater.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Rust Eater.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Rust Eater.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Rust Eater.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Monstrous/Rust Eater.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Rust Eater.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Rust Eater.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Rust Eater.usd",
+   "size": 341114,
+   "sha256": "7517098f67904b5bb6447c6c98845165535703cedaa7b8add49c0da2dbc1f3df"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sea Monster.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sea Monster.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sea Monster.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sea Monster.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sea Monster.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sea Monster.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sea Monster.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sea Monster.cooked/textures/scales.avif",
+   "size": 769,
+   "sha256": "cf477006658c77fd88e7c78284ec60d922b12b48d5320ca48b3886d2c48164d8"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sea Monster.cooked/textures/scales_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sea Monster.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sea Monster.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sea Monster.usd",
+   "size": 141550,
+   "sha256": "37693a5433bfb5ff2d72c7662a81d22becc84546d761b4ccd4058fd227f72de1"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Archer.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Archer.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Archer.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Archer.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Archer.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Archer.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Archer.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Archer.cooked/textures/jade.avif",
+   "size": 756,
+   "sha256": "9f63b3de989e52a14a4e018da19a51f73e2de06c5d27ac931b87798041dfdfbe"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Archer.cooked/textures/jade_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Archer.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Archer.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Archer.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Archer.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Archer.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Archer.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Archer.cooked/textures/scales.avif",
+   "size": 769,
+   "sha256": "cf477006658c77fd88e7c78284ec60d922b12b48d5320ca48b3886d2c48164d8"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Archer.cooked/textures/scales_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Archer.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Archer.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Archer.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Archer.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Archer.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Archer.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Archer.usd",
+   "size": 877385,
+   "sha256": "20429339057eda86ae1158524681747cbaedc2369266adb62f0e9be454324e70"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Caster.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Caster.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Caster.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Caster.cooked/textures/bluefire.avif",
+   "size": 1059,
+   "sha256": "66b8eda93e3f51b13722bd4f87107c9b0f61ca9161d964f27a7f96751431a328"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Caster.cooked/textures/bluefire_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Caster.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Caster.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Caster.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Caster.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Caster.cooked/textures/jade.avif",
+   "size": 756,
+   "sha256": "9f63b3de989e52a14a4e018da19a51f73e2de06c5d27ac931b87798041dfdfbe"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Caster.cooked/textures/jade_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Caster.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Caster.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Caster.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Caster.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Caster.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Caster.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Caster.cooked/textures/scales.avif",
+   "size": 769,
+   "sha256": "cf477006658c77fd88e7c78284ec60d922b12b48d5320ca48b3886d2c48164d8"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Caster.cooked/textures/scales_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Caster.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Caster.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Caster.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Caster.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Caster.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Caster.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Caster.usd",
+   "size": 910976,
+   "sha256": "ed59361264cc6f1863cbc10a1ae39f0699ee87cdf93c1f7dcac9d112126d092d"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Warrior.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Warrior.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Warrior.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Warrior.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Warrior.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Warrior.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Warrior.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Warrior.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Warrior.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Warrior.cooked/textures/jade.avif",
+   "size": 756,
+   "sha256": "9f63b3de989e52a14a4e018da19a51f73e2de06c5d27ac931b87798041dfdfbe"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Warrior.cooked/textures/jade_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Warrior.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Warrior.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Warrior.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Warrior.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Warrior.cooked/textures/rope.avif",
+   "size": 1054,
+   "sha256": "29306e111609839b95c51a615e22762e0b0dceb9746f067df5a9db85cab6ea73"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Warrior.cooked/textures/rope_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Warrior.cooked/textures/scales.avif",
+   "size": 769,
+   "sha256": "cf477006658c77fd88e7c78284ec60d922b12b48d5320ca48b3886d2c48164d8"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Warrior.cooked/textures/scales_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Warrior.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Warrior.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Warrior.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Warrior.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Warrior.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Warrior.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Monstrous/Serpentfolk Warrior.usd",
+   "size": 988264,
+   "sha256": "28e847dfb7eb4f56fb65b21f4a27ef58995609072034493ee8adb12520788bc1"
+  },
+  {
+   "path": "media/creatures/Monstrous/Shambler.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Shambler.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Shambler.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Shambler.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Shambler.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Shambler.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Shambler.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Shambler.cooked/textures/grass.avif",
+   "size": 852,
+   "sha256": "9dcc6896f4054bb5a3911e06d27ea275aa7858e33e9fa46ab96a5c8244755a69"
+  },
+  {
+   "path": "media/creatures/Monstrous/Shambler.cooked/textures/grass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Shambler.cooked/textures/jade.avif",
+   "size": 756,
+   "sha256": "9f63b3de989e52a14a4e018da19a51f73e2de06c5d27ac931b87798041dfdfbe"
+  },
+  {
+   "path": "media/creatures/Monstrous/Shambler.cooked/textures/jade_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Shambler.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Shambler.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Shambler.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Monstrous/Shambler.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Monstrous/Shambler.usd",
+   "size": 1285890,
+   "sha256": "90db1953afd7c4295889181a3cf3294113b689772d65432f38244ceb58a3dab9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Slime.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Slime.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Slime.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Slime.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Slime.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Slime.cooked/textures/jade.avif",
+   "size": 756,
+   "sha256": "9f63b3de989e52a14a4e018da19a51f73e2de06c5d27ac931b87798041dfdfbe"
+  },
+  {
+   "path": "media/creatures/Monstrous/Slime.cooked/textures/jade_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Slime.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Slime.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Slime.usd",
+   "size": 256485,
+   "sha256": "00513a004cf061a39a24544c117bacd8171c033d219d95fac0fc5cb588b20477"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sphinx__a91b0cce.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sphinx__a91b0cce.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sphinx__a91b0cce.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sphinx__a91b0cce.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sphinx__a91b0cce.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sphinx__a91b0cce.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sphinx__a91b0cce.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sphinx__a91b0cce.cooked/textures/fur.avif",
+   "size": 739,
+   "sha256": "3146ac5f15b08d3849be81e2f6989d9bbf012d69ec7ae43a0faa5287725f28b3"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sphinx__a91b0cce.cooked/textures/fur_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sphinx__a91b0cce.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sphinx__a91b0cce.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sphinx__a91b0cce.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sphinx__a91b0cce.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sphinx__a91b0cce.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sphinx__a91b0cce.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sphinx__a91b0cce.cooked/textures/tanfur.avif",
+   "size": 1162,
+   "sha256": "66ae962664e22529c69fdbd2cbd1c5f05e878c0e8ba56278c5ab1da127630055"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sphinx__a91b0cce.cooked/textures/tanfur_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sphinx__a91b0cce.usd",
+   "size": 1837271,
+   "sha256": "2c23d83132a79eb27851ebc5b448e2bb3ccc449c28a061a4b767cadf298944e5"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sphinx__e2f37589.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sphinx__e2f37589.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sphinx__e2f37589.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sphinx__e2f37589.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sphinx__e2f37589.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sphinx__e2f37589.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sphinx__e2f37589.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sphinx__e2f37589.cooked/textures/fur.avif",
+   "size": 739,
+   "sha256": "3146ac5f15b08d3849be81e2f6989d9bbf012d69ec7ae43a0faa5287725f28b3"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sphinx__e2f37589.cooked/textures/fur_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sphinx__e2f37589.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sphinx__e2f37589.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sphinx__e2f37589.cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sphinx__e2f37589.cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sphinx__e2f37589.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sphinx__e2f37589.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sphinx__e2f37589.cooked/textures/tanfur.avif",
+   "size": 1162,
+   "sha256": "66ae962664e22529c69fdbd2cbd1c5f05e878c0e8ba56278c5ab1da127630055"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sphinx__e2f37589.cooked/textures/tanfur_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Sphinx__e2f37589.usd",
+   "size": 1838706,
+   "sha256": "74356d0981c6ac4e60b6bdd87bfc8c74fd9a6f76c6e0cfdbfb1b47cc80c99e6b"
+  },
+  {
+   "path": "media/creatures/Monstrous/Stirge.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Stirge.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Stirge.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Stirge.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Stirge.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Stirge.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Stirge.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Stirge.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Monstrous/Stirge.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Stirge.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Monstrous/Stirge.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Stirge.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Stirge.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Stirge.usd",
+   "size": 259149,
+   "sha256": "33881ad65abdac61b2437c8193036b0fa912e870e54c69d87fe28cc4b94f8f68"
+  },
+  {
+   "path": "media/creatures/Monstrous/Tentacle, Large.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Tentacle, Large.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Tentacle, Large.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Tentacle, Large.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Tentacle, Large.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Tentacle, Large.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Tentacle, Large.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Tentacle, Large.cooked/textures/scales.avif",
+   "size": 769,
+   "sha256": "cf477006658c77fd88e7c78284ec60d922b12b48d5320ca48b3886d2c48164d8"
+  },
+  {
+   "path": "media/creatures/Monstrous/Tentacle, Large.cooked/textures/scales_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Tentacle, Large.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Tentacle, Large.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Tentacle, Large.usd",
+   "size": 645239,
+   "sha256": "2839e3c2fe0cf5ad6b4153be982b0e6b3c61f10bfb7d087a62e6f46fcb74ae7e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Troll.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Troll.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Troll.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Troll.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Troll.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Troll.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Troll.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Troll.cooked/textures/goblinskin.avif",
+   "size": 1059,
+   "sha256": "b37d901c6639ae7e1b4810e3b3866b77be00190567908529e3139abf7986f7eb"
+  },
+  {
+   "path": "media/creatures/Monstrous/Troll.cooked/textures/goblinskin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Troll.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Monstrous/Troll.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Troll.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Troll.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Troll.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Monstrous/Troll.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Monstrous/Troll.usd",
+   "size": 782376,
+   "sha256": "434dc52a80254b60ade0510e83508b97bcd302c1c1462cfa8a52ba2c6f22c71d"
+  },
+  {
+   "path": "media/creatures/Monstrous/Werewolf.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Werewolf.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Werewolf.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Werewolf.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Werewolf.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Werewolf.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Werewolf.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Werewolf.cooked/textures/fur.avif",
+   "size": 739,
+   "sha256": "3146ac5f15b08d3849be81e2f6989d9bbf012d69ec7ae43a0faa5287725f28b3"
+  },
+  {
+   "path": "media/creatures/Monstrous/Werewolf.cooked/textures/fur_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Werewolf.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Monstrous/Werewolf.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Werewolf.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Monstrous/Werewolf.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Werewolf.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Werewolf.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Werewolf.usd",
+   "size": 770996,
+   "sha256": "09e7075a339296f6d510a9bf6b611b9b28a17d54065b376a0c68220ccaff4ed5"
+  },
+  {
+   "path": "media/creatures/Monstrous/Yeti.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Monstrous/Yeti.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Monstrous/Yeti.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Yeti.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Monstrous/Yeti.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Yeti.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Monstrous/Yeti.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Yeti.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Monstrous/Yeti.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Yeti.cooked/textures/snow.avif",
+   "size": 1076,
+   "sha256": "444a85bf33f77f242b361fe2ee1ac0816b368b57f2bb4a4d6cc570c58d9108eb"
+  },
+  {
+   "path": "media/creatures/Monstrous/Yeti.cooked/textures/snow_normal.avif",
+   "size": 2514,
+   "sha256": "b9c2c6ea308589cebe843635c756835ba78e235618d9a895d4a3f25a2f9c34e1"
+  },
+  {
+   "path": "media/creatures/Monstrous/Yeti.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Monstrous/Yeti.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Monstrous/Yeti.usd",
+   "size": 886633,
+   "sha256": "7721362ce3df71f46b663c9c2bc8d5ebc9a5a94bdb317e6c94c8eba090bcf7e3"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Black Pudding",
+   "kind": "creature",
+   "thumb": "thumbs/e0451b02-361c-4875-b8a8-b041df49d97e.jpg",
+   "tags": [
+    "monstrous",
+    "black",
+    "pudding",
+    "slime",
+    "monster",
+    "mud",
+    "ooze"
+   ]
+  },
+  {
+   "name": "Burrow Beast",
+   "kind": "creature",
+   "thumb": "thumbs/9be7e43f-f2ba-4307-85e8-632613c9ab21.jpg",
+   "tags": [
+    "monstrous",
+    "burrow",
+    "beast",
+    "burrowbeast",
+    "rock",
+    "stone",
+    "quadruped",
+    "monster"
+   ]
+  },
+  {
+   "name": "Carnivorous Plant",
+   "kind": "creature",
+   "thumb": "thumbs/d799e66c-3897-4eda-b58c-080eca395c64.jpg",
+   "tags": [
+    "monstrous",
+    "plant",
+    "jungle",
+    "nature",
+    "monster",
+    "chaotic",
+    "evil",
+    "monstrosity"
+   ]
+  },
+  {
+   "name": "Cave Horror",
+   "kind": "creature",
+   "thumb": "thumbs/ce5c71fc-6643-47f0-9dee-f796ed9c1ce8.jpg",
+   "tags": [
+    "monstrous",
+    "large",
+    "cave",
+    "cavern",
+    "horror",
+    "tentacle",
+    "monster",
+    "monstrosity"
+   ]
+  },
+  {
+   "name": "Centaur 2",
+   "kind": "creature",
+   "thumb": "thumbs/884c74a1-ad27-4731-b4bf-032c5d2ae883.jpg",
+   "tags": [
+    "monstrous",
+    "centaur",
+    "horse",
+    "human",
+    "warrior",
+    "bow",
+    "archer"
+   ]
+  },
+  {
+   "name": "Centaur",
+   "kind": "creature",
+   "thumb": "thumbs/7be32951-0a2a-44ce-8166-c2c00ec4387f.jpg",
+   "tags": [
+    "monstrous",
+    "centaur",
+    "horse",
+    "human",
+    "warrior",
+    "axe",
+    "shield"
+   ]
+  },
+  {
+   "name": "Chimera",
+   "kind": "creature",
+   "thumb": "thumbs/87b717f0-395b-4de8-9bf0-101a46536d33.jpg",
+   "tags": [
+    "monstrous",
+    "chimera",
+    "goat",
+    "lion",
+    "dragon",
+    "animal",
+    "beast",
+    "monstrosity"
+   ]
+  },
+  {
+   "name": "Cloaked Nightmare",
+   "kind": "creature",
+   "thumb": "thumbs/9a5c4a06-e2c8-45d0-84d7-bac74b2ed6a5.jpg",
+   "tags": [
+    "monstrous",
+    "cloaked",
+    "nightmare",
+    "cloaker",
+    "black",
+    "flying",
+    "wings",
+    "teeth"
+   ]
+  },
+  {
+   "name": "Dracolich",
+   "kind": "creature",
+   "thumb": "thumbs/77f29b74-4eb2-46cf-9cb2-5f6b74d482ad.jpg",
+   "tags": [
+    "monstrous",
+    "dragon",
+    "flying",
+    "horns",
+    "tail",
+    "wings",
+    "huge",
+    "quadruped"
+   ]
+  },
+  {
+   "name": "Dragon 2",
+   "kind": "creature",
+   "thumb": "thumbs/e3c8c0d3-c1bd-4dcf-a892-b88881712950.jpg",
+   "tags": [
+    "monstrous",
+    "dragon",
+    "animal",
+    "flying",
+    "red",
+    "horns",
+    "tail",
+    "scales"
+   ]
+  },
+  {
+   "name": "Dragon, Black",
+   "kind": "creature",
+   "thumb": "thumbs/4d0a542a-62a3-4c6a-8795-115c4fdfddbe.jpg",
+   "tags": [
+    "monstrous",
+    "black",
+    "dragon",
+    "swamp",
+    "wings",
+    "scale",
+    "scales",
+    "acid"
+   ]
+  },
+  {
+   "name": "Dragon, Gold",
+   "kind": "creature",
+   "thumb": "thumbs/48bd3eaa-dd0c-4a67-bb5e-0c22b32cac5c.jpg",
+   "tags": [
+    "monstrous",
+    "gold",
+    "dragon",
+    "wyrm",
+    "monster"
+   ]
+  },
+  {
+   "name": "Dragon",
+   "kind": "creature",
+   "thumb": "thumbs/dc39fae5-7747-47d8-85e9-bb8abab8c2f4.jpg",
+   "tags": [
+    "monstrous",
+    "dragon",
+    "tail",
+    "wings",
+    "tooth",
+    "spine",
+    "wyvern",
+    "scale"
+   ]
+  },
+  {
+   "name": "Drider",
+   "kind": "creature",
+   "thumb": "thumbs/5232cd1a-396f-44cd-8f12-5f0ada3f7aa3.jpg",
+   "tags": [
+    "monstrous",
+    "spider",
+    "drow",
+    "drider",
+    "brown",
+    "dark",
+    "underdark",
+    "spear"
+   ]
+  },
+  {
+   "name": "Gargoyle",
+   "kind": "creature",
+   "thumb": "thumbs/8fe1fe94-0614-421c-b0f5-53ff4ea606ce.jpg",
+   "tags": [
+    "monstrous",
+    "medium",
+    "gargoyle",
+    "flying",
+    "stone",
+    "horns",
+    "statue",
+    "tail"
+   ]
+  },
+  {
+   "name": "Giant Worm",
+   "kind": "creature",
+   "thumb": "thumbs/ca67e7bb-1d98-4ee2-949a-6451ab137e96.jpg",
+   "tags": [
+    "monstrous",
+    "worm",
+    "purple",
+    "giant",
+    "large",
+    "huge",
+    "monster"
+   ]
+  },
+  {
+   "name": "Gorgon",
+   "kind": "creature",
+   "thumb": "thumbs/aeda4891-1dfe-49db-8435-7c256dd909f6.jpg",
+   "tags": [
+    "monstrous",
+    "gorgon",
+    "medusa",
+    "tail",
+    "green",
+    "scale",
+    "scales"
+   ]
+  },
+  {
+   "name": "Grick",
+   "kind": "creature",
+   "thumb": "thumbs/12a3f482-6a86-4552-8660-dcce246bcf61.jpg",
+   "tags": [
+    "monstrous",
+    "grick",
+    "tentacle",
+    "beak",
+    "snake",
+    "monster",
+    "monstrosity"
+   ]
+  },
+  {
+   "name": "Griffon",
+   "kind": "creature",
+   "thumb": "thumbs/c85a3738-ea36-4637-be13-67f5fc31a863.jpg",
+   "tags": [
+    "monstrous",
+    "griffon",
+    "gryphon",
+    "hippogriff",
+    "bird",
+    "eagle",
+    "lion",
+    "beast"
+   ]
+  },
+  {
+   "name": "Harpy",
+   "kind": "creature",
+   "thumb": "thumbs/f98c186f-696d-4334-9dff-25ec03676cb8.jpg",
+   "tags": [
+    "monstrous",
+    "harpy",
+    "flying",
+    "wings",
+    "bird",
+    "brown",
+    "purple",
+    "green"
+   ]
+  },
+  {
+   "name": "Hydra",
+   "kind": "creature",
+   "thumb": "thumbs/174b783b-c07d-4996-bf6f-52aafa2d7d73.jpg",
+   "tags": [
+    "monstrous",
+    "dragon",
+    "hydra",
+    "serpent",
+    "green",
+    "scales",
+    "scale",
+    "large"
+   ]
+  },
+  {
+   "name": "Insectoid 2",
+   "kind": "creature",
+   "thumb": "thumbs/75df188c-67ad-4f9c-813c-766a48ca8a15.jpg",
+   "tags": [
+    "monstrous",
+    "insectoid",
+    "insect",
+    "humanoid",
+    "red",
+    "warrior",
+    "bug"
+   ]
+  },
+  {
+   "name": "Insectoid 3",
+   "kind": "creature",
+   "thumb": "thumbs/a775d8b0-432c-41f1-82fd-e79df6bd7525.jpg",
+   "tags": [
+    "monstrous",
+    "insectoid",
+    "insect",
+    "humanoid",
+    "yellow",
+    "warrior",
+    "bug"
+   ]
+  },
+  {
+   "name": "Insectoid",
+   "kind": "creature",
+   "thumb": "thumbs/36d67639-10b5-44a0-8f4d-34aa1ff810d4.jpg",
+   "tags": [
+    "monstrous",
+    "insectoid",
+    "insect",
+    "humanoid",
+    "purple",
+    "warrior",
+    "bug"
+   ]
+  },
+  {
+   "name": "Manticore",
+   "kind": "creature",
+   "thumb": "thumbs/3a6bfe25-fcb0-4682-81a5-047fc122b1f9.jpg",
+   "tags": [
+    "monstrous",
+    "large",
+    "flying",
+    "monster",
+    "chaotic",
+    "evil",
+    "thick",
+    "strong"
+   ]
+  },
+  {
+   "name": "Merfolk 2",
+   "kind": "creature",
+   "thumb": "thumbs/5c4cc17d-a847-4bfc-81ff-0d0ba87e81d9.jpg",
+   "tags": [
+    "monstrous",
+    "merfolk",
+    "mermaid",
+    "merrow",
+    "ocean"
+   ]
+  },
+  {
+   "name": "Merfolk",
+   "kind": "creature",
+   "thumb": "thumbs/2ca6fd1c-ed4b-41ca-ac00-b67c63ec2015.jpg",
+   "tags": [
+    "monstrous",
+    "merfolk",
+    "mermaid",
+    "merrow",
+    "ocean"
+   ]
+  },
+  {
+   "name": "Mimic 2",
+   "kind": "creature",
+   "thumb": "thumbs/2e039487-d62e-44bf-a9cd-e314b7287725.jpg",
+   "tags": [
+    "monstrous",
+    "medium",
+    "chest",
+    "mimic",
+    "monster",
+    "chaotic",
+    "evil",
+    "teeth"
+   ]
+  },
+  {
+   "name": "Mimic 3",
+   "kind": "creature",
+   "thumb": "thumbs/a332a9be-7181-4573-8d2a-1a4f66d264f1.jpg",
+   "tags": [
+    "monstrous",
+    "monstrosity",
+    "mimic",
+    "apple",
+    "red",
+    "teeth",
+    "food"
+   ]
+  },
+  {
+   "name": "Mimic",
+   "kind": "creature",
+   "thumb": "thumbs/1901d976-f7b9-4514-8500-f21b6c3756cd.jpg",
+   "tags": [
+    "monstrous",
+    "mimic",
+    "gift",
+    "present",
+    "monster",
+    "chaotic",
+    "evil",
+    "container"
+   ]
+  },
+  {
+   "name": "Reverse Centaur",
+   "kind": "creature",
+   "thumb": "thumbs/6ce5f1d5-f37f-4320-b5dc-5988f106d89d.jpg",
+   "tags": [
+    "monstrous",
+    "centaur",
+    "horse",
+    "human",
+    "warrior",
+    "sneaker"
+   ]
+  },
+  {
+   "name": "Rust Eater",
+   "kind": "creature",
+   "thumb": "thumbs/c2790cbf-dfa4-4a25-91c8-4ac4c2e823a9.jpg",
+   "tags": [
+    "monstrous",
+    "scales",
+    "rust",
+    "rustmonster",
+    "animal",
+    "centipede",
+    "rusteater",
+    "quadruped"
+   ]
+  },
+  {
+   "name": "Sea Monster",
+   "kind": "creature",
+   "thumb": "thumbs/43aa6c4a-1327-486d-8883-36564bb75ce6.jpg",
+   "tags": [
+    "monstrous",
+    "sea",
+    "giant",
+    "monster",
+    "unaligned",
+    "neutral",
+    "monstrosity",
+    "kraken"
+   ]
+  },
+  {
+   "name": "Serpentfolk Archer",
+   "kind": "creature",
+   "thumb": "thumbs/86e47097-c86c-45f6-ad77-e9064191792b.jpg",
+   "tags": [
+    "monstrous",
+    "cloth",
+    "bow",
+    "monstrosity",
+    "amphibian",
+    "green",
+    "white",
+    "bracer"
+   ]
+  },
+  {
+   "name": "Serpentfolk Caster",
+   "kind": "creature",
+   "thumb": "thumbs/f7fd7d1c-f98b-4535-8d2d-0773ff7ed77f.jpg",
+   "tags": [
+    "monstrous",
+    "monster",
+    "monstrosity",
+    "reptile",
+    "amphibian",
+    "animal",
+    "green",
+    "snake"
+   ]
+  },
+  {
+   "name": "Serpentfolk Warrior",
+   "kind": "creature",
+   "thumb": "thumbs/88872f42-0a97-487b-a89f-393ee4fe0ef0.jpg",
+   "tags": [
+    "monstrous",
+    "monster",
+    "monstrosity",
+    "reptile",
+    "amphibian",
+    "animal",
+    "green",
+    "snake"
+   ]
+  },
+  {
+   "name": "Shambler",
+   "kind": "creature",
+   "thumb": "thumbs/6d9f4acf-dcca-4f33-9c05-106f77670380.jpg",
+   "tags": [
+    "monstrous",
+    "shambler",
+    "swamp",
+    "moss",
+    "monster",
+    "neutral",
+    "evil",
+    "plant"
+   ]
+  },
+  {
+   "name": "Slime",
+   "kind": "creature",
+   "thumb": "thumbs/62a6d6c0-deab-44b7-a9a4-322b115374a2.jpg",
+   "tags": [
+    "monstrous",
+    "small",
+    "slime",
+    "monster",
+    "slimy",
+    "chaotic",
+    "neutral",
+    "monstrosity"
+   ]
+  },
+  {
+   "name": "Sphinx 2",
+   "kind": "creature",
+   "thumb": "thumbs/e2f37589-b242-47b6-aad2-0e6a941aa128.jpg",
+   "tags": [
+    "monstrous",
+    "wings",
+    "brown",
+    "sphinx",
+    "feather",
+    "flying",
+    "large",
+    "monster"
+   ]
+  },
+  {
+   "name": "Sphinx",
+   "kind": "creature",
+   "thumb": "thumbs/a91b0cce-49f9-4c03-a60e-14ed2cd16d1d.jpg",
+   "tags": [
+    "monstrous",
+    "wings",
+    "brown",
+    "sphinx",
+    "feather",
+    "flying",
+    "large",
+    "monster"
+   ]
+  },
+  {
+   "name": "Stirge",
+   "kind": "creature",
+   "thumb": "thumbs/68afb2eb-4809-4bd1-afd2-fc7c18b033b4.jpg",
+   "tags": [
+    "monstrous",
+    "styrge",
+    "swamp",
+    "flying",
+    "bat",
+    "insect",
+    "stirge",
+    "monster"
+   ]
+  },
+  {
+   "name": "Tentacle, Large",
+   "kind": "creature",
+   "thumb": "thumbs/9dfd67c9-3e74-4079-9c8e-b81d680acc5a.jpg",
+   "tags": [
+    "monstrous",
+    "tentacle",
+    "large",
+    "sea",
+    "monster",
+    "unaligned",
+    "neutral",
+    "monstrosity"
+   ]
+  },
+  {
+   "name": "Troll",
+   "kind": "creature",
+   "thumb": "thumbs/e90923c3-441a-4811-93d0-946f267281f1.jpg",
+   "tags": [
+    "monstrous",
+    "large",
+    "troll",
+    "humanoid",
+    "club",
+    "monster",
+    "slimy",
+    "chaotic"
+   ]
+  },
+  {
+   "name": "Werewolf",
+   "kind": "creature",
+   "thumb": "thumbs/2f07389d-9c10-417f-8e32-88d1551327f1.jpg",
+   "tags": [
+    "monstrous",
+    "werewolf",
+    "wolf",
+    "monster",
+    "fur",
+    "chaotic",
+    "evil",
+    "monstrosity"
+   ]
+  },
+  {
+   "name": "Yeti",
+   "kind": "creature",
+   "thumb": "thumbs/dd10619f-2111-40f2-8d86-4e9407a3003f.jpg",
+   "tags": [
+    "monstrous",
+    "yeti",
+    "snow",
+    "monster",
+    "horns",
+    "fur",
+    "chaotic",
+    "evil"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,3791 @@
+{
+ "id": "04a7b8af-3978-5bcc-a89d-b7995b4dc58d",
+ "folder": "Beast Creatures.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 975,
+   "sha256": "1b57ef8c426267d69405d9977c4f7ceecd12dc98a45fb98be665bd1c92820601"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 26540,
+   "sha256": "05f7dae1f7102691162d99a7e9572747512b831c3228a9c523ce0f9062025526"
+  },
+  {
+   "path": "creatures/bat-giant.md",
+   "size": 289,
+   "sha256": "517140a3b886a5b483baae4ec9dbce9e37ae931f28279dcdf6d5ab369287797a"
+  },
+  {
+   "path": "creatures/bear-cave.md",
+   "size": 291,
+   "sha256": "3a8eea1e1b713f2234a6eeae3fb7064cbf646c881e7ddc40627901bd2c6c4c16"
+  },
+  {
+   "path": "creatures/beaver.md",
+   "size": 267,
+   "sha256": "2ae4361bcc0633b9d8ed141b0171bda2896eb8feaef0bc0d40ec61284437738d"
+  },
+  {
+   "path": "creatures/boar.md",
+   "size": 267,
+   "sha256": "15c25ad0b693d95600297876fc1cf893e268042755fb8965b1adbbb4a1ec12cc"
+  },
+  {
+   "path": "creatures/camel.md",
+   "size": 281,
+   "sha256": "9683e8ffde615fe2ce69737f700f03c33ac4db8879adc5105998d9381dacfefa"
+  },
+  {
+   "path": "creatures/cat-black-white.md",
+   "size": 303,
+   "sha256": "2e067f30bf5998c5791b6717449ffdad60a6b315d8a853a81e30dea504647757"
+  },
+  {
+   "path": "creatures/cat.md",
+   "size": 259,
+   "sha256": "05fbd350e9946e4bd01b7c7024eb75d4811fc9892830f7e7d5d0114c5b6d32b9"
+  },
+  {
+   "path": "creatures/centipede-giant.md",
+   "size": 320,
+   "sha256": "a70dc5dda1671a2fffedd1b9c311c30d46524b19afabba8ee09689682971644c"
+  },
+  {
+   "path": "creatures/chicken.md",
+   "size": 290,
+   "sha256": "284f8545593acb62dd5e171c963382ea4e19f1c5c665a05a343990a072065cec"
+  },
+  {
+   "path": "creatures/cow.md",
+   "size": 275,
+   "sha256": "659dba1609f446de1d52d0312b1d7c2924a10257157b5402125ee0f0ec51fd34"
+  },
+  {
+   "path": "creatures/crab-giant.md",
+   "size": 299,
+   "sha256": "f87a33aad2566664625a060fb794b367019346740085fa51aa3cf9c4ef581928"
+  },
+  {
+   "path": "creatures/crane.md",
+   "size": 297,
+   "sha256": "ba8065bf0036b2ed2a50bd5c4f0a0267a942e213d6397781a4faf24324bf137e"
+  },
+  {
+   "path": "creatures/crocodile.md",
+   "size": 315,
+   "sha256": "d0de67b9bb9bdb746f636de00afe27d249501a080dae7ff5dd4a14707acf70fa"
+  },
+  {
+   "path": "creatures/dog-german-shepherd.md",
+   "size": 284,
+   "sha256": "a45dc38c77f824cd61db8c4ab89b8b757993ddc742c2265309abf02fe3237812"
+  },
+  {
+   "path": "creatures/dog.md",
+   "size": 237,
+   "sha256": "399c50cae53025134dad9a09862fdd3b29eeb3137d634d9d5f63c80a3a3dca1f"
+  },
+  {
+   "path": "creatures/doplhin.md",
+   "size": 290,
+   "sha256": "8f67589c92cb325744f4f231f5f02f16aab0fb4f09d9ac48e7583efff6c87459"
+  },
+  {
+   "path": "creatures/elk.md",
+   "size": 271,
+   "sha256": "d659300dfc4a8e096c536a227d2a92693998863f6475af2efea7784702e9380f"
+  },
+  {
+   "path": "creatures/ferret.md",
+   "size": 260,
+   "sha256": "df9f984c86c5f366e7642ff9e23d93bcaff113232f8c8def5390c624a79d38f6"
+  },
+  {
+   "path": "creatures/goat-01.md",
+   "size": 276,
+   "sha256": "e8527715bcb9049d80f1b6356524ece3fb3665b46af8c40343e48ec5ddb0ff7a"
+  },
+  {
+   "path": "creatures/goose.md",
+   "size": 294,
+   "sha256": "4e1b5771a263af794a8fe3b6bfd6e0559b761381ca2fc751a7a87e3e52c32715"
+  },
+  {
+   "path": "creatures/horse.md",
+   "size": 284,
+   "sha256": "71e4594642eb8e48d5b91be575c6447bd5a9cbdc9c999f33b1154c7576c7c4ef"
+  },
+  {
+   "path": "creatures/hyena.md",
+   "size": 271,
+   "sha256": "89bb546a54de963018da0f371a7c12c80d6954dae09c1b1056243daf30073594"
+  },
+  {
+   "path": "creatures/monkey-snub-nosed.md",
+   "size": 307,
+   "sha256": "e5c05a19b1f69d7e05be164731181709ee2a72d4c883510852e19bc3f425a8c5"
+  },
+  {
+   "path": "creatures/mule-pack.md",
+   "size": 282,
+   "sha256": "ac908494053c9912841c37d63e66b45f3ee98957e973b81bd7244fe0c80128f1"
+  },
+  {
+   "path": "creatures/mule.md",
+   "size": 270,
+   "sha256": "1487d75df6294492bca6d7c2e4b7b236226fbc79c1dd0f9341b00ae466b8c688"
+  },
+  {
+   "path": "creatures/narwhal.md",
+   "size": 292,
+   "sha256": "fac3407285eed1d3639ea56a8c49d791882030ace6ccd806089e3c7c766c8866"
+  },
+  {
+   "path": "creatures/octopus.md",
+   "size": 291,
+   "sha256": "09b5c512487508104541ed71bd624b58934f0ac81f6e54312807e95d29d1e2fc"
+  },
+  {
+   "path": "creatures/owl.md",
+   "size": 289,
+   "sha256": "2159a96a87d7e26528cc4b0e8631195a2eb2e19d1ea9167b87c5faec60b3f9ac"
+  },
+  {
+   "path": "creatures/owlbear.md",
+   "size": 280,
+   "sha256": "f7a33fc2218c8c5b4be275d43132ef9bb6b5839493f173da6663dfe36df73671"
+  },
+  {
+   "path": "creatures/pig.md",
+   "size": 267,
+   "sha256": "1572ca92ff22ba4387f4352fa1ec26db4923bf3766a60cb8d414c5450667d751"
+  },
+  {
+   "path": "creatures/pterodactyl.md",
+   "size": 296,
+   "sha256": "2105dff3078e20f457d92267f7e2f36a5567bf07eb3851aaf70b13e17ed2a5bd"
+  },
+  {
+   "path": "creatures/rabbit.md",
+   "size": 272,
+   "sha256": "7642e6f7b06855165db2c718e6e72e54b2cfa4c46f6bb441e64911b4d9780c0c"
+  },
+  {
+   "path": "creatures/raccoon.md",
+   "size": 270,
+   "sha256": "86470543e0f1ba0a05f8bde5e12975c9ae35a82c8a94e5048e3a98562c7588b9"
+  },
+  {
+   "path": "creatures/raptor.md",
+   "size": 296,
+   "sha256": "d09fbabb34365e5977731762a9dd57e16e9cc11d059656b79ddb16efb266098d"
+  },
+  {
+   "path": "creatures/rat-giant.md",
+   "size": 289,
+   "sha256": "fcb27a2065ddf791d6354e6434345d654741f3f932228150d4862ae8bf40750d"
+  },
+  {
+   "path": "creatures/raven.md",
+   "size": 287,
+   "sha256": "75c2507c6df88d45dc80be41509a62e6aff3611698711e0391e911e60ad463fc"
+  },
+  {
+   "path": "creatures/rooster.md",
+   "size": 292,
+   "sha256": "0b20da55a9ea55449b77b9d48e2d3990594b0159be9cedb25f18caf4ec1245a6"
+  },
+  {
+   "path": "creatures/scorpion-giant.md",
+   "size": 313,
+   "sha256": "093d91a1db1266d479459c58d5581889720204524dfc930b7a8cb771d51a717e"
+  },
+  {
+   "path": "creatures/shark-great-white.md",
+   "size": 314,
+   "sha256": "7ba8ae9d4a9e70f6452fe8888ecac26ab837489bca484351c1f79fe11f4aa19f"
+  },
+  {
+   "path": "creatures/snake-giant.md",
+   "size": 300,
+   "sha256": "df7ebfef893393bc4aad5a66421f9ac493c24d52b400949a16d2922eee7292bb"
+  },
+  {
+   "path": "creatures/snapper-giant.md",
+   "size": 307,
+   "sha256": "2f9c86b9b367ff35070ee18f373b705f2c5c0a2ad7065a087ceebb55f3ce2b54"
+  },
+  {
+   "path": "creatures/spider-giant.md",
+   "size": 304,
+   "sha256": "87382a0baef682f00809b6fe0d7d953a75cd153b9dd082269da60f7b96ae4443"
+  },
+  {
+   "path": "creatures/swarm-rats.md",
+   "size": 273,
+   "sha256": "ee4f01a5aac30e3bb60401094b2c1d6a3c07198cf10824da9c6fd22f710badd1"
+  },
+  {
+   "path": "creatures/toad-giant.md",
+   "size": 295,
+   "sha256": "1df741ab6e070f5ce17e083d88df276adb900c848356c8139be5c167e4852fb1"
+  },
+  {
+   "path": "creatures/turkey.md",
+   "size": 281,
+   "sha256": "3ff1d7ce28b9c38d8b9d029e4ff42dfeebf29dcbd3f25b4b67531e2eac0560b3"
+  },
+  {
+   "path": "creatures/wolf-vicious.md",
+   "size": 287,
+   "sha256": "4d9478676549398a721e49b2493d18a34c2a809d41c2532c30833c10b5a27e98"
+  },
+  {
+   "path": "media/creatures/Beast/Bat, Giant.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Bat, Giant.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Bat, Giant.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Bat, Giant.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Bat, Giant.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Bat, Giant.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Bat, Giant.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Bat, Giant.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Beast/Bat, Giant.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Bat, Giant.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Bat, Giant.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Bat, Giant.usd",
+   "size": 256025,
+   "sha256": "ac287d642206fd7692f5dea8f342f51ad8d6600164ad9bf278f6f70005253718"
+  },
+  {
+   "path": "media/creatures/Beast/Bear, Cave.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Bear, Cave.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Bear, Cave.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Bear, Cave.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Bear, Cave.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Bear, Cave.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Bear, Cave.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Bear, Cave.cooked/textures/fur.avif",
+   "size": 739,
+   "sha256": "3146ac5f15b08d3849be81e2f6989d9bbf012d69ec7ae43a0faa5287725f28b3"
+  },
+  {
+   "path": "media/creatures/Beast/Bear, Cave.cooked/textures/fur_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Bear, Cave.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Bear, Cave.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Bear, Cave.usd",
+   "size": 574621,
+   "sha256": "b85adcdbd8f7388738e747e60bfb0016f9ba60691a3165f600168fdd53599655"
+  },
+  {
+   "path": "media/creatures/Beast/Beaver.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Beaver.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Beaver.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Beaver.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Beaver.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Beaver.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Beaver.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Beaver.cooked/textures/fur.avif",
+   "size": 739,
+   "sha256": "3146ac5f15b08d3849be81e2f6989d9bbf012d69ec7ae43a0faa5287725f28b3"
+  },
+  {
+   "path": "media/creatures/Beast/Beaver.cooked/textures/fur_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Beaver.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Beast/Beaver.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Beaver.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Beaver.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Beaver.usd",
+   "size": 593869,
+   "sha256": "9b38fcd4daf93dc2f69e42768f5f8a9e2790e3965ec5e7229c1c55cd0ee254dc"
+  },
+  {
+   "path": "media/creatures/Beast/Boar.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Boar.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Boar.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Boar.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Boar.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Boar.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Boar.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Boar.cooked/textures/fur.avif",
+   "size": 739,
+   "sha256": "3146ac5f15b08d3849be81e2f6989d9bbf012d69ec7ae43a0faa5287725f28b3"
+  },
+  {
+   "path": "media/creatures/Beast/Boar.cooked/textures/fur_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Boar.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Boar.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Boar.usd",
+   "size": 564609,
+   "sha256": "e63ff4d314024f8ad8dff0004e4724cd421b42f87f276560b7fc00703d663260"
+  },
+  {
+   "path": "media/creatures/Beast/Camel.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Camel.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Camel.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Camel.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Camel.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Camel.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Beast/Camel.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Camel.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Camel.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Camel.cooked/textures/tanfur.avif",
+   "size": 1162,
+   "sha256": "66ae962664e22529c69fdbd2cbd1c5f05e878c0e8ba56278c5ab1da127630055"
+  },
+  {
+   "path": "media/creatures/Beast/Camel.cooked/textures/tanfur_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Camel.usd",
+   "size": 810372,
+   "sha256": "fd3b4212722f72882a66dfdfdc7e39c457047c623974508bdb806dbd1b6df654"
+  },
+  {
+   "path": "media/creatures/Beast/Cat, Black & White.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Cat, Black & White.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Cat, Black & White.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Cat, Black & White.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Cat, Black & White.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Cat, Black & White.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Cat, Black & White.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Cat, Black & White.cooked/textures/snow.avif",
+   "size": 1076,
+   "sha256": "444a85bf33f77f242b361fe2ee1ac0816b368b57f2bb4a4d6cc570c58d9108eb"
+  },
+  {
+   "path": "media/creatures/Beast/Cat, Black & White.cooked/textures/snow_normal.avif",
+   "size": 2514,
+   "sha256": "b9c2c6ea308589cebe843635c756835ba78e235618d9a895d4a3f25a2f9c34e1"
+  },
+  {
+   "path": "media/creatures/Beast/Cat, Black & White.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Cat, Black & White.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Cat, Black & White.usd",
+   "size": 638446,
+   "sha256": "e71bdd9b42ec14cf556590da721e00c93330c98a8998ec47ea43dc7826949558"
+  },
+  {
+   "path": "media/creatures/Beast/Cat.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Cat.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Cat.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Cat.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Cat.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Cat.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Cat.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Cat.cooked/textures/fur.avif",
+   "size": 739,
+   "sha256": "3146ac5f15b08d3849be81e2f6989d9bbf012d69ec7ae43a0faa5287725f28b3"
+  },
+  {
+   "path": "media/creatures/Beast/Cat.cooked/textures/fur_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Cat.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Cat.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Cat.usd",
+   "size": 574710,
+   "sha256": "6afa627700cf2c55139f3c323e8e7a6c61ef24a2177587a1b89c8acbae57b676"
+  },
+  {
+   "path": "media/creatures/Beast/Centipede, Giant.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Centipede, Giant.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Centipede, Giant.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Centipede, Giant.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Centipede, Giant.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Centipede, Giant.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Centipede, Giant.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Centipede, Giant.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Beast/Centipede, Giant.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Centipede, Giant.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/creatures/Beast/Centipede, Giant.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Centipede, Giant.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Centipede, Giant.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Centipede, Giant.usd",
+   "size": 463706,
+   "sha256": "384916acfb8779bc384b632d311880ceeb33a4fc9cc7228c8f739fd16e6971a4"
+  },
+  {
+   "path": "media/creatures/Beast/Chicken.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Chicken.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Chicken.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Chicken.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Chicken.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Chicken.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Chicken.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Chicken.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Beast/Chicken.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Chicken.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Chicken.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Chicken.usd",
+   "size": 798925,
+   "sha256": "1f2486b359f4f6c53a56d88dc7eb6899aee0adecfd4b6491e6ca7d7fea3de756"
+  },
+  {
+   "path": "media/creatures/Beast/Cow.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Cow.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Cow.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Cow.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Cow.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Cow.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Cow.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Cow.cooked/textures/fur.avif",
+   "size": 739,
+   "sha256": "3146ac5f15b08d3849be81e2f6989d9bbf012d69ec7ae43a0faa5287725f28b3"
+  },
+  {
+   "path": "media/creatures/Beast/Cow.cooked/textures/fur_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Cow.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Cow.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Cow.usd",
+   "size": 565812,
+   "sha256": "1075a13d54d472c8361e9b24362c4722711c04ef0fbad06307ac13bf50136e2a"
+  },
+  {
+   "path": "media/creatures/Beast/Crab, Giant.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Crab, Giant.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Crab, Giant.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Crab, Giant.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Crab, Giant.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Crab, Giant.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Crab, Giant.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Crab, Giant.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Beast/Crab, Giant.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Crab, Giant.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/creatures/Beast/Crab, Giant.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Crab, Giant.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Crab, Giant.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Crab, Giant.usd",
+   "size": 232589,
+   "sha256": "f134eb6e2707b1d0a7b3c4b66f1b39ffc4fe454c59082dffcb543dbbebebed4c"
+  },
+  {
+   "path": "media/creatures/Beast/Crane.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Crane.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Crane.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Crane.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Crane.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Crane.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Crane.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Crane.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Crane.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Crane.usd",
+   "size": 1289487,
+   "sha256": "4158dad8cc7bae0287452739cb7936c40ee5469a7fe46b2aeb99c99ddcb49ae6"
+  },
+  {
+   "path": "media/creatures/Beast/Crocodile.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Crocodile.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Crocodile.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Crocodile.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Crocodile.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Crocodile.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Crocodile.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Crocodile.cooked/textures/scales.avif",
+   "size": 769,
+   "sha256": "cf477006658c77fd88e7c78284ec60d922b12b48d5320ca48b3886d2c48164d8"
+  },
+  {
+   "path": "media/creatures/Beast/Crocodile.cooked/textures/scales_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Crocodile.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Crocodile.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Crocodile.usd",
+   "size": 431158,
+   "sha256": "b3c67d6a12bc6f5bb86c25beece5d6e54a87c0afcb3f79167873c8a539b3e765"
+  },
+  {
+   "path": "media/creatures/Beast/Dog, German Shepherd.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Dog, German Shepherd.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Dog, German Shepherd.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Dog, German Shepherd.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Dog, German Shepherd.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Dog, German Shepherd.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Dog, German Shepherd.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Dog, German Shepherd.cooked/textures/fur.avif",
+   "size": 739,
+   "sha256": "3146ac5f15b08d3849be81e2f6989d9bbf012d69ec7ae43a0faa5287725f28b3"
+  },
+  {
+   "path": "media/creatures/Beast/Dog, German Shepherd.cooked/textures/fur_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Dog, German Shepherd.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Dog, German Shepherd.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Dog, German Shepherd.usd",
+   "size": 596862,
+   "sha256": "78887467239b282c9d8c0b8ef8b0e440b2908eaf317bc2ec1ab98f24dc5251fa"
+  },
+  {
+   "path": "media/creatures/Beast/Dog.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Dog.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Dog.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Dog.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Dog.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Dog.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Dog.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Dog.cooked/textures/fur.avif",
+   "size": 739,
+   "sha256": "3146ac5f15b08d3849be81e2f6989d9bbf012d69ec7ae43a0faa5287725f28b3"
+  },
+  {
+   "path": "media/creatures/Beast/Dog.cooked/textures/fur_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Dog.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Dog.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Dog.usd",
+   "size": 508134,
+   "sha256": "5dd0b1097f38e7bf97775b49120d20c76f2e4df06b01449f0d713e418b060046"
+  },
+  {
+   "path": "media/creatures/Beast/Doplhin.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Doplhin.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Doplhin.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Doplhin.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/creatures/Beast/Doplhin.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Doplhin.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Doplhin.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Doplhin.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Doplhin.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Doplhin.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Doplhin.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Doplhin.cooked/textures/water.avif",
+   "size": 644,
+   "sha256": "a620c7842cefe01e620892d3d24dcf88f91b1e9c3f27c7a1ecf1a24a7e2aaef9"
+  },
+  {
+   "path": "media/creatures/Beast/Doplhin.cooked/textures/water_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Doplhin.usd",
+   "size": 170640,
+   "sha256": "947c273b5d5e81d0a21d16fc2ffeedd0bf566ac79021d6ed08d05ec96f970b06"
+  },
+  {
+   "path": "media/creatures/Beast/Elk.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Elk.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Elk.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Elk.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Elk.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Elk.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Elk.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Elk.cooked/textures/fur.avif",
+   "size": 739,
+   "sha256": "3146ac5f15b08d3849be81e2f6989d9bbf012d69ec7ae43a0faa5287725f28b3"
+  },
+  {
+   "path": "media/creatures/Beast/Elk.cooked/textures/fur_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Elk.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Beast/Elk.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Elk.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Elk.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Elk.usd",
+   "size": 805986,
+   "sha256": "8cfbb06f919ba413388e667a6730e99d708333c090b034a73aa2545ecbac3d01"
+  },
+  {
+   "path": "media/creatures/Beast/Ferret.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Ferret.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Ferret.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Ferret.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Ferret.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Ferret.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Ferret.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Ferret.cooked/textures/fur.avif",
+   "size": 739,
+   "sha256": "3146ac5f15b08d3849be81e2f6989d9bbf012d69ec7ae43a0faa5287725f28b3"
+  },
+  {
+   "path": "media/creatures/Beast/Ferret.cooked/textures/fur_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Ferret.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Ferret.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Ferret.usd",
+   "size": 566645,
+   "sha256": "085054e156dc4edbb78ce5f70675f0e3a0530c3279e68901c7465b023462c568"
+  },
+  {
+   "path": "media/creatures/Beast/Goat 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Goat 01.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Goat 01.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Goat 01.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Goat 01.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Goat 01.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Goat 01.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Goat 01.cooked/textures/fur.avif",
+   "size": 739,
+   "sha256": "3146ac5f15b08d3849be81e2f6989d9bbf012d69ec7ae43a0faa5287725f28b3"
+  },
+  {
+   "path": "media/creatures/Beast/Goat 01.cooked/textures/fur_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Goat 01.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Goat 01.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Goat 01.usd",
+   "size": 563753,
+   "sha256": "109e5ae10858b41fd19aca832b757c6435191c495ff1d39a1655671ccc1ede10"
+  },
+  {
+   "path": "media/creatures/Beast/Goose.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Goose.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Goose.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Goose.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Goose.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Goose.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Goose.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Goose.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Goose.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Goose.usd",
+   "size": 1290857,
+   "sha256": "e14c747a2c2b76c8ab218e2ebac18d3858a1eb1eacb6e8195eed9886c3986917"
+  },
+  {
+   "path": "media/creatures/Beast/Horse.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Horse.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Horse.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Horse.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Horse.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Horse.cooked/textures/fur.avif",
+   "size": 739,
+   "sha256": "3146ac5f15b08d3849be81e2f6989d9bbf012d69ec7ae43a0faa5287725f28b3"
+  },
+  {
+   "path": "media/creatures/Beast/Horse.cooked/textures/fur_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Horse.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Beast/Horse.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Horse.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Horse.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Horse.usd",
+   "size": 779724,
+   "sha256": "458bfbca805a8cbe16113baaabc6b3a384fe569788b1d66a337d6ea4ffe9fd1e"
+  },
+  {
+   "path": "media/creatures/Beast/Hyena.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Hyena.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Hyena.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Hyena.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Hyena.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Hyena.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Hyena.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Hyena.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Hyena.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Hyena.cooked/textures/tanfur.avif",
+   "size": 1162,
+   "sha256": "66ae962664e22529c69fdbd2cbd1c5f05e878c0e8ba56278c5ab1da127630055"
+  },
+  {
+   "path": "media/creatures/Beast/Hyena.cooked/textures/tanfur_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Hyena.usd",
+   "size": 507655,
+   "sha256": "ac7fa505cece94af33bdd0cab0c449de4b23519fc5f6648b43b8a14070147331"
+  },
+  {
+   "path": "media/creatures/Beast/Monkey (Snub-nosed).cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Monkey (Snub-nosed).cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Monkey (Snub-nosed).cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Monkey (Snub-nosed).cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Monkey (Snub-nosed).cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Monkey (Snub-nosed).cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Monkey (Snub-nosed).cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Monkey (Snub-nosed).cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/creatures/Beast/Monkey (Snub-nosed).cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Monkey (Snub-nosed).cooked/textures/skin.avif",
+   "size": 1194,
+   "sha256": "124d674effb6bbad8abee1a0b04de2ec506d1a09c532f69d853a5f70a3339154"
+  },
+  {
+   "path": "media/creatures/Beast/Monkey (Snub-nosed).cooked/textures/skin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Monkey (Snub-nosed).cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Monkey (Snub-nosed).cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Monkey (Snub-nosed).usd",
+   "size": 517151,
+   "sha256": "e20569ccd9979546c1aac0eba17fecab22dfaa063beb1f4f9fbcfad037f0719a"
+  },
+  {
+   "path": "media/creatures/Beast/Mule, Pack.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Mule, Pack.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Mule, Pack.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Mule, Pack.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Mule, Pack.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Mule, Pack.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/creatures/Beast/Mule, Pack.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Mule, Pack.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Beast/Mule, Pack.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Mule, Pack.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/creatures/Beast/Mule, Pack.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Beast/Mule, Pack.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Beast/Mule, Pack.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Mule, Pack.cooked/textures/snow.avif",
+   "size": 1076,
+   "sha256": "444a85bf33f77f242b361fe2ee1ac0816b368b57f2bb4a4d6cc570c58d9108eb"
+  },
+  {
+   "path": "media/creatures/Beast/Mule, Pack.cooked/textures/snow_normal.avif",
+   "size": 2514,
+   "sha256": "b9c2c6ea308589cebe843635c756835ba78e235618d9a895d4a3f25a2f9c34e1"
+  },
+  {
+   "path": "media/creatures/Beast/Mule, Pack.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Mule, Pack.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Mule, Pack.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Beast/Mule, Pack.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Beast/Mule, Pack.usd",
+   "size": 1020005,
+   "sha256": "cef7d09e7e0163a619e16c767ceddf6ef6e5afe534a139735b70502c6fdb4907"
+  },
+  {
+   "path": "media/creatures/Beast/Mule.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Mule.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Mule.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Mule.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Mule.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Mule.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Beast/Mule.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Mule.cooked/textures/snow.avif",
+   "size": 1076,
+   "sha256": "444a85bf33f77f242b361fe2ee1ac0816b368b57f2bb4a4d6cc570c58d9108eb"
+  },
+  {
+   "path": "media/creatures/Beast/Mule.cooked/textures/snow_normal.avif",
+   "size": 2514,
+   "sha256": "b9c2c6ea308589cebe843635c756835ba78e235618d9a895d4a3f25a2f9c34e1"
+  },
+  {
+   "path": "media/creatures/Beast/Mule.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Mule.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Mule.usd",
+   "size": 787066,
+   "sha256": "1cb1d950ee9c4626a8d82066fe36b7c1402838e628061a787770f49772f128fd"
+  },
+  {
+   "path": "media/creatures/Beast/Narwhal.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Narwhal.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Narwhal.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Narwhal.cooked/textures/blue.avif",
+   "size": 634,
+   "sha256": "fa40f033958c41f9c52b93fa93641e4db6c4a4ec05ad6413f88722e84b3c43bd"
+  },
+  {
+   "path": "media/creatures/Beast/Narwhal.cooked/textures/blue_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Narwhal.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Narwhal.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Narwhal.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Narwhal.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Narwhal.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Narwhal.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Narwhal.cooked/textures/water.avif",
+   "size": 644,
+   "sha256": "a620c7842cefe01e620892d3d24dcf88f91b1e9c3f27c7a1ecf1a24a7e2aaef9"
+  },
+  {
+   "path": "media/creatures/Beast/Narwhal.cooked/textures/water_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Narwhal.usd",
+   "size": 195178,
+   "sha256": "6b03ba976566b5bfaff2e0d895ee1a40a6a5283d3b6c94b734d74f64ef83a82a"
+  },
+  {
+   "path": "media/creatures/Beast/Octopus.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Octopus.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Octopus.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Octopus.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Octopus.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Octopus.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Octopus.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Octopus.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/creatures/Beast/Octopus.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Octopus.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Octopus.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Octopus.usd",
+   "size": 582377,
+   "sha256": "3a83310c71506434b1ffab7dab887f422758ee739e92634f0a089056077ae399"
+  },
+  {
+   "path": "media/creatures/Beast/Owl.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Owl.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Owl.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Owl.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Owl.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Owl.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Owl.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Owl.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Owl.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Owl.usd",
+   "size": 1333598,
+   "sha256": "885978f259738b2b7eeecef685e7e7631317b8cf366922e8500f8a9f1eb4839e"
+  },
+  {
+   "path": "media/creatures/Beast/Owlbear.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Owlbear.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Owlbear.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Owlbear.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Owlbear.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Owlbear.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Owlbear.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Owlbear.cooked/textures/fur.avif",
+   "size": 739,
+   "sha256": "3146ac5f15b08d3849be81e2f6989d9bbf012d69ec7ae43a0faa5287725f28b3"
+  },
+  {
+   "path": "media/creatures/Beast/Owlbear.cooked/textures/fur_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Owlbear.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Owlbear.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Owlbear.usd",
+   "size": 684643,
+   "sha256": "d302e52e0ac41c900fdf8ab918161565fc40783aca77f9f2ac5bf999fcdaffbd"
+  },
+  {
+   "path": "media/creatures/Beast/Pig.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Pig.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Pig.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Pig.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Pig.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Pig.cooked/textures/rose.avif",
+   "size": 1521,
+   "sha256": "3513b07e10a3938b003946d30e0cf91569351360cacf4ef15cfc70a607290ec6"
+  },
+  {
+   "path": "media/creatures/Beast/Pig.cooked/textures/rose_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Pig.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Pig.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Pig.usd",
+   "size": 479737,
+   "sha256": "cd1a78a10b7e8aad9ab53b04eaa2f00f04283225f5be333e2c60d96d71ac7e31"
+  },
+  {
+   "path": "media/creatures/Beast/Pterodactyl.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Pterodactyl.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Pterodactyl.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Pterodactyl.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Pterodactyl.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Pterodactyl.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Pterodactyl.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Pterodactyl.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Beast/Pterodactyl.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Pterodactyl.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Pterodactyl.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Pterodactyl.usd",
+   "size": 223506,
+   "sha256": "8547e1e73510d7a637d74df24c6b2790384bf300a64960169f7a0bfbba12e2cd"
+  },
+  {
+   "path": "media/creatures/Beast/Rabbit.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Rabbit.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Rabbit.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Rabbit.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Rabbit.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Rabbit.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Rabbit.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Rabbit.cooked/textures/snow.avif",
+   "size": 1076,
+   "sha256": "444a85bf33f77f242b361fe2ee1ac0816b368b57f2bb4a4d6cc570c58d9108eb"
+  },
+  {
+   "path": "media/creatures/Beast/Rabbit.cooked/textures/snow_normal.avif",
+   "size": 2514,
+   "sha256": "b9c2c6ea308589cebe843635c756835ba78e235618d9a895d4a3f25a2f9c34e1"
+  },
+  {
+   "path": "media/creatures/Beast/Rabbit.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Rabbit.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Rabbit.usd",
+   "size": 567860,
+   "sha256": "4b4f04e8b166db54ce6d44d8a9730d6cd357e0d14bc54b7fe4a24f1a332cff17"
+  },
+  {
+   "path": "media/creatures/Beast/Raccoon.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Raccoon.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Raccoon.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Raccoon.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Raccoon.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Raccoon.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Raccoon.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Raccoon.cooked/textures/fur.avif",
+   "size": 739,
+   "sha256": "3146ac5f15b08d3849be81e2f6989d9bbf012d69ec7ae43a0faa5287725f28b3"
+  },
+  {
+   "path": "media/creatures/Beast/Raccoon.cooked/textures/fur_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Raccoon.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Raccoon.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Raccoon.usd",
+   "size": 633563,
+   "sha256": "54932a9f2557de385465abbd7837dbea0493dcff82dac22334b596858a41dad0"
+  },
+  {
+   "path": "media/creatures/Beast/Raptor.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Raptor.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Raptor.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Raptor.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Raptor.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Raptor.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Raptor.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Raptor.cooked/textures/jade.avif",
+   "size": 756,
+   "sha256": "9f63b3de989e52a14a4e018da19a51f73e2de06c5d27ac931b87798041dfdfbe"
+  },
+  {
+   "path": "media/creatures/Beast/Raptor.cooked/textures/jade_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Raptor.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Raptor.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Raptor.usd",
+   "size": 369904,
+   "sha256": "2f42c149961659830ee42d9763c69ab916ad8ffbd279d3aeb99655d23193f5e2"
+  },
+  {
+   "path": "media/creatures/Beast/Rat, Giant.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Rat, Giant.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Rat, Giant.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Rat, Giant.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Rat, Giant.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Rat, Giant.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Rat, Giant.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Rat, Giant.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Rat, Giant.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Rat, Giant.usd",
+   "size": 573469,
+   "sha256": "57fbfd59a11fe4e2f682e3c7c5875dd8776c57fe9dcb271b356ce9037da1f7b3"
+  },
+  {
+   "path": "media/creatures/Beast/Raven.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Raven.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Raven.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Raven.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Raven.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Raven.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Raven.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Raven.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Raven.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Raven.usd",
+   "size": 1282082,
+   "sha256": "1aec412997a6fea66f1f82c7f2c9b952248754f4aaedaa6caf9554de00bcc06e"
+  },
+  {
+   "path": "media/creatures/Beast/Rooster.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Rooster.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Rooster.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Rooster.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Rooster.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Rooster.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Rooster.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Rooster.cooked/textures/fur.avif",
+   "size": 739,
+   "sha256": "3146ac5f15b08d3849be81e2f6989d9bbf012d69ec7ae43a0faa5287725f28b3"
+  },
+  {
+   "path": "media/creatures/Beast/Rooster.cooked/textures/fur_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Rooster.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Beast/Rooster.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Rooster.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Rooster.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Rooster.usd",
+   "size": 780750,
+   "sha256": "b3d5cf50e8d676a21ced60e589285b88c81697558ac577c5d4fe1da4f1d0e276"
+  },
+  {
+   "path": "media/creatures/Beast/Scorpion, Giant.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Scorpion, Giant.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Scorpion, Giant.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Scorpion, Giant.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Scorpion, Giant.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Scorpion, Giant.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Scorpion, Giant.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Scorpion, Giant.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Beast/Scorpion, Giant.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Scorpion, Giant.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Scorpion, Giant.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Scorpion, Giant.usd",
+   "size": 342098,
+   "sha256": "53c964262b8cba572832abe8bce3b203ef9ce02851582e75d260e3bcd190df2d"
+  },
+  {
+   "path": "media/creatures/Beast/Shark, Great White.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Shark, Great White.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Shark, Great White.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Shark, Great White.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Shark, Great White.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Shark, Great White.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Shark, Great White.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Shark, Great White.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Shark, Great White.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Shark, Great White.cooked/textures/water.avif",
+   "size": 644,
+   "sha256": "a620c7842cefe01e620892d3d24dcf88f91b1e9c3f27c7a1ecf1a24a7e2aaef9"
+  },
+  {
+   "path": "media/creatures/Beast/Shark, Great White.cooked/textures/water_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Shark, Great White.usd",
+   "size": 217140,
+   "sha256": "022acb0d34c87e258cd48e888d6b38dd05fe8e1cf8c0e22b927940befa3b36e5"
+  },
+  {
+   "path": "media/creatures/Beast/Snake, Giant.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Snake, Giant.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Snake, Giant.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Snake, Giant.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Snake, Giant.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Snake, Giant.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Snake, Giant.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Snake, Giant.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Beast/Snake, Giant.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Snake, Giant.cooked/textures/scales.avif",
+   "size": 769,
+   "sha256": "cf477006658c77fd88e7c78284ec60d922b12b48d5320ca48b3886d2c48164d8"
+  },
+  {
+   "path": "media/creatures/Beast/Snake, Giant.cooked/textures/scales_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Snake, Giant.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Snake, Giant.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Snake, Giant.usd",
+   "size": 220773,
+   "sha256": "d5b945089eef08c2150bc56e4c5b823aac6e5ca2fb07fae1c1482832f85d81bb"
+  },
+  {
+   "path": "media/creatures/Beast/Snapper, Giant.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Snapper, Giant.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Snapper, Giant.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Snapper, Giant.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Snapper, Giant.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Snapper, Giant.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Snapper, Giant.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Snapper, Giant.cooked/textures/goblinskin.avif",
+   "size": 1059,
+   "sha256": "b37d901c6639ae7e1b4810e3b3866b77be00190567908529e3139abf7986f7eb"
+  },
+  {
+   "path": "media/creatures/Beast/Snapper, Giant.cooked/textures/goblinskin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Snapper, Giant.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Snapper, Giant.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Snapper, Giant.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Beast/Snapper, Giant.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Beast/Snapper, Giant.usd",
+   "size": 387047,
+   "sha256": "69b0fa69629b9f3cfc5bfa2176fc179743e762a62d71c494465131ed44d59ba7"
+  },
+  {
+   "path": "media/creatures/Beast/Spider, Giant.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Spider, Giant.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Spider, Giant.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Spider, Giant.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Spider, Giant.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Spider, Giant.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Spider, Giant.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Spider, Giant.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Beast/Spider, Giant.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Spider, Giant.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Spider, Giant.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Spider, Giant.usd",
+   "size": 184110,
+   "sha256": "ded7da24d638f689fea3e5f14b917ea51c6d753f406d0110a65cd05dabaaf091"
+  },
+  {
+   "path": "media/creatures/Beast/Swarm, Rats.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Swarm, Rats.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Swarm, Rats.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Swarm, Rats.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Swarm, Rats.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Swarm, Rats.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Swarm, Rats.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Swarm, Rats.cooked/textures/fur.avif",
+   "size": 739,
+   "sha256": "3146ac5f15b08d3849be81e2f6989d9bbf012d69ec7ae43a0faa5287725f28b3"
+  },
+  {
+   "path": "media/creatures/Beast/Swarm, Rats.cooked/textures/fur_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Swarm, Rats.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Swarm, Rats.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Swarm, Rats.usd",
+   "size": 3782960,
+   "sha256": "7e908ab7aa98ce9a283916cb38fc42996f81d6ac7eee5aaa1d3f052d886c3357"
+  },
+  {
+   "path": "media/creatures/Beast/Toad, Giant.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Toad, Giant.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Toad, Giant.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Toad, Giant.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Toad, Giant.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Toad, Giant.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Toad, Giant.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Toad, Giant.cooked/textures/goblinskin.avif",
+   "size": 1059,
+   "sha256": "b37d901c6639ae7e1b4810e3b3866b77be00190567908529e3139abf7986f7eb"
+  },
+  {
+   "path": "media/creatures/Beast/Toad, Giant.cooked/textures/goblinskin_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Toad, Giant.cooked/textures/grass.avif",
+   "size": 852,
+   "sha256": "9dcc6896f4054bb5a3911e06d27ea275aa7858e33e9fa46ab96a5c8244755a69"
+  },
+  {
+   "path": "media/creatures/Beast/Toad, Giant.cooked/textures/grass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Toad, Giant.cooked/textures/leather.avif",
+   "size": 642,
+   "sha256": "dc1aaf6c471a1a574426948d0259b42c1bd680fb91643c878bb9c3f24c73264a"
+  },
+  {
+   "path": "media/creatures/Beast/Toad, Giant.cooked/textures/leather_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Toad, Giant.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Toad, Giant.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Toad, Giant.usd",
+   "size": 761032,
+   "sha256": "17a83311dd019a96aeed448385ae337a70e2e58df347939bd2f4b3a04ed577d0"
+  },
+  {
+   "path": "media/creatures/Beast/Turkey.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Turkey.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Turkey.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Turkey.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Turkey.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Turkey.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Turkey.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Turkey.cooked/textures/fur.avif",
+   "size": 739,
+   "sha256": "3146ac5f15b08d3849be81e2f6989d9bbf012d69ec7ae43a0faa5287725f28b3"
+  },
+  {
+   "path": "media/creatures/Beast/Turkey.cooked/textures/fur_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Turkey.cooked/textures/red.avif",
+   "size": 741,
+   "sha256": "ae45654f79c9f14953334a12c64a5549dd10bdfe084a03b3a747e3abf53fc544"
+  },
+  {
+   "path": "media/creatures/Beast/Turkey.cooked/textures/red_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Turkey.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Turkey.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Turkey.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/creatures/Beast/Turkey.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/creatures/Beast/Turkey.usd",
+   "size": 1444487,
+   "sha256": "d1e0fe3d1ae9b5f180c53e26e8489e1236a2e1ccae544bf1241eef77a49116a8"
+  },
+  {
+   "path": "media/creatures/Beast/Wolf, Vicious.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/creatures/Beast/Wolf, Vicious.cooked/textures/basalt.avif",
+   "size": 563,
+   "sha256": "28294abc790a3545caaabc5c03b81cd8e8f18dd2da837483994f9929659a6a72"
+  },
+  {
+   "path": "media/creatures/Beast/Wolf, Vicious.cooked/textures/basalt_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Wolf, Vicious.cooked/textures/bone.avif",
+   "size": 1702,
+   "sha256": "5de093dfecd5e06c2e92dbe5fb360a70d61f9ebd622e163b118743e93debba32"
+  },
+  {
+   "path": "media/creatures/Beast/Wolf, Vicious.cooked/textures/bone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Wolf, Vicious.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/creatures/Beast/Wolf, Vicious.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Wolf, Vicious.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/creatures/Beast/Wolf, Vicious.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/creatures/Beast/Wolf, Vicious.usd",
+   "size": 573925,
+   "sha256": "8880e9ee0afe11c564a40c1a745cea8d9a0eb08bff8ed9d22d583bb5bf351502"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Bat, Giant",
+   "kind": "creature",
+   "thumb": "thumbs/62fe21da-003b-4e3b-9b29-a690036b4ea2.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "large",
+    "bat",
+    "flying",
+    "fur",
+    "wings",
+    "chaotic"
+   ]
+  },
+  {
+   "name": "Bear, Cave",
+   "kind": "creature",
+   "thumb": "thumbs/d58ff25c-57ca-418a-975d-a2015d9416b4.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "large",
+    "bear",
+    "fur",
+    "chaotic",
+    "neutral",
+    "claws"
+   ]
+  },
+  {
+   "name": "Beaver",
+   "kind": "creature",
+   "thumb": "thumbs/89afe125-360b-49b2-9b07-757fdbdcf44c.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "fur",
+    "beaver",
+    "mammal",
+    "brown"
+   ]
+  },
+  {
+   "name": "Boar",
+   "kind": "creature",
+   "thumb": "thumbs/5a03d546-df4a-4a7a-a3a0-82e91d5a2f67.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "boar",
+    "pig",
+    "mammal",
+    "quadruped",
+    "medium",
+    "fur"
+   ]
+  },
+  {
+   "name": "Camel",
+   "kind": "creature",
+   "thumb": "thumbs/d86a1177-213b-4e0c-a963-7c69919cd340.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "camel",
+    "large",
+    "fur",
+    "chaotic",
+    "neutral",
+    "tail"
+   ]
+  },
+  {
+   "name": "Cat, Black & White",
+   "kind": "creature",
+   "thumb": "thumbs/feb9d23b-c07a-4e14-ac3b-c88a9c011ee6.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "cat",
+    "tiny",
+    "fur",
+    "chaotic",
+    "neutral",
+    "tail"
+   ]
+  },
+  {
+   "name": "Cat",
+   "kind": "creature",
+   "thumb": "thumbs/20b739bb-8185-4fea-8450-2db0002c8827.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "cat",
+    "orange",
+    "small",
+    "fur"
+   ]
+  },
+  {
+   "name": "Centipede, Giant",
+   "kind": "creature",
+   "thumb": "thumbs/a5dcaa95-3ada-4e0a-9c1c-3e7e8335a35f.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "large",
+    "insect",
+    "chaotic",
+    "neutral",
+    "black",
+    "red"
+   ]
+  },
+  {
+   "name": "Chicken",
+   "kind": "creature",
+   "thumb": "thumbs/910ec555-8660-419c-bac5-5d2333b3375d.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "chicken",
+    "tiny",
+    "feather",
+    "wings",
+    "chaotic",
+    "neutral"
+   ]
+  },
+  {
+   "name": "Cow",
+   "kind": "creature",
+   "thumb": "thumbs/89f83011-89e2-4ad0-973d-522ef4ee03c9.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "cow",
+    "large",
+    "fur",
+    "chaotic",
+    "neutral",
+    "tail"
+   ]
+  },
+  {
+   "name": "Crab, Giant",
+   "kind": "creature",
+   "thumb": "thumbs/57d85e12-b3f9-4370-8bcf-0a356522ffb7.jpg",
+   "tags": [
+    "beast",
+    "giant",
+    "crab",
+    "ocean",
+    "underwater",
+    "wild",
+    "harbor",
+    "orange"
+   ]
+  },
+  {
+   "name": "Crane",
+   "kind": "creature",
+   "thumb": "thumbs/a0aba0f6-5dc3-4991-9e5b-332dd8126a9a.jpg",
+   "tags": [
+    "beast",
+    "crane",
+    "bird",
+    "feather",
+    "feathers",
+    "wings",
+    "beak",
+    "white"
+   ]
+  },
+  {
+   "name": "Crocodile",
+   "kind": "creature",
+   "thumb": "thumbs/28f7710e-9f79-425b-ac6e-216677454ec3.jpg",
+   "tags": [
+    "beast",
+    "crocodile",
+    "animal",
+    "lizard",
+    "alligator",
+    "large",
+    "scales",
+    "chaotic"
+   ]
+  },
+  {
+   "name": "Dog, German Shepherd",
+   "kind": "creature",
+   "thumb": "thumbs/ffb8d506-97c5-4d08-8be3-bbd0f997e215.jpg",
+   "tags": [
+    "beast",
+    "dog",
+    "canine",
+    "german",
+    "shepherd",
+    "fur"
+   ]
+  },
+  {
+   "name": "Dog",
+   "kind": "creature",
+   "thumb": "thumbs/62d50617-d605-4aec-aadf-2c6840ad23d0.jpg",
+   "tags": [
+    "beast",
+    "dog",
+    "animal",
+    "domestic"
+   ]
+  },
+  {
+   "name": "Doplhin",
+   "kind": "creature",
+   "thumb": "thumbs/5ad3cb95-6cc5-4b22-9295-0d5dfce82575.jpg",
+   "tags": [
+    "beast",
+    "dolphin",
+    "fish",
+    "ocean",
+    "fin",
+    "underwater",
+    "wild",
+    "harbor"
+   ]
+  },
+  {
+   "name": "Elk",
+   "kind": "creature",
+   "thumb": "thumbs/4a32bbc4-f31f-4db9-b917-a211c7705e3f.jpg",
+   "tags": [
+    "beast",
+    "deer",
+    "elk",
+    "brown",
+    "gray",
+    "hooves",
+    "large",
+    "wild"
+   ]
+  },
+  {
+   "name": "Ferret",
+   "kind": "creature",
+   "thumb": "thumbs/2ddac550-abba-406a-bf18-7068d1dfaf9b.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "fur",
+    "ferret",
+    "mammal"
+   ]
+  },
+  {
+   "name": "Goat 01",
+   "kind": "creature",
+   "thumb": "thumbs/71a127d8-a437-414d-a845-a39606a8a2fa.jpg",
+   "tags": [
+    "beast",
+    "goat",
+    "animal",
+    "medium",
+    "chaotic",
+    "neutral",
+    "tail",
+    "hooves"
+   ]
+  },
+  {
+   "name": "Goose",
+   "kind": "creature",
+   "thumb": "thumbs/c4f92127-9c5d-476b-a08c-45d25dabe38d.jpg",
+   "tags": [
+    "beast",
+    "pillow",
+    "wings",
+    "evil",
+    "bird",
+    "goose",
+    "white",
+    "feather"
+   ]
+  },
+  {
+   "name": "Horse",
+   "kind": "creature",
+   "thumb": "thumbs/930b9619-5a9a-4e24-aaa2-2366c96c77d5.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "horse",
+    "large",
+    "chaotic",
+    "neutral",
+    "tail",
+    "hooves"
+   ]
+  },
+  {
+   "name": "Hyena",
+   "kind": "creature",
+   "thumb": "thumbs/a0655870-9b3a-4d97-8103-501fbfee067e.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "hyena",
+    "brown",
+    "tan",
+    "medium",
+    "unaligned",
+    "claws"
+   ]
+  },
+  {
+   "name": "Monkey (Snub-nosed)",
+   "kind": "creature",
+   "thumb": "thumbs/40f0564f-a411-4c23-b3cc-27eb0d5b2093.jpg",
+   "tags": [
+    "beast",
+    "monkey",
+    "ape",
+    "animal",
+    "orange",
+    "small",
+    "medium",
+    "fur"
+   ]
+  },
+  {
+   "name": "Mule, Pack",
+   "kind": "creature",
+   "thumb": "thumbs/1393b9a4-8c33-42b5-b3f5-30b8e23cc6dd.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "medium",
+    "donkey",
+    "mule",
+    "grey",
+    "chaotic",
+    "neutral"
+   ]
+  },
+  {
+   "name": "Mule",
+   "kind": "creature",
+   "thumb": "thumbs/83e2e8f8-e0fd-4fd6-92d8-157dc57292d0.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "medium",
+    "donkey",
+    "mule",
+    "chaotic",
+    "neutral",
+    "tail"
+   ]
+  },
+  {
+   "name": "Narwhal",
+   "kind": "creature",
+   "thumb": "thumbs/b2096eca-7204-47a8-86ce-686e82b4363f.jpg",
+   "tags": [
+    "beast",
+    "narwhal",
+    "whale",
+    "fish",
+    "underwater",
+    "wild",
+    "harbor",
+    "swimming"
+   ]
+  },
+  {
+   "name": "Octopus",
+   "kind": "creature",
+   "thumb": "thumbs/c2a8eabc-ede5-459d-b6d2-b81becd82c9b.jpg",
+   "tags": [
+    "beast",
+    "octopus",
+    "ocean",
+    "water",
+    "animal",
+    "underwater",
+    "wild",
+    "harbor"
+   ]
+  },
+  {
+   "name": "Owl",
+   "kind": "creature",
+   "thumb": "thumbs/7e9184d4-5ac1-48ba-8aaa-d4cf2e65f933.jpg",
+   "tags": [
+    "beast",
+    "owl",
+    "animal",
+    "bird",
+    "flying",
+    "tiny",
+    "wings",
+    "chaotic"
+   ]
+  },
+  {
+   "name": "Owlbear",
+   "kind": "creature",
+   "thumb": "thumbs/2c734808-cb4f-4425-a8cc-977c2a1ee5fa.jpg",
+   "tags": [
+    "beast",
+    "owlbear",
+    "owl",
+    "bear",
+    "animal",
+    "claws",
+    "beak",
+    "fur"
+   ]
+  },
+  {
+   "name": "Pig",
+   "kind": "creature",
+   "thumb": "thumbs/9ccc5edb-6bb5-4a82-83aa-e5e5775e8f07.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "pig",
+    "medium",
+    "chaotic",
+    "neutral",
+    "hooves",
+    "tail"
+   ]
+  },
+  {
+   "name": "Pterodactyl",
+   "kind": "creature",
+   "thumb": "thumbs/65c7d0dc-7cbe-4cd9-8592-24a9bfcc4508.jpg",
+   "tags": [
+    "beast",
+    "dinosaur",
+    "pterodactyl",
+    "reptile",
+    "dinosuar",
+    "lizzard",
+    "flying",
+    "wings"
+   ]
+  },
+  {
+   "name": "Rabbit",
+   "kind": "creature",
+   "thumb": "thumbs/f6868f01-cf24-433d-a887-46083a288e69.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "hare",
+    "rabbit",
+    "white",
+    "pink",
+    "wild"
+   ]
+  },
+  {
+   "name": "Raccoon",
+   "kind": "creature",
+   "thumb": "thumbs/b807a78d-b704-4709-acea-4ec37aa03b0e.jpg",
+   "tags": [
+    "beast",
+    "raccoon",
+    "animal",
+    "wild",
+    "trash",
+    "panda"
+   ]
+  },
+  {
+   "name": "Raptor",
+   "kind": "creature",
+   "thumb": "thumbs/8fa8c4bf-aa48-4257-bbfe-6fea5bacdfed.jpg",
+   "tags": [
+    "beast",
+    "dinosuar",
+    "lizzard",
+    "green",
+    "dinosaur",
+    "reptile",
+    "bipedal",
+    "biped"
+   ]
+  },
+  {
+   "name": "Rat, Giant",
+   "kind": "creature",
+   "thumb": "thumbs/d8c8a8e0-c452-48ad-9ecd-aba5e54cf235.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "rat",
+    "small",
+    "fur",
+    "chaotic",
+    "neutral",
+    "tail"
+   ]
+  },
+  {
+   "name": "Raven",
+   "kind": "creature",
+   "thumb": "thumbs/0eccf296-c033-4264-b2c6-2f83e3fc4969.jpg",
+   "tags": [
+    "beast",
+    "crow",
+    "raven",
+    "flying",
+    "feather",
+    "black",
+    "beak"
+   ]
+  },
+  {
+   "name": "Rooster",
+   "kind": "creature",
+   "thumb": "thumbs/8e3155e4-d303-4f5f-ad7a-f1e8a0a223fb.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "rooster",
+    "small",
+    "wings",
+    "feather",
+    "chaotic",
+    "neutral"
+   ]
+  },
+  {
+   "name": "Scorpion, Giant",
+   "kind": "creature",
+   "thumb": "thumbs/cbc7ecbf-5d0d-4177-9914-76ed41f4b114.jpg",
+   "tags": [
+    "beast",
+    "giant",
+    "animal",
+    "scorpion",
+    "large",
+    "exoskeleton",
+    "chaotic",
+    "neutral"
+   ]
+  },
+  {
+   "name": "Shark, Great White",
+   "kind": "creature",
+   "thumb": "thumbs/ac0de4cc-c084-4720-9902-623249d17c91.jpg",
+   "tags": [
+    "beast",
+    "monstrous",
+    "fish",
+    "animal",
+    "shark",
+    "underwater",
+    "ocean",
+    "docks"
+   ]
+  },
+  {
+   "name": "Snake, Giant",
+   "kind": "creature",
+   "thumb": "thumbs/4579458f-77da-48cb-b626-f4e93b10062b.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "large",
+    "snake",
+    "reptile",
+    "chaotic",
+    "neutral",
+    "teeth"
+   ]
+  },
+  {
+   "name": "Snapper, Giant",
+   "kind": "creature",
+   "thumb": "thumbs/3dd48e33-73ef-4e9b-aa61-c7edb454f5e4.jpg",
+   "tags": [
+    "beast",
+    "turtle",
+    "snapper",
+    "animal",
+    "swamp",
+    "reptile",
+    "green",
+    "quadruped"
+   ]
+  },
+  {
+   "name": "Spider, Giant",
+   "kind": "creature",
+   "thumb": "thumbs/e43b9f74-465b-4d6e-bb22-c8074fee2869.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "medium",
+    "spider",
+    "chaotic",
+    "neutral",
+    "black",
+    "grey"
+   ]
+  },
+  {
+   "name": "Swarm, Rats",
+   "kind": "creature",
+   "thumb": "thumbs/9c95cb8d-9551-4065-98cb-4fd1d34917aa.jpg",
+   "tags": [
+    "beast",
+    "rat",
+    "swarm",
+    "vermin",
+    "tide",
+    "tail",
+    "fur",
+    "rats"
+   ]
+  },
+  {
+   "name": "Toad, Giant",
+   "kind": "creature",
+   "thumb": "thumbs/2890b867-71a8-4fe9-9894-4f48fcea3f6b.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "large",
+    "toad",
+    "giant",
+    "chaotic",
+    "neutral",
+    "brown"
+   ]
+  },
+  {
+   "name": "Turkey",
+   "kind": "creature",
+   "thumb": "thumbs/f2c5b70b-154f-4f40-aca9-5e9c1ef53d65.jpg",
+   "tags": [
+    "beast",
+    "bird",
+    "turkey",
+    "feather",
+    "food",
+    "wild",
+    "animal",
+    "beak"
+   ]
+  },
+  {
+   "name": "Wolf, Vicious",
+   "kind": "creature",
+   "thumb": "thumbs/0d8a372c-7d6c-4ef5-9ff2-1559b5021830.jpg",
+   "tags": [
+    "beast",
+    "animal",
+    "medium",
+    "wolf",
+    "mammal",
+    "quadruped",
+    "dog",
+    "black"
+   ]
+  }
+ ]
+}

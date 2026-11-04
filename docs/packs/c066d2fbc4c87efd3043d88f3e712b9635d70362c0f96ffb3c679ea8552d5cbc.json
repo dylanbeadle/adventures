@@ -1,0 +1,2141 @@
+{
+ "id": "b3349dc7-7d5d-5f78-819e-e4620afed0c6",
+ "folder": "Dungeon Cellar Tiles.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 1566,
+   "sha256": "227bec72a534f06df255d9c17818a181b392391f29755e49d01ce17fced85b83"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 37757,
+   "sha256": "8303f58dd922978f2852c63c4df12e911dd77f8ab875f7a537093069e0a7fc85"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Corner + No Floor.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Corner + No Floor.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Corner + No Floor.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Corner + No Floor.usd",
+   "size": 118816,
+   "sha256": "259f51090097bb29193098b4a04f7c3fa63f9f860d0e2374c5cf121575cf4028"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Floor - Cracked.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Floor - Cracked.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Floor - Cracked.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Floor - Cracked.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Floor - Cracked.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Floor - Cracked.usd",
+   "size": 81525,
+   "sha256": "bf4e9f24fc53f1dacbe4f1789cf7ba85e10304fa8d960ac5d421b2c5fbb36665"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Floor - Rounded.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Floor - Rounded.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Floor - Rounded.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Floor - Rounded.usd",
+   "size": 15793,
+   "sha256": "84dc97671383970e1c7a05a3befc0689c7073c309c4d3bf2157fb273af86530c"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Floor - Small.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Floor - Small.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Floor - Small.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Floor - Small.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Floor - Small.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Floor - Small.usd",
+   "size": 18720,
+   "sha256": "9c631a0136186c6149fe33b5d83bc05dfd92539dc8399a8c05c45c3cd2f7cae7"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Floor 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Floor 01.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Floor 01.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Floor 01.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Floor 01.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Floor 01.usd",
+   "size": 27515,
+   "sha256": "3d9d6f426db942b892056c0c6331889119d45213edafbbfd3cbed71b299b882d"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Floor 02.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Floor 02.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Floor 02.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Floor 02.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Floor 02.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Floor 02.usd",
+   "size": 52897,
+   "sha256": "3edc6ba0e35ea5b86b0a306a6d02b48cd8155d4d82f43561b6bf363de3378fd2"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Pillar - Ruined.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Pillar - Ruined.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Pillar - Ruined.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Pillar - Ruined.usd",
+   "size": 24281,
+   "sha256": "dd49baa54fae1a5e874f734763a953afc58df30a94de1614bb649ded9ec3eb1c"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Pillar.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Pillar.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Pillar.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Pillar.usd",
+   "size": 38380,
+   "sha256": "916fc4b42c771d52ebfadd667b88b9e5054ab1b1f0b250d23f0124ce89b97036"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Stair Block.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Stair Block.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Stair Block.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Stair Block.usd",
+   "size": 9806,
+   "sha256": "4070de577b8fd8d0fcae062dcbdc25815995b0e00441afcf61e3014a4f4554c8"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Stairs.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Stairs.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Stairs.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Stairs.usd",
+   "size": 15583,
+   "sha256": "e92b231337ff8d9f5938e83902e754c438a2eb88e3d3b12e62b30bf8ff2558ea"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor - Crumbling.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor - Crumbling.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor - Crumbling.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor - Crumbling.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor - Crumbling.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor - Crumbling.usd",
+   "size": 117534,
+   "sha256": "1c94037c2eeb0d4eb3916dc8521a1ca032b94f260a48d3d86977216f6145e539"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor 01.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor 01.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor 01.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor 01.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor 01.usd",
+   "size": 80774,
+   "sha256": "156c706358192f9d34809f33d6a1a8b536822ad1300d757499112c45c3736d4a"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor 02.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor 02.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor 02.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor 02.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor 02.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor 02.usd",
+   "size": 136470,
+   "sha256": "440d8fcd3329f78db5c9fc136cccfda185de879e3692cfd4f285074747bd2643"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor 03.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor 03.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor 03.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor 03.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor 03.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor 03.usd",
+   "size": 136471,
+   "sha256": "07d3b50313da02484c8e657395d04623162832fdbc8d7b85178c68457f5644ab"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor 04.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor 04.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor 04.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor 04.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor 04.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor 04.usd",
+   "size": 158741,
+   "sha256": "168fecdb966875d68f072df924a0c1fc8f1757ac602f000cadc2234df9f6384a"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor Corner - Small.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor Corner - Small.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor Corner - Small.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor Corner - Small.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor Corner - Small.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor Corner - Small.usd",
+   "size": 133325,
+   "sha256": "c3e788683c2cd33e37ee92f128e76c51c43e64af64373e65515cb89bd2a0756c"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor Corner 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor Corner 01.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor Corner 01.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor Corner 01.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor Corner 01.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor Corner 01.usd",
+   "size": 255832,
+   "sha256": "0bbd9be3e67416a21453c486e315116d37684177c838273b91002a1dc5c02d16"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor Corner With Chains.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor Corner With Chains.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor Corner With Chains.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor Corner With Chains.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor Corner With Chains.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor Corner With Chains.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor Corner With Chains.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor Corner With Chains.usd",
+   "size": 544271,
+   "sha256": "9c24ece18cf22f8856168cf814cc9e860c34023988f67afc377c21bfe104654c"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor Corner With Torch.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor Corner With Torch.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor Corner With Torch.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor Corner With Torch.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor Corner With Torch.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor Corner With Torch.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor Corner With Torch.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor Corner With Torch.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor Corner With Torch.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor Corner With Torch.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor Corner With Torch.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor Corner With Torch.usd",
+   "size": 266343,
+   "sha256": "0d718fc1d82587c28ce309ed4064a808caa1e299e0a997646f39f6f834fce9cf"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Chains 02.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Chains 02.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Chains 02.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Chains 02.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Chains 02.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Chains 02.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Chains 02.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Chains 02.usd",
+   "size": 447020,
+   "sha256": "6d8b0c26b68bcf73ffec452ff60b2bbac2d4962f907c9ee755d3bbe29e825c24"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Chains 03.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Chains 03.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Chains 03.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Chains 03.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Chains 03.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Chains 03.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Chains 03.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Chains 03.usd",
+   "size": 447230,
+   "sha256": "f341e36df7e11f26f940ca16291164c555a908537f432dc43f2332a2290557fa"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Chains.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Chains.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Chains.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Chains.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Chains.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Chains.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Chains.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Chains.usd",
+   "size": 369246,
+   "sha256": "99020c056d076f427e80d1e13647127c44d478783cbf585bcce9fccd28132aed"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Drain 02.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Drain 02.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Drain 02.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Drain 02.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Drain 02.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Drain 02.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Drain 02.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Drain 02.usd",
+   "size": 168196,
+   "sha256": "0707caab1afe17e3942911f1fd237757a4bdb9b062680ec5774381b2a8729ba3"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Drain.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Drain.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Drain.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Drain.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Drain.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Drain.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Drain.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Drain.usd",
+   "size": 146215,
+   "sha256": "dc9ede8b9991a571b08595ac2b876920b2affb76361f03b088e5414a5016d805"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Roots 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Roots 01.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Roots 01.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Roots 01.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Roots 01.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Roots 01.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Roots 01.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Roots 01.usd",
+   "size": 126345,
+   "sha256": "bdde4b79ec1bd66faecdf7befc237d6340bf88be93cba2a945acb6a8a96bc301"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Roots 02.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Roots 02.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Roots 02.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Roots 02.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Roots 02.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Roots 02.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Roots 02.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Roots 02.usd",
+   "size": 182063,
+   "sha256": "621f05f0b77f96cceb712c252613a53f0b55086c463b6c054f882f30a03ea4c3"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Roots 03.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Roots 03.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Roots 03.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Roots 03.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Roots 03.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Roots 03.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Roots 03.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Roots 03.usd",
+   "size": 204088,
+   "sha256": "4837e8175d13ff8b1c3a603a7db615b75b99ec19628c1193629cdf573861dc77"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Rounded Corner.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Rounded Corner.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Rounded Corner.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Rounded Corner.usd",
+   "size": 106578,
+   "sha256": "3296c7834dbbca22d8ae3fcff3f548ab9db40ed583e7458a7bb351c7ebf07b01"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Torch 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Torch 01.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Torch 01.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Torch 01.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Torch 01.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Torch 01.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Torch 01.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Torch 01.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Torch 01.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Torch 01.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Torch 01.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Torch 01.usd",
+   "size": 91220,
+   "sha256": "e28f8cfa23b1b39a4d915d548faa292d8db1ee430f13c4b5d62483fda75149e7"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Torch 03.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Torch 03.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Torch 03.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Torch 03.cooked/textures/lava.avif",
+   "size": 1157,
+   "sha256": "2e0d0a8f2a79b2ce56418a2e3a19484d2a643376a479c4d9d1fa474736f6fdf5"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Torch 03.cooked/textures/lava_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Torch 03.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Torch 03.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Torch 03.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Torch 03.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Torch 03.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Torch 03.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Floor With Torch 03.usd",
+   "size": 169199,
+   "sha256": "001a84784977847bacea1e791b0630adfa16ae5704eaec53e43fd5c759f884de"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Ruined With Ruits.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Ruined With Ruits.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Ruined With Ruits.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Ruined With Ruits.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Ruined With Ruits.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Ruined With Ruits.usd",
+   "size": 109260,
+   "sha256": "8553c46c34cf3844d0aaf22985684a93d112ac2fff7aedd80caffc75b9cf2352"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Ruined.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Ruined.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Ruined.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall - Ruined.usd",
+   "size": 63501,
+   "sha256": "e8b4e2ff94bfe9f744b0f8f305562e8e82f039c83628f309823be48a5ed74e90"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall 01.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall 01.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall 01.usd",
+   "size": 66009,
+   "sha256": "e492af52f357ed900ce2ebd313653c44e80099e91863ca08f66c3f4688dc5f36"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall 02.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall 02.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall 02.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall 02.usd",
+   "size": 110823,
+   "sha256": "49d3ce3b4b2c655d5fed99ed625cc3309b68606ceb2dbeb2fe37b1f8e16f57a8"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall Corner 01.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall Corner 01.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall Corner 01.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall Corner 01.usd",
+   "size": 207807,
+   "sha256": "30051407c1401943acf50d7eb6a3cee6ef9e895511f2bce40b3929f88a1a73b9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall Corner Filler.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall Corner Filler.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall Corner Filler.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall Corner Filler.usd",
+   "size": 118804,
+   "sha256": "294fca63a5b30b3cc15d59946739c35e19add49cbf87f0a9462fe2635330cc2f"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall With Rounded Corner.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall With Rounded Corner.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall With Rounded Corner.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Dungeon Wall With Rounded Corner.usd",
+   "size": 94501,
+   "sha256": "82eb268b00097b4e33252821a3be52371d409973866f8579623869ca9977dab2"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Prison Cage corner.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Prison Cage corner.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Prison Cage corner.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Prison Cage corner.usd",
+   "size": 47731,
+   "sha256": "93b1794a0fb837fbb0d51d8c6f3c9386338fec6e324e0b8e94ef6024d5a8d782"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Prison Cage wall.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Prison Cage wall.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Prison Cage wall.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Dungeon Cellar/Prison Cage wall.usd",
+   "size": 27077,
+   "sha256": "bccf821d1603a2f2a37cf52d5e3e3e80fd5a96838e94e669a4d8758beca1a7fc"
+  },
+  {
+   "path": "scenery/corner-no-floor.md",
+   "size": 295,
+   "sha256": "bfa8edecbd84b7329df23ea621e0cd389849dd197b49a8e5c47c43f1ef264fa1"
+  },
+  {
+   "path": "scenery/dungeon-floor-01.md",
+   "size": 276,
+   "sha256": "95ff8826d416b889a77162668222a6a88fcc643912a9aa3172682cb1d3e381b0"
+  },
+  {
+   "path": "scenery/dungeon-floor-02.md",
+   "size": 277,
+   "sha256": "5db608aa82845d0291f6ec711d18957388fcecdc90bf71fd982919efdd21bf48"
+  },
+  {
+   "path": "scenery/dungeon-floor-cracked.md",
+   "size": 297,
+   "sha256": "9e2f20859f76b873f411828351581c3dd2cf1b97782bd269b6248b0a463e91b0"
+  },
+  {
+   "path": "scenery/dungeon-floor-rounded.md",
+   "size": 298,
+   "sha256": "0bb348e45449bbb9c1ffc7911ad577e6a9a5bbab87bd966f2621c9688bf5d8bb"
+  },
+  {
+   "path": "scenery/dungeon-floor-small.md",
+   "size": 286,
+   "sha256": "e4434aeda3702a7bd4b292c79548500aa7e294d6bb71151283eafec20332086c"
+  },
+  {
+   "path": "scenery/dungeon-pillar-ruined.md",
+   "size": 297,
+   "sha256": "89cc70a3d65397c0f822b51d2254915f61f676aa5fa8edc36d05a2501ef04760"
+  },
+  {
+   "path": "scenery/dungeon-pillar.md",
+   "size": 273,
+   "sha256": "7dcf7149df6b26e5dd2a78c98d40c8c2a4b73e7b932aa414466d110ed526523a"
+  },
+  {
+   "path": "scenery/dungeon-stair-block.md",
+   "size": 290,
+   "sha256": "027905ca7b253100cb21ddd335c0f253a7530e11c55e930213a56b4cbf7df5e5"
+  },
+  {
+   "path": "scenery/dungeon-stairs.md",
+   "size": 273,
+   "sha256": "55e83f177bbdd314cb5228a615fffff6601d43404a26923ed4046506a3de8731"
+  },
+  {
+   "path": "scenery/dungeon-wall-01.md",
+   "size": 274,
+   "sha256": "95008392d94ec2d3485e638f5773d9734f7c347d1008facab4a6d44c95535838"
+  },
+  {
+   "path": "scenery/dungeon-wall-02.md",
+   "size": 273,
+   "sha256": "1ce570e58124e91e74969989e081d66a93a7b6a3fef94a4e410ea10da2c94710"
+  },
+  {
+   "path": "scenery/dungeon-wall-corner-01.md",
+   "size": 269,
+   "sha256": "3f482ab2c212d507acf3a692a075052b0302efaad6aa6a5e245fcec037d94b29"
+  },
+  {
+   "path": "scenery/dungeon-wall-corner-filler.md",
+   "size": 311,
+   "sha256": "939bd065236f2ead0a20faabaffbcb6eba6d291d8e4af734791def8fca355342"
+  },
+  {
+   "path": "scenery/dungeon-wall-floor-01.md",
+   "size": 295,
+   "sha256": "b5253d400d5c1282357fbe0a4c117dfc0fe38758358c84a0a48e25e65a56e565"
+  },
+  {
+   "path": "scenery/dungeon-wall-floor-02.md",
+   "size": 294,
+   "sha256": "344f4cf5a60ec7535ab5269d056635647df3e0da08d2ef93d96c7e552385d2cf"
+  },
+  {
+   "path": "scenery/dungeon-wall-floor-03.md",
+   "size": 294,
+   "sha256": "a4bb03352905cbdacbb305b067ef5f2ab1b85847e2709a41f63a179144ab0cdd"
+  },
+  {
+   "path": "scenery/dungeon-wall-floor-04.md",
+   "size": 294,
+   "sha256": "16d05aa7bc1769b0801cbc3b628f35bafd6269a92ef0c525be57af77eae1fe1c"
+  },
+  {
+   "path": "scenery/dungeon-wall-floor-corner-01.md",
+   "size": 316,
+   "sha256": "29df71a37f375ea0baf6676a14a6783eb091b29fc36051ad9fc0fce812cb4b9c"
+  },
+  {
+   "path": "scenery/dungeon-wall-floor-corner-small.md",
+   "size": 327,
+   "sha256": "58f6bdef0b8d742ccabd511f14253f78d2ffeae6c9a4a613904b3e5f767437da"
+  },
+  {
+   "path": "scenery/dungeon-wall-floor-corner-with-chains.md",
+   "size": 349,
+   "sha256": "546844ac5320f691fa96b2a58681429c4ef060dfc478e3a75707cb069aee551f"
+  },
+  {
+   "path": "scenery/dungeon-wall-floor-corner-with-torch.md",
+   "size": 371,
+   "sha256": "839e104d8fa0d45d1a62a53a74a09b38f23c24173953c66d4fbb67a19417b6eb"
+  },
+  {
+   "path": "scenery/dungeon-wall-floor-crumbling.md",
+   "size": 318,
+   "sha256": "ebf56a0b59a89639ba1a26e648229012229a71ce0d1d40fea696b60b8f68e777"
+  },
+  {
+   "path": "scenery/dungeon-wall-floor-with-chains-02.md",
+   "size": 323,
+   "sha256": "46307d19f6fe7faa66e8c02d46504f6703b10a987eb6ddd6d4158adc2e24fefa"
+  },
+  {
+   "path": "scenery/dungeon-wall-floor-with-chains-03.md",
+   "size": 326,
+   "sha256": "5a9f7dde07c1ee9598b518a0dcaa6599c5e4c23e0bffbfe157f2fdd50f9f1a12"
+  },
+  {
+   "path": "scenery/dungeon-wall-floor-with-chains.md",
+   "size": 312,
+   "sha256": "ab963f58754067fc6ea72005de7d0c399cd869279b95a4cf233794593d9c432a"
+  },
+  {
+   "path": "scenery/dungeon-wall-floor-with-drain-02.md",
+   "size": 323,
+   "sha256": "dee20c49b5363de6648246692a9509b70b3d0d8da02ce9d01cd3fdd5defbd41b"
+  },
+  {
+   "path": "scenery/dungeon-wall-floor-with-drain.md",
+   "size": 317,
+   "sha256": "1ec8b32f1bae48b1a889cf51d0ee9247ff29ba31f793ebff93f2b25274df4e08"
+  },
+  {
+   "path": "scenery/dungeon-wall-floor-with-roots-01.md",
+   "size": 324,
+   "sha256": "652cf003ea268b6ebe7f7cd17b1187d4fe38f0340ecd551511bd89920d0e214a"
+  },
+  {
+   "path": "scenery/dungeon-wall-floor-with-roots-02.md",
+   "size": 322,
+   "sha256": "43caa0fc3cff0e21e9a2e701eaa834a96dd1d3f255858423fd20d44b8c916f9e"
+  },
+  {
+   "path": "scenery/dungeon-wall-floor-with-roots-03.md",
+   "size": 323,
+   "sha256": "d9b2f8f38349bf587d9093af733cbb7d8bf65016c25c14b1b930d086a1fe96f4"
+  },
+  {
+   "path": "scenery/dungeon-wall-floor-with-rounded-corner.md",
+   "size": 343,
+   "sha256": "0bff33f4f9173b9fca8c0358e7bab858ff9618a06baac7e5d53608d109cbf0ab"
+  },
+  {
+   "path": "scenery/dungeon-wall-floor-with-torch-01.md",
+   "size": 349,
+   "sha256": "f12103929305a6b35ab6ab66a53c33ae2e56f322c1ac01d59bf0668ded902654"
+  },
+  {
+   "path": "scenery/dungeon-wall-floor-with-torch-03.md",
+   "size": 349,
+   "sha256": "6faf898de9ce17159900b14aa001f1d1509e5783e18b59e02b1ca42b0a211027"
+  },
+  {
+   "path": "scenery/dungeon-wall-ruined-with-ruits.md",
+   "size": 320,
+   "sha256": "afafb0db90ad711b08993eca023be3c914199a60a36893bb245afbaff47abcec"
+  },
+  {
+   "path": "scenery/dungeon-wall-ruined.md",
+   "size": 291,
+   "sha256": "78d662a43b023e9b21ad026d8bcd4ab62f591eeced93fd181131cdbf9cf78ae9"
+  },
+  {
+   "path": "scenery/dungeon-wall-with-rounded-corner.md",
+   "size": 322,
+   "sha256": "eacad5d0a24a371bb632e110572ddf8099138bb6281c15305ec3cbae758efe74"
+  },
+  {
+   "path": "scenery/prison-cage-corner.md",
+   "size": 305,
+   "sha256": "c1c29be1eb941d80d560d941c0352595405c40765e394e28ae08209042015d4d"
+  },
+  {
+   "path": "scenery/prison-cage-wall.md",
+   "size": 301,
+   "sha256": "7be872521f29434ebe7fd40e9271b7eea9321eb00d008e820c10b956c691f7e9"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Corner + No Floor",
+   "kind": "scenery",
+   "thumb": "thumbs/4b171272-d4a9-4251-95ed-53d3a0e860f1.jpg",
+   "tags": [
+    "dungeon-cellar",
+    "dungeon",
+    "corner",
+    "floor",
+    "wall",
+    "moss",
+    "stone",
+    "gray",
+    "grey",
+    "yellow",
+    "mold",
+    "medium"
+   ]
+  },
+  {
+   "name": "Dungeon Floor 01",
+   "kind": "scenery",
+   "thumb": "thumbs/16dca349-3089-4547-b258-bd467413aa42.jpg",
+   "tags": [
+    "dungeon-cellar",
+    "dungeon",
+    "floor",
+    "moss",
+    "stone",
+    "gray",
+    "grey",
+    "yellow",
+    "mold",
+    "small"
+   ]
+  },
+  {
+   "name": "Dungeon Floor 02",
+   "kind": "scenery",
+   "thumb": "thumbs/bdd9483a-3d7c-4f06-bfdd-145765045c0d.jpg",
+   "tags": [
+    "dungeon-cellar",
+    "dungeon",
+    "floor",
+    "moss",
+    "stone",
+    "gray",
+    "grey",
+    "yellow",
+    "mold",
+    "medium"
+   ]
+  },
+  {
+   "name": "Dungeon Floor - Cracked",
+   "kind": "scenery",
+   "thumb": "thumbs/4c65150a-2e46-41cf-99ef-191d31d968e0.jpg",
+   "tags": [
+    "dungeon-cellar",
+    "dungeon",
+    "floor",
+    "ruin",
+    "moss",
+    "stone",
+    "gray",
+    "grey",
+    "yellow",
+    "mold",
+    "medium"
+   ]
+  },
+  {
+   "name": "Dungeon Floor - Rounded",
+   "kind": "scenery",
+   "thumb": "thumbs/e68ed0ae-9adf-4e53-af28-c0de3107ccfc.jpg",
+   "tags": [
+    "dungeon-cellar",
+    "dungeon",
+    "floor",
+    "curve",
+    "moss",
+    "stone",
+    "gray",
+    "grey",
+    "yellow",
+    "mold",
+    "medium"
+   ]
+  },
+  {
+   "name": "Dungeon Floor - Small",
+   "kind": "scenery",
+   "thumb": "thumbs/d5900784-9510-4cf7-b017-f369448d0d52.jpg",
+   "tags": [
+    "dungeon-cellar",
+    "dungeon",
+    "floor",
+    "moss",
+    "stone",
+    "gray",
+    "grey",
+    "yellow",
+    "mold",
+    "small"
+   ]
+  },
+  {
+   "name": "Dungeon Pillar - Ruined",
+   "kind": "scenery",
+   "thumb": "thumbs/be6cf2a8-92f1-4128-8a05-e1d0437f51a3.jpg",
+   "tags": [
+    "dungeon-cellar",
+    "pillar",
+    "dungeon",
+    "ruin",
+    "moss",
+    "stone",
+    "gray",
+    "grey",
+    "yellow",
+    "mold",
+    "small"
+   ]
+  },
+  {
+   "name": "Dungeon Pillar",
+   "kind": "scenery",
+   "thumb": "thumbs/ade24972-5bf6-4dc4-be27-48026fbfa097.jpg",
+   "tags": [
+    "dungeon-cellar",
+    "pillar",
+    "dungeon",
+    "moss",
+    "stone",
+    "gray",
+    "grey",
+    "yellow",
+    "mold",
+    "small"
+   ]
+  },
+  {
+   "name": "Dungeon Stair Block",
+   "kind": "scenery",
+   "thumb": "thumbs/10809742-70c4-45a9-9350-2ae81505da07.jpg",
+   "tags": [
+    "dungeon-cellar",
+    "block",
+    "stairs",
+    "dungeon",
+    "moss",
+    "stone",
+    "gray",
+    "grey",
+    "yellow",
+    "mold",
+    "small"
+   ]
+  },
+  {
+   "name": "Dungeon Stairs",
+   "kind": "scenery",
+   "thumb": "thumbs/ed072f00-f245-44e7-9d25-6a1cb498cbaa.jpg",
+   "tags": [
+    "dungeon-cellar",
+    "stairs",
+    "dungeon",
+    "moss",
+    "stone",
+    "gray",
+    "grey",
+    "yellow",
+    "mold",
+    "small"
+   ]
+  },
+  {
+   "name": "Dungeon Wall 01",
+   "kind": "scenery",
+   "thumb": "thumbs/63270c8a-9484-4ae8-926e-22e3de9048a1.jpg",
+   "tags": [
+    "dungeon-cellar",
+    "dungeon",
+    "wall",
+    "moss",
+    "stone",
+    "gray",
+    "grey",
+    "yellow",
+    "mold",
+    "medium"
+   ]
+  },
+  {
+   "name": "Dungeon Wall 02",
+   "kind": "scenery",
+   "thumb": "thumbs/bd1822ab-9e93-4fa6-9435-1793168de03f.jpg",
+   "tags": [
+    "dungeon-cellar",
+    "dungeon",
+    "wall",
+    "moss",
+    "stone",
+    "gray",
+    "grey",
+    "yellow",
+    "mold",
+    "large"
+   ]
+  },
+  {
+   "name": "Dungeon Wall Corner 01",
+   "kind": "scenery",
+   "thumb": "thumbs/fa604ee4-b755-4525-93e6-ce5cf4d5d26c.jpg",
+   "tags": [
+    "dungeon-cellar",
+    "dungeon",
+    "corner",
+    "wall",
+    "moss",
+    "stone",
+    "large"
+   ]
+  },
+  {
+   "name": "Dungeon Wall Corner Filler",
+   "kind": "scenery",
+   "thumb": "thumbs/cec14f2e-faf2-4a9a-bd96-909c16b92197.jpg",
+   "tags": [
+    "dungeon-cellar",
+    "dungeon",
+    "wall",
+    "corner",
+    "filler",
+    "moss",
+    "stone",
+    "gray",
+    "grey",
+    "yellow",
+    "mold",
+    "small"
+   ]
+  },
+  {
+   "name": "Dungeon Wall/Floor 01",
+   "kind": "scenery",
+   "thumb": "thumbs/ed0ad169-3248-411a-9eb0-4aada656fb61.jpg",
+   "tags": [
+    "dungeon-cellar",
+    "wall",
+    "floor",
+    "dungeon",
+    "moss",
+    "stone",
+    "gray",
+    "grey",
+    "yellow",
+    "mold",
+    "medium"
+   ]
+  },
+  {
+   "name": "Dungeon Wall/Floor 02",
+   "kind": "scenery",
+   "thumb": "thumbs/62f81d0f-d0bc-4e4f-bf7c-de53c7e37c33.jpg",
+   "tags": [
+    "dungeon-cellar",
+    "wall",
+    "floor",
+    "dungeon",
+    "moss",
+    "stone",
+    "gray",
+    "grey",
+    "yellow",
+    "mold",
+    "large"
+   ]
+  },
+  {
+   "name": "Dungeon Wall/Floor 03",
+   "kind": "scenery",
+   "thumb": "thumbs/6b269536-d48e-4b90-999f-a8bdb80addce.jpg",
+   "tags": [
+    "dungeon-cellar",
+    "wall",
+    "floor",
+    "dungeon",
+    "moss",
+    "stone",
+    "gray",
+    "grey",
+    "yellow",
+    "mold",
+    "large"
+   ]
+  },
+  {
+   "name": "Dungeon Wall/Floor 04",
+   "kind": "scenery",
+   "thumb": "thumbs/21f41523-0161-499c-8991-0d166010cb52.jpg",
+   "tags": [
+    "dungeon-cellar",
+    "wall",
+    "floor",
+    "dungeon",
+    "moss",
+    "stone",
+    "gray",
+    "grey",
+    "yellow",
+    "mold",
+    "large"
+   ]
+  },
+  {
+   "name": "Dungeon Wall/Floor Corner 01",
+   "kind": "scenery",
+   "thumb": "thumbs/f87e4897-bc4b-42c6-b392-23d956092ab6.jpg",
+   "tags": [
+    "dungeon-cellar",
+    "floor",
+    "wall",
+    "dungeon",
+    "corner",
+    "moss",
+    "stone",
+    "gray",
+    "grey",
+    "yellow",
+    "mold",
+    "large"
+   ]
+  },
+  {
+   "name": "Dungeon Wall/Floor Corner - Small",
+   "kind": "scenery",
+   "thumb": "thumbs/fdd3c8dc-9c94-4a63-a7d9-10ae36d07fe7.jpg",
+   "tags": [
+    "dungeon-cellar",
+    "floor",
+    "wall",
+    "dungeon",
+    "corner",
+    "moss",
+    "stone",
+    "gray",
+    "grey",
+    "yellow",
+    "mold",
+    "medium"
+   ]
+  },
+  {
+   "name": "Dungeon Wall/Floor Corner With Chains",
+   "kind": "scenery",
+   "thumb": "thumbs/540dedd3-e30f-4045-8350-af9e902fc93d.jpg",
+   "tags": [
+    "dungeon-cellar",
+    "floor",
+    "dungeon",
+    "corner",
+    "chain",
+    "wall",
+    "chains",
+    "moss",
+    "stone",
+    "gray",
+    "grey",
+    "yellow",
+    "mold",
+    "large"
+   ]
+  },
+  {
+   "name": "Dungeon Wall/Floor Corner With Torch",
+   "kind": "scenery",
+   "thumb": "thumbs/91c94e0f-e916-4ddd-b135-337e4aa4cc28.jpg",
+   "tags": [
+    "dungeon-cellar",
+    "wall",
+    "floor",
+    "dungeon",
+    "corner",
+    "torch",
+    "light",
+    "lit",
+    "illuminated",
+    "torch",
+    "moss",
+    "stone",
+    "gray",
+    "grey",
+    "yellow",
+    "mold",
+    "large"
+   ]
+  },
+  {
+   "name": "Dungeon Wall/Floor - Crumbling",
+   "kind": "scenery",
+   "thumb": "thumbs/54eed85b-f306-4fdd-84fa-24ce0554162e.jpg",
+   "tags": [
+    "dungeon-cellar",
+    "floor",
+    "wall",
+    "dungeon",
+    "ruin",
+    "moss",
+    "stone",
+    "gray",
+    "grey",
+    "yellow",
+    "mold",
+    "large"
+   ]
+  },
+  {
+   "name": "Dungeon Wall/Floor With Chains 02",
+   "kind": "scenery",
+   "thumb": "thumbs/414c3c8c-5de1-4b2b-b048-4d379f454e83.jpg",
+   "tags": [
+    "dungeon-cellar",
+    "wall",
+    "floor",
+    "body",
+    "chains",
+    "moss",
+    "stone",
+    "gray",
+    "grey",
+    "yellow",
+    "mold",
+    "large"
+   ]
+  },
+  {
+   "name": "Dungeon Wall/Floor With Chains 03",
+   "kind": "scenery",
+   "thumb": "thumbs/157eaf7a-b398-4fa1-bf95-702184825639.jpg",
+   "tags": [
+    "dungeon-cellar",
+    "wall",
+    "floor",
+    "chain",
+    "dungeon",
+    "moss",
+    "stone",
+    "gray",
+    "grey",
+    "yellow",
+    "mold",
+    "large"
+   ]
+  },
+  {
+   "name": "Dungeon Wall/Floor With Chains",
+   "kind": "scenery",
+   "thumb": "thumbs/8f0026ca-a0c6-487d-a6c9-ea19bd57d070.jpg",
+   "tags": [
+    "dungeon-cellar",
+    "wall",
+    "floor",
+    "chains",
+    "moss",
+    "stone",
+    "gray",
+    "grey",
+    "yellow",
+    "mold",
+    "medium"
+   ]
+  },
+  {
+   "name": "Dungeon Wall/Floor With Drain 02",
+   "kind": "scenery",
+   "thumb": "thumbs/579a2dea-29e5-45f8-b990-c36cbbc1edb0.jpg",
+   "tags": [
+    "dungeon-cellar",
+    "wall",
+    "floor",
+    "dungeon",
+    "drain",
+    "moss",
+    "stone",
+    "gray",
+    "grey",
+    "yellow",
+    "mold",
+    "large"
+   ]
+  },
+  {
+   "name": "Dungeon Wall/Floor With Drain",
+   "kind": "scenery",
+   "thumb": "thumbs/8a65a1ee-3730-455a-9dcb-4c41d91d1ec6.jpg",
+   "tags": [
+    "dungeon-cellar",
+    "wall",
+    "floor",
+    "dungeon",
+    "drain",
+    "moss",
+    "stone",
+    "gray",
+    "grey",
+    "yellow",
+    "mold",
+    "large"
+   ]
+  },
+  {
+   "name": "Dungeon Wall/Floor With Roots 01",
+   "kind": "scenery",
+   "thumb": "thumbs/05569c54-72de-4798-8db4-c6ac8d2837ed.jpg",
+   "tags": [
+    "dungeon-cellar",
+    "wall",
+    "floor",
+    "dungeon",
+    "roots",
+    "moss",
+    "stone",
+    "gray",
+    "grey",
+    "yellow",
+    "mold",
+    "medium"
+   ]
+  },
+  {
+   "name": "Dungeon Wall/Floor With Roots 02",
+   "kind": "scenery",
+   "thumb": "thumbs/aa0b8430-fbb0-4bee-b08c-19e1e655f3ef.jpg",
+   "tags": [
+    "dungeon-cellar",
+    "wall",
+    "floor",
+    "ruin",
+    "dungeon",
+    "moss",
+    "stone",
+    "gray",
+    "grey",
+    "yellow",
+    "mold",
+    "large"
+   ]
+  },
+  {
+   "name": "Dungeon Wall/Floor With Roots 03",
+   "kind": "scenery",
+   "thumb": "thumbs/1896d7b5-b133-4fa1-bea8-f051b4a58982.jpg",
+   "tags": [
+    "dungeon-cellar",
+    "wall",
+    "floor",
+    "dungeon",
+    "roots",
+    "moss",
+    "stone",
+    "gray",
+    "grey",
+    "yellow",
+    "mold",
+    "large"
+   ]
+  },
+  {
+   "name": "Dungeon Wall/Floor With Rounded Corner",
+   "kind": "scenery",
+   "thumb": "thumbs/254847d5-bbc4-4e1d-96b4-0870379fb8ca.jpg",
+   "tags": [
+    "dungeon-cellar",
+    "floor",
+    "wall",
+    "dungeon",
+    "corner",
+    "curve",
+    "moss",
+    "stone",
+    "gray",
+    "grey",
+    "yellow",
+    "mold",
+    "large"
+   ]
+  },
+  {
+   "name": "Dungeon Wall/Floor With Torch 01",
+   "kind": "scenery",
+   "thumb": "thumbs/7e51a34b-b25f-485c-b1c0-a937a936e4c2.jpg",
+   "tags": [
+    "dungeon-cellar",
+    "wall",
+    "floor",
+    "dungeon",
+    "torch",
+    "light",
+    "illuminated",
+    "lit",
+    "moss",
+    "stone",
+    "gray",
+    "grey",
+    "yellow",
+    "mold",
+    "medium"
+   ]
+  },
+  {
+   "name": "Dungeon Wall/Floor With Torch 03",
+   "kind": "scenery",
+   "thumb": "thumbs/2e6e76f6-fcd1-4c55-970a-4117ddac2b08.jpg",
+   "tags": [
+    "dungeon-cellar",
+    "wall",
+    "floor",
+    "dungeon",
+    "torch",
+    "light",
+    "lit",
+    "illuminated",
+    "moss",
+    "stone",
+    "gray",
+    "grey",
+    "yellow",
+    "mold",
+    "large"
+   ]
+  },
+  {
+   "name": "Dungeon Wall - Ruined With Ruits",
+   "kind": "scenery",
+   "thumb": "thumbs/84769dcd-7905-4926-ac83-6598e26eeac6.jpg",
+   "tags": [
+    "dungeon-cellar",
+    "dungeon",
+    "wall",
+    "ruin",
+    "roots",
+    "moss",
+    "stone",
+    "gray",
+    "grey",
+    "yellow",
+    "mold",
+    "large"
+   ]
+  },
+  {
+   "name": "Dungeon Wall - Ruined",
+   "kind": "scenery",
+   "thumb": "thumbs/6ac43c67-e43d-455c-826d-e013745bdfbc.jpg",
+   "tags": [
+    "dungeon-cellar",
+    "dungeon",
+    "wall",
+    "ruin",
+    "moss",
+    "stone",
+    "gray",
+    "grey",
+    "yellow",
+    "mold",
+    "large"
+   ]
+  },
+  {
+   "name": "Dungeon Wall With Rounded Corner",
+   "kind": "scenery",
+   "thumb": "thumbs/c53ac32d-65f2-40bb-bb97-294314e4b568.jpg",
+   "tags": [
+    "dungeon-cellar",
+    "wall",
+    "dungeon",
+    "corner",
+    "curve",
+    "moss",
+    "stone",
+    "gray",
+    "grey",
+    "yellow",
+    "mold",
+    "large"
+   ]
+  },
+  {
+   "name": "Prison Cage corner",
+   "kind": "scenery",
+   "thumb": "thumbs/3785b739-9eef-476e-a045-7bec21deee43.jpg",
+   "tags": [
+    "dungeon-cellar",
+    "blood",
+    "close",
+    "closed",
+    "dead",
+    "death",
+    "grave",
+    "torture",
+    "door",
+    "dungeon",
+    "indoor",
+    "red",
+    "prison"
+   ]
+  },
+  {
+   "name": "Prison Cage wall",
+   "kind": "scenery",
+   "thumb": "thumbs/250cd4d6-a5e5-41d6-b9a4-bee8f1eb4afc.jpg",
+   "tags": [
+    "dungeon-cellar",
+    "blood",
+    "close",
+    "closed",
+    "dead",
+    "death",
+    "grave",
+    "torture",
+    "door",
+    "dungeon",
+    "indoor",
+    "red",
+    "prison"
+   ]
+  }
+ ]
+}

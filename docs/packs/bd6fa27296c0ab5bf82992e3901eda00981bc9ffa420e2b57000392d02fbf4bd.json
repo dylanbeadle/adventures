@@ -1,0 +1,1575 @@
+{
+ "id": "2e68b170-cea9-5fd9-8397-a15f0c24f2f2",
+ "folder": "Castle Tiles.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 918,
+   "sha256": "9d0910ddb28ac02bf3c50c5efd9abf9f94b86454db0c9cac35c00990c1cd36a7"
+  },
+  {
+   "path": "cover.jpg",
+   "size": 38572,
+   "sha256": "0fdc7c8a3c7ed5cf68c417bfb1aaab065b755b2819eb5cd82bc6c6f065bcc958"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Floor 1.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Floor 1.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Floor 1.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Floor 1.cooked/textures/limestone.avif",
+   "size": 1338,
+   "sha256": "6b1ca0b5d2fdc928ee14c673ee586e86916e651623a911e6436699d049e1719e"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Floor 1.cooked/textures/limestone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Floor 1.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Floor 1.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Floor 1.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Floor 1.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Floor 1.usd",
+   "size": 30916,
+   "sha256": "83e44ae8041f668a5bacc350c0ccb3a4e6f93ffebdf80a2d9a0bc089456dfab0"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Floor 2.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Floor 2.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Floor 2.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Floor 2.cooked/textures/limestone.avif",
+   "size": 1338,
+   "sha256": "6b1ca0b5d2fdc928ee14c673ee586e86916e651623a911e6436699d049e1719e"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Floor 2.cooked/textures/limestone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Floor 2.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Floor 2.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Floor 2.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Floor 2.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Floor 2.usd",
+   "size": 67898,
+   "sha256": "d3a898e0f1d50b1ba58e71e1e0d76247b30bf3f27341473c97a726dee6962c8d"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Floor 3.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Floor 3.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Floor 3.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Floor 3.cooked/textures/limestone.avif",
+   "size": 1338,
+   "sha256": "6b1ca0b5d2fdc928ee14c673ee586e86916e651623a911e6436699d049e1719e"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Floor 3.cooked/textures/limestone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Floor 3.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Floor 3.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Floor 3.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Floor 3.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Floor 3.usd",
+   "size": 68045,
+   "sha256": "c6390e69fb9534a14a931ee9dcad2f3fe390d40bf6a3b9f0002e90c621e9f21b"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor - Small.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor - Small.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor - Small.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor - Small.cooked/textures/limestone.avif",
+   "size": 1338,
+   "sha256": "6b1ca0b5d2fdc928ee14c673ee586e86916e651623a911e6436699d049e1719e"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor - Small.cooked/textures/limestone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor - Small.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor - Small.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor - Small.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor - Small.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor - Small.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor - Small.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor - Small.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor - Small.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor - Small.usd",
+   "size": 122908,
+   "sha256": "b84ed9b7e8c62a96c99caacfcc5d1fa116410645611bea54ff9c67c5af2f3bf0"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 1.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 1.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 1.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 1.cooked/textures/limestone.avif",
+   "size": 1338,
+   "sha256": "6b1ca0b5d2fdc928ee14c673ee586e86916e651623a911e6436699d049e1719e"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 1.cooked/textures/limestone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 1.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 1.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 1.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 1.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 1.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 1.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 1.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 1.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 1.usd",
+   "size": 122456,
+   "sha256": "b87dc27bb9d241f7a6d28f6fcd65998f03f21dee65592affc02324681ad19c55"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 2.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 2.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 2.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 2.cooked/textures/limestone.avif",
+   "size": 1338,
+   "sha256": "6b1ca0b5d2fdc928ee14c673ee586e86916e651623a911e6436699d049e1719e"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 2.cooked/textures/limestone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 2.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 2.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 2.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 2.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 2.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 2.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 2.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 2.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 2.usd",
+   "size": 197997,
+   "sha256": "acaf275708463e704795b52380e7f31ddaaca1281b112d7d0811985c88d8128f"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 3.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 3.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 3.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 3.cooked/textures/limestone.avif",
+   "size": 1338,
+   "sha256": "6b1ca0b5d2fdc928ee14c673ee586e86916e651623a911e6436699d049e1719e"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 3.cooked/textures/limestone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 3.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 3.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 3.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 3.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 3.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 3.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 3.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 3.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 3.usd",
+   "size": 220315,
+   "sha256": "746ca9b06db744978e1c682f622660fcf1d8f13de5dc6f032c5b5cf6ee03aa0e"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 4.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 4.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 4.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 4.cooked/textures/limestone.avif",
+   "size": 1338,
+   "sha256": "6b1ca0b5d2fdc928ee14c673ee586e86916e651623a911e6436699d049e1719e"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 4.cooked/textures/limestone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 4.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 4.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 4.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 4.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 4.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 4.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 4.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 4.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 4.usd",
+   "size": 197908,
+   "sha256": "2e44a3e5e1a759e929ae0f5823aa120fce86c4d9b3f604d31cb613ef79ad3bd2"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 5.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 5.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 5.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 5.cooked/textures/limestone.avif",
+   "size": 1338,
+   "sha256": "6b1ca0b5d2fdc928ee14c673ee586e86916e651623a911e6436699d049e1719e"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 5.cooked/textures/limestone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 5.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 5.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 5.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 5.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 5.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 5.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 5.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 5.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor 5.usd",
+   "size": 219833,
+   "sha256": "4761c650644231e619a41ad95821175970d799aea33c1362e53dc94d95ec51ca"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Corner.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Corner.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Corner.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Corner.cooked/textures/limestone.avif",
+   "size": 1338,
+   "sha256": "6b1ca0b5d2fdc928ee14c673ee586e86916e651623a911e6436699d049e1719e"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Corner.cooked/textures/limestone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Corner.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Corner.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Corner.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Corner.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Corner.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Corner.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Corner.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Corner.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Corner.usd",
+   "size": 317683,
+   "sha256": "fa09a2cff71e6c88abb1e52d42f3daf323f7d0665c3057f5d676bfde47b9a3f2"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Window 1.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Window 1.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Window 1.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Window 1.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Window 1.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Window 1.cooked/textures/limestone.avif",
+   "size": 1338,
+   "sha256": "6b1ca0b5d2fdc928ee14c673ee586e86916e651623a911e6436699d049e1719e"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Window 1.cooked/textures/limestone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Window 1.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Window 1.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Window 1.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Window 1.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Window 1.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Window 1.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Window 1.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Window 1.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Window 1.usd",
+   "size": 206508,
+   "sha256": "edd0a23636c986ad268efd42ff3620ba1143526d4a640bdfbcdd77ae54114d08"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Window 2.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Window 2.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Window 2.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Window 2.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Window 2.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Window 2.cooked/textures/limestone.avif",
+   "size": 1338,
+   "sha256": "6b1ca0b5d2fdc928ee14c673ee586e86916e651623a911e6436699d049e1719e"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Window 2.cooked/textures/limestone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Window 2.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Window 2.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Window 2.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Window 2.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Window 2.cooked/textures/sandstone.avif",
+   "size": 1269,
+   "sha256": "313eb5fa5ad2bdda0eb1b5452c4111c60800f22b3824572cf9140e0148605e1a"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Window 2.cooked/textures/sandstone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Window 2.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Window 2.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Floor Window 2.usd",
+   "size": 225440,
+   "sha256": "0b308777b90794333f336a921c7858a3c64520f51f20a9524543db4a4a13f258"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Small.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Small.cooked/textures/limestone.avif",
+   "size": 1338,
+   "sha256": "6b1ca0b5d2fdc928ee14c673ee586e86916e651623a911e6436699d049e1719e"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Small.cooked/textures/limestone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Small.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Small.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Small.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Small.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Small.usd",
+   "size": 92936,
+   "sha256": "e36167695a86b40c0252501accef7d879c89f1da1f28c5005bb12ecef81d894f"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Window.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Window.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Window.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Window.cooked/textures/limestone.avif",
+   "size": 1338,
+   "sha256": "6b1ca0b5d2fdc928ee14c673ee586e86916e651623a911e6436699d049e1719e"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Window.cooked/textures/limestone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Window.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Window.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Window.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Window.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall - Window.usd",
+   "size": 165237,
+   "sha256": "b25d8cf73bde3b44f46a63d4d1e7f8cea16bd751bdd813b0dce5404159caafc8"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall 1.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall 1.cooked/textures/limestone.avif",
+   "size": 1338,
+   "sha256": "6b1ca0b5d2fdc928ee14c673ee586e86916e651623a911e6436699d049e1719e"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall 1.cooked/textures/limestone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall 1.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall 1.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall 1.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall 1.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall 1.usd",
+   "size": 157354,
+   "sha256": "c9a218c05886201d848c8b0b6044002cfc6cad3eb1ff220236934192b1eea9d9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall 2.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall 2.cooked/textures/limestone.avif",
+   "size": 1338,
+   "sha256": "6b1ca0b5d2fdc928ee14c673ee586e86916e651623a911e6436699d049e1719e"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall 2.cooked/textures/limestone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall 2.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall 2.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall 2.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall 2.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall 2.usd",
+   "size": 157400,
+   "sha256": "4a0695d252e1239533566deeb871dfaeb3538aa66e35d7c48736572fa84a0ad3"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall Corner - Small.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall Corner - Small.cooked/textures/limestone.avif",
+   "size": 1338,
+   "sha256": "6b1ca0b5d2fdc928ee14c673ee586e86916e651623a911e6436699d049e1719e"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall Corner - Small.cooked/textures/limestone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall Corner - Small.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall Corner - Small.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall Corner - Small.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall Corner - Small.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall Corner - Small.usd",
+   "size": 145677,
+   "sha256": "bb9b4654bcd5fc0c44ee3235caa1c5b6ba9fe514f929cd00c8790b9fe8950637"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall Corner.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall Corner.cooked/textures/limestone.avif",
+   "size": 1338,
+   "sha256": "6b1ca0b5d2fdc928ee14c673ee586e86916e651623a911e6436699d049e1719e"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall Corner.cooked/textures/limestone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall Corner.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall Corner.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall Corner.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall Corner.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Castle/Castle Wall Corner.usd",
+   "size": 254319,
+   "sha256": "364eebf473e7f9efc780928d86e974ece8add35e92177d4e320ab62c4e669597"
+  },
+  {
+   "path": "media/tiles/Castle/Wall (Window 2x1 B).cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Castle/Wall (Window 2x1 B).cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/tiles/Castle/Wall (Window 2x1 B).cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Wall (Window 2x1 B).cooked/textures/limestone.avif",
+   "size": 1338,
+   "sha256": "6b1ca0b5d2fdc928ee14c673ee586e86916e651623a911e6436699d049e1719e"
+  },
+  {
+   "path": "media/tiles/Castle/Wall (Window 2x1 B).cooked/textures/limestone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Wall (Window 2x1 B).cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Castle/Wall (Window 2x1 B).cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Castle/Wall (Window 2x1 B).cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Castle/Wall (Window 2x1 B).cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Castle/Wall (Window 2x1 B).usd",
+   "size": 165477,
+   "sha256": "b57b1b8362161c61f4b8118a29005069a76c7906530432401cc4344f04dc8121"
+  },
+  {
+   "path": "media/tiles/Castle/Wall (Window 2x2 B).cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Castle/Wall (Window 2x2 B).cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/tiles/Castle/Wall (Window 2x2 B).cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Wall (Window 2x2 B).cooked/textures/limestone.avif",
+   "size": 1338,
+   "sha256": "6b1ca0b5d2fdc928ee14c673ee586e86916e651623a911e6436699d049e1719e"
+  },
+  {
+   "path": "media/tiles/Castle/Wall (Window 2x2 B).cooked/textures/limestone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Wall (Window 2x2 B).cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Castle/Wall (Window 2x2 B).cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Castle/Wall (Window 2x2 B).cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Castle/Wall (Window 2x2 B).cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Castle/Wall (Window 2x2 B).usd",
+   "size": 165475,
+   "sha256": "850f935cefcec6fd03a7288e52164529d22d1639aa44a8c48b4cbbfc6dec5866"
+  },
+  {
+   "path": "media/tiles/Castle/Wall (Window Large B).cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Castle/Wall (Window Large B).cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/tiles/Castle/Wall (Window Large B).cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Wall (Window Large B).cooked/textures/limestone.avif",
+   "size": 1338,
+   "sha256": "6b1ca0b5d2fdc928ee14c673ee586e86916e651623a911e6436699d049e1719e"
+  },
+  {
+   "path": "media/tiles/Castle/Wall (Window Large B).cooked/textures/limestone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Castle/Wall (Window Large B).cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Castle/Wall (Window Large B).cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Castle/Wall (Window Large B).cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Castle/Wall (Window Large B).cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Castle/Wall (Window Large B).usd",
+   "size": 162895,
+   "sha256": "0f5d008baee92ca4d01def8b4445d127672d539c1bf46c03079797d6f4464186"
+  },
+  {
+   "path": "scenery/castle-floor-1.md",
+   "size": 207,
+   "sha256": "e0753084a54693e83868f516cb8a6b01c2cf76130e1858b1fde620eaa03bd826"
+  },
+  {
+   "path": "scenery/castle-floor-2.md",
+   "size": 208,
+   "sha256": "3581b92cae4c9429c0b55b3eed50da5bd6af46893f4d05516959cc8fa9e9d846"
+  },
+  {
+   "path": "scenery/castle-floor-3.md",
+   "size": 208,
+   "sha256": "738bde2416595da94d2c67d87ea2119bb9ed067b8771b15b6f350a5755bd6705"
+  },
+  {
+   "path": "scenery/castle-wall-1.md",
+   "size": 204,
+   "sha256": "e9204d03e9adfb21f98d3257a1d86b8374f73d7ae431923d71f4a30ba3399743"
+  },
+  {
+   "path": "scenery/castle-wall-2.md",
+   "size": 204,
+   "sha256": "69727452d5763be2a83dfb340425e3b1ed98c6030c204a1c6c95b51c3fee02a1"
+  },
+  {
+   "path": "scenery/castle-wall-corner-small.md",
+   "size": 238,
+   "sha256": "d3b034eef6ded82138e28b4920e1a9028037400c10367855330190c6286cc898"
+  },
+  {
+   "path": "scenery/castle-wall-corner.md",
+   "size": 222,
+   "sha256": "d3851426af50564b2d5d2bd77f28e1a2a0114225368b0981c2383d9f4a203f30"
+  },
+  {
+   "path": "scenery/castle-wall-floor-1.md",
+   "size": 225,
+   "sha256": "567cfbe6904b78204fa8bc9da28c0870520bb2a6e98685caa4af3ba537dc2d94"
+  },
+  {
+   "path": "scenery/castle-wall-floor-2.md",
+   "size": 225,
+   "sha256": "bbe0679a4d662ae530ca6c53b648c243ec710f74b99354a99a49d2427c169318"
+  },
+  {
+   "path": "scenery/castle-wall-floor-3.md",
+   "size": 225,
+   "sha256": "7fb6029978571032840f0766a506e84ee0c3749ecc87208d5fc7de130bf66410"
+  },
+  {
+   "path": "scenery/castle-wall-floor-4.md",
+   "size": 225,
+   "sha256": "c87b3ce7d1a51dcfadedb6954b060dec17e54e26eccc155e2482afdaf2f7978b"
+  },
+  {
+   "path": "scenery/castle-wall-floor-5.md",
+   "size": 225,
+   "sha256": "75cdfb2cb8c48041bb1ddaab74819e59fc2c16e6a8467bd62b770106a4538024"
+  },
+  {
+   "path": "scenery/castle-wall-floor-corner.md",
+   "size": 243,
+   "sha256": "c4e870868f330e114a48c2bc495d480f901ccb0a5e0ab2fdf963941f6de78c5a"
+  },
+  {
+   "path": "scenery/castle-wall-floor-small.md",
+   "size": 245,
+   "sha256": "b70144dc843c1a14d78406b1049a5cfe27d811d204decbc2ca5c1cb5c40e8746"
+  },
+  {
+   "path": "scenery/castle-wall-floor-window-1.md",
+   "size": 247,
+   "sha256": "a9671947c07904ba8357aca1899b1126b2c315b1d3ba6c3136d7d62d9d9aafc4"
+  },
+  {
+   "path": "scenery/castle-wall-floor-window-2.md",
+   "size": 247,
+   "sha256": "5faa29d22f886cdad5126bde7fac985e0887b2e5d9884861b2cc9b68599a4d1f"
+  },
+  {
+   "path": "scenery/castle-wall-small.md",
+   "size": 217,
+   "sha256": "8bc1e716ac0301d7393864e7d313274db4cdca117a64682bfbdf1a6cb916d0f9"
+  },
+  {
+   "path": "scenery/castle-wall-window.md",
+   "size": 226,
+   "sha256": "7a1b5fa8b720643dfc61dc1d76b30fdefaa928a68ad05c107077a3920524db94"
+  },
+  {
+   "path": "scenery/wall-window-2x1-b.md",
+   "size": 231,
+   "sha256": "f0174bee57652f3989fa3606092ac0a209638aedb51b8a5904a0696a5f44a959"
+  },
+  {
+   "path": "scenery/wall-window-2x2-b.md",
+   "size": 231,
+   "sha256": "d1b79b9f936c50880db8cd8c6e92efb896db5a2323a5a60ffa3339ed7be6d7c7"
+  },
+  {
+   "path": "scenery/wall-window-large-b.md",
+   "size": 228,
+   "sha256": "9aa6e715dd95c84412afb30c12e1660494a75a8e5be04772e1d73a78e70587af"
+  }
+ ],
+ "contents": [
+  {
+   "name": "Castle Floor 1",
+   "kind": "scenery",
+   "thumb": "thumbs/32cfd208-c363-4434-b817-8ba59faeed17.jpg",
+   "tags": [
+    "floor",
+    "castle",
+    "stone",
+    "small"
+   ]
+  },
+  {
+   "name": "Castle Floor 2",
+   "kind": "scenery",
+   "thumb": "thumbs/b364de7a-7564-4621-80ac-91380fe271fd.jpg",
+   "tags": [
+    "floor",
+    "castle",
+    "stone",
+    "medium"
+   ]
+  },
+  {
+   "name": "Castle Floor 3",
+   "kind": "scenery",
+   "thumb": "thumbs/0b9f9061-a6e4-4126-829f-1deb43147f49.jpg",
+   "tags": [
+    "floor",
+    "castle",
+    "stone",
+    "medium"
+   ]
+  },
+  {
+   "name": "Castle Wall 1",
+   "kind": "scenery",
+   "thumb": "thumbs/d24c154a-093f-430a-8604-cee13b20f611.jpg",
+   "tags": [
+    "castle",
+    "wall",
+    "stone",
+    "large"
+   ]
+  },
+  {
+   "name": "Castle Wall 2",
+   "kind": "scenery",
+   "thumb": "thumbs/1bcf670b-7640-4709-b388-f475ec5e678c.jpg",
+   "tags": [
+    "castle",
+    "wall",
+    "stone",
+    "large"
+   ]
+  },
+  {
+   "name": "Castle Wall Corner - Small",
+   "kind": "scenery",
+   "thumb": "thumbs/7947bfe2-12ed-451b-a90d-265303da42f6.jpg",
+   "tags": [
+    "castle",
+    "wall",
+    "stone",
+    "corner",
+    "large"
+   ]
+  },
+  {
+   "name": "Castle Wall Corner",
+   "kind": "scenery",
+   "thumb": "thumbs/be0509d0-c87c-491a-b510-743cda6af8bd.jpg",
+   "tags": [
+    "castle",
+    "wall",
+    "stone",
+    "corner",
+    "large"
+   ]
+  },
+  {
+   "name": "Castle Wall/Floor 1",
+   "kind": "scenery",
+   "thumb": "thumbs/8df8bc5f-8aff-4d73-bb7d-d6c1bdb60113.jpg",
+   "tags": [
+    "wall",
+    "floor",
+    "stone",
+    "castle",
+    "large"
+   ]
+  },
+  {
+   "name": "Castle Wall/Floor 2",
+   "kind": "scenery",
+   "thumb": "thumbs/b33fedfa-7352-4f02-9c2f-18ba4a6ac452.jpg",
+   "tags": [
+    "floor",
+    "wall",
+    "castle",
+    "stone",
+    "large"
+   ]
+  },
+  {
+   "name": "Castle Wall/Floor 3",
+   "kind": "scenery",
+   "thumb": "thumbs/00d4b5be-138e-4dde-ad33-a2866fdaf431.jpg",
+   "tags": [
+    "wall",
+    "floor",
+    "castle",
+    "stone",
+    "large"
+   ]
+  },
+  {
+   "name": "Castle Wall/Floor 4",
+   "kind": "scenery",
+   "thumb": "thumbs/f007b070-431a-420b-95ff-566fbbecd56f.jpg",
+   "tags": [
+    "wall",
+    "floor",
+    "castle",
+    "stone",
+    "large"
+   ]
+  },
+  {
+   "name": "Castle Wall/Floor 5",
+   "kind": "scenery",
+   "thumb": "thumbs/88c8ff7e-b9dd-48e1-861d-505432075569.jpg",
+   "tags": [
+    "wall",
+    "floor",
+    "castle",
+    "stone",
+    "large"
+   ]
+  },
+  {
+   "name": "Castle Wall/Floor Corner",
+   "kind": "scenery",
+   "thumb": "thumbs/38c2c374-fe5a-434d-b0e3-50526bbae9ff.jpg",
+   "tags": [
+    "wall",
+    "floor",
+    "corner",
+    "castle",
+    "stone",
+    "large"
+   ]
+  },
+  {
+   "name": "Castle Wall/Floor - Small",
+   "kind": "scenery",
+   "thumb": "thumbs/4c284f67-01c6-4a27-b63e-b29cc5d53cfd.jpg",
+   "tags": [
+    "wall",
+    "floor",
+    "corner",
+    "castle",
+    "stone",
+    "large"
+   ]
+  },
+  {
+   "name": "Castle Wall/Floor Window 1",
+   "kind": "scenery",
+   "thumb": "thumbs/5d05df18-52a6-480c-92f6-1be49b37003b.jpg",
+   "tags": [
+    "wall",
+    "floor",
+    "window",
+    "castle",
+    "stone",
+    "large"
+   ]
+  },
+  {
+   "name": "Castle Wall/Floor Window 2",
+   "kind": "scenery",
+   "thumb": "thumbs/9b1a5bea-6b32-4ab3-9d45-8c5bd85620f6.jpg",
+   "tags": [
+    "wall",
+    "floor",
+    "castle",
+    "window",
+    "stone",
+    "large"
+   ]
+  },
+  {
+   "name": "Castle Wall - Small",
+   "kind": "scenery",
+   "thumb": "thumbs/be12958a-8e30-45ee-ad35-7397651d7340.jpg",
+   "tags": [
+    "castle",
+    "wall",
+    "stone",
+    "medium"
+   ]
+  },
+  {
+   "name": "Castle Wall - Window",
+   "kind": "scenery",
+   "thumb": "thumbs/29fa80d1-425d-4f04-a97f-1c48b0bb490a.jpg",
+   "tags": [
+    "castle",
+    "wall",
+    "stone",
+    "window",
+    "large"
+   ]
+  },
+  {
+   "name": "Wall (Window 2x1 B)",
+   "kind": "scenery",
+   "thumb": "thumbs/bbae3981-254e-4d78-8043-4035ea592a4e.jpg",
+   "tags": [
+    "wall",
+    "floor",
+    "window",
+    "castle",
+    "stone",
+    "large"
+   ]
+  },
+  {
+   "name": "Wall (Window 2x2 B)",
+   "kind": "scenery",
+   "thumb": "thumbs/da6bbf3b-8b52-45a6-b3d8-56dbc156e270.jpg",
+   "tags": [
+    "castle",
+    "wall",
+    "floor",
+    "window",
+    "stone",
+    "large"
+   ]
+  },
+  {
+   "name": "Wall (Window Large B)",
+   "kind": "scenery",
+   "thumb": "thumbs/879f1719-9d05-401b-844b-6aa9b663b05f.jpg",
+   "tags": [
+    "castle",
+    "wall",
+    "stone",
+    "window",
+    "large"
+   ]
+  }
+ ]
+}
