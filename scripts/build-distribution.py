@@ -59,6 +59,22 @@ def sha256_text(text: str) -> str:
     return hashlib.sha256(text.encode()).hexdigest()
 
 
+# ModelPackages.version in the app: part of a package's id.
+PACKAGE_VERSION = "3"
+
+
+def asset_id(digest: bytes) -> str:
+    """AssetImport.id in the app: a hash's first 8 bytes as hex, never zero."""
+    value = int.from_bytes(digest[:8], "big") or 1
+    return f"{value:016x}"
+
+
+def package_asset_id(layer_sha256: str) -> str:
+    """The id every device gives a model from its layer (ModelPackages.id(forSource:)). Used to find a model by id (D156)."""
+    source = asset_id(bytes.fromhex(layer_sha256))
+    return asset_id(hashlib.sha256(f"spatialgm-package-{PACKAGE_VERSION}-{source}".encode()).digest())
+
+
 class Pack:
     """One pack: its folder name when installed, and where each of its files comes from."""
 
@@ -287,6 +303,8 @@ def build_index(kits, packs, manifest_packs, hashes, files_by_hash, previous, bl
                          "path": piece.file, "files": own, "common": len(commons) - 1,
                          "packs": [position[i] for i in sorted((group.id, kit.id), key=bytes_of.get)],
                          "thumb": f"thumbs/{piece.thumb}.jpg", "tags": piece.tags}
+                if piece.model in by_id[kit.id].sources and Path(piece.model).suffix in (".usd", ".usda", ".usdc"):
+                    entry["asset"] = package_asset_id(hashes[by_id[kit.id].sources[piece.model]])
                 if piece.same_as:
                     entry["sameAs"] = piece.same_as
                 for key in ("kind", "size", "footprint"):
