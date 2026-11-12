@@ -28,6 +28,8 @@ KIT_KINDS = {"Tiles Kit": ("Tiles", "tiles"), "Props Kit": ("Props", "props"), "
 COLLECTIONS = [
     {"id": "adventures", "name": "Adventures", "symbol": "book.closed",
      "summary": "Campaigns to play: encounters, story, music and sound, ready for the table."},
+    {"id": "sounds", "name": "Sounds", "symbol": "speaker.wave.2",
+     "summary": "Media packs: the instrument bank and sound effects campaigns use."},
     {"id": "heroes", "name": "Heroes", "symbol": "person.crop.square",
      "summary": "Ready-made heroes for players who don't have one yet."},
     {"id": "kits", "name": "Kits", "symbol": "shippingbox",

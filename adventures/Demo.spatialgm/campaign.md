@@ -8,7 +8,8 @@ first-encounter: goblin-warren
 template: true             # offered under New from Template
 cover: cover.png
 summary: A goblin warren ambush and the haunted ruins of Vell's Strongbox.
-instruments: media/instruments/orchestra.sf2   # the SoundFont the music plays on (GeneralUser GS, see its licence)
+instruments: media/instruments/orchestra.sf2
+requires: [core-sounds]     # its bank and effects come from the Core Sounds pack   # the SoundFont the music plays on (GeneralUser GS, see its licence)
 opens-first: true          # the headset opens this campaign when nothing else was open
 license: CC0-1.0           # free to use, change and share
 author: Spatial GM
