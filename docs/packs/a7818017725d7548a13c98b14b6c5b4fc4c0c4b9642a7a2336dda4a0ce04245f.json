@@ -1,0 +1,156 @@
+{
+ "id": "5a1e7ab1-0000-4000-8000-0000000000a1",
+ "folder": "CoreSounds.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 611,
+   "sha256": "80473bb38a6a4ce85c02ab851a59fcdd32c557a5f47f060ed00844026b31a9d7"
+  },
+  {
+   "path": "media/instruments/GeneralUser-GS-LICENSE.txt",
+   "size": 2317,
+   "sha256": "7b32efefdf95ce38a043799f0659853ddc00fbaa14d8c50f0aca16b9b8b405be"
+  },
+  {
+   "path": "media/instruments/orchestra.sf2",
+   "size": 7588136,
+   "sha256": "bf121175fb99cc2f361155b837e52480226f26ddb15b8605a98f908483f50e2a"
+  },
+  {
+   "path": "media/sounds/PROVENANCE.md",
+   "size": 2857,
+   "sha256": "c702250fbd2dc065fa29b3673954124f85fa5c83b5057f5cb2adad2cf6378131"
+  },
+  {
+   "path": "media/sounds/beast-growl-1.m4a",
+   "size": 10544,
+   "sha256": "32b66e060fd19c814a40e8839b07b4c51d0d2ac61fdf0e78ce8940eaf4fcf459"
+  },
+  {
+   "path": "media/sounds/beast-growl-2.m4a",
+   "size": 9506,
+   "sha256": "adf4f2b797079bcfa194b9a3e00695393118f9fdc56f3a620592e28e3f3c8f37"
+  },
+  {
+   "path": "media/sounds/beast-growl-3.m4a",
+   "size": 9560,
+   "sha256": "ff3947805b10d507d37b56b7d798eb7871d1433ec671da0b77f7ce7fa36f2b85"
+  },
+  {
+   "path": "media/sounds/coins-1.m4a",
+   "size": 9535,
+   "sha256": "c3a78e105360d174db33d92ffc6491916593be5a28aa201fd5057f819c544b63"
+  },
+  {
+   "path": "media/sounds/coins-2.m4a",
+   "size": 12310,
+   "sha256": "98464b66da30996287c1c6e199cb21934af5de4122e166f77ec86456698dd089"
+  },
+  {
+   "path": "media/sounds/coins-3.m4a",
+   "size": 6853,
+   "sha256": "bdb398817483353e6a055c3e01f5329d4e37252d094a00f74b55694c6ef7f1ab"
+  },
+  {
+   "path": "media/sounds/door-creak-1.m4a",
+   "size": 10490,
+   "sha256": "23e6d45b7bd112e7b3b0ff776e5065e4be01299f22a97b7b8a194f34404f12f8"
+  },
+  {
+   "path": "media/sounds/draw-sword-1.m4a",
+   "size": 7426,
+   "sha256": "e0c205e51c56cbd9e7f8473c15c5c3d2191ce1ef7ef61e7411a3609aebcb4097"
+  },
+  {
+   "path": "media/sounds/draw-sword-2.m4a",
+   "size": 7257,
+   "sha256": "eaa7701454b3742445cb3b86f38158c35754d6a76feee2c1f37aec3b462a50b9"
+  },
+  {
+   "path": "media/sounds/footsteps-1.m4a",
+   "size": 6563,
+   "sha256": "4d2547699de6923b3176790daa6f867ac18ce18ce35b413a8bbfab4e68ef9aee"
+  },
+  {
+   "path": "media/sounds/footsteps-2.m4a",
+   "size": 6953,
+   "sha256": "324b0fa393db488d76a5b21f92f26cbe578f32e942ac1610523d2d52696a7ac9"
+  },
+  {
+   "path": "media/sounds/giant-1.m4a",
+   "size": 9432,
+   "sha256": "dd62447354bdacc81d4ee88a92071315c2b17efd470a4beefefbfad59bf4a941"
+  },
+  {
+   "path": "media/sounds/giant-2.m4a",
+   "size": 8891,
+   "sha256": "12672b1bd07650d492944182ed9227847c3c9b223a4bf720413d9166b313413a"
+  },
+  {
+   "path": "media/sounds/rockfall-1.m4a",
+   "size": 8155,
+   "sha256": "90fd412b8373108c8d2a94fa5a54f85c9bd01990a4bfe0895126adb3781a0150"
+  },
+  {
+   "path": "media/sounds/rockfall-2.m4a",
+   "size": 7712,
+   "sha256": "7a8283aadd8bb7df7a927572428065e6b2dd62365339c8faa925304b1f707450"
+  },
+  {
+   "path": "media/sounds/shade-1.m4a",
+   "size": 10370,
+   "sha256": "7107fe2173d835d0e51caa6d41885932ab6c69b727f3db0e5e7257fcea1d3e2d"
+  },
+  {
+   "path": "media/sounds/shade-2.m4a",
+   "size": 13277,
+   "sha256": "365460633cba8adbfc6e83d759b1f2101dbbda705eea22e3f9b182a72c5ca283"
+  },
+  {
+   "path": "media/sounds/spell-1.m4a",
+   "size": 8877,
+   "sha256": "e43b8deaba9fc2bb90b20346c36b1322baa97cae743a5e98dfefc01efc2983f0"
+  },
+  {
+   "path": "media/sounds/spell-2.m4a",
+   "size": 25763,
+   "sha256": "1951fe210ec2b4bbf3f884b7c3af5a2da7752260e044e7cb0cf88b8de2946c42"
+  },
+  {
+   "path": "media/sounds/sword-clash-1.m4a",
+   "size": 5821,
+   "sha256": "1b08e836a1c6002d92c1c4dcb74ccdbf0e9852feec13fc7d4c7a505ce5b0b522"
+  },
+  {
+   "path": "media/sounds/sword-clash-2.m4a",
+   "size": 7175,
+   "sha256": "4c5a7cda4b7ea3016be42451d70fd9ceb5be47549778b9d8293cd6ae794d3230"
+  },
+  {
+   "path": "media/sounds/sword-clash-3.m4a",
+   "size": 9766,
+   "sha256": "edcd527d96ba7daad581403f971e72f80fa2f175707cae62baef1444ba224a4d"
+  },
+  {
+   "path": "media/sounds/sword-swing-1.m4a",
+   "size": 5684,
+   "sha256": "4d25fa813c2c5d28ee9dd30e583a6e8ff0e96f9ce39f25d8bbcc50a81b19a5b3"
+  },
+  {
+   "path": "media/sounds/sword-swing-2.m4a",
+   "size": 5162,
+   "sha256": "604090222c97b0bb35364b3868f97a4ac096de4970ac33b0520ccebeab02d41d"
+  },
+  {
+   "path": "media/sounds/sword-swing-3.m4a",
+   "size": 5324,
+   "sha256": "6be6ef586e9b5ffb40fb1b0713210069aeb8e934e64c46e53b134fde24630a5f"
+  },
+  {
+   "path": "media/sounds/thunder-1.m4a",
+   "size": 38808,
+   "sha256": "17a4ba9c44c7d3d10c06eed0dc43148d41367622e2e36c1f85e6caa0f94a64a4"
+  }
+ ]
+}
