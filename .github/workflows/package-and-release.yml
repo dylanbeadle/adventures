@@ -5,6 +5,7 @@ on:
     branches: [ main ]
     paths:
       - 'adventures/**'
+      - 'sounds/**'
       - 'kits/**'
       - 'catalogue/**'
       - 'heroes/**'
