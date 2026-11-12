@@ -407,7 +407,7 @@ article h3 {{ font-size:15px; margin:10px 12px 2px; }} article p {{ margin:0 12p
 code {{ font-size:13px; }}
 </style></head><body><main>
 <h1>{html.escape(title)}</h1>
-<p class="lede">Adventures, kits and heroes for Spatial GM. Open the app's Downloads to get them: a pack downloads only the files your device doesn't already have. The catalogue is <a href="manifest.json"><code>manifest.json</code></a>.</p>
+<p class="lede">Adventures, kits, heroes and sounds for Spatial GM. Open the app's Downloads to get them: a pack downloads only the files your device doesn't already have. The catalogue is <a href="manifest.json"><code>manifest.json</code></a>.</p>
 {"".join(sections)}
 </main></body></html>
 """
