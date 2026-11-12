@@ -503,9 +503,11 @@ def main():
             if pack.contents:
                 entry["pieces"] = len(pack.contents)
                 thumbs.update(c["thumb"] for c in pack.contents)
-            if pack.cover and pack.cover.exists():
+            # A pack that brings no cover gets the catalogue's generic one, so every card has a picture.
+            cover = pack.cover if pack.cover and pack.cover.exists() else (catalogue.COVERS / "default.jpg")
+            if cover.exists():
                 name = f"covers/{catalogue.slug(pack.folder.rsplit('.', 1)[0])}.jpg"
-                subprocess.run([str(images), "fit", "480", str(out / name), str(pack.cover)], check=True)
+                subprocess.run([str(images), "fit", "480", str(out / name), str(cover)], check=True)
                 entry["cover"] = name
             manifest_packs.append(entry)
         for thumb in sorted(thumbs):
