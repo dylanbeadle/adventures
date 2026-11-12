@@ -6,6 +6,7 @@ on:
     paths:
       - 'adventures/**'
       - 'sounds/**'
+      - 'moods/**'
       - 'kits/**'
       - 'catalogue/**'
       - 'heroes/**'

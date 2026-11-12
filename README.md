@@ -9,6 +9,7 @@ The official catalogue for **Spatial GM**: adventures, kits and heroes, publishe
 |---|---|---|
 | `adventures/` | Campaigns to play (`.spatialgm`): Demo. The Empty template is built into the app. | one pack each |
 | `kits/` | Tiles, Props and Creatures Kit (`.spatialgm`): the 3DAssets library's USD files sharing one material library; the app packages a piece when it's used (D146). Made with 3DAssets' `scripts/export_spatialgm_kit.py --kit <kind> --sources`. | one pack each, and one per group (52: Tavern Tiles, Furniture Props, Undead Creatures…) |
+| `moods/` | Room moods (`.spatialgm`, `kind: moods`): a compiled `.reality` and the JavaScript that moves it. | one pack, required by the Demo. |
 | `heroes/` | Pre-made heroes (`.spatialhero`), idle animation only, textures compressed (`scripts/make-hero-model.swift`). | one pack each, and the All Heroes bundle |
 | `catalogue/` | Each kit piece's thumbnail (`thumbs/`) and each group's cover (`covers/`), made by `scripts/make-images.py`. | the site and the app's browser |
 | `docs/` | GitHub Pages, written by the Action: `manifest.json`, `index/`, `packs/`, `covers/`, `thumbs/`, `index.html`. | |
