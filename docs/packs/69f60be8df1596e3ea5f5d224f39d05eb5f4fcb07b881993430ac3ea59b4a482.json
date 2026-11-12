@@ -1,0 +1,41 @@
+{
+ "id": "6b1f0c2e-0000-4000-8000-00000000a001",
+ "folder": "CoreMoods.spatialgm",
+ "files": [
+  {
+   "path": "campaign.md",
+   "size": 344,
+   "sha256": "e89100f2c75d8187a3ed16a733ddcde5a3b77de6b514f2b3dd3c71bcb7044386"
+  },
+  {
+   "path": "media/moods/candlelight.reality",
+   "size": 4511,
+   "sha256": "83271b5542af056934a4ef49ddf4acae88b407f79f488c338af3730c79eba83b"
+  },
+  {
+   "path": "media/moods/storm.reality",
+   "size": 98943,
+   "sha256": "1575cc9ad125717126c0a4261639e1c3d9ff19d49012680b9508ca6c199ceaa7"
+  },
+  {
+   "path": "moods/candlelight.js",
+   "size": 1978,
+   "sha256": "39ce699d933320d8b80ab0e2c2266fac62824752075afa12bb387f9f9b4f475b"
+  },
+  {
+   "path": "moods/candlelight.md",
+   "size": 299,
+   "sha256": "f22dc64b28474683ff60aca48e14468a3f91c7e0b4902f17bd44d117c29d2b1a"
+  },
+  {
+   "path": "moods/storm.js",
+   "size": 2280,
+   "sha256": "193f3a2c43be9ce542d262ff6abbe60061cbe51c962123e2444fc2fe7a8a79bb"
+  },
+  {
+   "path": "moods/storm.md",
+   "size": 317,
+   "sha256": "007e470ab6bfc8968b301f1f7b920e0ba93d4d8724f231b0dd148efcdbaab573"
+  }
+ ]
+}
