@@ -9,7 +9,7 @@ template: true             # offered under New from Template
 cover: cover.png
 summary: A goblin warren ambush and the haunted ruins of Vell's Strongbox.
 instruments: media/instruments/orchestra.sf2   # the SoundFont the music plays on (GeneralUser GS, see its licence)
-requires: [core-sounds, moods]   # its bank and effects come from Core Sounds; the room's moods from Moods
+requires: [core-sounds, core-moods]   # its bank and effects come from Core Sounds; the room's moods from Core Moods
 opens-first: true          # the headset opens this campaign when nothing else was open
 license: CC0-1.0           # free to use, change and share
 author: Spatial GM
