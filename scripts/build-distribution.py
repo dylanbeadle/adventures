@@ -196,7 +196,8 @@ def collect_packs(generated: Path, cooked: dict):
     for folder in sorted((ROOT / "sounds").glob("*.spatialgm")):
         meta = catalogue.front_matter(folder / "campaign.md")
         pack = Pack(id=meta["id"], kind="campaign", collection="sounds", name=meta.get("name", folder.stem),
-                    folder=folder.name, summary=meta.get("summary", ""), author=meta.get("author", ""))
+                    folder=folder.name, summary=meta.get("summary", ""), author=meta.get("author", ""),
+                    cover=folder / meta["cover"] if meta.get("cover") else None)
         pack.add_folder(folder)
         packs.append(pack)
     for kit in catalogue.kits():
