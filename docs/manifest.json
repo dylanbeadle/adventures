@@ -16,6 +16,12 @@
    "summary": "Media packs: the instrument bank and sound effects campaigns use."
   },
   {
+   "id": "moods",
+   "name": "Moods",
+   "symbol": "sparkles",
+   "summary": "Room moods: a compiled scene and the JavaScript that moves it, for the table."
+  },
+  {
    "id": "heroes",
    "name": "Heroes",
    "symbol": "person.crop.square",
@@ -56,9 +62,9 @@
    "collection": "adventures",
    "name": "Demo Campaign",
    "folder": "Demo.spatialgm",
-   "hash": "c30fdf5bbad5039d1a34a916f2984e0cf1baf31ef3ff8d649564b0f0956c2da7",
-   "files": "packs/c30fdf5bbad5039d1a34a916f2984e0cf1baf31ef3ff8d649564b0f0956c2da7.json",
-   "bytes": 1379310,
+   "hash": "74dc8bbf5435555358d31c3c7980328c93e12fe2fffacfd738e9b6d238ab81df",
+   "files": "packs/74dc8bbf5435555358d31c3c7980328c93e12fe2fffacfd738e9b6d238ab81df.json",
+   "bytes": 1379335,
    "fileCount": 68,
    "summary": "A goblin warren ambush and the haunted ruins of Vell's Strongbox.",
    "author": "Spatial GM",
@@ -78,6 +84,19 @@
    "fileCount": 31,
    "author": "Spatial GM",
    "cover": "covers/coresounds.jpg"
+  },
+  {
+   "id": "6b1f0c2e-0000-4000-8000-00000000a001",
+   "kind": "campaign",
+   "collection": "moods",
+   "name": "Core Moods",
+   "folder": "Moods.spatialgm",
+   "hash": "d7a2086fe8851cc2442378c3d023bb784c38059160588d61af7282ac155cd90a",
+   "files": "packs/d7a2086fe8851cc2442378c3d023bb784c38059160588d61af7282ac155cd90a.json",
+   "bytes": 19679,
+   "fileCount": 10,
+   "author": "Spatial GM",
+   "cover": "covers/moods.jpg"
   },
   {
    "id": "de4cdf55-c73b-5385-b174-e6e80cce49f2",
@@ -2503,10 +2522,10 @@
    ]
   },
   {
-   "id": "49179b6959d9085a1f81e05d458f00ea5232d08e2d47cc5ab4c0932f64d20098",
-   "url": "https://github.com/dylanbeadle/adventures/releases/download/v1.0.13/49179b6959d9085a1f81e05d458f00ea5232d08e2d47cc5ab4c0932f64d20098.aar",
-   "bytes": 715518,
-   "sha256": "862efe06eafda93317c06b8f731ef78e973f0ec062a983388652b7ebd8e90b85",
+   "id": "524efcbfae924c64d33ddfb10dacc6584ca1c120a7a42680fce72b647de8531e",
+   "url": "https://github.com/dylanbeadle/adventures/releases/download/v1.0.15/524efcbfae924c64d33ddfb10dacc6584ca1c120a7a42680fce72b647de8531e.aar",
+   "bytes": 715543,
+   "sha256": "644e934df0aa59ccb5d72fe4f4f16048463ab895c82446ccfd8add474b5ff9c2",
    "contains": [
     "0111ceb6b48d64cee9e3be4c31afb3c993835102448fac2ae37590415353b52a",
     "01596f0eb0802a590a74a2a6fa18fc610a3e9f5f1566e1d3085adaf88cea4f39",
@@ -2520,6 +2539,7 @@
     "2de9531790b287969b0f87945802fa90e4dcd0c9edafadea34c79d7226b116e8",
     "349bec6b2f19c6c29971a541ca65c2c8287d0805dd7db2fe6841c546c32de7af",
     "35e56496ec18899955cf6c4dbe5534bc0747c0158d86b0a827e8acb3210e9646",
+    "3696643d1dba1ba7450322c12e8c294ffc5f2c501dfe7d47ef21ca6262c4de6c",
     "3ace48e6215693324921f9286dc918db27b29eaee0f98221221ddc9e0b26f853",
     "3daae13cc1cb6a306b136078802783068494198bf7bd5f53edc682e1f8d7cd0f",
     "3e17d5a233042e56dfbabf7aba4fe0b989ab6d9a2fd32542931b6f31fdf78fc0",
@@ -2528,7 +2548,6 @@
     "4d4bc9e83ef7dce41476c219c61616c1280f1707b46bfc2c553af5ca3e7364d2",
     "555e706f16aeb1cf535698f5f631c32bb484520b19940b8f138002d3116dfc2b",
     "589343e00667261c04352b75d09200e28f9a16239080c04038442e04821eb550",
-    "5911cef23212ce18fedacd4cce6f6fa46e7a72eaebbd3de48293d478442053ba",
     "5b3414c0d5f8ca6c606492f4665e4f9c262feae6c2bdce05f6af8aec036b3b7b",
     "6a0bf718a75293fa5a8297f5d396cc7ae80a67209ee79febb4cc5416c1b52a6d",
     "6e588fa9c61578f150002102e35167de3eed7c35dcd6818c156cb616354b3362",
@@ -4156,6 +4175,24 @@
    ]
   },
   {
+   "id": "676460edea826c8464447ca75df911484973321478312677b7b25a55dfe1649c",
+   "url": "https://github.com/dylanbeadle/adventures/releases/download/v1.0.15/676460edea826c8464447ca75df911484973321478312677b7b25a55dfe1649c.aar",
+   "bytes": 5520,
+   "sha256": "67e2db0ae21ef5fe6386738c04887efddeca00fcacb2538e8f5d633e0135e2d9",
+   "contains": [
+    "1630f8c7c107292a0a04ab7eea583a89624aef8e41af8137377140a290c21433",
+    "39ce699d933320d8b80ab0e2c2266fac62824752075afa12bb387f9f9b4f475b",
+    "41ec2e79d1adc58ec66ac176079155017430c1a706c08278ba4851b96d6912f6",
+    "42960a3d79462ea1ae9d702e61f67988f6e4e0bc7578c810d0d56aaef0fe906e",
+    "52b9645f695935ac163cf8897c0eca3c426541c9aa16342083296b98cb6c37e1",
+    "d8ff6adcb9eced655887a36f686bff012a0ec734692b68d95fe01bd50e00b4d3",
+    "e89100f2c75d8187a3ed16a733ddcde5a3b77de6b514f2b3dd3c71bcb7044386",
+    "e970fa57f2ce01b7414511ba171ba268ed564e3b264d87f93f8b571e76d18535",
+    "f22dc64b28474683ff60aca48e14468a3f91c7e0b4902f17bd44d117c29d2b1a",
+    "f3af28bc6afe5ecc820c9aa4ef19757d614dc0a873974f511e5732c952c60f95"
+   ]
+  },
+  {
    "id": "f443000f4b5aa726b6eb7f96a88ff7384ba161e0e6e8e9b646d0ddadac03a78a",
    "url": "https://github.com/dylanbeadle/adventures/releases/download/v1.0.6/f443000f4b5aa726b6eb7f96a88ff7384ba161e0e6e8e9b646d0ddadac03a78a.aar",
    "bytes": 24454,
@@ -5123,8 +5160,8 @@
   }
  ],
  "index": {
-  "url": "index/8f7d37a5674f5d21a274e7b0a21473506610f04f09e339f133057fe4f39e99d1.json",
-  "sha256": "8f7d37a5674f5d21a274e7b0a21473506610f04f09e339f133057fe4f39e99d1",
-  "bytes": 3034929
+  "url": "index/0ff7d99fbd18ff5aef9688da88dfe02e433d7ec38a707aa14eab69645e8302b6.json",
+  "sha256": "0ff7d99fbd18ff5aef9688da88dfe02e433d7ec38a707aa14eab69645e8302b6",
+  "bytes": 3035101
  }
 }
