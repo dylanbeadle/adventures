@@ -13,6 +13,11 @@
    "sha256": "a683e7df40926c572d534b1e1ea4291842b639d32e023c9dc5c39f722827723c"
   },
   {
+   "path": "media/moods/fog.reality",
+   "size": 152659,
+   "sha256": "e3c8892585ba2006ba6f71c2065bde3988d6387d4a381f84826ea48043301576"
+  },
+  {
    "path": "media/moods/storm.reality",
    "size": 4511,
    "sha256": "abb1fc1f947ae63bad15e80fb578ba32d764316316a7baa9ce99628a1a2c647b"
@@ -31,6 +36,16 @@
    "path": "moods/candlelight.md",
    "size": 292,
    "sha256": "f4a955ab159cec5358e4b565546946d9596f871a0b88df96f308b412134a7dc3"
+  },
+  {
+   "path": "moods/fog.js",
+   "size": 1228,
+   "sha256": "70728a8d65c7c3c850e1673cb87a8e6a326c4f432390590de7d635c1f76e607e"
+  },
+  {
+   "path": "moods/fog.md",
+   "size": 302,
+   "sha256": "183fd26264afc3490b09e006ebc49b8b63608eae539a8bb0ada311b0ba02d64a"
   },
   {
    "path": "moods/storm.js",
