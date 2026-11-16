@@ -9,7 +9,7 @@ iPhone and iPad).
 
 | Folder | What | Published as |
 |---|---|---|
-| `adventures/` | Campaigns to play (`.spatialgm`): Demo. The Empty template is built into the app. | one pack each |
+| `adventures/` | Campaigns to play (`.spatialgm`): Demo, and The Clockwork Vault — a short showcase of rule scripts and formulas that read the table. The Empty template is built into the app. | one pack each |
 | `kits/` | Tiles, Props and Creatures Kit (`.spatialgm`): the 3DAssets library's USD files sharing one material library; the app packages a piece when it's used (D146). Made with 3DAssets' `scripts/export_spatialgm_kit.py --kit <kind> --sources`. | one pack each, and one per group (52: Tavern Tiles, Furniture Props, Undead Creatures…) |
 | `heroes/` | Pre-made heroes (`.spatialhero`), idle animation only, textures compressed (`scripts/make-hero-model.swift`). | one pack each, and the All Heroes bundle |
 | `sounds/` | Core Sounds (`.spatialgm`, `kind: sounds`): the SoundFont the generated music plays on, and the table's sound effects. Media only — a pack campaigns require, never offered as something to play. | one pack, required by the Demo |
