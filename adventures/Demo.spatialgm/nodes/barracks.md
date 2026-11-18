@@ -5,7 +5,7 @@ tasks:
   - search the pallets:
       roll: test, attribute: wits, difficulty: 10
       rows:
-        difficulty+: { text: Under the warm pallet, a small iron key., add: { list: clues, entry: the chest key } }
+        difficulty+: { text: Under the warm pallet, a small iron key., if: "not has clues the chest key", add: { list: clues, entry: the chest key } }
         else: { text: Straw, bones and fleas. Something stirs in the dark., roll: wandering-goblins }
 choices:
   - back to the guard post: guard-post
