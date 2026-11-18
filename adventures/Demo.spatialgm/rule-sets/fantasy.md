@@ -9,7 +9,7 @@ conditions:                # the order matters: up to 32, each "Name: icon" (an 
   - Stunned: { icon: sparkles, skips-turn: yes, attacked: better }
   - Blessed: { icon: sun.max.fill, tasks: +1, attacks: +1 }
   - Concentrating: brain.head.profile
-  - Asleep: { icon: zzz, skips-turn: yes, attacked: better }
+  - Asleep: { icon: zzz, skips-turn: yes, attacked: better, ends-when-hurt: yes }
 movement: { speed: 40 }   # feet in a turn for a creature whose file says nothing (5 ft to a square)
 plate: [ancestry, class, level]   # the attributes a hero's name plate shows, in order
 trackers:                  # what heroes spend, by id (each "id: Name" or "id: { name, icon }"); their maxima are in the hero's file
