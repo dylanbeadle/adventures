@@ -199,8 +199,8 @@
   },
   {
    "path": "nodes/showdown.md",
-   "size": 336,
-   "sha256": "0111ceb6b48d64cee9e3be4c31afb3c993835102448fac2ae37590415353b52a"
+   "size": 408,
+   "sha256": "2f6f3c6c79d520cba78524892c23227cfc6be579f178c6b478d34a853166de25"
   },
   {
    "path": "nodes/storeroom.md",
@@ -281,6 +281,11 @@
    "path": "scenery/throne.md",
    "size": 69,
    "sha256": "fc7ae8a2108f9fa6a398dbd64893eeccddba400d381743e91a4c3307d9752a96"
+  },
+  {
+   "path": "scripts/alarm-pool.js",
+   "size": 843,
+   "sha256": "db629455a61d8bcd51a13ab1f867721293a6611e2aa97c1b3e9866fe7806f6b4"
   },
   {
    "path": "soundscapes/cave.md",
