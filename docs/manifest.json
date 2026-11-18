@@ -62,9 +62,9 @@
    "collection": "adventures",
    "name": "Demo Campaign",
    "folder": "Demo.spatialgm",
-   "hash": "8985d9cc87fb7f21bf67a0a56a5a39cdf13fcdb6c28476cc6642cbe75cd97a2d",
-   "files": "packs/8985d9cc87fb7f21bf67a0a56a5a39cdf13fcdb6c28476cc6642cbe75cd97a2d.json",
-   "bytes": 1380495,
+   "hash": "437b076393b49df16489983e786c8c49a7c81ece9b842c1c05e70d3cadba3cad",
+   "files": "packs/437b076393b49df16489983e786c8c49a7c81ece9b842c1c05e70d3cadba3cad.json",
+   "bytes": 1380516,
    "fileCount": 69,
    "summary": "A goblin warren ambush and the haunted ruins of Vell's Strongbox.",
    "author": "Spatial GM",
@@ -2581,10 +2581,10 @@
    ]
   },
   {
-   "id": "94ebe34db3c2849b45f4ef8b368e8480349945c668fa2f7658808f1b53be1cd4",
-   "url": "https://github.com/dylanbeadle/adventures/releases/download/v1.0.24/94ebe34db3c2849b45f4ef8b368e8480349945c668fa2f7658808f1b53be1cd4.aar",
-   "bytes": 715337,
-   "sha256": "6e3e9e402ff3c4c3c32ed36a54fb9ee0ed722965526ea13171e2835ea30dfece",
+   "id": "126037de62a5a9821778c6d97cc37f0eacb6ff0108576e054823ad522438a030",
+   "url": "https://github.com/dylanbeadle/adventures/releases/download/v1.0.25/126037de62a5a9821778c6d97cc37f0eacb6ff0108576e054823ad522438a030.aar",
+   "bytes": 715358,
+   "sha256": "f1151467f669925719627d92fc9c850da9ef3073220022b1214270fc79113278",
    "contains": [
     "01596f0eb0802a590a74a2a6fa18fc610a3e9f5f1566e1d3085adaf88cea4f39",
     "02b4e255d68fe718e3df435dd4360b370b7842a2b36c0592910502d30dfddb70",
@@ -2593,7 +2593,6 @@
     "0c9844b338eb9cbf1fda2c7f8aebc3de4130e3a1c3751ecb6fff1d3b9b59df4b",
     "0d07739373bc832d114bec8395c445d7effe5ad7880ceeb60228cb7f4cf203ef",
     "221760b2037b6ac9a2595efaa13aedd456ab34e85bd9f77e84b24565aaea6aa1",
-    "25306687a581e5bec43cf1b80c7c5891779dd5cc272856c9c55f212441cbdbaf",
     "2709754d631c6170db5e3948e860d4a072bf1307a2b6879bee4efcbab475adbf",
     "2ae2ac49699c0a216519d68c7bf62a58beaa61d4847660b8972155b7e0943106",
     "2c06601c61db46d422b99bfc9c4eb5058249e103a8bec6eff4ab2878b386ea8e",
@@ -2608,6 +2607,7 @@
     "555e706f16aeb1cf535698f5f631c32bb484520b19940b8f138002d3116dfc2b",
     "589343e00667261c04352b75d09200e28f9a16239080c04038442e04821eb550",
     "5b3414c0d5f8ca6c606492f4665e4f9c262feae6c2bdce05f6af8aec036b3b7b",
+    "6250de2ec0942b432564a85150ba53a848b56914f2e67461fdbb4c7f21f9619a",
     "6a0bf718a75293fa5a8297f5d396cc7ae80a67209ee79febb4cc5416c1b52a6d",
     "6e588fa9c61578f150002102e35167de3eed7c35dcd6818c156cb616354b3362",
     "7071fccbb17535a31c567b85be69fb59e2a53ed98dc7db70c8b3c3944ed868e4",
@@ -5212,8 +5212,8 @@
   }
  ],
  "index": {
-  "url": "index/1711271e6e01e5c3bff6cd68db20a515c5a7fadaa559acd53e802f9d355f48fa.json",
-  "sha256": "1711271e6e01e5c3bff6cd68db20a515c5a7fadaa559acd53e802f9d355f48fa",
+  "url": "index/5c3ec9a4615061342a13138f06faf3a08cc37f24697e46049314771927c14996.json",
+  "sha256": "5c3ec9a4615061342a13138f06faf3a08cc37f24697e46049314771927c14996",
   "bytes": 3035311
  }
 }
