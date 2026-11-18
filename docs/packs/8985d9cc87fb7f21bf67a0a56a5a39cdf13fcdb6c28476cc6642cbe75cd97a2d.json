@@ -134,8 +134,8 @@
   },
   {
    "path": "encounters/01-goblin-warren.md",
-   "size": 2255,
-   "sha256": "2d9f064a47e6d2414481a02e3b6e82b1d485a84f284d4c09a13da6b6ca22bd53"
+   "size": 2283,
+   "sha256": "ce35bb7e5d868bafaa86eebe93f569655752781a9f753872014a74ab4d3d4730"
   },
   {
    "path": "encounters/02-forest-road.md",
@@ -184,8 +184,8 @@
   },
   {
    "path": "nodes/guard-post.md",
-   "size": 736,
-   "sha256": "43584c13aa262485f4168b2b3726441db425a39142ce6df74b8bf9e80f05f466"
+   "size": 847,
+   "sha256": "0c5868d0cc45158bd7e660d910507a3754a527cce9e9401df42f756f26f352b3"
   },
   {
    "path": "nodes/hillside.md",
@@ -229,8 +229,8 @@
   },
   {
    "path": "rule-sets/fantasy.md",
-   "size": 3332,
-   "sha256": "b9db217b4a872b2871b08ccee8b857ab23feac1dc5d1d740459d10cccd999e23"
+   "size": 3393,
+   "sha256": "25306687a581e5bec43cf1b80c7c5891779dd5cc272856c9c55f212441cbdbaf"
   },
   {
    "path": "rule-sets/horror.md",
