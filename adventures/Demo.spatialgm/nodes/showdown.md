@@ -1,8 +1,8 @@
 ---
 name: Showdown
 choices:
-  - the boss falls: victory
-  - the heroes fall: captured
+  - the boss falls: { if: "not alive Goblin Boss", goto: victory }
+  - the heroes fall: { if: "not alive party", goto: captured }
 ---
 The boss leaps from the throne, cleaver high, and shrieks for help.
 
