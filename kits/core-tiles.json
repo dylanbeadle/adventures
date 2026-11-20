@@ -1,0 +1,2325 @@
+{
+  "id": "5a1e7ab1-0000-4000-8000-0000000000c1",
+  "name": "Core Tiles",
+  "folder": "CoreTiles.spatialgm",
+  "author": "3DAssets",
+  "summary": "579 essential tiles, doors, water and props (197 tiles, 382 props) pruned by corpus usage for a ~10 MB starter kit.",
+  "pieces": [
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/castle-ruins-crenellation-large.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/castle-ruins-crenellation-small.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/castle-ruins-floor-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/castle-ruins-floor-small.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/castle-ruins-floor-stone-1x1.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/castle-ruins-floor-stone-2x2.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/castle-ruins-pillar-base.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/castle-ruins-pillar-mid.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/castle-ruins-pillar-top.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/castle-ruins-rockpile.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/castle-ruins-stair.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/castle-ruins-stairbox.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/castle-ruins-stone-floor-2.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/castle-ruins-wall-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/castle-ruins-wall-02.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/castle-ruins-wall-corner.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/castle-ruins-wall-floor-corner-small.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/castle-ruins-wallbase-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/castle-ruins-wallbase-02.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/castle-ruins-wallbase-large.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/cave-corner-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/cave-floor-rock-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/cave-floor-rock-03.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/cave-floor-rock-04.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/cave-floor-rock-2.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/cave-wall-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/cave-wall-02.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/cave-wall-03.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/cave-wall-corner-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/cave-wall-corner-02.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/cave-wall-floor-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/lava-floor-1x1-ashes.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/lava-floor-2x1-hot.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/lava-floor-2x2-ashes.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/lava-floor-2x2-hot.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/lava-stair-2.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/lava-stair-corner-2.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/lava-stair-floor-2.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/lava-stair-floor.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/lava-stair-top-2.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/lava-stair-top.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/lava-stair.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/lava-wall-1x1-cold-v1.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/lava-wall-1x1-hot-v3.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/lava-wall-2x2-cold-v1.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/cobblestone-corner-small.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/cobblestone-floor-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/cobblestone-floor-edge.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/cobblestone-floor-small-edge.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/cobblestone-floor-small.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/desert-bar-corner.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/desert-bar.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/desert-fence-low.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/desert-fence.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/desert-floor-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/desert-floor-02.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/desert-floor-03.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/desert-floor-04.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/desert-floor-decor-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/desert-floor-decor-corner-02.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/desert-floor-decor-corner.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/desert-pillar.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/desert-stair-block.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/desert-stair.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/desert-stone-floor-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/desert-stone-floor-02.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/desert-wall-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/desert-wall-02.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/desert-wall-04.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/desert-wall-corner-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/desert-wall-floor-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/desert-wall-window-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/door-dungeon.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/door-fancy.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/door-metal-gate.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/door-stone.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/door-town.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/ship-door.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/corner-no-floor.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/dungeon-floor-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/dungeon-floor-02.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/dungeon-floor-cracked.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/dungeon-floor-rounded.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/dungeon-floor-small.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/dungeon-pillar.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/dungeon-stair-block.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/dungeon-stairs.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/dungeon-wall-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/dungeon-wall-02.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/dungeon-wall-corner-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/dungeon-wall-corner-filler.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/dungeon-wall-floor-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/dungeon-wall-floor-04.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/dungeon-wall-floor-corner-small.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/dungeon-wall-with-rounded-corner.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/prison-cage-corner.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/prison-cage-wall.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/harbor-beam-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/harbor-beam-02.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/harbor-extention-02.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/harbor-fence-02.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/harbor-float-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/harbor-net-center-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/harbor-net-edge-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/harbor-ramp-02.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/librarybookcase1x1-filled.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/librarybookcase1x1.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/librarybookshelf1x2-filled.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/librarybookshelfcorner-filled.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/librarybookshelfcorner.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/palace-marble-floor-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/palace-marble-floor-02.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/palace-marble-floor-03.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/palace-marble-floor-04-1x1.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/palace-marble-floor-04-2x2.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/palace-marble-floor-05-1x1.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/palace-marble-floor-05-2x1.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/palace-marble-floor-05-2x2.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/palace-marble-floor-corner.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/palace-marble-floor-side.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/palace-marble-pillar-base.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/palace-marble-pillar-mid-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/palace-marble-pillar-mid-02.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/desert-ground-01-1x1.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/desert-ground-01-2x2.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/desert-ground-dry-01-1x1.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/desert-ground-dry-01-2x2.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/desert-ground-road-02.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/desert-ground-road-04.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/grass-1x1.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/grass-lush.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/grass-sparse.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/grassy-road-corner.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/grassy-road-crossroad.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/grassy-road-t.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/grassy-road.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/jungle-floor-1x1-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/jungle-floor-1x1-02-nature.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/jungle-floor-2x2-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/jungle-floor-2x2-02.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/jungle-floor-2x2-03.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/snow-ground-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/snow-ground-02.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/swamp-floor-1x1.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/swamp-floor-2x2-puddle.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/swamp-floor-2x2-puddles.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/swamp-floor-2x2.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/tilled-earth.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/water-1x1.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/water-2x2.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/jungle-floor-1x1-02-ruined-temple.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/jungle-floor-2x1-02.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/jungle-stair-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/jungle-stair-in-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/jungle-stair-out-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/rural-corner.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/rural-floor-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/rural-floor-02.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/rural-floor-03.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/rural-floor-04.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/rural-inner-corner.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/rural-railing-flat-corner.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/rural-stairs-flat-railing.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/rural-stairs-flat.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/rural-stairs-railing-02.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/rural-stairs-railing.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/rural-stairs.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/rural-wall-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/rural-wall-02.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/rural-wall-window.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/sewer-floor-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/sewer-floor-02.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/sewer-floor-03.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/sewer-floor-sluice-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/sewer-floor-sluice-02.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/sewer-wall-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/sewer-wall-02.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/sewer-wall-floor-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/sewer-wall-floor-03.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/sewer-wall-small.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/bar-counter-corner.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/bar-counter.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/tavern-floor-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/tavern-floor-02.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/tavern-floor-03.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/tavern-inner-corner-2.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/tavern-no-floor-1x1-a.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/tavern-stair.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/tavern-stairs-block.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/tavern-wall-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/tavern-wall-corner.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/tavern-wall-floor-corner.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/tavern-wall-floor-with-window.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/tavern-wall-small-01.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/wall-00.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/wall-02.md"
+    },
+    {
+      "kit": "Tiles Kit",
+      "file": "scenery/wall-only-with-window.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/bed-floor-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/bed-wrapped-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/camp-pit-fire-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/camp-pit-fire-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/camp-supplies-back-pack.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/camp-supplies.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/tent-03.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/alchemy-jug-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/alchemy-jug-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/alchemy-jug-03.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/alchemy-jug-04.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/alchemy-jug-05.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/alchemy-jug-06.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/barrel.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/barrels.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/basic-coffin.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/broken-dark-barrel-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/broken-dark-barrel-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/canister-pottery.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/cargo-soft.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/cauldron.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/crate-large.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/dark-barrel-01-open.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/dark-barrel-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/dark-crate-large-01-open.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/dark-crate-large-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/dark-crate-large-02-open.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/dark-crate-large-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/dark-crate-medium-01-open.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/dark-crate-medium-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/dark-crate-medium-02-open.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/dark-crate-medium-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/dark-crate-small-01-open.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/dark-crate-small-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/dark-crate-small-02-open.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/dark-crate-small-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/dark-crate-stack.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/fancy-coffin.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/genie-lamp-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/gift-box-3.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/gift-box.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/gift-boxes.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/sack-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/sack-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/sack-03.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/sack-04.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/sacks.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/sarcophagus.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/stacked-crates.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/alchemy-distillery-base.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/alchemy-distillery.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/alchemy-jug-07.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/anvil.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/armor-rack.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/arrow-pile-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/coil-electromagnet.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/forge.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/weapon-rack.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/workbench.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/graveyard-fence-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/graveyard-fence-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/graveyard-fence-beam.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/harbor-fence-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/harbor-fence-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/moorgoth-railing-end-1x1.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/moorgoth-railing-end.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/moorgoth-railing-straight-1x1.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/moorgoth-railing-straight.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/stone-fence-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/stone-wall-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/stone-wall-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/wooden-fence.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/bowl-of-spice-v2.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/bowl-of-spice-v3.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/bread-and-butter.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/bread-loaf-round.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/bread-long.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/carrot-batch.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/carrot-ripening.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/cheese.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/desert-plate-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/desert-plate-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/glass-of-beer-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/glass-of-wine-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/jug-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/jug-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/jug-03.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/jug-brown.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/jug-green.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/lettuce-budding.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/lettuce-ripening.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/pitcher.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/plate.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/platter.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/pot-of-orange.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/sake-bottle-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/soup-mushroom.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/stew-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/alchemy-table-01-empty.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/bed-double-moorgoth.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/bed-foldable-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/bed-foldable-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/bed-sling-closed-hooked.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/bed-sling-closed.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/bed-sling-hooked.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/bed-sling.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/bench-shabby.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/blue-bed.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/bookshelf-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/bookshelf-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/bookshelf-empty-03.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/castle-chair.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/castle-table.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/chair-aberration.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/chair-flipped.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/chair-study-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/chair-velvet.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/chair-wood-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/desert-bar-stool.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/desk-study-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/dresser-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/dressing-table-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/fabric-pile-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/reading-chair-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/red-bed.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/round-side-table-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/round-table-with-chairs-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/rug-hanging-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/rug-pile-rolled-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/rug-pile-small-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/rug-pile-small-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/rug-stack-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/rug-wall-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/rug-wall-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/side-table.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/stall-empty-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/stool-flipped.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/stool-wood-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/stool-wood-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/stool-wood-03.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/table-aberration.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/table-flipped-2.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/table-make-shift.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/table-with-chairs-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/table-wood-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/table-wood-round-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/wall-rack-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/wall-rack-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/wall-rack-03.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/wall-rack-04.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/wooden-bench-small.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/wooden-table-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/ladder-rope-body-short-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/ladder-wood-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/ladder-wood-short-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/bonfire-blue.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/bonfire.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/brazier.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/candle.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/candleabra-single.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/candleabra-small.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/candleabra-triple.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/desert-torch.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/floor-torch.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/harbor-beach-torch-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/hell-light-flame.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/lamp-aberration.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/lantern-caged-on-2.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/lantern-carry-on-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/lantern-on-hook-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/lantern-small.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/lantern-street-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/ship-lantern.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/shogun-paperlantenshot.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/shogun-paperlantentall.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/torch-wall-wood-stone-off.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/torch-wall-wood-stone-on.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/castle-ruins-rockpile.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/gravestone-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/gravestone-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/gravestone-03.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/gravestone-04.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/palisade-bridge-01-incline.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/palisade-bridge-01-support.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/palisade-bridge-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/palisade-log-pile.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/rubble-pebbles-spread-out.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/rubble-rocks-l-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/rubble-rocks-pile.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/rubble-rocks-spread-out-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/rubble.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/straw-stacks-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/straw-stacks-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/target-axe-knife-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/wheat-bunch.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/wood-pile.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/blue-shell-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/boulder-large-snow.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/boulder-large.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/bush-medium.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/cactus-round-single-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/cavern-coal-heap.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/cavern-coal-pickaxe.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/cliff-face-snow.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/cliff-face.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/coral-v1-small.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/coral-v2-small.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/crow-deco-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/crystal-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/crystal-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/crystal-03.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/crystal-04.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/crystal-05.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/crystal-06.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/crystal-v1-large.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/crystal-v1-m-single-ceiling.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/crystal-v1-m.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/crystal-v1-mini-spread.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/crystal-v1-mini.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/crystal-v1-s.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/dead-bush-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/dead-bush-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/dead-tree-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/dead-tree-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/dead-tree-03.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/desert-cliff-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/desert-cliff-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/desert-cliff-03.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/desert-cliff-05.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/desert-cliff04-pile.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/dirt-pile.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/fern-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/fern-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/fish-deco-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/fish-deco-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/fish-deco-03.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/fish-star-deco-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/harbordecor-starfish-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/hell-spike-crisp-v1.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/hell-spike-crisp-v2.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/icicle-bulk-v1.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/icicle-bulk-v2.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/icicle-bulk-v3.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/icicle-column-v1.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/icicle-column-v2.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/icicle-column-v3.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/icicle-roof-drip-v1.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/icicle-roof-drip-v2.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/icicle-single-v2.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/icicle-single.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/jungle-plant-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/jungle-plant-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/jungle-plant-philodendron-single.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/jungle-tree-base-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/jungle-tree-mid-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/jungle-tree-top-03.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/lava-chunk-pustules.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/lava-chunk-short-2.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/lava-chunk-short-3.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/lava-chunk-short.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/lava-chunk-tall.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/maple-leaves-pile-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/maple-leaves-pile-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/moss-rock-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/mushroom-single-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/mushroom-single-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/mushroom-single-03.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/mushroom-single-04.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/mushroom-single-05.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/mushroom-single-06.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/mushroom-single-07.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/reef-rock-bottom.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/reef-rock-top.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/rock-large001.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/rock-large002.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/rock-large003.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/rock-pebbles-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/rock-small.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/root-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/root-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/root-03.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/roots-wall-2.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/roots-wall-3.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/roots-wall-4.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/roots-wall-5.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/roots-wall.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/seaweed-v1-large.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/seaweed-v1-medium.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/seaweed-v1-small.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/snowy-cliff-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/snowy-mound-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/snowy-mound-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/snowy-mound-03.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/stackable-pine-chopped.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/stackable-pine-middle-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/stackable-pine-middle-03.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/stackable-pine-middle-04.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/stackable-pine-middle-05.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/stackable-pine-stump.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/stackable-pine-top.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/stalactite-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/stalactite-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/stalactite-03.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/stalagmite-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/stalagmite-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/stalagmite-03.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/stalagmite-column-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/stalagmite-column-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/stalagmite-column-03.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/stalagmite-column-04.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/stalagmite-column-stub-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/stalagmite-column-stub-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/stalagmite-flowstone-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/stalagmite-flowstone-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/swamp-lily-flower.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/swamp-lily-pad-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/swamp-lily-pad-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/swamp-reed-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/swamp-reed-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/swamp-reed-horsetail-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/swamp-reed-horsetail-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/swamp-reed-horsetail-05.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/swamp-tree-base-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/swamp-tree-base-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/swamp-tree-mid-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/swamp-tree-mid-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/swamp-tree-mid-03.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/swamp-tree-mid-04.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/swamp-tree-pegs.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/swamp-tree-welcome-arch.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/tree-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/tree-w-mushrooms-chopped.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/tree-w-mushrooms-mid-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/tree-w-mushrooms-mid-03.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/vine-strand-batch.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/vine-strand-floor-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/vine-strand-floor-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/vine-strand-long.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/vine-strand-short.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/sign-generic-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/sign-generic-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/sign-road-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/sign-village-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/sign-village-02.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/bear-trap-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/crossbow-mounted-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/gold-chest.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/leather-chest.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/lever-floor-v1.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/lever-floor-v2.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/lever-wall-v1.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/lever-wall-v2.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/pressure-plate-trap-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/prison-grid-trap.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/spike-trap-metal-v2.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/spike-trap-metal.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/spike-trap-wood-v2.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/spike-trap-wood.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/treasure-pile-large.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/axe-battle-floor.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/axe-battle.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/axe-halberd.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/dagger-floor.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/dagger.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/mace-floor.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/prop-bow-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/prop-crossbow-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/prop-hammer-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/prop-lute-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/prop-pickaxe-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/prop-quiver-01.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/shield-basic-round.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/shield-basic.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/shovel-vertical.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/sword-rapier.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/sword-sabre-floor.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/sword-sabre.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/sword-short-floor.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/sword-short.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/sword.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/wand-rainbow-2.md"
+    },
+    {
+      "kit": "Props Kit",
+      "file": "scenery/wand-rainbow.md"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ name: Tiles Kit
 id: 2c7517fa-63bd-5480-9302-65f434ef630c
 author: 3DAssets
 cover: cover.jpg
-summary: "323 floors, walls, stairs and arches in 17 sets, from dungeon cellars to marble palaces, for building boards."
+summary: "331 floors, walls, doors, water, stairs and arches in 18 sets, from dungeon cellars to marble palaces, for building boards."
 ---
 # Tiles Kit
 
@@ -20,11 +20,12 @@ Every piece's first tag is its group: search or filter by it.
 | Cavern Lava | `cavern-lava` | 21 |
 | CobbleStones | `cobblestones` | 6 |
 | Desert Village | `desert-village` | 35 |
+| Doors | `doors` | 6 |
 | Dungeon Cellar | `dungeon-cellar` | 39 |
 | Harbor | `harbor` | 27 |
 | Library Set | `library-set` | 8 |
 | Marble Palace | `marble-palace` | 14 |
-| Nature | `nature` | 28 |
+| Nature | `nature` | 30 |
 | Palisade | `palisade` | 9 |
 | Roof and Door | `roof-and-door` | 5 |
 | Ruined Temple | `ruined-temple` | 12 |

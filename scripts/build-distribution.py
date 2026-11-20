@@ -183,6 +183,67 @@ Models are procedural reconstructions; see the 3DAssets repository's RIGHTS_PROV
 """
 
 
+def core_pack(kits, generated: Path, cooked: dict):
+    """Curated starter kit (kits/core-tiles.json): reuses cooked files from Tiles Kit and Props Kit (D147)."""
+    spec_path = ROOT / "kits/core-tiles.json"
+    if not spec_path.exists():
+        return None
+    spec = json.loads(spec_path.read_text(encoding="utf-8"))
+    by_kit = {k.name: k for k in kits}
+    pieces_by_key = {(k.name, p.file): (k, p) for k in kits for g in k.groups for p in g.pieces}
+    chosen = []
+    pack_id = spec["id"]
+    cover = catalogue.COVERS / f"{catalogue.slug(spec['name'])}.jpg"
+    pack = Pack(id=pack_id, kind="campaign", collection="kits", name=spec["name"], folder=spec["folder"],
+                summary=spec.get("summary", ""), author=spec.get("author", "3DAssets"),
+                tags=["tiles", "props", "core"], cover=cover if cover.exists() else None)
+    for item in spec["pieces"]:
+        key = (item["kit"], item["file"])
+        if key not in pieces_by_key:
+            raise SystemExit(f"core-tiles.json: missing piece {key}")
+        kit, piece = pieces_by_key[key]
+        chosen.append(piece)
+        dest_md = piece.file
+        if dest_md in pack.sources:
+            p = Path(dest_md)
+            dest_md = str(p.with_name(f"{p.stem}-prop{p.suffix}"))
+        pack.sources[dest_md] = kit.folder / piece.file
+        if piece.model in cooked[kit.folder]:
+            layer, folder = cooked[kit.folder][piece.model]
+            pack.sources[piece.model] = layer
+            for file in sorted(folder.rglob("*")):
+                if file.is_file():
+                    pack.sources[str(Path(piece.model).with_suffix(".cooked") / file.relative_to(folder))] = file
+    made = generated / catalogue.slug(spec["name"])
+    made.mkdir(parents=True, exist_ok=True)
+    n_tiles = sum(1 for item in spec["pieces"] if item["kit"] == "Tiles Kit")
+    n_props = len(chosen) - n_tiles
+    (made / "campaign.md").write_text(
+        f"""---
+format: 2
+name: {spec['name']}
+id: {pack_id}
+author: {spec.get('author', '3DAssets')}
+cover: cover.jpg
+summary: "{spec.get('summary', '')}"
+---
+# {spec['name']}
+
+A pruned starter kit combining the most-used tiles, doors, water and props ({n_tiles} tiles, {n_props} props)
+from the Tiles Kit and Props Kit. Every file is shared by content hash (D147): downloading the full
+Tiles Kit, Props Kit or any group pack later fetches only what isn't already here.
+
+Models are procedural reconstructions; see the 3DAssets repository's RIGHTS_PROVENANCE_REVIEW.txt.
+""",
+        encoding="utf-8",
+    )
+    pack.sources["campaign.md"] = made / "campaign.md"
+    if pack.cover:
+        pack.sources["cover.jpg"] = pack.cover
+    pack.contents = piece_contents(chosen)
+    return pack
+
+
 def collect_packs(generated: Path, cooked: dict):
     packs = []
     for folder in sorted((ROOT / "adventures").glob("*.spatialgm")):
@@ -207,7 +268,10 @@ def collect_packs(generated: Path, cooked: dict):
                     cover=folder / meta["cover"] if meta.get("cover") else None)
         pack.add_folder(folder)
         packs.append(pack)
-    for kit in catalogue.kits():
+    all_kits = catalogue.kits()
+    if core := core_pack(all_kits, generated, cooked):
+        packs.append(core)
+    for kit in all_kits:
         meta = catalogue.front_matter(kit.folder / "campaign.md")
         noun, collection = catalogue.KIT_KINDS[kit.name]
         pack = Pack(id=kit.id, kind="campaign", collection="kits", name=kit.name, folder=kit.folder.name,
@@ -246,7 +310,7 @@ def collect_packs(generated: Path, cooked: dict):
 
 def bundles(packs):
     heroes = [p.id for p in packs if p.kind == "hero"]
-    kits = [p.id for p in packs if p.collection == "kits"]
+    kits = [p.id for p in packs if p.collection == "kits" and "core" not in p.tags]
     found = []
     if heroes:
         found.append({"id": "all-heroes", "name": "All Heroes", "collection": "heroes", "packs": heroes,
