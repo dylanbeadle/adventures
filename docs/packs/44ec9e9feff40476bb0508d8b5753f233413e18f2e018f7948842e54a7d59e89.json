@@ -4,8 +4,8 @@
  "files": [
   {
    "path": "campaign.md",
-   "size": 1040,
-   "sha256": "4f137469ca028d806b270a2445c840b4af07ab8d147c7db51406ef888073f601"
+   "size": 1062,
+   "sha256": "1f2b4177dde6dbfb7fc71c97fe168e8ce1e6b391b0a7b9b93d0e802b892c7fd9"
   },
   {
    "path": "cover.jpg",
@@ -693,6 +693,46 @@
    "sha256": "6d627895a5789331007c20db28c09647c02adde4571183d3762f16f8597be8be"
   },
   {
+   "path": "media/tiles/Nature/Water 1x1.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Nature/Water 1x1.cooked/textures/water.avif",
+   "size": 644,
+   "sha256": "a620c7842cefe01e620892d3d24dcf88f91b1e9c3f27c7a1ecf1a24a7e2aaef9"
+  },
+  {
+   "path": "media/tiles/Nature/Water 1x1.cooked/textures/water_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Nature/Water 1x1.usd",
+   "size": 6224,
+   "sha256": "8a842671d30c9c403832ea4bfd7ffda84cd783e9ff2fa282c58be148cc433a75"
+  },
+  {
+   "path": "media/tiles/Nature/Water 2x2.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Nature/Water 2x2.cooked/textures/water.avif",
+   "size": 644,
+   "sha256": "a620c7842cefe01e620892d3d24dcf88f91b1e9c3f27c7a1ecf1a24a7e2aaef9"
+  },
+  {
+   "path": "media/tiles/Nature/Water 2x2.cooked/textures/water_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Nature/Water 2x2.usd",
+   "size": 10747,
+   "sha256": "8d4a7b0fc3c9cfe77e919fe7591ad8ff3734f1b5258cfd694bc23381710f48cc"
+  },
+  {
    "path": "scenery/desert-ground-01-1x1.md",
    "size": 241,
    "sha256": "abb9962206c6c62c8202f2472d0d27270b25a62d7a516a03e61ffc33df6f9e30"
@@ -831,6 +871,16 @@
    "path": "scenery/tilled-earth.md",
    "size": 208,
    "sha256": "dc85980e2e45f399f6ceb2cdbb7ba0ec69ebf1527ac3c760d3a04e6a18c901dc"
+  },
+  {
+   "path": "scenery/water-1x1.md",
+   "size": 228,
+   "sha256": "785c91a5a0fc27ea6e1338600ab4f1e378ed270edb98003563035162cd13dfbd"
+  },
+  {
+   "path": "scenery/water-2x2.md",
+   "size": 228,
+   "sha256": "82ffe6b6715d11e81e49048793a8db5970294fdde870fff7ee7b2638e15d97b0"
   }
  ],
  "contents": [
@@ -1201,6 +1251,36 @@
     "dirt",
     "farm",
     "large"
+   ]
+  },
+  {
+   "name": "Water 1x1",
+   "kind": "scenery",
+   "thumb": "thumbs/dc968e8a-1bb6-4940-8b77-403573cf6094.jpg",
+   "tags": [
+    "nature",
+    "water",
+    "liquid",
+    "river",
+    "lake",
+    "pond",
+    "floor",
+    "1x1"
+   ]
+  },
+  {
+   "name": "Water 2x2",
+   "kind": "scenery",
+   "thumb": "thumbs/798bcc88-cb34-49e6-8a9a-ee98c5721467.jpg",
+   "tags": [
+    "nature",
+    "water",
+    "liquid",
+    "river",
+    "lake",
+    "pond",
+    "floor",
+    "2x2"
    ]
   }
  ]

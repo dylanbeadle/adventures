@@ -4,8 +4,8 @@
  "files": [
   {
    "path": "campaign.md",
-   "size": 1469,
-   "sha256": "75b33cdaec9d120747501b07257a4814587ca1dd648c7ee5de9ec2ae2389d0bb"
+   "size": 1507,
+   "sha256": "ebcad38344f1f3ea0bbe860128f54ab33f6b634eeb3bcb54a455cd7522a01d6a"
   },
   {
    "path": "cover.jpg",
@@ -4021,6 +4021,276 @@
    "path": "media/tiles/Desert Village/Desert wall window 02.usd",
    "size": 119577,
    "sha256": "4ceccb7f9d338c5ae330c2aaf1db9cd9cff3ab7c8c158cbac562fcea4d9a885d"
+  },
+  {
+   "path": "media/tiles/Doors/Door - Dungeon.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Doors/Door - Dungeon.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/tiles/Doors/Door - Dungeon.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Doors/Door - Dungeon.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Doors/Door - Dungeon.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Doors/Door - Dungeon.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Doors/Door - Dungeon.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Doors/Door - Dungeon.usd",
+   "size": 10280,
+   "sha256": "89aedfdac34c65430056034a461075ff5b4bb9a45ce69c5e99e56ba82ef5f333"
+  },
+  {
+   "path": "media/tiles/Doors/Door - Fancy.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Doors/Door - Fancy.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Doors/Door - Fancy.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Doors/Door - Fancy.cooked/textures/marble.avif",
+   "size": 2484,
+   "sha256": "7670a84be2c2af9242edf04db9f91b38bda70ee96be4806f54ad6411db8ff085"
+  },
+  {
+   "path": "media/tiles/Doors/Door - Fancy.cooked/textures/marble_normal.avif",
+   "size": 9711,
+   "sha256": "6e322b3a8ed09286b94bb9bddfc7feb4bba431bf019943f5256a9389325b2acd"
+  },
+  {
+   "path": "media/tiles/Doors/Door - Fancy.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Doors/Door - Fancy.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Doors/Door - Fancy.usd",
+   "size": 11694,
+   "sha256": "2c8afbb5082121538b7b6bcc15f469eba8fa4e322f6ffc2066000ee47aad120f"
+  },
+  {
+   "path": "media/tiles/Doors/Door - Metal Gate.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Doors/Door - Metal Gate.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/tiles/Doors/Door - Metal Gate.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Doors/Door - Metal Gate.cooked/textures/mortar.avif",
+   "size": 632,
+   "sha256": "6fc980b42aeacb1ef39fa9e776d42797542b633ba131080d7b7eafc8571135b7"
+  },
+  {
+   "path": "media/tiles/Doors/Door - Metal Gate.cooked/textures/mortar_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Doors/Door - Metal Gate.cooked/textures/steel.avif",
+   "size": 1223,
+   "sha256": "374c2de95d69e288918f2135e4b64000c2cf070bfd1e877a7a75a7518a43c5bb"
+  },
+  {
+   "path": "media/tiles/Doors/Door - Metal Gate.cooked/textures/steel_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Doors/Door - Metal Gate.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Doors/Door - Metal Gate.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Doors/Door - Metal Gate.usd",
+   "size": 14348,
+   "sha256": "ba57e4077202d1623d0f8c424832fb7075103621080e82265ae859025da18050"
+  },
+  {
+   "path": "media/tiles/Doors/Door Stone.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Doors/Door Stone.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Doors/Door Stone.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Doors/Door Stone.cooked/textures/limestone.avif",
+   "size": 1338,
+   "sha256": "6b1ca0b5d2fdc928ee14c673ee586e86916e651623a911e6436699d049e1719e"
+  },
+  {
+   "path": "media/tiles/Doors/Door Stone.cooked/textures/limestone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Doors/Door Stone.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Doors/Door Stone.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Doors/Door Stone.usd",
+   "size": 9236,
+   "sha256": "7650946aef928875c3fd0a16dad2ffb5e398c8abe363e1c4ad06f5172f9ed1cc"
+  },
+  {
+   "path": "media/tiles/Doors/Door Town.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Doors/Door Town.cooked/textures/iron.avif",
+   "size": 649,
+   "sha256": "3e7c8630aee6bc5bfc1c5f1b9113a4832f7065273a7aee2871a77c6cb9b8b916"
+  },
+  {
+   "path": "media/tiles/Doors/Door Town.cooked/textures/iron_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Doors/Door Town.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Doors/Door Town.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Doors/Door Town.cooked/textures/stone.avif",
+   "size": 950,
+   "sha256": "d8f99d3b47737ba9b630ff07071337da8976acab53946807b7c65229cf69942e"
+  },
+  {
+   "path": "media/tiles/Doors/Door Town.cooked/textures/stone_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Doors/Door Town.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Doors/Door Town.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Doors/Door Town.usd",
+   "size": 11578,
+   "sha256": "7909a85aa474ec6bad2a80f7c0f7b2a94fa8b6230d02af532019d1366c8db5c5"
+  },
+  {
+   "path": "media/tiles/Doors/Ship Door.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Doors/Ship Door.cooked/textures/brass.avif",
+   "size": 1250,
+   "sha256": "7d51b41fa1d80a220048a1f97a64c49b0347d60fc3cd2b1f57e0c7a4a4fe1f85"
+  },
+  {
+   "path": "media/tiles/Doors/Ship Door.cooked/textures/brass_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Doors/Ship Door.cooked/textures/oak.avif",
+   "size": 1778,
+   "sha256": "6fb38888e580b7e8a36cd3147794badf6dc4044bb219dcad8934b6cc2e5065d7"
+  },
+  {
+   "path": "media/tiles/Doors/Ship Door.cooked/textures/oak_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Doors/Ship Door.cooked/textures/water.avif",
+   "size": 644,
+   "sha256": "a620c7842cefe01e620892d3d24dcf88f91b1e9c3f27c7a1ecf1a24a7e2aaef9"
+  },
+  {
+   "path": "media/tiles/Doors/Ship Door.cooked/textures/water_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Doors/Ship Door.cooked/textures/wood.avif",
+   "size": 1439,
+   "sha256": "abde66c8ba1f759152c02dc9a37acc9ecdf65dcca31f163c1b476ef1f713a4ca"
+  },
+  {
+   "path": "media/tiles/Doors/Ship Door.cooked/textures/wood_normal.avif",
+   "size": 13750,
+   "sha256": "78e094e27fa13ff54d6f97e9df44cc471d691af5008448fe1a30f5678c22c896"
+  },
+  {
+   "path": "media/tiles/Doors/Ship Door.usd",
+   "size": 10654,
+   "sha256": "13b6b18a79c03e9ead9abb9fac2d33e07a72db03a0244c45148ce6d33062ce80"
   },
   {
    "path": "media/tiles/Dungeon Cellar/Corner + No Floor.cooked/cooked.txt",
@@ -8071,6 +8341,46 @@
    "path": "media/tiles/Nature/Tilled Earth.usd",
    "size": 79665,
    "sha256": "6d627895a5789331007c20db28c09647c02adde4571183d3762f16f8597be8be"
+  },
+  {
+   "path": "media/tiles/Nature/Water 1x1.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Nature/Water 1x1.cooked/textures/water.avif",
+   "size": 644,
+   "sha256": "a620c7842cefe01e620892d3d24dcf88f91b1e9c3f27c7a1ecf1a24a7e2aaef9"
+  },
+  {
+   "path": "media/tiles/Nature/Water 1x1.cooked/textures/water_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Nature/Water 1x1.usd",
+   "size": 6224,
+   "sha256": "8a842671d30c9c403832ea4bfd7ffda84cd783e9ff2fa282c58be148cc433a75"
+  },
+  {
+   "path": "media/tiles/Nature/Water 2x2.cooked/cooked.txt",
+   "size": 2,
+   "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+   "path": "media/tiles/Nature/Water 2x2.cooked/textures/water.avif",
+   "size": 644,
+   "sha256": "a620c7842cefe01e620892d3d24dcf88f91b1e9c3f27c7a1ecf1a24a7e2aaef9"
+  },
+  {
+   "path": "media/tiles/Nature/Water 2x2.cooked/textures/water_normal.avif",
+   "size": 11352,
+   "sha256": "51ef89aad77e493a89f3c2afb7b5cd6c208eded762be26fc4e9a771e836e58c9"
+  },
+  {
+   "path": "media/tiles/Nature/Water 2x2.usd",
+   "size": 10747,
+   "sha256": "8d4a7b0fc3c9cfe77e919fe7591ad8ff3734f1b5258cfd694bc23381710f48cc"
   },
   {
    "path": "media/tiles/Palisade/Palisade wall short 1x1.cooked/cooked.txt",
@@ -12378,6 +12688,31 @@
    "sha256": "3a69aa9e4509877590d98b89d6d680c2a1d596806944f82c85d631a4b4c98da2"
   },
   {
+   "path": "scenery/door-dungeon.md",
+   "size": 231,
+   "sha256": "138cfe3a81958a1b9f7a23df7144b739e24ca21d273b78f86152cc7c4f191cd0"
+  },
+  {
+   "path": "scenery/door-fancy.md",
+   "size": 233,
+   "sha256": "2a5d83e009ced60199ab19df48610c9803ae2b16246cafcc8b0b3509ba3e2468"
+  },
+  {
+   "path": "scenery/door-metal-gate.md",
+   "size": 248,
+   "sha256": "3c2cce4e3467289a293e68fbe560b5a6e126100f243cf97f52e69be2c979cd2a"
+  },
+  {
+   "path": "scenery/door-stone.md",
+   "size": 213,
+   "sha256": "ebb47aee06e79c02e05da1359b964a781bc9fb8ee6f4367bdae9c01920c74f0e"
+  },
+  {
+   "path": "scenery/door-town.md",
+   "size": 215,
+   "sha256": "b1c37d1844fab9814f9b011091f9be12304e33c09dbab77aa0c85df5409282ee"
+  },
+  {
    "path": "scenery/doorframe.md",
    "size": 160,
    "sha256": "e59e6b95c71fb0042478851ef042fceb9e80d400c67dbde62a8ed2709cf81c8a"
@@ -13348,6 +13683,11 @@
    "sha256": "fd296dad6125140e461a7b5a109185f12716bdbce0eaa37bd5abb05263925571"
   },
   {
+   "path": "scenery/ship-door.md",
+   "size": 215,
+   "sha256": "8ef70e228cf06f1efc125e3b82fffcb98722301441c721235adf66cf68e3bdf3"
+  },
+  {
    "path": "scenery/snow-ground-01.md",
    "size": 221,
    "sha256": "c7d69db29a2c30c83b1f190475da08c61b35956a48acdd902ccddac6e90c682f"
@@ -13501,6 +13841,16 @@
    "path": "scenery/wall-window-large-b.md",
    "size": 228,
    "sha256": "9aa6e715dd95c84412afb30c12e1660494a75a8e5be04772e1d73a78e70587af"
+  },
+  {
+   "path": "scenery/water-1x1.md",
+   "size": 228,
+   "sha256": "785c91a5a0fc27ea6e1338600ab4f1e378ed270edb98003563035162cd13dfbd"
+  },
+  {
+   "path": "scenery/water-2x2.md",
+   "size": 228,
+   "sha256": "82ffe6b6715d11e81e49048793a8db5970294fdde870fff7ee7b2638e15d97b0"
   }
  ],
  "contents": [
@@ -15583,6 +15933,91 @@
    ]
   },
   {
+   "name": "Door - Dungeon",
+   "kind": "scenery",
+   "thumb": "thumbs/3151e230-bac7-401e-8fa8-b993bbee17ea.jpg",
+   "tags": [
+    "doors",
+    "door",
+    "dungeon",
+    "stone",
+    "wood",
+    "iron",
+    "1x1"
+   ]
+  },
+  {
+   "name": "Door - Fancy",
+   "kind": "scenery",
+   "thumb": "thumbs/78c166cc-8b34-4940-ae95-120f6a7d1942.jpg",
+   "tags": [
+    "doors",
+    "door",
+    "fancy",
+    "palace",
+    "marble",
+    "brass",
+    "wood",
+    "1x1"
+   ]
+  },
+  {
+   "name": "Door - Metal Gate",
+   "kind": "scenery",
+   "thumb": "thumbs/bc856f88-bb15-4e2f-9133-6b975dca9e6c.jpg",
+   "tags": [
+    "doors",
+    "door",
+    "gate",
+    "metal",
+    "iron",
+    "dungeon",
+    "prison",
+    "1x1"
+   ]
+  },
+  {
+   "name": "Door Stone",
+   "kind": "scenery",
+   "thumb": "thumbs/e46444d0-1620-4c60-87a8-104244f7e572.jpg",
+   "tags": [
+    "doors",
+    "door",
+    "stone",
+    "ruins",
+    "temple",
+    "1x1"
+   ]
+  },
+  {
+   "name": "Door Town",
+   "kind": "scenery",
+   "thumb": "thumbs/0569aaca-0f0a-4386-a469-e5c9925e262f.jpg",
+   "tags": [
+    "doors",
+    "door",
+    "town",
+    "tavern",
+    "rural",
+    "wood",
+    "1x1"
+   ]
+  },
+  {
+   "name": "Ship Door",
+   "kind": "scenery",
+   "thumb": "thumbs/615ed958-cf0c-403b-ba03-9a3367b2c55d.jpg",
+   "tags": [
+    "doors",
+    "door",
+    "ship",
+    "harbor",
+    "wood",
+    "brass",
+    "1x1"
+   ]
+  },
+  {
    "name": "Corner + No Floor",
    "kind": "scenery",
    "thumb": "thumbs/4b171272-d4a9-4251-95ed-53d3a0e860f1.jpg",
@@ -17573,6 +18008,36 @@
     "dirt",
     "farm",
     "large"
+   ]
+  },
+  {
+   "name": "Water 1x1",
+   "kind": "scenery",
+   "thumb": "thumbs/dc968e8a-1bb6-4940-8b77-403573cf6094.jpg",
+   "tags": [
+    "nature",
+    "water",
+    "liquid",
+    "river",
+    "lake",
+    "pond",
+    "floor",
+    "1x1"
+   ]
+  },
+  {
+   "name": "Water 2x2",
+   "kind": "scenery",
+   "thumb": "thumbs/798bcc88-cb34-49e6-8a9a-ee98c5721467.jpg",
+   "tags": [
+    "nature",
+    "water",
+    "liquid",
+    "river",
+    "lake",
+    "pond",
+    "floor",
+    "2x2"
    ]
   },
   {
