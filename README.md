@@ -50,7 +50,7 @@ document:
 |---|---|---|---|---|
 | Candlelight | `moods/candlelight.md` | `candlelight.reality` | `candlelight.js` | Embers and two flickering lights; the script sets the particle parameters, which USD can't author. |
 | Fog | `moods/fog.md` | `fog.reality` | `fog.js` | A shader-graph sea of mist that damps the room's reverb. |
-| Rolling Fog | `moods/rolling-fog.md` | `rolling-fog.reality` | `rolling-fog.js` | A solved, baked fog volume sampled as eight drifting height slices: deeper than Fog, with a warm glow over the table. The script sets the same dry reverb, and drives the material's `Density`, `Opacity`, `Speed`, `TimeOffset`, `Warmth` and `Glow` inputs (the last two breathe). |
+| Rolling Fog | `moods/rolling-fog.md` | `rolling-fog.reality` | `rolling-fog.js` | A solved, baked fog volume sampled as eight drifting height slices: deeper than Fog, with a warm glow over the table. The script sets the same dry reverb and its Shader Graph inputs — density, coverage, loop speed and phase, warmth, glow, texture LOD bias, brightness, a density floor and a wisp field. |
 | Storm | `moods/storm.md` | `storm.reality` | `storm.js` | Rain, with `lightning: true` and `audio: media/moods/thunder.m4a`. |
 
 A mood document's front matter is what the app reads (D180):
@@ -74,10 +74,13 @@ A mood document's front matter is what the app reads (D180):
   `build.sh` runs the fluid solve, bakes eight height slices and their four time keys, writes the
   scene and compiles it. This repository keeps the compiled `.reality` only — never hand-edit one, it
   won't load. Rebuild in the app repository, copy the pack in, then run the build here.
-- Rolling Fog's six Shader Graph inputs are set from `moods/rolling-fog.js` — the `FOG` object at the
-  top is the tuning surface, so thickness, loop speed, phase, warmth and glow can change without
-  rebuilding the `.reality`. `Density` and `Warmth` breathe slowly; the rest are constants. The eight
-  slice heights and the 12 s bake are the only things the script cannot change.
+- Rolling Fog's nine Shader Graph inputs are set from `moods/rolling-fog.js` — the `FOG` object at the
+  top is the tuning surface, so thickness, floor, brightness, loop speed, phase, warmth and glow can
+  change without rebuilding the `.reality`. The eight slice heights and the 12 s bake are the only
+  things the script cannot change. In a Debug build the app watches the mood's `.reality` and `.js`
+  (size and modification date) and re-dresses when either changes, and a pinch-and-hold on a mood tile
+  opens a Mood Tuning window whose sliders write any float Shader Graph input live — Fog's `Density`
+  and `Billow` as well as Rolling Fog's inputs.
 - Thunder is a copy of Core Sounds' `thunder-1.m4a` (same bytes), because a pack never reads another
   pack's files (D147).
 - The pack has no `cover:` yet, so the site and the app show `catalogue/covers/default.jpg`

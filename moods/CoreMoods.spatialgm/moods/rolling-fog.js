@@ -1,17 +1,21 @@
 // Rolling Fog: the shape is baked into eight height slices and four time keys.
-// This script sets the room's acoustics and drives the fog's Shader Graph
-// inputs, so the look can be tuned here instead of rebuilding the scene.
+// This script sets the room's acoustics and the fog's starting Shader Graph
+// inputs. In a Debug build, pinch and hold the mood tile in the GM screen and
+// choose Tune to change them live; the window discovers the inputs from the
+// material, so it also works for Fog's Density and Billow.
 //
 // The inputs are promoted on the FogMat material:
-//   Density      extinction scale (higher = thicker). 2.6
-//   Opacity      master coverage. 1.0
-//   Speed        speed of the 12 s four-key loop. 1.0
-//   TimeOffset   phase into that loop, seconds. 0
-//   Warmth       the warm bounce above the table. 1.0
-//   Glow         the forward-scattering lobe. 1.0
-//
-// Density and Warmth breathe slowly, so the fog keeps moving even where the
-// four baked keys are at their quietest.
+//   Density      extinction scale (higher = thicker)
+//   Opacity      master coverage
+//   Speed        speed of the 12 s four-key loop
+//   TimeOffset   phase into that loop, seconds
+//   Warmth       the warm bounce above the table
+//   Glow         the forward-scattering lobe
+//   LodBias      texture mip bias; negative keeps the slice detail
+//   Brightness   multiplies the fog's colour
+//   Floor        minimum slice density, to fill the gaps
+//   Wisps        strength of the procedural wisp field
+//   WispScale    size of those wisps, cycles per metre
 
 const RealityKit = require("RealityKit");
 const MODEL = RealityKit.ModelComponent.Type;
@@ -19,19 +23,17 @@ const VALUE = RealityKit.MaterialParameters.Value;
 const REVERB = RealityKit.ReverbComponent.Type;
 
 const FOG = {
-  density: 2.6,
-  opacity: 1.0,
-  speed: 1.0,
+  density: 1.1,
+  opacity: 0.19,
+  speed: 1.9,
   timeOffset: 0.0,
-  warmth: 1.0,
-  glow: 1.0,
-};
-
-const BREATHE = {
-  density: 0.035,     // ±3.5 %
-  warmth: 0.08,       // ±8 %
-  period: 27.0,       // seconds
-  every: 0.25,        // how often the material is written, seconds
+  warmth: 0.6,
+  glow: 0.4,
+  lodBias: -1.5,
+  brightness: 0.45,
+  floor: 0.0,
+  wisps: 0.9,
+  wispScale: 2.5,
 };
 
 function findVolume(entity) {
@@ -77,43 +79,20 @@ this.didAdd = function () {
     }
   }
 
-  this.state = this.state || {};
-  this.state.time = 0;
-  this.state.since = 0;
-  this.state.volume = findVolume(root);
-  this.state.warned = false;
-
-  const ok = this.state.volume && setFog(this.state.volume, {
+  const volume = findVolume(root);
+  const ok = volume && setFog(volume, {
     Density: FOG.density,
     Opacity: FOG.opacity,
     Speed: FOG.speed,
     TimeOffset: FOG.timeOffset,
     Warmth: FOG.warmth,
     Glow: FOG.glow,
+    LodBias: FOG.lodBias,
+    Brightness: FOG.brightness,
+    Floor: FOG.floor,
+    Wisps: FOG.wisps,
+    WispScale: FOG.wispScale,
   });
   console.log("rolling-fog: parameters " + (ok ? "set" : "not found"));
   console.log("rolling-fog: ready");
-};
-
-this.update = function (deltaTime) {
-  const state = this.state;
-  if (!state) return;
-  state.time += deltaTime;
-
-  if (!state.volume) state.volume = findVolume(this.entity);
-  if (!state.volume) return;
-
-  state.since += deltaTime;
-  if (state.since < BREATHE.every) return;
-  state.since = 0;
-
-  const phase = state.time * 2 * Math.PI / BREATHE.period;
-  const ok = setFog(state.volume, {
-    Density: FOG.density * (1 + BREATHE.density * Math.sin(phase)),
-    Warmth: FOG.warmth * (1 + BREATHE.warmth * Math.sin(phase * 0.7 + 1.3)),
-  });
-  if (!ok && !state.warned) {
-    state.warned = true;
-    console.log("rolling-fog: no ShaderGraphMaterial to breathe");
-  }
 };
