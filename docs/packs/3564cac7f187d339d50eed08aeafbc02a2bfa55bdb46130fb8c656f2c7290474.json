@@ -19,8 +19,8 @@
   },
   {
    "path": "media/moods/rolling-fog.reality",
-   "size": 1398409,
-   "sha256": "f29caf3fd97e2a881884caf1e783946e664d0e66a51f78b8b707837b328fe92c"
+   "size": 1017481,
+   "sha256": "a14aa40db5630467c933b2f0a5ae478667e6a3b5c63d9d824a7e96fa62651050"
   },
   {
    "path": "media/moods/storm.reality",
@@ -54,8 +54,8 @@
   },
   {
    "path": "moods/rolling-fog.js",
-   "size": 3164,
-   "sha256": "67143473afee798d5622e827efe18553106f626869fe9a7fc5a99f647169ff47"
+   "size": 3205,
+   "sha256": "45667b9c06dcc56ebb748a55de7555e7269fd9d1d62cfa5e2c20ab0cfb33ace5"
   },
   {
    "path": "moods/rolling-fog.md",
