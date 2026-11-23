@@ -91,9 +91,9 @@
    "collection": "moods",
    "name": "Core Moods",
    "folder": "CoreMoods.spatialgm",
-   "hash": "739ba45420c309df3dc75be5cf0a9396ccc34cdd4a127e70cf14b9355bf7335f",
-   "files": "packs/739ba45420c309df3dc75be5cf0a9396ccc34cdd4a127e70cf14b9355bf7335f.json",
-   "bytes": 208616,
+   "hash": "936fee9c5795b431b2b98522ff131e176918e558e85b265d933f05510d94bac5",
+   "files": "packs/936fee9c5795b431b2b98522ff131e176918e558e85b265d933f05510d94bac5.json",
+   "bytes": 209196,
    "fileCount": 11,
    "author": "Spatial GM",
    "cover": "covers/coremoods.jpg"
@@ -4418,10 +4418,10 @@
    ]
   },
   {
-   "id": "600630fecd52cc22232a2ee5fbb5b518c714a07c1b8521934f088bdb5ce8ee31",
-   "url": "https://github.com/dylanbeadle/adventures/releases/download/v1.0.31/600630fecd52cc22232a2ee5fbb5b518c714a07c1b8521934f088bdb5ce8ee31.aar",
-   "bytes": 139908,
-   "sha256": "58626dfefd0a5ea56a0c939d47d337e7e923bcf5db2ea6929947e07dd1c3e71c",
+   "id": "d048e41b9bc1e835311e0393bbe73504479bb567d05e3fcf12bf1f3b0d6e3632",
+   "url": "https://github.com/dylanbeadle/adventures/releases/download/v1.0.32/d048e41b9bc1e835311e0393bbe73504479bb567d05e3fcf12bf1f3b0d6e3632.aar",
+   "bytes": 140066,
+   "sha256": "887a8f487f646ad7f002c0c8d6353fea6399f82081b936f4300ad4b61c76b35e",
    "contains": [
     "183fd26264afc3490b09e006ebc49b8b63608eae539a8bb0ada311b0ba02d64a",
     "241784ee7e002678794564f5dde0ee4ec973fb4020b8847b52ec479635fde310",
@@ -4432,7 +4432,7 @@
     "e475fd9c9fc2caeb498c098f1d662a13d2127922f359acc5d4abee9bffdc57f3",
     "e89100f2c75d8187a3ed16a733ddcde5a3b77de6b514f2b3dd3c71bcb7044386",
     "f4a955ab159cec5358e4b565546946d9596f871a0b88df96f308b412134a7dc3",
-    "fb98f570f90cd843a2f82509c775f1a99a5d4bfe45676d31419e47d171ae913f"
+    "fe0fcb00c12bbc1c742695c43a5be01a885db25336116ab4fa59a84d248ff8ba"
    ]
   },
   {
@@ -5461,8 +5461,8 @@
   }
  ],
  "index": {
-  "url": "index/1da8b46dcd3c37f6b09a1f1a91595a75101c2bd57f6a69d69d02aed55f3cef6e.json",
-  "sha256": "1da8b46dcd3c37f6b09a1f1a91595a75101c2bd57f6a69d69d02aed55f3cef6e",
+  "url": "index/708e97f965a75b13b5f69c60b073a0a072d45a2e553f62ba9225a4b55c0581b8.json",
+  "sha256": "708e97f965a75b13b5f69c60b073a0a072d45a2e553f62ba9225a4b55c0581b8",
   "bytes": 3051385
  }
 }
