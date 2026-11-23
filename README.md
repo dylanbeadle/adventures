@@ -13,7 +13,7 @@ iPhone and iPad).
 | `kits/` | Tiles, Props and Creatures Kit (`.spatialgm`): the 3DAssets library's USD files sharing one material library; the app packages a piece when it's used (D146). Made with 3DAssets' `scripts/export_spatialgm_kit.py --kit <kind> --sources`. | one pack each, and one per group (52: Tavern Tiles, Furniture Props, Undead Creatures…) |
 | `heroes/` | Pre-made heroes (`.spatialhero`), idle animation only, textures compressed (`scripts/make-hero-model.swift`). | one pack each, and the All Heroes bundle |
 | `sounds/` | Core Sounds (`.spatialgm`, `kind: sounds`): the SoundFont the generated music plays on, and the table's sound effects. Media only — a pack campaigns require, never offered as something to play. | one pack, required by the Demo |
-| `moods/` | Core Moods (`.spatialgm`, `kind: moods`): room moods — Candlelight, Fog, Rolling Fog and Storm. Each is a document, a compiled `.reality` and the JavaScript that moves it. | one pack, required by the Demo |
+| `moods/` | Core Moods (`.spatialgm`, `kind: moods`): room moods — Candlelight, Fog and Storm. Each is a document, a compiled `.reality` and the JavaScript that moves it. | one pack, required by the Demo |
 | `catalogue/` | Each kit piece's thumbnail (`thumbs/`) and each group's cover (`covers/`), made by `scripts/make-images.py`. `default.jpg` is the cover a pack without one of its own gets. | the site and the app's browser |
 | `docs/` | GitHub Pages, written by the Action: `manifest.json`, `index/`, `packs/`, `covers/`, `thumbs/`, `index.html`. | |
 | `scripts/` | Everything that builds the catalogue (below). | |
@@ -43,14 +43,13 @@ as if they were in the campaign's own folder. The Demo requires both.
 
 ### Core Moods
 
-Four moods, each a document in `moods/`, a compiled scene in `media/moods/` and a script beside the
+Three moods, each a document in `moods/`, a compiled scene in `media/moods/` and a script beside the
 document:
 
 | Mood | Document | Scene | Script | What it adds |
 |---|---|---|---|---|
 | Candlelight | `moods/candlelight.md` | `candlelight.reality` | `candlelight.js` | Embers and two flickering lights; the script sets the particle parameters, which USD can't author. |
 | Fog | `moods/fog.md` | `fog.reality` | `fog.js` | A shader-graph sea of mist that damps the room's reverb. |
-| Rolling Fog | `moods/rolling-fog.md` | `rolling-fog.reality` | `rolling-fog.js` | A solved, baked fog volume sampled as eight drifting height slices: deeper than Fog, with a warm glow over the table. The script sets the same dry reverb and its Shader Graph inputs — density, coverage, loop speed and phase, warmth, glow, texture LOD bias, brightness, a density floor and a wisp field. |
 | Storm | `moods/storm.md` | `storm.reality` | `storm.js` | Rain, with `lightning: true` and `audio: media/moods/thunder.m4a`. |
 
 A mood document's front matter is what the app reads (D180):
@@ -70,17 +69,21 @@ A mood document's front matter is what the app reads (D180):
 - The scenes are built in the app repository: `Experiments/MoodScripting/Moods/build.sh` checks each
   `src/<id>.rkassets` with `usdchecker --arkit` and compiles it with
   `realitytool compile --platform xros --deployment-target 27.0`. Fog's USD is generated first by
-  `src/fog.rkassets/make_fog.py` (`Fog.spatialgm/build.sh`). Rolling Fog's is `src/fog-bank.rkassets`:
-  `build.sh` runs the fluid solve, bakes eight height slices and their four time keys, writes the
-  scene and compiles it. This repository keeps the compiled `.reality` only — never hand-edit one, it
-  won't load. Rebuild in the app repository, copy the pack in, then run the build here.
-- Rolling Fog's nine Shader Graph inputs are set from `moods/rolling-fog.js` — the `FOG` object at the
-  top is the tuning surface, so thickness, floor, brightness, loop speed, phase, warmth and glow can
-  change without rebuilding the `.reality`. The eight slice heights and the 12 s bake are the only
-  things the script cannot change. In a Debug build the app watches the mood's `.reality` and `.js`
-  (size and modification date) and re-dresses when either changes, and a pinch-and-hold on a mood tile
-  opens a Mood Tuning window whose sliders write any float Shader Graph input live — Fog's `Density`
-  and `Billow` as well as Rolling Fog's inputs.
+  `src/fog.rkassets/make_fog.py` (`Fog.spatialgm/build.sh`). This repository keeps the compiled
+  `.reality` only — never hand-edit one, it won't load. Rebuild in the app repository, copy the pack
+  in, then run the build here.
+- Every mood declares its tuning surface in a `TUNING` object at the top of its script. Each entry is
+  a `label`, a one-line `description`, `min`, `max`, `step` and `value`; the app's Debug Mood Tuning
+  window (pinch and hold a mood tile) reads it from the live script, so a new mood is tunable without
+  an app change. A value that is also a float Shader Graph input is written to the material live; any
+  other value is written back into `TUNING` and the script re-runs.
+  - Fog: `Density` and `Billow`, the FogMat inputs.
+  - Candlelight: `LightIntensity`, `Flicker`, `EmberRate`, `EmberSpeed` and `EmberLife`, driving the
+    emitter and the two point lights.
+  - Storm: `RainRate`, `RainLife` and `RainArea` for the rain emitter; the flash and thunder are the
+    app's, not the script's.
+  In a Debug build the app also watches the mood's `.reality` and `.js` (size and modification date)
+  and re-dresses when either changes.
 - Thunder is a copy of Core Sounds' `thunder-1.m4a` (same bytes), because a pack never reads another
   pack's files (D147).
 - The pack has no `cover:` yet, so the site and the app show `catalogue/covers/default.jpg`

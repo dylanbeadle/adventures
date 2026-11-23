@@ -8,6 +8,29 @@ const RealityKit = require("RealityKit");
 const PARTICLES = RealityKit.ParticleEmitterComponent.Type;
 const REVERB = RealityKit.ReverbComponent.Type;
 
+
+// The tuning surface: the tuner reads this block from the live script and shows
+// one slider per entry. These two are also float inputs on the FogMat Shader
+// Graph, so they are written straight to the material.
+const TUNING = {
+  "Density": {
+    "label": "Density",
+    "description": "How thick the sea of mist sits.",
+    "min": 0,
+    "max": 1,
+    "step": 0.005,
+    "value": 0.15
+  },
+  "Billow": {
+    "label": "Billow",
+    "description": "How much the mist's surface swells.",
+    "min": 0,
+    "max": 1,
+    "step": 0.005,
+    "value": 0.06
+  }
+};
+
 this.didAdd = function () {
   const bank = this.entity;
   const parent = bank.parent;

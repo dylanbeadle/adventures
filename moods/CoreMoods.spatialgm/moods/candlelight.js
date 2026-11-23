@@ -9,7 +9,53 @@ const RealityKit = require("RealityKit");
 const EMITTER = RealityKit.ParticleEmitterComponent.Type;
 const LIGHT = RealityKit.PointLightComponent.Type;
 
-const BASE = 900;
+
+// The tuning surface the app reads: each entry becomes a slider. Values drive
+// the emitter and the two candle lights below; the defaults keep the look.
+const TUNING = {
+  "LightIntensity": {
+    "label": "Candlelight",
+    "description": "How bright the two candle flames burn.",
+    "min": 100,
+    "max": 2000,
+    "step": 10,
+    "value": 900
+  },
+  "Flicker": {
+    "label": "Flicker",
+    "description": "How much the candlelight wavers.",
+    "min": 0,
+    "max": 0.7,
+    "step": 0.01,
+    "value": 0.35
+  },
+  "EmberRate": {
+    "label": "Ember rate",
+    "description": "How many embers drift up each second.",
+    "min": 0,
+    "max": 120,
+    "step": 1,
+    "value": 34
+  },
+  "EmberSpeed": {
+    "label": "Ember speed",
+    "description": "How quickly the embers rise.",
+    "min": 0,
+    "max": 1.5,
+    "step": 0.01,
+    "value": 0.35
+  },
+  "EmberLife": {
+    "label": "Ember life",
+    "description": "How long each ember lives, in seconds.",
+    "min": 0.5,
+    "max": 10,
+    "step": 0.1,
+    "value": 4.5
+  }
+};
+
+const BASE = TUNING.LightIntensity.value;
 
 this.didAdd = function () {
   const emitter = this.entity.getComponent(EMITTER);
@@ -17,7 +63,7 @@ this.didAdd = function () {
   if (!emitter) { return; }
 
   emitter.isEmitting = true;
-  emitter.speed = 0.35;
+  emitter.speed = TUNING.EmberSpeed.value;
   emitter.speedVariation = 0.15;
   // Enums are values on the type, not strings: a string silently does nothing.
   emitter.emitterShape = RealityKit.ParticleEmitterComponent.EmitterShape.box;
@@ -25,8 +71,8 @@ this.didAdd = function () {
   emitter.emitterShapeSize.x = 0.8;
   emitter.emitterShapeSize.y = 0.25;
   emitter.emitterShapeSize.z = 0.8;
-  emitter.mainEmitter.birthRate = 34;
-  emitter.mainEmitter.lifeSpan = 4.5;
+  emitter.mainEmitter.birthRate = TUNING.EmberRate.value;
+  emitter.mainEmitter.lifeSpan = TUNING.EmberLife.value;
   this.entity.setComponent(emitter);
 
   this.state = { t: 0, flicker: 0 };
@@ -41,8 +87,9 @@ this.update = function (deltaTime) {
   if (s.t < 0.08) { return; }
   s.t = 0;
 
-  s.flicker += (Math.random() - 0.5) * 0.25;
-  s.flicker = Math.max(-0.35, Math.min(0.35, s.flicker));
+  const range = TUNING.Flicker.value;
+  s.flicker += (Math.random() - 0.5) * range * 0.714;
+  s.flicker = Math.max(-range, Math.min(range, s.flicker));
   const intensity = BASE * (1 + s.flicker);
 
   const scene = this.entity.scene;
