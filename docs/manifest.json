@@ -91,10 +91,10 @@
    "collection": "moods",
    "name": "Core Moods",
    "folder": "CoreMoods.spatialgm",
-   "hash": "3564cac7f187d339d50eed08aeafbc02a2bfa55bdb46130fb8c656f2c7290474",
-   "files": "packs/3564cac7f187d339d50eed08aeafbc02a2bfa55bdb46130fb8c656f2c7290474.json",
-   "bytes": 1227211,
-   "fileCount": 14,
+   "hash": "739ba45420c309df3dc75be5cf0a9396ccc34cdd4a127e70cf14b9355bf7335f",
+   "files": "packs/739ba45420c309df3dc75be5cf0a9396ccc34cdd4a127e70cf14b9355bf7335f.json",
+   "bytes": 208616,
+   "fileCount": 11,
    "author": "Spatial GM",
    "cover": "covers/coremoods.jpg"
   },
@@ -4418,24 +4418,21 @@
    ]
   },
   {
-   "id": "02613f2ae196373ed7518651db527d184250f6cde84f6cf31cb8028f26741066",
-   "url": "https://github.com/dylanbeadle/adventures/releases/download/v1.0.30/02613f2ae196373ed7518651db527d184250f6cde84f6cf31cb8028f26741066.aar",
-   "bytes": 1190339,
-   "sha256": "dfc0b13c2e53b61b0c60721121e9b5c2dc6dea88d043ebb876769c07b9f8107a",
+   "id": "600630fecd52cc22232a2ee5fbb5b518c714a07c1b8521934f088bdb5ce8ee31",
+   "url": "https://github.com/dylanbeadle/adventures/releases/download/v1.0.31/600630fecd52cc22232a2ee5fbb5b518c714a07c1b8521934f088bdb5ce8ee31.aar",
+   "bytes": 139908,
+   "sha256": "58626dfefd0a5ea56a0c939d47d337e7e923bcf5db2ea6929947e07dd1c3e71c",
    "contains": [
     "183fd26264afc3490b09e006ebc49b8b63608eae539a8bb0ada311b0ba02d64a",
     "241784ee7e002678794564f5dde0ee4ec973fb4020b8847b52ec479635fde310",
-    "39ce699d933320d8b80ab0e2c2266fac62824752075afa12bb387f9f9b4f475b",
-    "3d82821d3bd70335898959d2202494d4ce3beeb14fa4cb9cdf806c341b55382d",
-    "45667b9c06dcc56ebb748a55de7555e7269fd9d1d62cfa5e2c20ab0cfb33ace5",
-    "70728a8d65c7c3c850e1673cb87a8e6a326c4f432390590de7d635c1f76e607e",
-    "72ea4a015c873294d5480e016efebadcdbeb5d2797fcb2b09c0c59264ac6906f",
-    "a14aa40db5630467c933b2f0a5ae478667e6a3b5c63d9d824a7e96fa62651050",
+    "a62d86827770f08fed9bad76fc87fe2c7233c4620987e048e74fcee20c2e31a7",
     "a683e7df40926c572d534b1e1ea4291842b639d32e023c9dc5c39f722827723c",
     "abb1fc1f947ae63bad15e80fb578ba32d764316316a7baa9ce99628a1a2c647b",
     "e3c8892585ba2006ba6f71c2065bde3988d6387d4a381f84826ea48043301576",
+    "e475fd9c9fc2caeb498c098f1d662a13d2127922f359acc5d4abee9bffdc57f3",
     "e89100f2c75d8187a3ed16a733ddcde5a3b77de6b514f2b3dd3c71bcb7044386",
-    "f4a955ab159cec5358e4b565546946d9596f871a0b88df96f308b412134a7dc3"
+    "f4a955ab159cec5358e4b565546946d9596f871a0b88df96f308b412134a7dc3",
+    "fb98f570f90cd843a2f82509c775f1a99a5d4bfe45676d31419e47d171ae913f"
    ]
   },
   {
@@ -5464,8 +5461,8 @@
   }
  ],
  "index": {
-  "url": "index/e0cb64cd40133d69ecc70a5f952fa252f4a36a318d9ecb66fb99d67fede525fa.json",
-  "sha256": "e0cb64cd40133d69ecc70a5f952fa252f4a36a318d9ecb66fb99d67fede525fa",
-  "bytes": 3051386
+  "url": "index/1da8b46dcd3c37f6b09a1f1a91595a75101c2bd57f6a69d69d02aed55f3cef6e.json",
+  "sha256": "1da8b46dcd3c37f6b09a1f1a91595a75101c2bd57f6a69d69d02aed55f3cef6e",
+  "bytes": 3051385
  }
 }
