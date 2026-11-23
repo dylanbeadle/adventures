@@ -23,17 +23,18 @@ const VALUE = RealityKit.MaterialParameters.Value;
 const REVERB = RealityKit.ReverbComponent.Type;
 
 const FOG = {
-  density: 1.1,
-  opacity: 0.19,
-  speed: 1.9,
+  density: 1.3,
+  opacity: 0.50,
+  speed: 0.8,
   timeOffset: 0.0,
-  warmth: 0.6,
-  glow: 0.4,
-  lodBias: -1.5,
-  brightness: 0.45,
-  floor: 0.0,
-  wisps: 0.9,
-  wispScale: 2.5,
+  warmth: 0.5,
+  glow: 0.35,
+  lodBias: -2.0,
+  brightness: 1.00,
+  floor: 0.04,
+  wisps: 0.8,
+  wispScale: 1.4,
+  billow: 1.0,
 };
 
 function findVolume(entity) {
@@ -92,6 +93,7 @@ this.didAdd = function () {
     Floor: FOG.floor,
     Wisps: FOG.wisps,
     WispScale: FOG.wispScale,
+    Billow: FOG.billow,
   });
   console.log("rolling-fog: parameters " + (ok ? "set" : "not found"));
   console.log("rolling-fog: ready");
