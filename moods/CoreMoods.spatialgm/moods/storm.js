@@ -37,6 +37,30 @@ const TUNING = {
     "max": 8,
     "step": 0.1,
     "value": 4
+  },
+  "FlashOpacity": {
+    "label": "Flash opacity",
+    "description": "How white the lightning flash is; 0 is invisible, 1 is solid white.",
+    "min": 0,
+    "max": 1,
+    "step": 0.01,
+    "value": 0.55
+  },
+  "FlashDuration": {
+    "label": "Flash duration",
+    "description": "How long the double white flash lasts, in seconds.",
+    "min": 0.1,
+    "max": 2,
+    "step": 0.05,
+    "value": 1.05
+  },
+  "FlashInterval": {
+    "label": "Flash interval",
+    "description": "Seconds between lightning strikes.",
+    "min": 1,
+    "max": 30,
+    "step": 0.5,
+    "value": 6
   }
 };
 

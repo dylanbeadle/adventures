@@ -50,7 +50,7 @@ document:
 |---|---|---|---|---|
 | Candlelight | `moods/candlelight.md` | `candlelight.reality` | `candlelight.js` | Embers and two flickering lights; the script sets the particle parameters, which USD can't author. |
 | Fog | `moods/fog.md` | `fog.reality` | `fog.js` | A shader-graph sea of mist that damps the room's reverb. |
-| Storm | `moods/storm.md` | `storm.reality` | `storm.js` | Rain, with `lightning: true` and `audio: media/moods/thunder.m4a`. |
+| Storm | `moods/storm.md` | `storm.reality` | `storm.js` | Rain, with `lightning: true` and `audio: media/moods/thunder.m4a`; the app drives a white flash sphere and the thunder, tunable through `FlashOpacity`, `FlashDuration` and `FlashInterval`. |
 
 A mood document's front matter is what the app reads (D180):
 
@@ -80,8 +80,9 @@ A mood document's front matter is what the app reads (D180):
   - Fog: `Density` and `Billow`, the FogMat inputs.
   - Candlelight: `LightIntensity`, `Flicker`, `EmberRate`, `EmberSpeed` and `EmberLife`, driving the
     emitter and the two point lights.
-  - Storm: `RainRate`, `RainLife` and `RainArea` for the rain emitter; the flash and thunder are the
-    app's, not the script's.
+  - Storm: `RainRate`, `RainLife` and `RainArea` for the rain emitter, and `FlashOpacity`,
+    `FlashDuration` and `FlashInterval` for the lightning. The flash itself is a white sphere the app
+    draws (the passthrough effect can only darken, never add white); the app reads these values.
   In a Debug build the app also watches the mood's `.reality` and `.js` (size and modification date)
   and re-dresses when either changes.
 - Thunder is a copy of Core Sounds' `thunder-1.m4a` (same bytes), because a pack never reads another
